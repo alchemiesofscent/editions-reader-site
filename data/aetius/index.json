@@ -1,0 +1,8721 @@
+{
+  "edition": "aetius",
+  "label": "Aetius I–II · Olivieri (CMG VIII 1)",
+  "books": [
+    {
+      "n": "front",
+      "label": "Front matter",
+      "chapters": [
+        {
+          "n": "title",
+          "label": "Title",
+          "context": false,
+          "first": {
+            "page": "f1",
+            "line": "4"
+          }
+        },
+        {
+          "n": "preface",
+          "label": "Praefatio",
+          "context": false,
+          "first": {
+            "page": "V",
+            "line": "2"
+          }
+        },
+        {
+          "n": "corrigenda",
+          "label": "Corrigenda",
+          "context": false,
+          "first": {
+            "page": "XV",
+            "line": "2"
+          }
+        },
+        {
+          "n": "sigla",
+          "label": "Signorum explicatio",
+          "context": false,
+          "first": {
+            "page": "f15",
+            "line": "2"
+          }
+        },
+        {
+          "n": "photius",
+          "label": "Photius",
+          "context": false,
+          "first": {
+            "page": "1",
+            "line": "1"
+          }
+        }
+      ]
+    },
+    {
+      "n": "1",
+      "chapters": [
+        {
+          "n": "pin",
+          "label": "Chapter pin",
+          "context": false,
+          "first": {
+            "page": "10",
+            "line": "1"
+          }
+        },
+        {
+          "n": "t",
+          "label": "t · ΑΕΤΙΟΥ ΑΜΙΔΗΝΟΥ ΛΟΓΩΝ ΙΑΤΡΙΚΩΝ ΒΙΒΛΙΟΝ Α",
+          "context": false,
+          "first": {
+            "page": "17",
+            "line": ""
+          }
+        },
+        {
+          "n": "pr",
+          "label": "pr · Ϲύνοψιϲ τῶν ἁπλῶν Γαληνοῦ",
+          "context": false,
+          "first": {
+            "page": "17",
+            "line": "1"
+          }
+        },
+        {
+          "n": "1",
+          "label": "Chapter 1",
+          "context": false,
+          "first": {
+            "page": "30",
+            "line": "7"
+          }
+        },
+        {
+          "n": "2",
+          "label": "Chapter 2",
+          "context": false,
+          "first": {
+            "page": "30",
+            "line": "18"
+          }
+        },
+        {
+          "n": "3",
+          "label": "Chapter 3",
+          "context": false,
+          "first": {
+            "page": "31",
+            "line": "1"
+          }
+        },
+        {
+          "n": "4",
+          "label": "Chapter 4",
+          "context": false,
+          "first": {
+            "page": "31",
+            "line": "12"
+          }
+        },
+        {
+          "n": "5",
+          "label": "Chapter 5",
+          "context": false,
+          "first": {
+            "page": "31",
+            "line": "21"
+          }
+        },
+        {
+          "n": "6",
+          "label": "Chapter 6",
+          "context": false,
+          "first": {
+            "page": "32",
+            "line": "17"
+          }
+        },
+        {
+          "n": "7",
+          "label": "Chapter 7",
+          "context": false,
+          "first": {
+            "page": "32",
+            "line": "25"
+          }
+        },
+        {
+          "n": "8",
+          "label": "Chapter 8",
+          "context": false,
+          "first": {
+            "page": "33",
+            "line": "7"
+          }
+        },
+        {
+          "n": "9",
+          "label": "Chapter 9",
+          "context": false,
+          "first": {
+            "page": "33",
+            "line": "12"
+          }
+        },
+        {
+          "n": "10",
+          "label": "Chapter 10",
+          "context": false,
+          "first": {
+            "page": "33",
+            "line": "14"
+          }
+        },
+        {
+          "n": "11",
+          "label": "Chapter 11",
+          "context": false,
+          "first": {
+            "page": "33",
+            "line": "18"
+          }
+        },
+        {
+          "n": "12",
+          "label": "Chapter 12",
+          "context": false,
+          "first": {
+            "page": "33",
+            "line": "21"
+          }
+        },
+        {
+          "n": "13",
+          "label": "Chapter 13",
+          "context": false,
+          "first": {
+            "page": "34",
+            "line": "1"
+          }
+        },
+        {
+          "n": "14",
+          "label": "Chapter 14",
+          "context": false,
+          "first": {
+            "page": "34",
+            "line": "10"
+          }
+        },
+        {
+          "n": "15",
+          "label": "Chapter 15",
+          "context": false,
+          "first": {
+            "page": "34",
+            "line": "13"
+          }
+        },
+        {
+          "n": "16",
+          "label": "Chapter 16",
+          "context": false,
+          "first": {
+            "page": "34",
+            "line": "19"
+          }
+        },
+        {
+          "n": "17",
+          "label": "Chapter 17",
+          "context": false,
+          "first": {
+            "page": "34",
+            "line": "23"
+          }
+        },
+        {
+          "n": "18",
+          "label": "Chapter 18",
+          "context": false,
+          "first": {
+            "page": "35",
+            "line": "3"
+          }
+        },
+        {
+          "n": "19",
+          "label": "Chapter 19",
+          "context": false,
+          "first": {
+            "page": "35",
+            "line": "8"
+          }
+        },
+        {
+          "n": "20",
+          "label": "Chapter 20",
+          "context": false,
+          "first": {
+            "page": "35",
+            "line": "12"
+          }
+        },
+        {
+          "n": "21",
+          "label": "Chapter 21",
+          "context": false,
+          "first": {
+            "page": "35",
+            "line": "19"
+          }
+        },
+        {
+          "n": "22",
+          "label": "Chapter 22",
+          "context": false,
+          "first": {
+            "page": "36",
+            "line": "12"
+          }
+        },
+        {
+          "n": "23",
+          "label": "Chapter 23",
+          "context": false,
+          "first": {
+            "page": "36",
+            "line": "18"
+          }
+        },
+        {
+          "n": "24",
+          "label": "Chapter 24",
+          "context": false,
+          "first": {
+            "page": "36",
+            "line": "22"
+          }
+        },
+        {
+          "n": "25",
+          "label": "Chapter 25",
+          "context": false,
+          "first": {
+            "page": "36",
+            "line": "25"
+          }
+        },
+        {
+          "n": "26",
+          "label": "Chapter 26",
+          "context": false,
+          "first": {
+            "page": "36",
+            "line": "27"
+          }
+        },
+        {
+          "n": "27",
+          "label": "Chapter 27",
+          "context": false,
+          "first": {
+            "page": "37",
+            "line": "4"
+          }
+        },
+        {
+          "n": "28",
+          "label": "Chapter 28",
+          "context": false,
+          "first": {
+            "page": "37",
+            "line": "9"
+          }
+        },
+        {
+          "n": "29",
+          "label": "Chapter 29",
+          "context": false,
+          "first": {
+            "page": "37",
+            "line": "12"
+          }
+        },
+        {
+          "n": "30",
+          "label": "Chapter 30",
+          "context": false,
+          "first": {
+            "page": "37",
+            "line": "17"
+          }
+        },
+        {
+          "n": "31",
+          "label": "Chapter 31",
+          "context": false,
+          "first": {
+            "page": "37",
+            "line": "25"
+          }
+        },
+        {
+          "n": "32",
+          "label": "Chapter 32",
+          "context": false,
+          "first": {
+            "page": "38",
+            "line": "8"
+          }
+        },
+        {
+          "n": "33",
+          "label": "Chapter 33",
+          "context": false,
+          "first": {
+            "page": "38",
+            "line": "11"
+          }
+        },
+        {
+          "n": "34",
+          "label": "Chapter 34",
+          "context": false,
+          "first": {
+            "page": "38",
+            "line": "13"
+          }
+        },
+        {
+          "n": "35",
+          "label": "Chapter 35",
+          "context": false,
+          "first": {
+            "page": "38",
+            "line": "19"
+          }
+        },
+        {
+          "n": "36",
+          "label": "Chapter 36",
+          "context": false,
+          "first": {
+            "page": "39",
+            "line": "13"
+          }
+        },
+        {
+          "n": "37",
+          "label": "Chapter 37",
+          "context": false,
+          "first": {
+            "page": "39",
+            "line": "19"
+          }
+        },
+        {
+          "n": "38",
+          "label": "Chapter 38",
+          "context": false,
+          "first": {
+            "page": "40",
+            "line": "5"
+          }
+        },
+        {
+          "n": "39",
+          "label": "Chapter 39",
+          "context": false,
+          "first": {
+            "page": "40",
+            "line": "25"
+          }
+        },
+        {
+          "n": "40",
+          "label": "Chapter 40",
+          "context": false,
+          "first": {
+            "page": "41",
+            "line": "1"
+          }
+        },
+        {
+          "n": "41",
+          "label": "Chapter 41",
+          "context": false,
+          "first": {
+            "page": "41",
+            "line": "3"
+          }
+        },
+        {
+          "n": "42",
+          "label": "Chapter 42",
+          "context": false,
+          "first": {
+            "page": "41",
+            "line": "9"
+          }
+        },
+        {
+          "n": "43",
+          "label": "Chapter 43",
+          "context": false,
+          "first": {
+            "page": "41",
+            "line": "13"
+          }
+        },
+        {
+          "n": "44",
+          "label": "Chapter 44",
+          "context": false,
+          "first": {
+            "page": "42",
+            "line": "5"
+          }
+        },
+        {
+          "n": "45",
+          "label": "Chapter 45",
+          "context": false,
+          "first": {
+            "page": "42",
+            "line": "8"
+          }
+        },
+        {
+          "n": "46",
+          "label": "Chapter 46",
+          "context": false,
+          "first": {
+            "page": "42",
+            "line": "10"
+          }
+        },
+        {
+          "n": "47",
+          "label": "Chapter 47",
+          "context": false,
+          "first": {
+            "page": "42",
+            "line": "24"
+          }
+        },
+        {
+          "n": "48",
+          "label": "Chapter 48",
+          "context": false,
+          "first": {
+            "page": "43",
+            "line": "1"
+          }
+        },
+        {
+          "n": "49",
+          "label": "Chapter 49",
+          "context": false,
+          "first": {
+            "page": "43",
+            "line": "5"
+          }
+        },
+        {
+          "n": "50",
+          "label": "Chapter 50",
+          "context": false,
+          "first": {
+            "page": "43",
+            "line": "8"
+          }
+        },
+        {
+          "n": "51",
+          "label": "Chapter 51",
+          "context": false,
+          "first": {
+            "page": "43",
+            "line": "13"
+          }
+        },
+        {
+          "n": "52",
+          "label": "Chapter 52",
+          "context": false,
+          "first": {
+            "page": "43",
+            "line": "18"
+          }
+        },
+        {
+          "n": "53",
+          "label": "Chapter 53",
+          "context": false,
+          "first": {
+            "page": "44",
+            "line": "9"
+          }
+        },
+        {
+          "n": "54",
+          "label": "Chapter 54",
+          "context": false,
+          "first": {
+            "page": "44",
+            "line": "12"
+          }
+        },
+        {
+          "n": "55",
+          "label": "Chapter 55",
+          "context": false,
+          "first": {
+            "page": "44",
+            "line": "19"
+          }
+        },
+        {
+          "n": "56",
+          "label": "Chapter 56",
+          "context": false,
+          "first": {
+            "page": "44",
+            "line": "21"
+          }
+        },
+        {
+          "n": "57",
+          "label": "Chapter 57",
+          "context": false,
+          "first": {
+            "page": "45",
+            "line": "4"
+          }
+        },
+        {
+          "n": "58",
+          "label": "Chapter 58",
+          "context": false,
+          "first": {
+            "page": "45",
+            "line": "14"
+          }
+        },
+        {
+          "n": "59",
+          "label": "Chapter 59",
+          "context": false,
+          "first": {
+            "page": "46",
+            "line": "1"
+          }
+        },
+        {
+          "n": "60",
+          "label": "Chapter 60",
+          "context": false,
+          "first": {
+            "page": "46",
+            "line": "3"
+          }
+        },
+        {
+          "n": "61",
+          "label": "Chapter 61",
+          "context": false,
+          "first": {
+            "page": "46",
+            "line": "9"
+          }
+        },
+        {
+          "n": "62",
+          "label": "Chapter 62",
+          "context": false,
+          "first": {
+            "page": "46",
+            "line": "16"
+          }
+        },
+        {
+          "n": "63",
+          "label": "Chapter 63",
+          "context": false,
+          "first": {
+            "page": "46",
+            "line": "26"
+          }
+        },
+        {
+          "n": "64",
+          "label": "Chapter 64",
+          "context": false,
+          "first": {
+            "page": "47",
+            "line": "7"
+          }
+        },
+        {
+          "n": "65",
+          "label": "Chapter 65",
+          "context": false,
+          "first": {
+            "page": "47",
+            "line": "16"
+          }
+        },
+        {
+          "n": "66",
+          "label": "Chapter 66",
+          "context": false,
+          "first": {
+            "page": "47",
+            "line": "18"
+          }
+        },
+        {
+          "n": "67",
+          "label": "Chapter 67",
+          "context": false,
+          "first": {
+            "page": "47",
+            "line": "21"
+          }
+        },
+        {
+          "n": "68",
+          "label": "Chapter 68",
+          "context": false,
+          "first": {
+            "page": "47",
+            "line": "23"
+          }
+        },
+        {
+          "n": "69",
+          "label": "Chapter 69",
+          "context": false,
+          "first": {
+            "page": "47",
+            "line": "26"
+          }
+        },
+        {
+          "n": "70",
+          "label": "Chapter 70",
+          "context": false,
+          "first": {
+            "page": "48",
+            "line": "4"
+          }
+        },
+        {
+          "n": "71",
+          "label": "Chapter 71",
+          "context": false,
+          "first": {
+            "page": "48",
+            "line": "7"
+          }
+        },
+        {
+          "n": "72",
+          "label": "Chapter 72",
+          "context": false,
+          "first": {
+            "page": "48",
+            "line": "16"
+          }
+        },
+        {
+          "n": "73",
+          "label": "Chapter 73",
+          "context": false,
+          "first": {
+            "page": "48",
+            "line": "21"
+          }
+        },
+        {
+          "n": "74",
+          "label": "Chapter 74",
+          "context": false,
+          "first": {
+            "page": "48",
+            "line": "23"
+          }
+        },
+        {
+          "n": "75",
+          "label": "Chapter 75",
+          "context": false,
+          "first": {
+            "page": "48",
+            "line": "25"
+          }
+        },
+        {
+          "n": "76",
+          "label": "Chapter 76",
+          "context": false,
+          "first": {
+            "page": "49",
+            "line": "3"
+          }
+        },
+        {
+          "n": "77",
+          "label": "Chapter 77",
+          "context": false,
+          "first": {
+            "page": "49",
+            "line": "5"
+          }
+        },
+        {
+          "n": "78",
+          "label": "Chapter 78",
+          "context": false,
+          "first": {
+            "page": "49",
+            "line": "9"
+          }
+        },
+        {
+          "n": "79",
+          "label": "Chapter 79",
+          "context": false,
+          "first": {
+            "page": "49",
+            "line": "12"
+          }
+        },
+        {
+          "n": "80",
+          "label": "Chapter 80",
+          "context": false,
+          "first": {
+            "page": "49",
+            "line": "18"
+          }
+        },
+        {
+          "n": "81",
+          "label": "Chapter 81",
+          "context": false,
+          "first": {
+            "page": "49",
+            "line": "20"
+          }
+        },
+        {
+          "n": "82",
+          "label": "Chapter 82",
+          "context": false,
+          "first": {
+            "page": "49",
+            "line": "25"
+          }
+        },
+        {
+          "n": "83",
+          "label": "Chapter 83",
+          "context": false,
+          "first": {
+            "page": "49",
+            "line": "26"
+          }
+        },
+        {
+          "n": "84",
+          "label": "Chapter 84",
+          "context": false,
+          "first": {
+            "page": "50",
+            "line": "5"
+          }
+        },
+        {
+          "n": "85",
+          "label": "Chapter 85",
+          "context": false,
+          "first": {
+            "page": "50",
+            "line": "19"
+          }
+        },
+        {
+          "n": "86",
+          "label": "Chapter 86",
+          "context": false,
+          "first": {
+            "page": "50",
+            "line": "21"
+          }
+        },
+        {
+          "n": "87",
+          "label": "Chapter 87",
+          "context": false,
+          "first": {
+            "page": "51",
+            "line": "6"
+          }
+        },
+        {
+          "n": "88",
+          "label": "Chapter 88",
+          "context": false,
+          "first": {
+            "page": "51",
+            "line": "9"
+          }
+        },
+        {
+          "n": "89",
+          "label": "Chapter 89",
+          "context": false,
+          "first": {
+            "page": "51",
+            "line": "16"
+          }
+        },
+        {
+          "n": "90",
+          "label": "Chapter 90",
+          "context": false,
+          "first": {
+            "page": "51",
+            "line": "21"
+          }
+        },
+        {
+          "n": "91",
+          "label": "Chapter 91",
+          "context": false,
+          "first": {
+            "page": "51",
+            "line": "23"
+          }
+        },
+        {
+          "n": "92",
+          "label": "Chapter 92",
+          "context": false,
+          "first": {
+            "page": "51",
+            "line": "25"
+          }
+        },
+        {
+          "n": "93",
+          "label": "Chapter 93",
+          "context": false,
+          "first": {
+            "page": "51",
+            "line": "27"
+          }
+        },
+        {
+          "n": "94",
+          "label": "Chapter 94",
+          "context": false,
+          "first": {
+            "page": "52",
+            "line": "6"
+          }
+        },
+        {
+          "n": "95",
+          "label": "Chapter 95",
+          "context": false,
+          "first": {
+            "page": "52",
+            "line": "19"
+          }
+        },
+        {
+          "n": "96",
+          "label": "Chapter 96",
+          "context": false,
+          "first": {
+            "page": "53",
+            "line": "4"
+          }
+        },
+        {
+          "n": "97",
+          "label": "Chapter 97",
+          "context": false,
+          "first": {
+            "page": "53",
+            "line": "12"
+          }
+        },
+        {
+          "n": "98",
+          "label": "Chapter 98",
+          "context": false,
+          "first": {
+            "page": "53",
+            "line": "16"
+          }
+        },
+        {
+          "n": "99",
+          "label": "Chapter 99",
+          "context": false,
+          "first": {
+            "page": "53",
+            "line": "17"
+          }
+        },
+        {
+          "n": "100",
+          "label": "Chapter 100",
+          "context": false,
+          "first": {
+            "page": "54",
+            "line": "1"
+          }
+        },
+        {
+          "n": "101",
+          "label": "Chapter 101",
+          "context": false,
+          "first": {
+            "page": "54",
+            "line": "24"
+          }
+        },
+        {
+          "n": "102",
+          "label": "Chapter 102",
+          "context": false,
+          "first": {
+            "page": "55",
+            "line": "3"
+          }
+        },
+        {
+          "n": "103",
+          "label": "Chapter 103",
+          "context": false,
+          "first": {
+            "page": "55",
+            "line": "6"
+          }
+        },
+        {
+          "n": "104",
+          "label": "Chapter 104",
+          "context": false,
+          "first": {
+            "page": "55",
+            "line": "8"
+          }
+        },
+        {
+          "n": "105",
+          "label": "Chapter 105",
+          "context": false,
+          "first": {
+            "page": "55",
+            "line": "14"
+          }
+        },
+        {
+          "n": "106",
+          "label": "Chapter 106",
+          "context": false,
+          "first": {
+            "page": "55",
+            "line": "20"
+          }
+        },
+        {
+          "n": "107",
+          "label": "Chapter 107",
+          "context": false,
+          "first": {
+            "page": "55",
+            "line": "25"
+          }
+        },
+        {
+          "n": "108",
+          "label": "Chapter 108",
+          "context": false,
+          "first": {
+            "page": "56",
+            "line": "3"
+          }
+        },
+        {
+          "n": "109",
+          "label": "Chapter 109",
+          "context": false,
+          "first": {
+            "page": "56",
+            "line": "18"
+          }
+        },
+        {
+          "n": "110",
+          "label": "Chapter 110",
+          "context": false,
+          "first": {
+            "page": "56",
+            "line": "26"
+          }
+        },
+        {
+          "n": "111",
+          "label": "Chapter 111",
+          "context": false,
+          "first": {
+            "page": "57",
+            "line": "7"
+          }
+        },
+        {
+          "n": "112",
+          "label": "Chapter 112",
+          "context": false,
+          "first": {
+            "page": "57",
+            "line": "12"
+          }
+        },
+        {
+          "n": "113",
+          "label": "Chapter 113",
+          "context": false,
+          "first": {
+            "page": "58",
+            "line": "1"
+          }
+        },
+        {
+          "n": "114",
+          "label": "Chapter 114",
+          "context": false,
+          "first": {
+            "page": "59",
+            "line": "10"
+          }
+        },
+        {
+          "n": "115",
+          "label": "Chapter 115",
+          "context": false,
+          "first": {
+            "page": "59",
+            "line": "21"
+          }
+        },
+        {
+          "n": "116",
+          "label": "Chapter 116",
+          "context": false,
+          "first": {
+            "page": "60",
+            "line": "1"
+          }
+        },
+        {
+          "n": "117",
+          "label": "Chapter 117",
+          "context": false,
+          "first": {
+            "page": "60",
+            "line": "19"
+          }
+        },
+        {
+          "n": "118",
+          "label": "Chapter 118",
+          "context": false,
+          "first": {
+            "page": "61",
+            "line": "1"
+          }
+        },
+        {
+          "n": "119",
+          "label": "Chapter 119",
+          "context": false,
+          "first": {
+            "page": "61",
+            "line": "12"
+          }
+        },
+        {
+          "n": "120",
+          "label": "Chapter 120",
+          "context": false,
+          "first": {
+            "page": "61",
+            "line": "21"
+          }
+        },
+        {
+          "n": "121",
+          "label": "Chapter 121",
+          "context": false,
+          "first": {
+            "page": "61",
+            "line": "28"
+          }
+        },
+        {
+          "n": "122",
+          "label": "Chapter 122",
+          "context": false,
+          "first": {
+            "page": "62",
+            "line": "13"
+          }
+        },
+        {
+          "n": "123",
+          "label": "Chapter 123",
+          "context": false,
+          "first": {
+            "page": "62",
+            "line": "19"
+          }
+        },
+        {
+          "n": "124",
+          "label": "Chapter 124",
+          "context": false,
+          "first": {
+            "page": "62",
+            "line": "24"
+          }
+        },
+        {
+          "n": "125",
+          "label": "Chapter 125",
+          "context": false,
+          "first": {
+            "page": "63",
+            "line": "3"
+          }
+        },
+        {
+          "n": "126",
+          "label": "Chapter 126",
+          "context": false,
+          "first": {
+            "page": "63",
+            "line": "10"
+          }
+        },
+        {
+          "n": "127",
+          "label": "Chapter 127",
+          "context": false,
+          "first": {
+            "page": "63",
+            "line": "14"
+          }
+        },
+        {
+          "n": "128",
+          "label": "Chapter 128",
+          "context": false,
+          "first": {
+            "page": "63",
+            "line": "18"
+          }
+        },
+        {
+          "n": "129",
+          "label": "Chapter 129",
+          "context": false,
+          "first": {
+            "page": "64",
+            "line": "5"
+          }
+        },
+        {
+          "n": "130",
+          "label": "Chapter 130",
+          "context": false,
+          "first": {
+            "page": "64",
+            "line": "21"
+          }
+        },
+        {
+          "n": "131",
+          "label": "Chapter 131",
+          "context": false,
+          "first": {
+            "page": "65",
+            "line": "4"
+          }
+        },
+        {
+          "n": "132",
+          "label": "Chapter 132",
+          "context": false,
+          "first": {
+            "page": "67",
+            "line": "1"
+          }
+        },
+        {
+          "n": "133",
+          "label": "Chapter 133",
+          "context": false,
+          "first": {
+            "page": "67",
+            "line": "21"
+          }
+        },
+        {
+          "n": "134",
+          "label": "Chapter 134",
+          "context": false,
+          "first": {
+            "page": "68",
+            "line": "4"
+          }
+        },
+        {
+          "n": "135",
+          "label": "Chapter 135",
+          "context": false,
+          "first": {
+            "page": "68",
+            "line": "15"
+          }
+        },
+        {
+          "n": "136",
+          "label": "Chapter 136",
+          "context": false,
+          "first": {
+            "page": "69",
+            "line": "13"
+          }
+        },
+        {
+          "n": "137",
+          "label": "Chapter 137",
+          "context": false,
+          "first": {
+            "page": "69",
+            "line": "20"
+          }
+        },
+        {
+          "n": "138",
+          "label": "Chapter 138",
+          "context": false,
+          "first": {
+            "page": "69",
+            "line": "24"
+          }
+        },
+        {
+          "n": "139",
+          "label": "Chapter 139",
+          "context": false,
+          "first": {
+            "page": "69",
+            "line": "28"
+          }
+        },
+        {
+          "n": "140",
+          "label": "Chapter 140",
+          "context": false,
+          "first": {
+            "page": "70",
+            "line": "14"
+          }
+        },
+        {
+          "n": "141",
+          "label": "Chapter 141",
+          "context": false,
+          "first": {
+            "page": "70",
+            "line": "23"
+          }
+        },
+        {
+          "n": "142",
+          "label": "Chapter 142",
+          "context": false,
+          "first": {
+            "page": "71",
+            "line": "11"
+          }
+        },
+        {
+          "n": "143",
+          "label": "Chapter 143",
+          "context": false,
+          "first": {
+            "page": "71",
+            "line": "15"
+          }
+        },
+        {
+          "n": "144",
+          "label": "Chapter 144",
+          "context": false,
+          "first": {
+            "page": "71",
+            "line": "19"
+          }
+        },
+        {
+          "n": "145",
+          "label": "Chapter 145",
+          "context": false,
+          "first": {
+            "page": "71",
+            "line": "23"
+          }
+        },
+        {
+          "n": "146",
+          "label": "Chapter 146",
+          "context": false,
+          "first": {
+            "page": "72",
+            "line": "6"
+          }
+        },
+        {
+          "n": "147",
+          "label": "Chapter 147",
+          "context": false,
+          "first": {
+            "page": "72",
+            "line": "20"
+          }
+        },
+        {
+          "n": "148",
+          "label": "Chapter 148",
+          "context": false,
+          "first": {
+            "page": "73",
+            "line": "1"
+          }
+        },
+        {
+          "n": "149",
+          "label": "Chapter 149",
+          "context": false,
+          "first": {
+            "page": "73",
+            "line": "7"
+          }
+        },
+        {
+          "n": "150",
+          "label": "Chapter 150",
+          "context": false,
+          "first": {
+            "page": "73",
+            "line": "11"
+          }
+        },
+        {
+          "n": "151",
+          "label": "Chapter 151",
+          "context": false,
+          "first": {
+            "page": "73",
+            "line": "15"
+          }
+        },
+        {
+          "n": "152",
+          "label": "Chapter 152",
+          "context": false,
+          "first": {
+            "page": "73",
+            "line": "16"
+          }
+        },
+        {
+          "n": "153",
+          "label": "Chapter 153",
+          "context": false,
+          "first": {
+            "page": "73",
+            "line": "18"
+          }
+        },
+        {
+          "n": "154",
+          "label": "Chapter 154",
+          "context": false,
+          "first": {
+            "page": "73",
+            "line": "22"
+          }
+        },
+        {
+          "n": "155",
+          "label": "Chapter 155",
+          "context": false,
+          "first": {
+            "page": "73",
+            "line": "24"
+          }
+        },
+        {
+          "n": "156",
+          "label": "Chapter 156",
+          "context": false,
+          "first": {
+            "page": "74",
+            "line": "1"
+          }
+        },
+        {
+          "n": "157",
+          "label": "Chapter 157",
+          "context": false,
+          "first": {
+            "page": "74",
+            "line": "10"
+          }
+        },
+        {
+          "n": "158",
+          "label": "Chapter 158",
+          "context": false,
+          "first": {
+            "page": "74",
+            "line": "15"
+          }
+        },
+        {
+          "n": "159",
+          "label": "Chapter 159",
+          "context": false,
+          "first": {
+            "page": "74",
+            "line": "19"
+          }
+        },
+        {
+          "n": "160",
+          "label": "Chapter 160",
+          "context": false,
+          "first": {
+            "page": "74",
+            "line": "23"
+          }
+        },
+        {
+          "n": "161",
+          "label": "Chapter 161",
+          "context": false,
+          "first": {
+            "page": "75",
+            "line": "4"
+          }
+        },
+        {
+          "n": "162",
+          "label": "Chapter 162",
+          "context": false,
+          "first": {
+            "page": "75",
+            "line": "8"
+          }
+        },
+        {
+          "n": "163",
+          "label": "Chapter 163",
+          "context": false,
+          "first": {
+            "page": "75",
+            "line": "28"
+          }
+        },
+        {
+          "n": "164",
+          "label": "Chapter 164",
+          "context": false,
+          "first": {
+            "page": "76",
+            "line": "1"
+          }
+        },
+        {
+          "n": "165",
+          "label": "Chapter 165",
+          "context": false,
+          "first": {
+            "page": "76",
+            "line": "6"
+          }
+        },
+        {
+          "n": "166",
+          "label": "Chapter 166",
+          "context": false,
+          "first": {
+            "page": "76",
+            "line": "17"
+          }
+        },
+        {
+          "n": "167",
+          "label": "Chapter 167",
+          "context": false,
+          "first": {
+            "page": "77",
+            "line": "12"
+          }
+        },
+        {
+          "n": "168",
+          "label": "Chapter 168",
+          "context": false,
+          "first": {
+            "page": "77",
+            "line": "14"
+          }
+        },
+        {
+          "n": "169",
+          "label": "Chapter 169",
+          "context": false,
+          "first": {
+            "page": "77",
+            "line": "17"
+          }
+        },
+        {
+          "n": "170",
+          "label": "Chapter 170",
+          "context": false,
+          "first": {
+            "page": "77",
+            "line": "23"
+          }
+        },
+        {
+          "n": "171",
+          "label": "Chapter 171",
+          "context": false,
+          "first": {
+            "page": "78",
+            "line": "1"
+          }
+        },
+        {
+          "n": "172",
+          "label": "Chapter 172",
+          "context": false,
+          "first": {
+            "page": "78",
+            "line": "12"
+          }
+        },
+        {
+          "n": "173",
+          "label": "Chapter 173",
+          "context": false,
+          "first": {
+            "page": "78",
+            "line": "22"
+          }
+        },
+        {
+          "n": "174",
+          "label": "Chapter 174",
+          "context": false,
+          "first": {
+            "page": "79",
+            "line": "1"
+          }
+        },
+        {
+          "n": "175",
+          "label": "Chapter 175",
+          "context": false,
+          "first": {
+            "page": "79",
+            "line": "16"
+          }
+        },
+        {
+          "n": "176",
+          "label": "Chapter 176",
+          "context": false,
+          "first": {
+            "page": "80",
+            "line": "16"
+          }
+        },
+        {
+          "n": "177",
+          "label": "Chapter 177",
+          "context": false,
+          "first": {
+            "page": "80",
+            "line": "24"
+          }
+        },
+        {
+          "n": "178",
+          "label": "Chapter 178",
+          "context": false,
+          "first": {
+            "page": "81",
+            "line": "1"
+          }
+        },
+        {
+          "n": "179",
+          "label": "Chapter 179",
+          "context": false,
+          "first": {
+            "page": "81",
+            "line": "6"
+          }
+        },
+        {
+          "n": "180",
+          "label": "Chapter 180",
+          "context": false,
+          "first": {
+            "page": "81",
+            "line": "13"
+          }
+        },
+        {
+          "n": "181",
+          "label": "Chapter 181",
+          "context": false,
+          "first": {
+            "page": "82",
+            "line": "14"
+          }
+        },
+        {
+          "n": "182",
+          "label": "Chapter 182",
+          "context": false,
+          "first": {
+            "page": "82",
+            "line": "21"
+          }
+        },
+        {
+          "n": "183",
+          "label": "Chapter 183",
+          "context": false,
+          "first": {
+            "page": "82",
+            "line": "25"
+          }
+        },
+        {
+          "n": "184",
+          "label": "Chapter 184",
+          "context": false,
+          "first": {
+            "page": "83",
+            "line": "3"
+          }
+        },
+        {
+          "n": "185",
+          "label": "Chapter 185",
+          "context": false,
+          "first": {
+            "page": "83",
+            "line": "10"
+          }
+        },
+        {
+          "n": "186",
+          "label": "Chapter 186",
+          "context": false,
+          "first": {
+            "page": "84",
+            "line": "4"
+          }
+        },
+        {
+          "n": "187",
+          "label": "Chapter 187",
+          "context": false,
+          "first": {
+            "page": "84",
+            "line": "7"
+          }
+        },
+        {
+          "n": "188",
+          "label": "Chapter 188",
+          "context": false,
+          "first": {
+            "page": "84",
+            "line": "8"
+          }
+        },
+        {
+          "n": "189",
+          "label": "Chapter 189",
+          "context": false,
+          "first": {
+            "page": "84",
+            "line": "14"
+          }
+        },
+        {
+          "n": "190",
+          "label": "Chapter 190",
+          "context": false,
+          "first": {
+            "page": "85",
+            "line": "11"
+          }
+        },
+        {
+          "n": "191",
+          "label": "Chapter 191",
+          "context": false,
+          "first": {
+            "page": "85",
+            "line": "17"
+          }
+        },
+        {
+          "n": "192",
+          "label": "Chapter 192",
+          "context": false,
+          "first": {
+            "page": "85",
+            "line": "21"
+          }
+        },
+        {
+          "n": "193",
+          "label": "Chapter 193",
+          "context": false,
+          "first": {
+            "page": "86",
+            "line": "6"
+          }
+        },
+        {
+          "n": "194",
+          "label": "Chapter 194",
+          "context": false,
+          "first": {
+            "page": "87",
+            "line": "8"
+          }
+        },
+        {
+          "n": "195",
+          "label": "Chapter 195",
+          "context": false,
+          "first": {
+            "page": "87",
+            "line": "13"
+          }
+        },
+        {
+          "n": "196",
+          "label": "Chapter 196",
+          "context": false,
+          "first": {
+            "page": "87",
+            "line": "18"
+          }
+        },
+        {
+          "n": "197",
+          "label": "Chapter 197",
+          "context": false,
+          "first": {
+            "page": "87",
+            "line": "25"
+          }
+        },
+        {
+          "n": "198",
+          "label": "Chapter 198",
+          "context": false,
+          "first": {
+            "page": "88",
+            "line": "12"
+          }
+        },
+        {
+          "n": "199",
+          "label": "Chapter 199",
+          "context": false,
+          "first": {
+            "page": "88",
+            "line": "19"
+          }
+        },
+        {
+          "n": "200",
+          "label": "Chapter 200",
+          "context": false,
+          "first": {
+            "page": "88",
+            "line": "22"
+          }
+        },
+        {
+          "n": "201",
+          "label": "Chapter 201",
+          "context": false,
+          "first": {
+            "page": "89",
+            "line": "1"
+          }
+        },
+        {
+          "n": "202",
+          "label": "Chapter 202",
+          "context": false,
+          "first": {
+            "page": "89",
+            "line": "5"
+          }
+        },
+        {
+          "n": "203",
+          "label": "Chapter 203",
+          "context": false,
+          "first": {
+            "page": "89",
+            "line": "11"
+          }
+        },
+        {
+          "n": "204",
+          "label": "Chapter 204",
+          "context": false,
+          "first": {
+            "page": "89",
+            "line": "18"
+          }
+        },
+        {
+          "n": "205",
+          "label": "Chapter 205",
+          "context": false,
+          "first": {
+            "page": "90",
+            "line": "9"
+          }
+        },
+        {
+          "n": "206",
+          "label": "Chapter 206",
+          "context": false,
+          "first": {
+            "page": "90",
+            "line": "23"
+          }
+        },
+        {
+          "n": "207",
+          "label": "Chapter 207",
+          "context": false,
+          "first": {
+            "page": "90",
+            "line": "26"
+          }
+        },
+        {
+          "n": "208",
+          "label": "Chapter 208",
+          "context": false,
+          "first": {
+            "page": "90",
+            "line": "28"
+          }
+        },
+        {
+          "n": "209",
+          "label": "Chapter 209",
+          "context": false,
+          "first": {
+            "page": "91",
+            "line": "3"
+          }
+        },
+        {
+          "n": "210",
+          "label": "Chapter 210",
+          "context": false,
+          "first": {
+            "page": "91",
+            "line": "13"
+          }
+        },
+        {
+          "n": "211",
+          "label": "Chapter 211",
+          "context": false,
+          "first": {
+            "page": "91",
+            "line": "16"
+          }
+        },
+        {
+          "n": "212",
+          "label": "Chapter 212",
+          "context": false,
+          "first": {
+            "page": "91",
+            "line": "19"
+          }
+        },
+        {
+          "n": "213",
+          "label": "Chapter 213",
+          "context": false,
+          "first": {
+            "page": "92",
+            "line": "4"
+          }
+        },
+        {
+          "n": "214",
+          "label": "Chapter 214",
+          "context": false,
+          "first": {
+            "page": "92",
+            "line": "7"
+          }
+        },
+        {
+          "n": "215",
+          "label": "Chapter 215",
+          "context": false,
+          "first": {
+            "page": "92",
+            "line": "9"
+          }
+        },
+        {
+          "n": "216",
+          "label": "Chapter 216",
+          "context": false,
+          "first": {
+            "page": "92",
+            "line": "13"
+          }
+        },
+        {
+          "n": "217",
+          "label": "Chapter 217",
+          "context": false,
+          "first": {
+            "page": "92",
+            "line": "22"
+          }
+        },
+        {
+          "n": "218",
+          "label": "Chapter 218",
+          "context": false,
+          "first": {
+            "page": "93",
+            "line": "3"
+          }
+        },
+        {
+          "n": "219",
+          "label": "Chapter 219",
+          "context": false,
+          "first": {
+            "page": "93",
+            "line": "5"
+          }
+        },
+        {
+          "n": "220",
+          "label": "Chapter 220",
+          "context": false,
+          "first": {
+            "page": "93",
+            "line": "17"
+          }
+        },
+        {
+          "n": "221",
+          "label": "Chapter 221",
+          "context": false,
+          "first": {
+            "page": "93",
+            "line": "23"
+          }
+        },
+        {
+          "n": "222",
+          "label": "Chapter 222",
+          "context": false,
+          "first": {
+            "page": "94",
+            "line": "20"
+          }
+        },
+        {
+          "n": "223",
+          "label": "Chapter 223",
+          "context": false,
+          "first": {
+            "page": "94",
+            "line": "24"
+          }
+        },
+        {
+          "n": "224",
+          "label": "Chapter 224",
+          "context": false,
+          "first": {
+            "page": "95",
+            "line": "1"
+          }
+        },
+        {
+          "n": "225",
+          "label": "Chapter 225",
+          "context": false,
+          "first": {
+            "page": "95",
+            "line": "4"
+          }
+        },
+        {
+          "n": "226",
+          "label": "Chapter 226",
+          "context": false,
+          "first": {
+            "page": "95",
+            "line": "18"
+          }
+        },
+        {
+          "n": "227",
+          "label": "Chapter 227",
+          "context": false,
+          "first": {
+            "page": "95",
+            "line": "22"
+          }
+        },
+        {
+          "n": "228",
+          "label": "Chapter 228",
+          "context": false,
+          "first": {
+            "page": "96",
+            "line": "10"
+          }
+        },
+        {
+          "n": "229",
+          "label": "Chapter 229",
+          "context": false,
+          "first": {
+            "page": "96",
+            "line": "15"
+          }
+        },
+        {
+          "n": "230",
+          "label": "Chapter 230",
+          "context": false,
+          "first": {
+            "page": "97",
+            "line": "3"
+          }
+        },
+        {
+          "n": "231",
+          "label": "Chapter 231",
+          "context": false,
+          "first": {
+            "page": "97",
+            "line": "9"
+          }
+        },
+        {
+          "n": "232",
+          "label": "Chapter 232",
+          "context": false,
+          "first": {
+            "page": "97",
+            "line": "14"
+          }
+        },
+        {
+          "n": "233",
+          "label": "Chapter 233",
+          "context": false,
+          "first": {
+            "page": "97",
+            "line": "21"
+          }
+        },
+        {
+          "n": "234",
+          "label": "Chapter 234",
+          "context": false,
+          "first": {
+            "page": "98",
+            "line": "14"
+          }
+        },
+        {
+          "n": "235",
+          "label": "Chapter 235",
+          "context": false,
+          "first": {
+            "page": "99",
+            "line": "12"
+          }
+        },
+        {
+          "n": "236",
+          "label": "Chapter 236",
+          "context": false,
+          "first": {
+            "page": "99",
+            "line": "15"
+          }
+        },
+        {
+          "n": "237",
+          "label": "Chapter 237",
+          "context": false,
+          "first": {
+            "page": "100",
+            "line": "3"
+          }
+        },
+        {
+          "n": "238",
+          "label": "Chapter 238",
+          "context": false,
+          "first": {
+            "page": "100",
+            "line": "9"
+          }
+        },
+        {
+          "n": "239",
+          "label": "Chapter 239",
+          "context": false,
+          "first": {
+            "page": "100",
+            "line": "26"
+          }
+        },
+        {
+          "n": "240",
+          "label": "Chapter 240",
+          "context": false,
+          "first": {
+            "page": "100",
+            "line": "28"
+          }
+        },
+        {
+          "n": "241",
+          "label": "Chapter 241",
+          "context": false,
+          "first": {
+            "page": "101",
+            "line": "1"
+          }
+        },
+        {
+          "n": "242",
+          "label": "Chapter 242",
+          "context": false,
+          "first": {
+            "page": "101",
+            "line": "26"
+          }
+        },
+        {
+          "n": "243",
+          "label": "Chapter 243",
+          "context": false,
+          "first": {
+            "page": "102",
+            "line": "3"
+          }
+        },
+        {
+          "n": "244",
+          "label": "Chapter 244",
+          "context": false,
+          "first": {
+            "page": "102",
+            "line": "5"
+          }
+        },
+        {
+          "n": "245",
+          "label": "Chapter 245",
+          "context": false,
+          "first": {
+            "page": "102",
+            "line": "7"
+          }
+        },
+        {
+          "n": "246",
+          "label": "Chapter 246",
+          "context": false,
+          "first": {
+            "page": "102",
+            "line": "18"
+          }
+        },
+        {
+          "n": "247",
+          "label": "Chapter 247",
+          "context": false,
+          "first": {
+            "page": "102",
+            "line": "21"
+          }
+        },
+        {
+          "n": "248",
+          "label": "Chapter 248",
+          "context": false,
+          "first": {
+            "page": "102",
+            "line": "23"
+          }
+        },
+        {
+          "n": "249",
+          "label": "Chapter 249",
+          "context": false,
+          "first": {
+            "page": "102",
+            "line": "25"
+          }
+        },
+        {
+          "n": "250",
+          "label": "Chapter 250",
+          "context": false,
+          "first": {
+            "page": "102",
+            "line": "26"
+          }
+        },
+        {
+          "n": "251",
+          "label": "Chapter 251",
+          "context": false,
+          "first": {
+            "page": "103",
+            "line": "15"
+          }
+        },
+        {
+          "n": "252",
+          "label": "Chapter 252",
+          "context": false,
+          "first": {
+            "page": "103",
+            "line": "18"
+          }
+        },
+        {
+          "n": "253",
+          "label": "Chapter 253",
+          "context": false,
+          "first": {
+            "page": "103",
+            "line": "28"
+          }
+        },
+        {
+          "n": "254",
+          "label": "Chapter 254",
+          "context": false,
+          "first": {
+            "page": "104",
+            "line": "14"
+          }
+        },
+        {
+          "n": "255",
+          "label": "Chapter 255",
+          "context": false,
+          "first": {
+            "page": "104",
+            "line": "18"
+          }
+        },
+        {
+          "n": "256",
+          "label": "Chapter 256",
+          "context": false,
+          "first": {
+            "page": "105",
+            "line": "3"
+          }
+        },
+        {
+          "n": "257",
+          "label": "Chapter 257",
+          "context": false,
+          "first": {
+            "page": "105",
+            "line": "6"
+          }
+        },
+        {
+          "n": "258",
+          "label": "Chapter 258",
+          "context": false,
+          "first": {
+            "page": "105",
+            "line": "11"
+          }
+        },
+        {
+          "n": "259",
+          "label": "Chapter 259",
+          "context": false,
+          "first": {
+            "page": "105",
+            "line": "12"
+          }
+        },
+        {
+          "n": "260",
+          "label": "Chapter 260",
+          "context": false,
+          "first": {
+            "page": "105",
+            "line": "18"
+          }
+        },
+        {
+          "n": "261",
+          "label": "Chapter 261",
+          "context": false,
+          "first": {
+            "page": "105",
+            "line": "22"
+          }
+        },
+        {
+          "n": "262",
+          "label": "Chapter 262",
+          "context": false,
+          "first": {
+            "page": "106",
+            "line": "8"
+          }
+        },
+        {
+          "n": "263",
+          "label": "Chapter 263",
+          "context": false,
+          "first": {
+            "page": "106",
+            "line": "13"
+          }
+        },
+        {
+          "n": "264",
+          "label": "Chapter 264",
+          "context": false,
+          "first": {
+            "page": "106",
+            "line": "19"
+          }
+        },
+        {
+          "n": "265",
+          "label": "Chapter 265",
+          "context": false,
+          "first": {
+            "page": "106",
+            "line": "25"
+          }
+        },
+        {
+          "n": "266",
+          "label": "Chapter 266",
+          "context": false,
+          "first": {
+            "page": "107",
+            "line": "5"
+          }
+        },
+        {
+          "n": "267",
+          "label": "Chapter 267",
+          "context": false,
+          "first": {
+            "page": "107",
+            "line": "6"
+          }
+        },
+        {
+          "n": "268",
+          "label": "Chapter 268",
+          "context": false,
+          "first": {
+            "page": "107",
+            "line": "15"
+          }
+        },
+        {
+          "n": "269",
+          "label": "Chapter 269",
+          "context": false,
+          "first": {
+            "page": "107",
+            "line": "21"
+          }
+        },
+        {
+          "n": "270",
+          "label": "Chapter 270",
+          "context": false,
+          "first": {
+            "page": "107",
+            "line": "25"
+          }
+        },
+        {
+          "n": "271",
+          "label": "Chapter 271",
+          "context": false,
+          "first": {
+            "page": "108",
+            "line": "3"
+          }
+        },
+        {
+          "n": "272",
+          "label": "Chapter 272",
+          "context": false,
+          "first": {
+            "page": "108",
+            "line": "13"
+          }
+        },
+        {
+          "n": "273",
+          "label": "Chapter 273",
+          "context": false,
+          "first": {
+            "page": "108",
+            "line": "16"
+          }
+        },
+        {
+          "n": "274",
+          "label": "Chapter 274",
+          "context": false,
+          "first": {
+            "page": "109",
+            "line": "3"
+          }
+        },
+        {
+          "n": "275",
+          "label": "Chapter 275",
+          "context": false,
+          "first": {
+            "page": "109",
+            "line": "8"
+          }
+        },
+        {
+          "n": "276",
+          "label": "Chapter 276",
+          "context": false,
+          "first": {
+            "page": "109",
+            "line": "10"
+          }
+        },
+        {
+          "n": "277",
+          "label": "Chapter 277",
+          "context": false,
+          "first": {
+            "page": "109",
+            "line": "18"
+          }
+        },
+        {
+          "n": "278",
+          "label": "Chapter 278",
+          "context": false,
+          "first": {
+            "page": "110",
+            "line": "1"
+          }
+        },
+        {
+          "n": "279",
+          "label": "Chapter 279",
+          "context": false,
+          "first": {
+            "page": "110",
+            "line": "13"
+          }
+        },
+        {
+          "n": "280",
+          "label": "Chapter 280",
+          "context": false,
+          "first": {
+            "page": "110",
+            "line": "19"
+          }
+        },
+        {
+          "n": "281",
+          "label": "Chapter 281",
+          "context": false,
+          "first": {
+            "page": "111",
+            "line": "1"
+          }
+        },
+        {
+          "n": "282",
+          "label": "Chapter 282",
+          "context": false,
+          "first": {
+            "page": "111",
+            "line": "12"
+          }
+        },
+        {
+          "n": "283",
+          "label": "Chapter 283",
+          "context": false,
+          "first": {
+            "page": "111",
+            "line": "17"
+          }
+        },
+        {
+          "n": "284",
+          "label": "Chapter 284",
+          "context": false,
+          "first": {
+            "page": "112",
+            "line": "14"
+          }
+        },
+        {
+          "n": "285",
+          "label": "Chapter 285",
+          "context": false,
+          "first": {
+            "page": "112",
+            "line": "16"
+          }
+        },
+        {
+          "n": "286",
+          "label": "Chapter 286",
+          "context": false,
+          "first": {
+            "page": "112",
+            "line": "19"
+          }
+        },
+        {
+          "n": "287",
+          "label": "Chapter 287",
+          "context": false,
+          "first": {
+            "page": "113",
+            "line": "1"
+          }
+        },
+        {
+          "n": "288",
+          "label": "Chapter 288",
+          "context": false,
+          "first": {
+            "page": "113",
+            "line": "6"
+          }
+        },
+        {
+          "n": "289",
+          "label": "Chapter 289",
+          "context": false,
+          "first": {
+            "page": "113",
+            "line": "13"
+          }
+        },
+        {
+          "n": "290",
+          "label": "Chapter 290",
+          "context": false,
+          "first": {
+            "page": "113",
+            "line": "21"
+          }
+        },
+        {
+          "n": "291",
+          "label": "Chapter 291",
+          "context": false,
+          "first": {
+            "page": "113",
+            "line": "24"
+          }
+        },
+        {
+          "n": "292",
+          "label": "Chapter 292",
+          "context": false,
+          "first": {
+            "page": "114",
+            "line": "1"
+          }
+        },
+        {
+          "n": "293",
+          "label": "Chapter 293",
+          "context": false,
+          "first": {
+            "page": "114",
+            "line": "4"
+          }
+        },
+        {
+          "n": "294",
+          "label": "Chapter 294",
+          "context": false,
+          "first": {
+            "page": "114",
+            "line": "7"
+          }
+        },
+        {
+          "n": "295",
+          "label": "Chapter 295",
+          "context": false,
+          "first": {
+            "page": "114",
+            "line": "11"
+          }
+        },
+        {
+          "n": "296",
+          "label": "Chapter 296",
+          "context": false,
+          "first": {
+            "page": "114",
+            "line": "20"
+          }
+        },
+        {
+          "n": "297",
+          "label": "Chapter 297",
+          "context": false,
+          "first": {
+            "page": "114",
+            "line": "24"
+          }
+        },
+        {
+          "n": "298",
+          "label": "Chapter 298",
+          "context": false,
+          "first": {
+            "page": "115",
+            "line": "1"
+          }
+        },
+        {
+          "n": "299",
+          "label": "Chapter 299",
+          "context": false,
+          "first": {
+            "page": "116",
+            "line": "1"
+          }
+        },
+        {
+          "n": "300",
+          "label": "Chapter 300",
+          "context": false,
+          "first": {
+            "page": "116",
+            "line": "5"
+          }
+        },
+        {
+          "n": "301",
+          "label": "Chapter 301",
+          "context": false,
+          "first": {
+            "page": "116",
+            "line": "6"
+          }
+        },
+        {
+          "n": "302",
+          "label": "Chapter 302",
+          "context": false,
+          "first": {
+            "page": "116",
+            "line": "10"
+          }
+        },
+        {
+          "n": "303",
+          "label": "Chapter 303",
+          "context": false,
+          "first": {
+            "page": "116",
+            "line": "14"
+          }
+        },
+        {
+          "n": "304",
+          "label": "Chapter 304",
+          "context": false,
+          "first": {
+            "page": "116",
+            "line": "18"
+          }
+        },
+        {
+          "n": "305",
+          "label": "Chapter 305",
+          "context": false,
+          "first": {
+            "page": "116",
+            "line": "19"
+          }
+        },
+        {
+          "n": "306",
+          "label": "Chapter 306",
+          "context": false,
+          "first": {
+            "page": "117",
+            "line": "1"
+          }
+        },
+        {
+          "n": "307",
+          "label": "Chapter 307",
+          "context": false,
+          "first": {
+            "page": "117",
+            "line": "5"
+          }
+        },
+        {
+          "n": "308",
+          "label": "Chapter 308",
+          "context": false,
+          "first": {
+            "page": "117",
+            "line": "11"
+          }
+        },
+        {
+          "n": "309",
+          "label": "Chapter 309",
+          "context": false,
+          "first": {
+            "page": "117",
+            "line": "14"
+          }
+        },
+        {
+          "n": "310",
+          "label": "Chapter 310",
+          "context": false,
+          "first": {
+            "page": "117",
+            "line": "17"
+          }
+        },
+        {
+          "n": "311",
+          "label": "Chapter 311",
+          "context": false,
+          "first": {
+            "page": "118",
+            "line": "1"
+          }
+        },
+        {
+          "n": "312",
+          "label": "Chapter 312",
+          "context": false,
+          "first": {
+            "page": "118",
+            "line": "7"
+          }
+        },
+        {
+          "n": "313",
+          "label": "Chapter 313",
+          "context": false,
+          "first": {
+            "page": "118",
+            "line": "14"
+          }
+        },
+        {
+          "n": "314",
+          "label": "Chapter 314",
+          "context": false,
+          "first": {
+            "page": "118",
+            "line": "17"
+          }
+        },
+        {
+          "n": "315",
+          "label": "Chapter 315",
+          "context": false,
+          "first": {
+            "page": "119",
+            "line": "3"
+          }
+        },
+        {
+          "n": "316",
+          "label": "Chapter 316",
+          "context": false,
+          "first": {
+            "page": "119",
+            "line": "19"
+          }
+        },
+        {
+          "n": "317",
+          "label": "Chapter 317",
+          "context": false,
+          "first": {
+            "page": "120",
+            "line": "4"
+          }
+        },
+        {
+          "n": "318",
+          "label": "Chapter 318",
+          "context": false,
+          "first": {
+            "page": "120",
+            "line": "7"
+          }
+        },
+        {
+          "n": "319",
+          "label": "Chapter 319",
+          "context": false,
+          "first": {
+            "page": "121",
+            "line": "1"
+          }
+        },
+        {
+          "n": "320",
+          "label": "Chapter 320",
+          "context": false,
+          "first": {
+            "page": "121",
+            "line": "5"
+          }
+        },
+        {
+          "n": "321",
+          "label": "Chapter 321",
+          "context": false,
+          "first": {
+            "page": "121",
+            "line": "16"
+          }
+        },
+        {
+          "n": "322",
+          "label": "Chapter 322",
+          "context": false,
+          "first": {
+            "page": "122",
+            "line": "25"
+          }
+        },
+        {
+          "n": "323",
+          "label": "Chapter 323",
+          "context": false,
+          "first": {
+            "page": "123",
+            "line": "13"
+          }
+        },
+        {
+          "n": "324",
+          "label": "Chapter 324",
+          "context": false,
+          "first": {
+            "page": "123",
+            "line": "17"
+          }
+        },
+        {
+          "n": "325",
+          "label": "Chapter 325",
+          "context": false,
+          "first": {
+            "page": "123",
+            "line": "22"
+          }
+        },
+        {
+          "n": "326",
+          "label": "Chapter 326",
+          "context": false,
+          "first": {
+            "page": "124",
+            "line": "1"
+          }
+        },
+        {
+          "n": "327",
+          "label": "Chapter 327",
+          "context": false,
+          "first": {
+            "page": "124",
+            "line": "11"
+          }
+        },
+        {
+          "n": "328",
+          "label": "Chapter 328",
+          "context": false,
+          "first": {
+            "page": "124",
+            "line": "20"
+          }
+        },
+        {
+          "n": "329",
+          "label": "Chapter 329",
+          "context": false,
+          "first": {
+            "page": "124",
+            "line": "24"
+          }
+        },
+        {
+          "n": "330",
+          "label": "Chapter 330",
+          "context": false,
+          "first": {
+            "page": "125",
+            "line": "3"
+          }
+        },
+        {
+          "n": "331",
+          "label": "Chapter 331",
+          "context": false,
+          "first": {
+            "page": "125",
+            "line": "5"
+          }
+        },
+        {
+          "n": "332",
+          "label": "Chapter 332",
+          "context": false,
+          "first": {
+            "page": "125",
+            "line": "7"
+          }
+        },
+        {
+          "n": "333",
+          "label": "Chapter 333",
+          "context": false,
+          "first": {
+            "page": "125",
+            "line": "13"
+          }
+        },
+        {
+          "n": "334",
+          "label": "Chapter 334",
+          "context": false,
+          "first": {
+            "page": "125",
+            "line": "22"
+          }
+        },
+        {
+          "n": "335",
+          "label": "Chapter 335",
+          "context": false,
+          "first": {
+            "page": "126",
+            "line": "1"
+          }
+        },
+        {
+          "n": "336",
+          "label": "Chapter 336",
+          "context": false,
+          "first": {
+            "page": "126",
+            "line": "6"
+          }
+        },
+        {
+          "n": "337",
+          "label": "Chapter 337",
+          "context": false,
+          "first": {
+            "page": "126",
+            "line": "9"
+          }
+        },
+        {
+          "n": "338",
+          "label": "Chapter 338",
+          "context": false,
+          "first": {
+            "page": "126",
+            "line": "13"
+          }
+        },
+        {
+          "n": "339",
+          "label": "Chapter 339",
+          "context": false,
+          "first": {
+            "page": "126",
+            "line": "19"
+          }
+        },
+        {
+          "n": "340",
+          "label": "Chapter 340",
+          "context": false,
+          "first": {
+            "page": "126",
+            "line": "22"
+          }
+        },
+        {
+          "n": "341",
+          "label": "Chapter 341",
+          "context": false,
+          "first": {
+            "page": "127",
+            "line": "4"
+          }
+        },
+        {
+          "n": "342",
+          "label": "Chapter 342",
+          "context": false,
+          "first": {
+            "page": "127",
+            "line": "9"
+          }
+        },
+        {
+          "n": "343",
+          "label": "Chapter 343",
+          "context": false,
+          "first": {
+            "page": "127",
+            "line": "23"
+          }
+        },
+        {
+          "n": "344",
+          "label": "Chapter 344",
+          "context": false,
+          "first": {
+            "page": "128",
+            "line": "11"
+          }
+        },
+        {
+          "n": "345",
+          "label": "Chapter 345",
+          "context": false,
+          "first": {
+            "page": "128",
+            "line": "15"
+          }
+        },
+        {
+          "n": "346",
+          "label": "Chapter 346",
+          "context": false,
+          "first": {
+            "page": "128",
+            "line": "16"
+          }
+        },
+        {
+          "n": "347",
+          "label": "Chapter 347",
+          "context": false,
+          "first": {
+            "page": "129",
+            "line": "4"
+          }
+        },
+        {
+          "n": "348",
+          "label": "Chapter 348",
+          "context": false,
+          "first": {
+            "page": "129",
+            "line": "8"
+          }
+        },
+        {
+          "n": "349",
+          "label": "Chapter 349",
+          "context": false,
+          "first": {
+            "page": "129",
+            "line": "13"
+          }
+        },
+        {
+          "n": "350",
+          "label": "Chapter 350",
+          "context": false,
+          "first": {
+            "page": "129",
+            "line": "17"
+          }
+        },
+        {
+          "n": "351",
+          "label": "Chapter 351",
+          "context": false,
+          "first": {
+            "page": "129",
+            "line": "19"
+          }
+        },
+        {
+          "n": "352",
+          "label": "Chapter 352",
+          "context": false,
+          "first": {
+            "page": "129",
+            "line": "21"
+          }
+        },
+        {
+          "n": "353",
+          "label": "Chapter 353",
+          "context": false,
+          "first": {
+            "page": "130",
+            "line": "1"
+          }
+        },
+        {
+          "n": "354",
+          "label": "Chapter 354",
+          "context": false,
+          "first": {
+            "page": "130",
+            "line": "6"
+          }
+        },
+        {
+          "n": "355",
+          "label": "Chapter 355",
+          "context": false,
+          "first": {
+            "page": "130",
+            "line": "8"
+          }
+        },
+        {
+          "n": "356",
+          "label": "Chapter 356",
+          "context": false,
+          "first": {
+            "page": "130",
+            "line": "15"
+          }
+        },
+        {
+          "n": "357",
+          "label": "Chapter 357",
+          "context": false,
+          "first": {
+            "page": "130",
+            "line": "18"
+          }
+        },
+        {
+          "n": "358",
+          "label": "Chapter 358",
+          "context": false,
+          "first": {
+            "page": "131",
+            "line": "1"
+          }
+        },
+        {
+          "n": "359",
+          "label": "Chapter 359",
+          "context": false,
+          "first": {
+            "page": "131",
+            "line": "4"
+          }
+        },
+        {
+          "n": "360",
+          "label": "Chapter 360",
+          "context": false,
+          "first": {
+            "page": "131",
+            "line": "14"
+          }
+        },
+        {
+          "n": "361",
+          "label": "Chapter 361",
+          "context": false,
+          "first": {
+            "page": "132",
+            "line": "1"
+          }
+        },
+        {
+          "n": "362",
+          "label": "Chapter 362",
+          "context": false,
+          "first": {
+            "page": "132",
+            "line": "6"
+          }
+        },
+        {
+          "n": "363",
+          "label": "Chapter 363",
+          "context": false,
+          "first": {
+            "page": "132",
+            "line": "9"
+          }
+        },
+        {
+          "n": "364",
+          "label": "Chapter 364",
+          "context": false,
+          "first": {
+            "page": "132",
+            "line": "12"
+          }
+        },
+        {
+          "n": "365",
+          "label": "Chapter 365",
+          "context": false,
+          "first": {
+            "page": "132",
+            "line": "16"
+          }
+        },
+        {
+          "n": "366",
+          "label": "Chapter 366",
+          "context": false,
+          "first": {
+            "page": "132",
+            "line": "20"
+          }
+        },
+        {
+          "n": "367",
+          "label": "Chapter 367",
+          "context": false,
+          "first": {
+            "page": "133",
+            "line": "1"
+          }
+        },
+        {
+          "n": "368",
+          "label": "Chapter 368",
+          "context": false,
+          "first": {
+            "page": "133",
+            "line": "5"
+          }
+        },
+        {
+          "n": "369",
+          "label": "Chapter 369",
+          "context": false,
+          "first": {
+            "page": "133",
+            "line": "12"
+          }
+        },
+        {
+          "n": "370",
+          "label": "Chapter 370",
+          "context": false,
+          "first": {
+            "page": "133",
+            "line": "17"
+          }
+        },
+        {
+          "n": "371",
+          "label": "Chapter 371",
+          "context": false,
+          "first": {
+            "page": "134",
+            "line": "3"
+          }
+        },
+        {
+          "n": "372",
+          "label": "Chapter 372",
+          "context": false,
+          "first": {
+            "page": "134",
+            "line": "8"
+          }
+        },
+        {
+          "n": "373",
+          "label": "Chapter 373",
+          "context": false,
+          "first": {
+            "page": "134",
+            "line": "12"
+          }
+        },
+        {
+          "n": "374",
+          "label": "Chapter 374",
+          "context": false,
+          "first": {
+            "page": "134",
+            "line": "14"
+          }
+        },
+        {
+          "n": "375",
+          "label": "Chapter 375",
+          "context": false,
+          "first": {
+            "page": "134",
+            "line": "19"
+          }
+        },
+        {
+          "n": "376",
+          "label": "Chapter 376",
+          "context": false,
+          "first": {
+            "page": "134",
+            "line": "22"
+          }
+        },
+        {
+          "n": "377",
+          "label": "Chapter 377",
+          "context": false,
+          "first": {
+            "page": "134",
+            "line": "25"
+          }
+        },
+        {
+          "n": "378",
+          "label": "Chapter 378",
+          "context": false,
+          "first": {
+            "page": "135",
+            "line": "1"
+          }
+        },
+        {
+          "n": "379",
+          "label": "Chapter 379",
+          "context": false,
+          "first": {
+            "page": "135",
+            "line": "5"
+          }
+        },
+        {
+          "n": "380",
+          "label": "Chapter 380",
+          "context": false,
+          "first": {
+            "page": "136",
+            "line": "10"
+          }
+        },
+        {
+          "n": "381",
+          "label": "Chapter 381",
+          "context": false,
+          "first": {
+            "page": "137",
+            "line": "15"
+          }
+        },
+        {
+          "n": "382",
+          "label": "Chapter 382",
+          "context": false,
+          "first": {
+            "page": "137",
+            "line": "21"
+          }
+        },
+        {
+          "n": "383",
+          "label": "Chapter 383",
+          "context": false,
+          "first": {
+            "page": "137",
+            "line": "26"
+          }
+        },
+        {
+          "n": "384",
+          "label": "Chapter 384",
+          "context": false,
+          "first": {
+            "page": "138",
+            "line": "8"
+          }
+        },
+        {
+          "n": "385",
+          "label": "Chapter 385",
+          "context": false,
+          "first": {
+            "page": "138",
+            "line": "13"
+          }
+        },
+        {
+          "n": "386",
+          "label": "Chapter 386",
+          "context": false,
+          "first": {
+            "page": "138",
+            "line": "24"
+          }
+        },
+        {
+          "n": "387",
+          "label": "Chapter 387",
+          "context": false,
+          "first": {
+            "page": "139",
+            "line": "1"
+          }
+        },
+        {
+          "n": "388",
+          "label": "Chapter 388",
+          "context": false,
+          "first": {
+            "page": "139",
+            "line": "12"
+          }
+        },
+        {
+          "n": "389",
+          "label": "Chapter 389",
+          "context": false,
+          "first": {
+            "page": "140",
+            "line": "1"
+          }
+        },
+        {
+          "n": "390",
+          "label": "Chapter 390",
+          "context": false,
+          "first": {
+            "page": "140",
+            "line": "5"
+          }
+        },
+        {
+          "n": "391",
+          "label": "Chapter 391",
+          "context": false,
+          "first": {
+            "page": "140",
+            "line": "19"
+          }
+        },
+        {
+          "n": "392",
+          "label": "Chapter 392",
+          "context": false,
+          "first": {
+            "page": "141",
+            "line": "8"
+          }
+        },
+        {
+          "n": "393",
+          "label": "Chapter 393",
+          "context": false,
+          "first": {
+            "page": "141",
+            "line": "11"
+          }
+        },
+        {
+          "n": "394",
+          "label": "Chapter 394",
+          "context": false,
+          "first": {
+            "page": "141",
+            "line": "16"
+          }
+        },
+        {
+          "n": "395",
+          "label": "Chapter 395",
+          "context": false,
+          "first": {
+            "page": "141",
+            "line": "19"
+          }
+        },
+        {
+          "n": "396",
+          "label": "Chapter 396",
+          "context": false,
+          "first": {
+            "page": "141",
+            "line": "26"
+          }
+        },
+        {
+          "n": "397",
+          "label": "Chapter 397",
+          "context": false,
+          "first": {
+            "page": "142",
+            "line": "6"
+          }
+        },
+        {
+          "n": "398",
+          "label": "Chapter 398",
+          "context": false,
+          "first": {
+            "page": "142",
+            "line": "8"
+          }
+        },
+        {
+          "n": "399",
+          "label": "Chapter 399",
+          "context": false,
+          "first": {
+            "page": "142",
+            "line": "14"
+          }
+        },
+        {
+          "n": "400",
+          "label": "Chapter 400",
+          "context": false,
+          "first": {
+            "page": "142",
+            "line": "17"
+          }
+        },
+        {
+          "n": "401",
+          "label": "Chapter 401",
+          "context": false,
+          "first": {
+            "page": "142",
+            "line": "23"
+          }
+        },
+        {
+          "n": "402",
+          "label": "Chapter 402",
+          "context": false,
+          "first": {
+            "page": "143",
+            "line": "1"
+          }
+        },
+        {
+          "n": "403",
+          "label": "Chapter 403",
+          "context": false,
+          "first": {
+            "page": "143",
+            "line": "6"
+          }
+        },
+        {
+          "n": "404",
+          "label": "Chapter 404",
+          "context": false,
+          "first": {
+            "page": "143",
+            "line": "8"
+          }
+        },
+        {
+          "n": "405",
+          "label": "Chapter 405",
+          "context": false,
+          "first": {
+            "page": "143",
+            "line": "12"
+          }
+        },
+        {
+          "n": "406",
+          "label": "Chapter 406",
+          "context": false,
+          "first": {
+            "page": "143",
+            "line": "17"
+          }
+        },
+        {
+          "n": "407",
+          "label": "Chapter 407",
+          "context": false,
+          "first": {
+            "page": "144",
+            "line": "19"
+          }
+        },
+        {
+          "n": "408",
+          "label": "Chapter 408",
+          "context": false,
+          "first": {
+            "page": "144",
+            "line": "21"
+          }
+        },
+        {
+          "n": "409",
+          "label": "Chapter 409",
+          "context": false,
+          "first": {
+            "page": "145",
+            "line": "1"
+          }
+        },
+        {
+          "n": "410",
+          "label": "Chapter 410",
+          "context": false,
+          "first": {
+            "page": "145",
+            "line": "4"
+          }
+        },
+        {
+          "n": "411",
+          "label": "Chapter 411",
+          "context": false,
+          "first": {
+            "page": "145",
+            "line": "10"
+          }
+        },
+        {
+          "n": "412",
+          "label": "Chapter 412",
+          "context": false,
+          "first": {
+            "page": "145",
+            "line": "13"
+          }
+        },
+        {
+          "n": "413",
+          "label": "Chapter 413",
+          "context": false,
+          "first": {
+            "page": "145",
+            "line": "16"
+          }
+        },
+        {
+          "n": "414",
+          "label": "Chapter 414",
+          "context": false,
+          "first": {
+            "page": "145",
+            "line": "24"
+          }
+        },
+        {
+          "n": "415",
+          "label": "Chapter 415",
+          "context": false,
+          "first": {
+            "page": "146",
+            "line": "5"
+          }
+        },
+        {
+          "n": "416",
+          "label": "Chapter 416",
+          "context": false,
+          "first": {
+            "page": "146",
+            "line": "13"
+          }
+        },
+        {
+          "n": "417",
+          "label": "Chapter 417",
+          "context": false,
+          "first": {
+            "page": "146",
+            "line": "15"
+          }
+        },
+        {
+          "n": "418",
+          "label": "Chapter 418",
+          "context": false,
+          "first": {
+            "page": "146",
+            "line": "18"
+          }
+        }
+      ]
+    },
+    {
+      "n": "2",
+      "chapters": [
+        {
+          "n": "t",
+          "label": "t · ΑΕΤΙΟΥ ΑΜΙΔΗΝΟΥ ΒΙΒΛΙΟΝ Β",
+          "context": false,
+          "first": {
+            "page": "147",
+            "line": "1"
+          }
+        },
+        {
+          "n": "pin",
+          "label": "Chapter pin",
+          "context": false,
+          "first": {
+            "page": "147",
+            "line": "2"
+          }
+        },
+        {
+          "n": "arg",
+          "label": "arg · Λόγοϲ β̅ Περὶ τῶν τῆϲ γῆϲ διαφορῶν καὶ λίθων καὶ μεταλλικῶν καὶ τῆϲ ἀπὸ τῶν ζῴων ὠφελείαϲ, ἐκ τῶν ἁπλῶν Γαληνοῦ καὶ τοῦ περὶ τρο φῶν δυνάμεων αὐτοῦ καὶ Ὀριβαϲίου καὶ ἑτέρων. Ὅϲα μὲν φυτῶν ἐϲτι μόρια καὶ καρποὶ καὶ χυλοὶ καὶ ὀποὶ πρό ϲθεν εἴρηται· νυνὶ δὲ περὶ τῶν ὑπολοίπων φαρμάκων ὅϲα τῆϲ γῆϲ ἐϲτιν εἴδη καὶ ὅϲα μεταλλεύεται πρόκειται διελθεῖν, ἔπειτα καὶ περὶ ζῴων.",
+          "context": false,
+          "first": {
+            "page": "152",
+            "line": "11"
+          }
+        },
+        {
+          "n": "1",
+          "label": "Chapter 1",
+          "context": false,
+          "first": {
+            "page": "152",
+            "line": "19"
+          }
+        },
+        {
+          "n": "2",
+          "label": "Chapter 2",
+          "context": false,
+          "first": {
+            "page": "154",
+            "line": "1"
+          }
+        },
+        {
+          "n": "3",
+          "label": "Chapter 3",
+          "context": false,
+          "first": {
+            "page": "154",
+            "line": "6"
+          }
+        },
+        {
+          "n": "4",
+          "label": "Chapter 4",
+          "context": false,
+          "first": {
+            "page": "156",
+            "line": "22"
+          }
+        },
+        {
+          "n": "5",
+          "label": "Chapter 5",
+          "context": false,
+          "first": {
+            "page": "157",
+            "line": "8"
+          }
+        },
+        {
+          "n": "6",
+          "label": "Chapter 6",
+          "context": false,
+          "first": {
+            "page": "157",
+            "line": "15"
+          }
+        },
+        {
+          "n": "7",
+          "label": "Chapter 7",
+          "context": false,
+          "first": {
+            "page": "158",
+            "line": "4"
+          }
+        },
+        {
+          "n": "8",
+          "label": "Chapter 8",
+          "context": false,
+          "first": {
+            "page": "158",
+            "line": "11"
+          }
+        },
+        {
+          "n": "9",
+          "label": "Chapter 9",
+          "context": false,
+          "first": {
+            "page": "158",
+            "line": "22"
+          }
+        },
+        {
+          "n": "10",
+          "label": "Chapter 10",
+          "context": false,
+          "first": {
+            "page": "159",
+            "line": "7"
+          }
+        },
+        {
+          "n": "11",
+          "label": "Chapter 11",
+          "context": false,
+          "first": {
+            "page": "159",
+            "line": "11"
+          }
+        },
+        {
+          "n": "12",
+          "label": "Chapter 12",
+          "context": false,
+          "first": {
+            "page": "159",
+            "line": "20"
+          }
+        },
+        {
+          "n": "13",
+          "label": "Chapter 13",
+          "context": false,
+          "first": {
+            "page": "160",
+            "line": "18"
+          }
+        },
+        {
+          "n": "14",
+          "label": "Chapter 14",
+          "context": false,
+          "first": {
+            "page": "161",
+            "line": "9"
+          }
+        },
+        {
+          "n": "15",
+          "label": "Chapter 15",
+          "context": false,
+          "first": {
+            "page": "161",
+            "line": "19"
+          }
+        },
+        {
+          "n": "16",
+          "label": "Chapter 16",
+          "context": false,
+          "first": {
+            "page": "161",
+            "line": "28"
+          }
+        },
+        {
+          "n": "17",
+          "label": "Chapter 17",
+          "context": false,
+          "first": {
+            "page": "162",
+            "line": "6"
+          }
+        },
+        {
+          "n": "18",
+          "label": "Chapter 18",
+          "context": false,
+          "first": {
+            "page": "162",
+            "line": "13"
+          }
+        },
+        {
+          "n": "19",
+          "label": "Chapter 19",
+          "context": false,
+          "first": {
+            "page": "162",
+            "line": "28"
+          }
+        },
+        {
+          "n": "20",
+          "label": "Chapter 20",
+          "context": false,
+          "first": {
+            "page": "163",
+            "line": "12"
+          }
+        },
+        {
+          "n": "21",
+          "label": "Chapter 21",
+          "context": false,
+          "first": {
+            "page": "163",
+            "line": "20"
+          }
+        },
+        {
+          "n": "22",
+          "label": "Chapter 22",
+          "context": false,
+          "first": {
+            "page": "163",
+            "line": "26"
+          }
+        },
+        {
+          "n": "23",
+          "label": "Chapter 23",
+          "context": false,
+          "first": {
+            "page": "163",
+            "line": "28"
+          }
+        },
+        {
+          "n": "24",
+          "label": "Chapter 24",
+          "context": false,
+          "first": {
+            "page": "164",
+            "line": "11"
+          }
+        },
+        {
+          "n": "25",
+          "label": "Chapter 25",
+          "context": false,
+          "first": {
+            "page": "164",
+            "line": "29"
+          }
+        },
+        {
+          "n": "26",
+          "label": "Chapter 26",
+          "context": false,
+          "first": {
+            "page": "165",
+            "line": "4"
+          }
+        },
+        {
+          "n": "27",
+          "label": "Chapter 27",
+          "context": false,
+          "first": {
+            "page": "165",
+            "line": "18"
+          }
+        },
+        {
+          "n": "28",
+          "label": "Chapter 28",
+          "context": false,
+          "first": {
+            "page": "165",
+            "line": "21"
+          }
+        },
+        {
+          "n": "29",
+          "label": "Chapter 29",
+          "context": false,
+          "first": {
+            "page": "166",
+            "line": "1"
+          }
+        },
+        {
+          "n": "30",
+          "label": "Chapter 30",
+          "context": false,
+          "first": {
+            "page": "166",
+            "line": "5"
+          }
+        },
+        {
+          "n": "31",
+          "label": "Chapter 31",
+          "context": false,
+          "first": {
+            "page": "166",
+            "line": "17"
+          }
+        },
+        {
+          "n": "32",
+          "label": "Chapter 32",
+          "context": false,
+          "first": {
+            "page": "166",
+            "line": "19"
+          }
+        },
+        {
+          "n": "33",
+          "label": "Chapter 33",
+          "context": false,
+          "first": {
+            "page": "167",
+            "line": "7"
+          }
+        },
+        {
+          "n": "34",
+          "label": "Chapter 34",
+          "context": false,
+          "first": {
+            "page": "167",
+            "line": "10"
+          }
+        },
+        {
+          "n": "35",
+          "label": "Chapter 35",
+          "context": false,
+          "first": {
+            "page": "167",
+            "line": "23"
+          }
+        },
+        {
+          "n": "36",
+          "label": "Chapter 36",
+          "context": false,
+          "first": {
+            "page": "167",
+            "line": "26"
+          }
+        },
+        {
+          "n": "37",
+          "label": "Chapter 37",
+          "context": false,
+          "first": {
+            "page": "168",
+            "line": "4"
+          }
+        },
+        {
+          "n": "38",
+          "label": "Chapter 38",
+          "context": false,
+          "first": {
+            "page": "168",
+            "line": "8"
+          }
+        },
+        {
+          "n": "39",
+          "label": "Chapter 39",
+          "context": false,
+          "first": {
+            "page": "168",
+            "line": "12"
+          }
+        },
+        {
+          "n": "40",
+          "label": "Chapter 40",
+          "context": false,
+          "first": {
+            "page": "168",
+            "line": "16"
+          }
+        },
+        {
+          "n": "41",
+          "label": "Chapter 41",
+          "context": false,
+          "first": {
+            "page": "168",
+            "line": "22"
+          }
+        },
+        {
+          "n": "42",
+          "label": "Chapter 42",
+          "context": false,
+          "first": {
+            "page": "168",
+            "line": "25"
+          }
+        },
+        {
+          "n": "43",
+          "label": "Chapter 43",
+          "context": false,
+          "first": {
+            "page": "169",
+            "line": "7"
+          }
+        },
+        {
+          "n": "44",
+          "label": "Chapter 44",
+          "context": false,
+          "first": {
+            "page": "169",
+            "line": "18"
+          }
+        },
+        {
+          "n": "45",
+          "label": "Chapter 45",
+          "context": false,
+          "first": {
+            "page": "169",
+            "line": "22"
+          }
+        },
+        {
+          "n": "46",
+          "label": "Chapter 46",
+          "context": false,
+          "first": {
+            "page": "169",
+            "line": "27"
+          }
+        },
+        {
+          "n": "47",
+          "label": "Chapter 47",
+          "context": false,
+          "first": {
+            "page": "170",
+            "line": "1"
+          }
+        },
+        {
+          "n": "48",
+          "label": "Chapter 48",
+          "context": false,
+          "first": {
+            "page": "170",
+            "line": "25"
+          }
+        },
+        {
+          "n": "49",
+          "label": "Chapter 49",
+          "context": false,
+          "first": {
+            "page": "170",
+            "line": "27"
+          }
+        },
+        {
+          "n": "50",
+          "label": "Chapter 50",
+          "context": false,
+          "first": {
+            "page": "171",
+            "line": "15"
+          }
+        },
+        {
+          "n": "51",
+          "label": "Chapter 51",
+          "context": false,
+          "first": {
+            "page": "171",
+            "line": "25"
+          }
+        },
+        {
+          "n": "52",
+          "label": "Chapter 52",
+          "context": false,
+          "first": {
+            "page": "172",
+            "line": "1"
+          }
+        },
+        {
+          "n": "53",
+          "label": "Chapter 53",
+          "context": false,
+          "first": {
+            "page": "172",
+            "line": "8"
+          }
+        },
+        {
+          "n": "54",
+          "label": "Chapter 54",
+          "context": false,
+          "first": {
+            "page": "172",
+            "line": "10"
+          }
+        },
+        {
+          "n": "55",
+          "label": "Chapter 55",
+          "context": false,
+          "first": {
+            "page": "172",
+            "line": "19"
+          }
+        },
+        {
+          "n": "56",
+          "label": "Chapter 56",
+          "context": false,
+          "first": {
+            "page": "172",
+            "line": "22"
+          }
+        },
+        {
+          "n": "57",
+          "label": "Chapter 57",
+          "context": false,
+          "first": {
+            "page": "173",
+            "line": "3"
+          }
+        },
+        {
+          "n": "58",
+          "label": "Chapter 58",
+          "context": false,
+          "first": {
+            "page": "173",
+            "line": "9"
+          }
+        },
+        {
+          "n": "59",
+          "label": "Chapter 59",
+          "context": false,
+          "first": {
+            "page": "173",
+            "line": "11"
+          }
+        },
+        {
+          "n": "60",
+          "label": "Chapter 60",
+          "context": false,
+          "first": {
+            "page": "173",
+            "line": "18"
+          }
+        },
+        {
+          "n": "61",
+          "label": "Chapter 61",
+          "context": false,
+          "first": {
+            "page": "173",
+            "line": "22"
+          }
+        },
+        {
+          "n": "62",
+          "label": "Chapter 62",
+          "context": false,
+          "first": {
+            "page": "173",
+            "line": "29"
+          }
+        },
+        {
+          "n": "63",
+          "label": "Chapter 63",
+          "context": false,
+          "first": {
+            "page": "174",
+            "line": "1"
+          }
+        },
+        {
+          "n": "64",
+          "label": "Chapter 64",
+          "context": false,
+          "first": {
+            "page": "174",
+            "line": "4"
+          }
+        },
+        {
+          "n": "65",
+          "label": "Chapter 65",
+          "context": false,
+          "first": {
+            "page": "174",
+            "line": "17"
+          }
+        },
+        {
+          "n": "66",
+          "label": "Chapter 66",
+          "context": false,
+          "first": {
+            "page": "174",
+            "line": "19"
+          }
+        },
+        {
+          "n": "67",
+          "label": "Chapter 67",
+          "context": false,
+          "first": {
+            "page": "175",
+            "line": "9"
+          }
+        },
+        {
+          "n": "68",
+          "label": "Chapter 68",
+          "context": false,
+          "first": {
+            "page": "175",
+            "line": "12"
+          }
+        },
+        {
+          "n": "69",
+          "label": "Chapter 69",
+          "context": false,
+          "first": {
+            "page": "175",
+            "line": "22"
+          }
+        },
+        {
+          "n": "70",
+          "label": "Chapter 70",
+          "context": false,
+          "first": {
+            "page": "175",
+            "line": "24"
+          }
+        },
+        {
+          "n": "71",
+          "label": "Chapter 71",
+          "context": false,
+          "first": {
+            "page": "175",
+            "line": "26"
+          }
+        },
+        {
+          "n": "72",
+          "label": "Chapter 72",
+          "context": false,
+          "first": {
+            "page": "176",
+            "line": "3"
+          }
+        },
+        {
+          "n": "73",
+          "label": "Chapter 73",
+          "context": false,
+          "first": {
+            "page": "176",
+            "line": "6"
+          }
+        },
+        {
+          "n": "74",
+          "label": "Chapter 74",
+          "context": false,
+          "first": {
+            "page": "176",
+            "line": "11"
+          }
+        },
+        {
+          "n": "75",
+          "label": "Chapter 75",
+          "context": false,
+          "first": {
+            "page": "176",
+            "line": "14"
+          }
+        },
+        {
+          "n": "76",
+          "label": "Chapter 76",
+          "context": false,
+          "first": {
+            "page": "176",
+            "line": "21"
+          }
+        },
+        {
+          "n": "77",
+          "label": "Chapter 77",
+          "context": false,
+          "first": {
+            "page": "176",
+            "line": "22"
+          }
+        },
+        {
+          "n": "78",
+          "label": "Chapter 78",
+          "context": false,
+          "first": {
+            "page": "177",
+            "line": "6"
+          }
+        },
+        {
+          "n": "79",
+          "label": "Chapter 79",
+          "context": false,
+          "first": {
+            "page": "177",
+            "line": "17"
+          }
+        },
+        {
+          "n": "80",
+          "label": "Chapter 80",
+          "context": false,
+          "first": {
+            "page": "177",
+            "line": "21"
+          }
+        },
+        {
+          "n": "81",
+          "label": "Chapter 81",
+          "context": false,
+          "first": {
+            "page": "177",
+            "line": "25"
+          }
+        },
+        {
+          "n": "82",
+          "label": "Chapter 82",
+          "context": false,
+          "first": {
+            "page": "178",
+            "line": "4"
+          }
+        },
+        {
+          "n": "83",
+          "label": "Chapter 83",
+          "context": false,
+          "first": {
+            "page": "178",
+            "line": "12"
+          }
+        },
+        {
+          "n": "84",
+          "label": "Chapter 84",
+          "context": false,
+          "first": {
+            "page": "178",
+            "line": "17"
+          }
+        },
+        {
+          "n": "85",
+          "label": "Chapter 85",
+          "context": false,
+          "first": {
+            "page": "179",
+            "line": "8"
+          }
+        },
+        {
+          "n": "86",
+          "label": "Chapter 86",
+          "context": false,
+          "first": {
+            "page": "180",
+            "line": "5"
+          }
+        },
+        {
+          "n": "87",
+          "label": "Chapter 87",
+          "context": false,
+          "first": {
+            "page": "180",
+            "line": "13"
+          }
+        },
+        {
+          "n": "88",
+          "label": "Chapter 88",
+          "context": false,
+          "first": {
+            "page": "181",
+            "line": "4"
+          }
+        },
+        {
+          "n": "89",
+          "label": "Chapter 89",
+          "context": false,
+          "first": {
+            "page": "181",
+            "line": "10"
+          }
+        },
+        {
+          "n": "90",
+          "label": "Chapter 90",
+          "context": false,
+          "first": {
+            "page": "181",
+            "line": "15"
+          }
+        },
+        {
+          "n": "91",
+          "label": "Chapter 91",
+          "context": false,
+          "first": {
+            "page": "181",
+            "line": "23"
+          }
+        },
+        {
+          "n": "92",
+          "label": "Chapter 92",
+          "context": false,
+          "first": {
+            "page": "181",
+            "line": "26"
+          }
+        },
+        {
+          "n": "93",
+          "label": "Chapter 93",
+          "context": false,
+          "first": {
+            "page": "183",
+            "line": "3"
+          }
+        },
+        {
+          "n": "94",
+          "label": "Chapter 94",
+          "context": false,
+          "first": {
+            "page": "183",
+            "line": "23"
+          }
+        },
+        {
+          "n": "95",
+          "label": "Chapter 95",
+          "context": false,
+          "first": {
+            "page": "184",
+            "line": "14"
+          }
+        },
+        {
+          "n": "96",
+          "label": "Chapter 96",
+          "context": false,
+          "first": {
+            "page": "185",
+            "line": "11"
+          }
+        },
+        {
+          "n": "97",
+          "label": "Chapter 97",
+          "context": false,
+          "first": {
+            "page": "187",
+            "line": "5"
+          }
+        },
+        {
+          "n": "98",
+          "label": "Chapter 98",
+          "context": false,
+          "first": {
+            "page": "187",
+            "line": "16"
+          }
+        },
+        {
+          "n": "99",
+          "label": "Chapter 99",
+          "context": false,
+          "first": {
+            "page": "188",
+            "line": "1"
+          }
+        },
+        {
+          "n": "100",
+          "label": "Chapter 100",
+          "context": false,
+          "first": {
+            "page": "188",
+            "line": "7"
+          }
+        },
+        {
+          "n": "101",
+          "label": "Chapter 101",
+          "context": false,
+          "first": {
+            "page": "188",
+            "line": "12"
+          }
+        },
+        {
+          "n": "102",
+          "label": "Chapter 102",
+          "context": false,
+          "first": {
+            "page": "189",
+            "line": "6"
+          }
+        },
+        {
+          "n": "103",
+          "label": "Chapter 103",
+          "context": false,
+          "first": {
+            "page": "189",
+            "line": "16"
+          }
+        },
+        {
+          "n": "104",
+          "label": "Chapter 104",
+          "context": false,
+          "first": {
+            "page": "189",
+            "line": "23"
+          }
+        },
+        {
+          "n": "105",
+          "label": "Chapter 105",
+          "context": false,
+          "first": {
+            "page": "190",
+            "line": "5"
+          }
+        },
+        {
+          "n": "106",
+          "label": "Chapter 106",
+          "context": false,
+          "first": {
+            "page": "190",
+            "line": "10"
+          }
+        },
+        {
+          "n": "107",
+          "label": "Chapter 107",
+          "context": false,
+          "first": {
+            "page": "191",
+            "line": "9"
+          }
+        },
+        {
+          "n": "108",
+          "label": "Chapter 108",
+          "context": false,
+          "first": {
+            "page": "191",
+            "line": "19"
+          }
+        },
+        {
+          "n": "109",
+          "label": "Chapter 109",
+          "context": false,
+          "first": {
+            "page": "192",
+            "line": "5"
+          }
+        },
+        {
+          "n": "110",
+          "label": "Chapter 110",
+          "context": false,
+          "first": {
+            "page": "192",
+            "line": "19"
+          }
+        },
+        {
+          "n": "111",
+          "label": "Chapter 111",
+          "context": false,
+          "first": {
+            "page": "192",
+            "line": "25"
+          }
+        },
+        {
+          "n": "112",
+          "label": "Chapter 112",
+          "context": false,
+          "first": {
+            "page": "193",
+            "line": "8"
+          }
+        },
+        {
+          "n": "113",
+          "label": "Chapter 113",
+          "context": false,
+          "first": {
+            "page": "193",
+            "line": "22"
+          }
+        },
+        {
+          "n": "114",
+          "label": "Chapter 114",
+          "context": false,
+          "first": {
+            "page": "194",
+            "line": "9"
+          }
+        },
+        {
+          "n": "115",
+          "label": "Chapter 115",
+          "context": false,
+          "first": {
+            "page": "194",
+            "line": "24"
+          }
+        },
+        {
+          "n": "116",
+          "label": "Chapter 116",
+          "context": false,
+          "first": {
+            "page": "195",
+            "line": "1"
+          }
+        },
+        {
+          "n": "117",
+          "label": "Chapter 117",
+          "context": false,
+          "first": {
+            "page": "195",
+            "line": "5"
+          }
+        },
+        {
+          "n": "118",
+          "label": "Chapter 118",
+          "context": false,
+          "first": {
+            "page": "195",
+            "line": "12"
+          }
+        },
+        {
+          "n": "119",
+          "label": "Chapter 119",
+          "context": false,
+          "first": {
+            "page": "195",
+            "line": "22"
+          }
+        },
+        {
+          "n": "120",
+          "label": "Chapter 120",
+          "context": false,
+          "first": {
+            "page": "195",
+            "line": "26"
+          }
+        },
+        {
+          "n": "121",
+          "label": "Chapter 121",
+          "context": false,
+          "first": {
+            "page": "196",
+            "line": "26"
+          }
+        },
+        {
+          "n": "122",
+          "label": "Chapter 122",
+          "context": false,
+          "first": {
+            "page": "198",
+            "line": "9"
+          }
+        },
+        {
+          "n": "123",
+          "label": "Chapter 123",
+          "context": false,
+          "first": {
+            "page": "198",
+            "line": "22"
+          }
+        },
+        {
+          "n": "124",
+          "label": "Chapter 124",
+          "context": false,
+          "first": {
+            "page": "198",
+            "line": "29"
+          }
+        },
+        {
+          "n": "125",
+          "label": "Chapter 125",
+          "context": false,
+          "first": {
+            "page": "199",
+            "line": "7"
+          }
+        },
+        {
+          "n": "126",
+          "label": "Chapter 126",
+          "context": false,
+          "first": {
+            "page": "199",
+            "line": "9"
+          }
+        },
+        {
+          "n": "127",
+          "label": "Chapter 127",
+          "context": false,
+          "first": {
+            "page": "199",
+            "line": "17"
+          }
+        },
+        {
+          "n": "128",
+          "label": "Chapter 128",
+          "context": false,
+          "first": {
+            "page": "199",
+            "line": "27"
+          }
+        },
+        {
+          "n": "129",
+          "label": "Chapter 129",
+          "context": false,
+          "first": {
+            "page": "200",
+            "line": "3"
+          }
+        },
+        {
+          "n": "130",
+          "label": "Chapter 130",
+          "context": false,
+          "first": {
+            "page": "200",
+            "line": "6"
+          }
+        },
+        {
+          "n": "131",
+          "label": "Chapter 131",
+          "context": false,
+          "first": {
+            "page": "200",
+            "line": "27"
+          }
+        },
+        {
+          "n": "132",
+          "label": "Chapter 132",
+          "context": false,
+          "first": {
+            "page": "201",
+            "line": "1"
+          }
+        },
+        {
+          "n": "133",
+          "label": "Chapter 133",
+          "context": false,
+          "first": {
+            "page": "201",
+            "line": "3"
+          }
+        },
+        {
+          "n": "134",
+          "label": "Chapter 134",
+          "context": false,
+          "first": {
+            "page": "201",
+            "line": "19"
+          }
+        },
+        {
+          "n": "135",
+          "label": "Chapter 135",
+          "context": false,
+          "first": {
+            "page": "202",
+            "line": "15"
+          }
+        },
+        {
+          "n": "136",
+          "label": "Chapter 136",
+          "context": false,
+          "first": {
+            "page": "202",
+            "line": "27"
+          }
+        },
+        {
+          "n": "137",
+          "label": "Chapter 137",
+          "context": false,
+          "first": {
+            "page": "204",
+            "line": "10"
+          }
+        },
+        {
+          "n": "138",
+          "label": "Chapter 138",
+          "context": false,
+          "first": {
+            "page": "204",
+            "line": "18"
+          }
+        },
+        {
+          "n": "139",
+          "label": "Chapter 139",
+          "context": false,
+          "first": {
+            "page": "204",
+            "line": "22"
+          }
+        },
+        {
+          "n": "140",
+          "label": "Chapter 140",
+          "context": false,
+          "first": {
+            "page": "205",
+            "line": "1"
+          }
+        },
+        {
+          "n": "141",
+          "label": "Chapter 141",
+          "context": false,
+          "first": {
+            "page": "205",
+            "line": "7"
+          }
+        },
+        {
+          "n": "142",
+          "label": "Chapter 142",
+          "context": false,
+          "first": {
+            "page": "205",
+            "line": "15"
+          }
+        },
+        {
+          "n": "143",
+          "label": "Chapter 143",
+          "context": false,
+          "first": {
+            "page": "205",
+            "line": "19"
+          }
+        },
+        {
+          "n": "144",
+          "label": "Chapter 144",
+          "context": false,
+          "first": {
+            "page": "205",
+            "line": "24"
+          }
+        },
+        {
+          "n": "145",
+          "label": "Chapter 145",
+          "context": false,
+          "first": {
+            "page": "206",
+            "line": "13"
+          }
+        },
+        {
+          "n": "146",
+          "label": "Chapter 146",
+          "context": false,
+          "first": {
+            "page": "206",
+            "line": "21"
+          }
+        },
+        {
+          "n": "147",
+          "label": "Chapter 147",
+          "context": false,
+          "first": {
+            "page": "206",
+            "line": "27"
+          }
+        },
+        {
+          "n": "148",
+          "label": "Chapter 148",
+          "context": false,
+          "first": {
+            "page": "207",
+            "line": "5"
+          }
+        },
+        {
+          "n": "149",
+          "label": "Chapter 149",
+          "context": false,
+          "first": {
+            "page": "207",
+            "line": "9"
+          }
+        },
+        {
+          "n": "150",
+          "label": "Chapter 150",
+          "context": false,
+          "first": {
+            "page": "207",
+            "line": "23"
+          }
+        },
+        {
+          "n": "151",
+          "label": "Chapter 151",
+          "context": false,
+          "first": {
+            "page": "207",
+            "line": "26"
+          }
+        },
+        {
+          "n": "152",
+          "label": "Chapter 152",
+          "context": false,
+          "first": {
+            "page": "208",
+            "line": "8"
+          }
+        },
+        {
+          "n": "153",
+          "label": "Chapter 153",
+          "context": false,
+          "first": {
+            "page": "209",
+            "line": "16"
+          }
+        },
+        {
+          "n": "154",
+          "label": "Chapter 154",
+          "context": false,
+          "first": {
+            "page": "209",
+            "line": "24"
+          }
+        },
+        {
+          "n": "155",
+          "label": "Chapter 155",
+          "context": false,
+          "first": {
+            "page": "209",
+            "line": "28"
+          }
+        },
+        {
+          "n": "156",
+          "label": "Chapter 156",
+          "context": false,
+          "first": {
+            "page": "210",
+            "line": "10"
+          }
+        },
+        {
+          "n": "157",
+          "label": "Chapter 157",
+          "context": false,
+          "first": {
+            "page": "210",
+            "line": "20"
+          }
+        },
+        {
+          "n": "158",
+          "label": "Chapter 158",
+          "context": false,
+          "first": {
+            "page": "210",
+            "line": "28"
+          }
+        },
+        {
+          "n": "159",
+          "label": "Chapter 159",
+          "context": false,
+          "first": {
+            "page": "210",
+            "line": "31"
+          }
+        },
+        {
+          "n": "160",
+          "label": "Chapter 160",
+          "context": false,
+          "first": {
+            "page": "211",
+            "line": "11"
+          }
+        },
+        {
+          "n": "161",
+          "label": "Chapter 161",
+          "context": false,
+          "first": {
+            "page": "211",
+            "line": "13"
+          }
+        },
+        {
+          "n": "162",
+          "label": "Chapter 162",
+          "context": false,
+          "first": {
+            "page": "211",
+            "line": "20"
+          }
+        },
+        {
+          "n": "163",
+          "label": "Chapter 163",
+          "context": false,
+          "first": {
+            "page": "212",
+            "line": "1"
+          }
+        },
+        {
+          "n": "164",
+          "label": "Chapter 164",
+          "context": false,
+          "first": {
+            "page": "212",
+            "line": "3"
+          }
+        },
+        {
+          "n": "165",
+          "label": "Chapter 165",
+          "context": false,
+          "first": {
+            "page": "212",
+            "line": "20"
+          }
+        },
+        {
+          "n": "166",
+          "label": "Chapter 166",
+          "context": false,
+          "first": {
+            "page": "212",
+            "line": "22"
+          }
+        },
+        {
+          "n": "167",
+          "label": "Chapter 167",
+          "context": false,
+          "first": {
+            "page": "213",
+            "line": "1"
+          }
+        },
+        {
+          "n": "168",
+          "label": "Chapter 168",
+          "context": false,
+          "first": {
+            "page": "213",
+            "line": "5"
+          }
+        },
+        {
+          "n": "169",
+          "label": "Chapter 169",
+          "context": false,
+          "first": {
+            "page": "214",
+            "line": "21"
+          }
+        },
+        {
+          "n": "170",
+          "label": "Chapter 170",
+          "context": false,
+          "first": {
+            "page": "214",
+            "line": "25"
+          }
+        },
+        {
+          "n": "171",
+          "label": "Chapter 171",
+          "context": false,
+          "first": {
+            "page": "215",
+            "line": "16"
+          }
+        },
+        {
+          "n": "172",
+          "label": "Chapter 172",
+          "context": false,
+          "first": {
+            "page": "215",
+            "line": "20"
+          }
+        },
+        {
+          "n": "173",
+          "label": "Chapter 173",
+          "context": false,
+          "first": {
+            "page": "216",
+            "line": "21"
+          }
+        },
+        {
+          "n": "174",
+          "label": "Chapter 174",
+          "context": false,
+          "first": {
+            "page": "216",
+            "line": "24"
+          }
+        },
+        {
+          "n": "175",
+          "label": "Chapter 175",
+          "context": false,
+          "first": {
+            "page": "217",
+            "line": "5"
+          }
+        },
+        {
+          "n": "176",
+          "label": "Chapter 176",
+          "context": false,
+          "first": {
+            "page": "218",
+            "line": "1"
+          }
+        },
+        {
+          "n": "177",
+          "label": "Chapter 177",
+          "context": false,
+          "first": {
+            "page": "218",
+            "line": "4"
+          }
+        },
+        {
+          "n": "178",
+          "label": "Chapter 178",
+          "context": false,
+          "first": {
+            "page": "219",
+            "line": "1"
+          }
+        },
+        {
+          "n": "179",
+          "label": "Chapter 179",
+          "context": false,
+          "first": {
+            "page": "219",
+            "line": "4"
+          }
+        },
+        {
+          "n": "180",
+          "label": "Chapter 180",
+          "context": false,
+          "first": {
+            "page": "219",
+            "line": "7"
+          }
+        },
+        {
+          "n": "181",
+          "label": "Chapter 181",
+          "context": false,
+          "first": {
+            "page": "219",
+            "line": "9"
+          }
+        },
+        {
+          "n": "182",
+          "label": "Chapter 182",
+          "context": false,
+          "first": {
+            "page": "219",
+            "line": "13"
+          }
+        },
+        {
+          "n": "183",
+          "label": "Chapter 183",
+          "context": false,
+          "first": {
+            "page": "219",
+            "line": "19"
+          }
+        },
+        {
+          "n": "184",
+          "label": "Chapter 184",
+          "context": false,
+          "first": {
+            "page": "220",
+            "line": "31"
+          }
+        },
+        {
+          "n": "185",
+          "label": "Chapter 185",
+          "context": false,
+          "first": {
+            "page": "221",
+            "line": "3"
+          }
+        },
+        {
+          "n": "186",
+          "label": "Chapter 186",
+          "context": false,
+          "first": {
+            "page": "221",
+            "line": "6"
+          }
+        },
+        {
+          "n": "187",
+          "label": "Chapter 187",
+          "context": false,
+          "first": {
+            "page": "221",
+            "line": "9"
+          }
+        },
+        {
+          "n": "188",
+          "label": "Chapter 188",
+          "context": false,
+          "first": {
+            "page": "221",
+            "line": "30"
+          }
+        },
+        {
+          "n": "189",
+          "label": "Chapter 189",
+          "context": false,
+          "first": {
+            "page": "222",
+            "line": "4"
+          }
+        },
+        {
+          "n": "190",
+          "label": "Chapter 190",
+          "context": false,
+          "first": {
+            "page": "222",
+            "line": "6"
+          }
+        },
+        {
+          "n": "191",
+          "label": "Chapter 191",
+          "context": false,
+          "first": {
+            "page": "222",
+            "line": "15"
+          }
+        },
+        {
+          "n": "192",
+          "label": "Chapter 192",
+          "context": false,
+          "first": {
+            "page": "222",
+            "line": "19"
+          }
+        },
+        {
+          "n": "193",
+          "label": "Chapter 193",
+          "context": false,
+          "first": {
+            "page": "222",
+            "line": "22"
+          }
+        },
+        {
+          "n": "194",
+          "label": "Chapter 194",
+          "context": false,
+          "first": {
+            "page": "222",
+            "line": "26"
+          }
+        },
+        {
+          "n": "195",
+          "label": "Chapter 195",
+          "context": false,
+          "first": {
+            "page": "223",
+            "line": "1"
+          }
+        },
+        {
+          "n": "196",
+          "label": "Chapter 196",
+          "context": false,
+          "first": {
+            "page": "223",
+            "line": "5"
+          }
+        },
+        {
+          "n": "197",
+          "label": "Chapter 197",
+          "context": false,
+          "first": {
+            "page": "226",
+            "line": "10"
+          }
+        },
+        {
+          "n": "198",
+          "label": "Chapter 198",
+          "context": false,
+          "first": {
+            "page": "226",
+            "line": "16"
+          }
+        },
+        {
+          "n": "199",
+          "label": "Chapter 199",
+          "context": false,
+          "first": {
+            "page": "227",
+            "line": "1"
+          }
+        },
+        {
+          "n": "200",
+          "label": "Chapter 200",
+          "context": false,
+          "first": {
+            "page": "227",
+            "line": "4"
+          }
+        },
+        {
+          "n": "201",
+          "label": "Chapter 201",
+          "context": false,
+          "first": {
+            "page": "227",
+            "line": "11"
+          }
+        },
+        {
+          "n": "202",
+          "label": "Chapter 202",
+          "context": false,
+          "first": {
+            "page": "227",
+            "line": "21"
+          }
+        },
+        {
+          "n": "203",
+          "label": "Chapter 203",
+          "context": false,
+          "first": {
+            "page": "227",
+            "line": "24"
+          }
+        },
+        {
+          "n": "204",
+          "label": "Chapter 204",
+          "context": false,
+          "first": {
+            "page": "228",
+            "line": "13"
+          }
+        },
+        {
+          "n": "205",
+          "label": "Chapter 205",
+          "context": false,
+          "first": {
+            "page": "228",
+            "line": "15"
+          }
+        },
+        {
+          "n": "206",
+          "label": "Chapter 206",
+          "context": false,
+          "first": {
+            "page": "228",
+            "line": "19"
+          }
+        },
+        {
+          "n": "207",
+          "label": "Chapter 207",
+          "context": false,
+          "first": {
+            "page": "228",
+            "line": "22"
+          }
+        },
+        {
+          "n": "208",
+          "label": "Chapter 208",
+          "context": false,
+          "first": {
+            "page": "228",
+            "line": "23"
+          }
+        },
+        {
+          "n": "209",
+          "label": "Chapter 209",
+          "context": false,
+          "first": {
+            "page": "229",
+            "line": "13"
+          }
+        },
+        {
+          "n": "210",
+          "label": "Chapter 210",
+          "context": false,
+          "first": {
+            "page": "230",
+            "line": "5"
+          }
+        },
+        {
+          "n": "211",
+          "label": "Chapter 211",
+          "context": false,
+          "first": {
+            "page": "230",
+            "line": "8"
+          }
+        },
+        {
+          "n": "212",
+          "label": "Chapter 212",
+          "context": false,
+          "first": {
+            "page": "230",
+            "line": "15"
+          }
+        },
+        {
+          "n": "213",
+          "label": "Chapter 213",
+          "context": false,
+          "first": {
+            "page": "230",
+            "line": "23"
+          }
+        },
+        {
+          "n": "214",
+          "label": "Chapter 214",
+          "context": false,
+          "first": {
+            "page": "230",
+            "line": "25"
+          }
+        },
+        {
+          "n": "215",
+          "label": "Chapter 215",
+          "context": false,
+          "first": {
+            "page": "231",
+            "line": "1"
+          }
+        },
+        {
+          "n": "216",
+          "label": "Chapter 216",
+          "context": false,
+          "first": {
+            "page": "231",
+            "line": "4"
+          }
+        },
+        {
+          "n": "217",
+          "label": "Chapter 217",
+          "context": false,
+          "first": {
+            "page": "231",
+            "line": "7"
+          }
+        },
+        {
+          "n": "218",
+          "label": "Chapter 218",
+          "context": false,
+          "first": {
+            "page": "231",
+            "line": "14"
+          }
+        },
+        {
+          "n": "219",
+          "label": "Chapter 219",
+          "context": false,
+          "first": {
+            "page": "232",
+            "line": "4"
+          }
+        },
+        {
+          "n": "220",
+          "label": "Chapter 220",
+          "context": false,
+          "first": {
+            "page": "232",
+            "line": "6"
+          }
+        },
+        {
+          "n": "221",
+          "label": "Chapter 221",
+          "context": false,
+          "first": {
+            "page": "232",
+            "line": "8"
+          }
+        },
+        {
+          "n": "222",
+          "label": "Chapter 222",
+          "context": false,
+          "first": {
+            "page": "232",
+            "line": "12"
+          }
+        },
+        {
+          "n": "223",
+          "label": "Chapter 223",
+          "context": false,
+          "first": {
+            "page": "232",
+            "line": "15"
+          }
+        },
+        {
+          "n": "224",
+          "label": "Chapter 224",
+          "context": false,
+          "first": {
+            "page": "232",
+            "line": "23"
+          }
+        },
+        {
+          "n": "225",
+          "label": "Chapter 225",
+          "context": false,
+          "first": {
+            "page": "233",
+            "line": "10"
+          }
+        },
+        {
+          "n": "226",
+          "label": "Chapter 226",
+          "context": false,
+          "first": {
+            "page": "234",
+            "line": "1"
+          }
+        },
+        {
+          "n": "227",
+          "label": "Chapter 227",
+          "context": false,
+          "first": {
+            "page": "234",
+            "line": "5"
+          }
+        },
+        {
+          "n": "228",
+          "label": "Chapter 228",
+          "context": false,
+          "first": {
+            "page": "234",
+            "line": "9"
+          }
+        },
+        {
+          "n": "229",
+          "label": "Chapter 229",
+          "context": false,
+          "first": {
+            "page": "234",
+            "line": "12"
+          }
+        },
+        {
+          "n": "230",
+          "label": "Chapter 230",
+          "context": false,
+          "first": {
+            "page": "234",
+            "line": "14"
+          }
+        },
+        {
+          "n": "231",
+          "label": "Chapter 231",
+          "context": false,
+          "first": {
+            "page": "234",
+            "line": "18"
+          }
+        },
+        {
+          "n": "232",
+          "label": "Chapter 232",
+          "context": false,
+          "first": {
+            "page": "235",
+            "line": "4"
+          }
+        },
+        {
+          "n": "233",
+          "label": "Chapter 233",
+          "context": false,
+          "first": {
+            "page": "235",
+            "line": "7"
+          }
+        },
+        {
+          "n": "234",
+          "label": "Chapter 234",
+          "context": false,
+          "first": {
+            "page": "235",
+            "line": "13"
+          }
+        },
+        {
+          "n": "235",
+          "label": "Chapter 235",
+          "context": false,
+          "first": {
+            "page": "235",
+            "line": "21"
+          }
+        },
+        {
+          "n": "236",
+          "label": "Chapter 236",
+          "context": false,
+          "first": {
+            "page": "236",
+            "line": "11"
+          }
+        },
+        {
+          "n": "237",
+          "label": "Chapter 237",
+          "context": false,
+          "first": {
+            "page": "236",
+            "line": "17"
+          }
+        },
+        {
+          "n": "238",
+          "label": "Chapter 238",
+          "context": false,
+          "first": {
+            "page": "236",
+            "line": "23"
+          }
+        },
+        {
+          "n": "239",
+          "label": "Chapter 239",
+          "context": false,
+          "first": {
+            "page": "237",
+            "line": "4"
+          }
+        },
+        {
+          "n": "240",
+          "label": "Chapter 240",
+          "context": false,
+          "first": {
+            "page": "238",
+            "line": "4"
+          }
+        },
+        {
+          "n": "241",
+          "label": "Chapter 241",
+          "context": false,
+          "first": {
+            "page": "239",
+            "line": "22"
+          }
+        },
+        {
+          "n": "242",
+          "label": "Chapter 242",
+          "context": false,
+          "first": {
+            "page": "240",
+            "line": "14"
+          }
+        },
+        {
+          "n": "243",
+          "label": "Chapter 243",
+          "context": false,
+          "first": {
+            "page": "241",
+            "line": "1"
+          }
+        },
+        {
+          "n": "244",
+          "label": "Chapter 244",
+          "context": false,
+          "first": {
+            "page": "241",
+            "line": "7"
+          }
+        },
+        {
+          "n": "245",
+          "label": "Chapter 245",
+          "context": false,
+          "first": {
+            "page": "241",
+            "line": "14"
+          }
+        },
+        {
+          "n": "246",
+          "label": "Chapter 246",
+          "context": false,
+          "first": {
+            "page": "241",
+            "line": "18"
+          }
+        },
+        {
+          "n": "247",
+          "label": "Chapter 247",
+          "context": false,
+          "first": {
+            "page": "241",
+            "line": "27"
+          }
+        },
+        {
+          "n": "248",
+          "label": "Chapter 248",
+          "context": false,
+          "first": {
+            "page": "242",
+            "line": "3"
+          }
+        },
+        {
+          "n": "249",
+          "label": "Chapter 249",
+          "context": false,
+          "first": {
+            "page": "242",
+            "line": "9"
+          }
+        },
+        {
+          "n": "250",
+          "label": "Chapter 250",
+          "context": false,
+          "first": {
+            "page": "242",
+            "line": "11"
+          }
+        },
+        {
+          "n": "251",
+          "label": "Chapter 251",
+          "context": false,
+          "first": {
+            "page": "243",
+            "line": "6"
+          }
+        },
+        {
+          "n": "252",
+          "label": "Chapter 252",
+          "context": false,
+          "first": {
+            "page": "244",
+            "line": "1"
+          }
+        },
+        {
+          "n": "253",
+          "label": "Chapter 253",
+          "context": false,
+          "first": {
+            "page": "244",
+            "line": "25"
+          }
+        },
+        {
+          "n": "254",
+          "label": "Chapter 254",
+          "context": false,
+          "first": {
+            "page": "246",
+            "line": "10"
+          }
+        },
+        {
+          "n": "255",
+          "label": "Chapter 255",
+          "context": false,
+          "first": {
+            "page": "247",
+            "line": "3"
+          }
+        },
+        {
+          "n": "256",
+          "label": "Chapter 256",
+          "context": false,
+          "first": {
+            "page": "248",
+            "line": "1"
+          }
+        },
+        {
+          "n": "257",
+          "label": "Chapter 257",
+          "context": false,
+          "first": {
+            "page": "248",
+            "line": "13"
+          }
+        },
+        {
+          "n": "258",
+          "label": "Chapter 258",
+          "context": false,
+          "first": {
+            "page": "248",
+            "line": "24"
+          }
+        },
+        {
+          "n": "259",
+          "label": "Chapter 259",
+          "context": false,
+          "first": {
+            "page": "249",
+            "line": "3"
+          }
+        },
+        {
+          "n": "260",
+          "label": "Chapter 260",
+          "context": false,
+          "first": {
+            "page": "249",
+            "line": "12"
+          }
+        },
+        {
+          "n": "261",
+          "label": "Chapter 261",
+          "context": false,
+          "first": {
+            "page": "250",
+            "line": "12"
+          }
+        },
+        {
+          "n": "262",
+          "label": "Chapter 262",
+          "context": false,
+          "first": {
+            "page": "251",
+            "line": "1"
+          }
+        },
+        {
+          "n": "263",
+          "label": "Chapter 263",
+          "context": false,
+          "first": {
+            "page": "251",
+            "line": "8"
+          }
+        },
+        {
+          "n": "264",
+          "label": "Chapter 264",
+          "context": false,
+          "first": {
+            "page": "251",
+            "line": "15"
+          }
+        },
+        {
+          "n": "265",
+          "label": "Chapter 265",
+          "context": false,
+          "first": {
+            "page": "251",
+            "line": "22"
+          }
+        },
+        {
+          "n": "266",
+          "label": "Chapter 266",
+          "context": false,
+          "first": {
+            "page": "253",
+            "line": "11"
+          }
+        },
+        {
+          "n": "267",
+          "label": "Chapter 267",
+          "context": false,
+          "first": {
+            "page": "254",
+            "line": "7"
+          }
+        },
+        {
+          "n": "268",
+          "label": "Chapter 268",
+          "context": false,
+          "first": {
+            "page": "254",
+            "line": "16"
+          }
+        },
+        {
+          "n": "269",
+          "label": "Chapter 269",
+          "context": false,
+          "first": {
+            "page": "255",
+            "line": "1"
+          }
+        },
+        {
+          "n": "270",
+          "label": "Chapter 270",
+          "context": false,
+          "first": {
+            "page": "255",
+            "line": "9"
+          }
+        },
+        {
+          "n": "271",
+          "label": "Chapter 271",
+          "context": false,
+          "first": {
+            "page": "255",
+            "line": "14"
+          }
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "n": "f1",
+      "first_chapter": {
+        "book": "front",
+        "n": "title"
+      }
+    },
+    {
+      "n": "f2",
+      "first_chapter": {
+        "book": "front",
+        "n": "title"
+      }
+    },
+    {
+      "n": "f3",
+      "first_chapter": {
+        "book": "front",
+        "n": "title"
+      }
+    },
+    {
+      "n": "V",
+      "first_chapter": {
+        "book": "front",
+        "n": "preface"
+      }
+    },
+    {
+      "n": "VI",
+      "first_chapter": {
+        "book": "front",
+        "n": "preface"
+      }
+    },
+    {
+      "n": "VII",
+      "first_chapter": {
+        "book": "front",
+        "n": "preface"
+      }
+    },
+    {
+      "n": "VIII",
+      "first_chapter": {
+        "book": "front",
+        "n": "preface"
+      }
+    },
+    {
+      "n": "IX",
+      "first_chapter": {
+        "book": "front",
+        "n": "preface"
+      }
+    },
+    {
+      "n": "X",
+      "first_chapter": {
+        "book": "front",
+        "n": "preface"
+      }
+    },
+    {
+      "n": "XI",
+      "first_chapter": {
+        "book": "front",
+        "n": "preface"
+      }
+    },
+    {
+      "n": "XII",
+      "first_chapter": {
+        "book": "front",
+        "n": "preface"
+      }
+    },
+    {
+      "n": "XIII",
+      "first_chapter": {
+        "book": "front",
+        "n": "preface"
+      }
+    },
+    {
+      "n": "XIV",
+      "first_chapter": {
+        "book": "front",
+        "n": "preface"
+      }
+    },
+    {
+      "n": "XV",
+      "first_chapter": {
+        "book": "front",
+        "n": "corrigenda"
+      }
+    },
+    {
+      "n": "f15",
+      "first_chapter": {
+        "book": "front",
+        "n": "sigla"
+      }
+    },
+    {
+      "n": "1",
+      "first_chapter": {
+        "book": "front",
+        "n": "photius"
+      }
+    },
+    {
+      "n": "2",
+      "first_chapter": {
+        "book": "front",
+        "n": "photius"
+      }
+    },
+    {
+      "n": "3",
+      "first_chapter": {
+        "book": "front",
+        "n": "photius"
+      }
+    },
+    {
+      "n": "4",
+      "first_chapter": {
+        "book": "front",
+        "n": "photius"
+      }
+    },
+    {
+      "n": "5",
+      "first_chapter": {
+        "book": "front",
+        "n": "photius"
+      }
+    },
+    {
+      "n": "6",
+      "first_chapter": {
+        "book": "front",
+        "n": "photius"
+      }
+    },
+    {
+      "n": "7",
+      "first_chapter": {
+        "book": "front",
+        "n": "photius"
+      }
+    },
+    {
+      "n": "8",
+      "first_chapter": {
+        "book": "front",
+        "n": "photius"
+      }
+    },
+    {
+      "n": "9",
+      "first_chapter": {
+        "book": "front",
+        "n": "photius"
+      }
+    },
+    {
+      "n": "10",
+      "first_chapter": {
+        "book": "1",
+        "n": "pin"
+      }
+    },
+    {
+      "n": "11",
+      "first_chapter": {
+        "book": "1",
+        "n": "pin"
+      }
+    },
+    {
+      "n": "12",
+      "first_chapter": {
+        "book": "1",
+        "n": "pin"
+      }
+    },
+    {
+      "n": "13",
+      "first_chapter": {
+        "book": "1",
+        "n": "pin"
+      }
+    },
+    {
+      "n": "14",
+      "first_chapter": {
+        "book": "1",
+        "n": "pin"
+      }
+    },
+    {
+      "n": "15",
+      "first_chapter": {
+        "book": "1",
+        "n": "pin"
+      }
+    },
+    {
+      "n": "16",
+      "first_chapter": {
+        "book": "1",
+        "n": "pin"
+      }
+    },
+    {
+      "n": "17",
+      "first_chapter": {
+        "book": "1",
+        "n": "t"
+      }
+    },
+    {
+      "n": "18",
+      "first_chapter": {
+        "book": "1",
+        "n": "pr"
+      }
+    },
+    {
+      "n": "19",
+      "first_chapter": {
+        "book": "1",
+        "n": "pr"
+      }
+    },
+    {
+      "n": "20",
+      "first_chapter": {
+        "book": "1",
+        "n": "pr"
+      }
+    },
+    {
+      "n": "21",
+      "first_chapter": {
+        "book": "1",
+        "n": "pr"
+      }
+    },
+    {
+      "n": "22",
+      "first_chapter": {
+        "book": "1",
+        "n": "pr"
+      }
+    },
+    {
+      "n": "23",
+      "first_chapter": {
+        "book": "1",
+        "n": "pr"
+      }
+    },
+    {
+      "n": "24",
+      "first_chapter": {
+        "book": "1",
+        "n": "pr"
+      }
+    },
+    {
+      "n": "25",
+      "first_chapter": {
+        "book": "1",
+        "n": "pr"
+      }
+    },
+    {
+      "n": "26",
+      "first_chapter": {
+        "book": "1",
+        "n": "pr"
+      }
+    },
+    {
+      "n": "27",
+      "first_chapter": {
+        "book": "1",
+        "n": "pr"
+      }
+    },
+    {
+      "n": "28",
+      "first_chapter": {
+        "book": "1",
+        "n": "pr"
+      }
+    },
+    {
+      "n": "29",
+      "first_chapter": {
+        "book": "1",
+        "n": "pr"
+      }
+    },
+    {
+      "n": "30",
+      "first_chapter": {
+        "book": "1",
+        "n": "pr"
+      }
+    },
+    {
+      "n": "31",
+      "first_chapter": {
+        "book": "1",
+        "n": "3"
+      }
+    },
+    {
+      "n": "32",
+      "first_chapter": {
+        "book": "1",
+        "n": "5"
+      }
+    },
+    {
+      "n": "33",
+      "first_chapter": {
+        "book": "1",
+        "n": "7"
+      }
+    },
+    {
+      "n": "34",
+      "first_chapter": {
+        "book": "1",
+        "n": "13"
+      }
+    },
+    {
+      "n": "35",
+      "first_chapter": {
+        "book": "1",
+        "n": "17"
+      }
+    },
+    {
+      "n": "36",
+      "first_chapter": {
+        "book": "1",
+        "n": "21"
+      }
+    },
+    {
+      "n": "37",
+      "first_chapter": {
+        "book": "1",
+        "n": "26"
+      }
+    },
+    {
+      "n": "38",
+      "first_chapter": {
+        "book": "1",
+        "n": "31"
+      }
+    },
+    {
+      "n": "39",
+      "first_chapter": {
+        "book": "1",
+        "n": "35"
+      }
+    },
+    {
+      "n": "40",
+      "first_chapter": {
+        "book": "1",
+        "n": "37"
+      }
+    },
+    {
+      "n": "41",
+      "first_chapter": {
+        "book": "1",
+        "n": "40"
+      }
+    },
+    {
+      "n": "42",
+      "first_chapter": {
+        "book": "1",
+        "n": "43"
+      }
+    },
+    {
+      "n": "43",
+      "first_chapter": {
+        "book": "1",
+        "n": "48"
+      }
+    },
+    {
+      "n": "44",
+      "first_chapter": {
+        "book": "1",
+        "n": "52"
+      }
+    },
+    {
+      "n": "45",
+      "first_chapter": {
+        "book": "1",
+        "n": "56"
+      }
+    },
+    {
+      "n": "46",
+      "first_chapter": {
+        "book": "1",
+        "n": "59"
+      }
+    },
+    {
+      "n": "47",
+      "first_chapter": {
+        "book": "1",
+        "n": "63"
+      }
+    },
+    {
+      "n": "48",
+      "first_chapter": {
+        "book": "1",
+        "n": "69"
+      }
+    },
+    {
+      "n": "49",
+      "first_chapter": {
+        "book": "1",
+        "n": "75"
+      }
+    },
+    {
+      "n": "50",
+      "first_chapter": {
+        "book": "1",
+        "n": "83"
+      }
+    },
+    {
+      "n": "51",
+      "first_chapter": {
+        "book": "1",
+        "n": "86"
+      }
+    },
+    {
+      "n": "52",
+      "first_chapter": {
+        "book": "1",
+        "n": "93"
+      }
+    },
+    {
+      "n": "53",
+      "first_chapter": {
+        "book": "1",
+        "n": "95"
+      }
+    },
+    {
+      "n": "54",
+      "first_chapter": {
+        "book": "1",
+        "n": "100"
+      }
+    },
+    {
+      "n": "55",
+      "first_chapter": {
+        "book": "1",
+        "n": "101"
+      }
+    },
+    {
+      "n": "56",
+      "first_chapter": {
+        "book": "1",
+        "n": "107"
+      }
+    },
+    {
+      "n": "57",
+      "first_chapter": {
+        "book": "1",
+        "n": "110"
+      }
+    },
+    {
+      "n": "58",
+      "first_chapter": {
+        "book": "1",
+        "n": "113"
+      }
+    },
+    {
+      "n": "59",
+      "first_chapter": {
+        "book": "1",
+        "n": "113"
+      }
+    },
+    {
+      "n": "60",
+      "first_chapter": {
+        "book": "1",
+        "n": "116"
+      }
+    },
+    {
+      "n": "61",
+      "first_chapter": {
+        "book": "1",
+        "n": "118"
+      }
+    },
+    {
+      "n": "62",
+      "first_chapter": {
+        "book": "1",
+        "n": "121"
+      }
+    },
+    {
+      "n": "63",
+      "first_chapter": {
+        "book": "1",
+        "n": "124"
+      }
+    },
+    {
+      "n": "64",
+      "first_chapter": {
+        "book": "1",
+        "n": "128"
+      }
+    },
+    {
+      "n": "65",
+      "first_chapter": {
+        "book": "1",
+        "n": "130"
+      }
+    },
+    {
+      "n": "66",
+      "first_chapter": {
+        "book": "1",
+        "n": "131"
+      }
+    },
+    {
+      "n": "67",
+      "first_chapter": {
+        "book": "1",
+        "n": "132"
+      }
+    },
+    {
+      "n": "68",
+      "first_chapter": {
+        "book": "1",
+        "n": "133"
+      }
+    },
+    {
+      "n": "69",
+      "first_chapter": {
+        "book": "1",
+        "n": "135"
+      }
+    },
+    {
+      "n": "70",
+      "first_chapter": {
+        "book": "1",
+        "n": "139"
+      }
+    },
+    {
+      "n": "71",
+      "first_chapter": {
+        "book": "1",
+        "n": "141"
+      }
+    },
+    {
+      "n": "72",
+      "first_chapter": {
+        "book": "1",
+        "n": "145"
+      }
+    },
+    {
+      "n": "73",
+      "first_chapter": {
+        "book": "1",
+        "n": "148"
+      }
+    },
+    {
+      "n": "74",
+      "first_chapter": {
+        "book": "1",
+        "n": "156"
+      }
+    },
+    {
+      "n": "75",
+      "first_chapter": {
+        "book": "1",
+        "n": "160"
+      }
+    },
+    {
+      "n": "76",
+      "first_chapter": {
+        "book": "1",
+        "n": "164"
+      }
+    },
+    {
+      "n": "77",
+      "first_chapter": {
+        "book": "1",
+        "n": "166"
+      }
+    },
+    {
+      "n": "78",
+      "first_chapter": {
+        "book": "1",
+        "n": "171"
+      }
+    },
+    {
+      "n": "79",
+      "first_chapter": {
+        "book": "1",
+        "n": "174"
+      }
+    },
+    {
+      "n": "80",
+      "first_chapter": {
+        "book": "1",
+        "n": "175"
+      }
+    },
+    {
+      "n": "81",
+      "first_chapter": {
+        "book": "1",
+        "n": "178"
+      }
+    },
+    {
+      "n": "82",
+      "first_chapter": {
+        "book": "1",
+        "n": "180"
+      }
+    },
+    {
+      "n": "83",
+      "first_chapter": {
+        "book": "1",
+        "n": "183"
+      }
+    },
+    {
+      "n": "84",
+      "first_chapter": {
+        "book": "1",
+        "n": "185"
+      }
+    },
+    {
+      "n": "85",
+      "first_chapter": {
+        "book": "1",
+        "n": "189"
+      }
+    },
+    {
+      "n": "86",
+      "first_chapter": {
+        "book": "1",
+        "n": "192"
+      }
+    },
+    {
+      "n": "87",
+      "first_chapter": {
+        "book": "1",
+        "n": "193"
+      }
+    },
+    {
+      "n": "88",
+      "first_chapter": {
+        "book": "1",
+        "n": "197"
+      }
+    },
+    {
+      "n": "89",
+      "first_chapter": {
+        "book": "1",
+        "n": "201"
+      }
+    },
+    {
+      "n": "90",
+      "first_chapter": {
+        "book": "1",
+        "n": "204"
+      }
+    },
+    {
+      "n": "91",
+      "first_chapter": {
+        "book": "1",
+        "n": "208"
+      }
+    },
+    {
+      "n": "92",
+      "first_chapter": {
+        "book": "1",
+        "n": "212"
+      }
+    },
+    {
+      "n": "93",
+      "first_chapter": {
+        "book": "1",
+        "n": "217"
+      }
+    },
+    {
+      "n": "94",
+      "first_chapter": {
+        "book": "1",
+        "n": "221"
+      }
+    },
+    {
+      "n": "95",
+      "first_chapter": {
+        "book": "1",
+        "n": "224"
+      }
+    },
+    {
+      "n": "96",
+      "first_chapter": {
+        "book": "1",
+        "n": "227"
+      }
+    },
+    {
+      "n": "97",
+      "first_chapter": {
+        "book": "1",
+        "n": "229"
+      }
+    },
+    {
+      "n": "98",
+      "first_chapter": {
+        "book": "1",
+        "n": "233"
+      }
+    },
+    {
+      "n": "99",
+      "first_chapter": {
+        "book": "1",
+        "n": "234"
+      }
+    },
+    {
+      "n": "100",
+      "first_chapter": {
+        "book": "1",
+        "n": "236"
+      }
+    },
+    {
+      "n": "101",
+      "first_chapter": {
+        "book": "1",
+        "n": "241"
+      }
+    },
+    {
+      "n": "102",
+      "first_chapter": {
+        "book": "1",
+        "n": "242"
+      }
+    },
+    {
+      "n": "103",
+      "first_chapter": {
+        "book": "1",
+        "n": "250"
+      }
+    },
+    {
+      "n": "104",
+      "first_chapter": {
+        "book": "1",
+        "n": "253"
+      }
+    },
+    {
+      "n": "105",
+      "first_chapter": {
+        "book": "1",
+        "n": "255"
+      }
+    },
+    {
+      "n": "106",
+      "first_chapter": {
+        "book": "1",
+        "n": "261"
+      }
+    },
+    {
+      "n": "107",
+      "first_chapter": {
+        "book": "1",
+        "n": "265"
+      }
+    },
+    {
+      "n": "108",
+      "first_chapter": {
+        "book": "1",
+        "n": "270"
+      }
+    },
+    {
+      "n": "109",
+      "first_chapter": {
+        "book": "1",
+        "n": "273"
+      }
+    },
+    {
+      "n": "110",
+      "first_chapter": {
+        "book": "1",
+        "n": "278"
+      }
+    },
+    {
+      "n": "111",
+      "first_chapter": {
+        "book": "1",
+        "n": "281"
+      }
+    },
+    {
+      "n": "112",
+      "first_chapter": {
+        "book": "1",
+        "n": "283"
+      }
+    },
+    {
+      "n": "113",
+      "first_chapter": {
+        "book": "1",
+        "n": "287"
+      }
+    },
+    {
+      "n": "114",
+      "first_chapter": {
+        "book": "1",
+        "n": "292"
+      }
+    },
+    {
+      "n": "115",
+      "first_chapter": {
+        "book": "1",
+        "n": "298"
+      }
+    },
+    {
+      "n": "116",
+      "first_chapter": {
+        "book": "1",
+        "n": "299"
+      }
+    },
+    {
+      "n": "117",
+      "first_chapter": {
+        "book": "1",
+        "n": "306"
+      }
+    },
+    {
+      "n": "118",
+      "first_chapter": {
+        "book": "1",
+        "n": "311"
+      }
+    },
+    {
+      "n": "119",
+      "first_chapter": {
+        "book": "1",
+        "n": "314"
+      }
+    },
+    {
+      "n": "120",
+      "first_chapter": {
+        "book": "1",
+        "n": "316"
+      }
+    },
+    {
+      "n": "121",
+      "first_chapter": {
+        "book": "1",
+        "n": "319"
+      }
+    },
+    {
+      "n": "122",
+      "first_chapter": {
+        "book": "1",
+        "n": "321"
+      }
+    },
+    {
+      "n": "123",
+      "first_chapter": {
+        "book": "1",
+        "n": "322"
+      }
+    },
+    {
+      "n": "124",
+      "first_chapter": {
+        "book": "1",
+        "n": "326"
+      }
+    },
+    {
+      "n": "125",
+      "first_chapter": {
+        "book": "1",
+        "n": "329"
+      }
+    },
+    {
+      "n": "126",
+      "first_chapter": {
+        "book": "1",
+        "n": "335"
+      }
+    },
+    {
+      "n": "127",
+      "first_chapter": {
+        "book": "1",
+        "n": "340"
+      }
+    },
+    {
+      "n": "128",
+      "first_chapter": {
+        "book": "1",
+        "n": "343"
+      }
+    },
+    {
+      "n": "129",
+      "first_chapter": {
+        "book": "1",
+        "n": "346"
+      }
+    },
+    {
+      "n": "130",
+      "first_chapter": {
+        "book": "1",
+        "n": "353"
+      }
+    },
+    {
+      "n": "131",
+      "first_chapter": {
+        "book": "1",
+        "n": "358"
+      }
+    },
+    {
+      "n": "132",
+      "first_chapter": {
+        "book": "1",
+        "n": "361"
+      }
+    },
+    {
+      "n": "133",
+      "first_chapter": {
+        "book": "1",
+        "n": "367"
+      }
+    },
+    {
+      "n": "134",
+      "first_chapter": {
+        "book": "1",
+        "n": "370"
+      }
+    },
+    {
+      "n": "135",
+      "first_chapter": {
+        "book": "1",
+        "n": "378"
+      }
+    },
+    {
+      "n": "136",
+      "first_chapter": {
+        "book": "1",
+        "n": "379"
+      }
+    },
+    {
+      "n": "137",
+      "first_chapter": {
+        "book": "1",
+        "n": "380"
+      }
+    },
+    {
+      "n": "138",
+      "first_chapter": {
+        "book": "1",
+        "n": "383"
+      }
+    },
+    {
+      "n": "139",
+      "first_chapter": {
+        "book": "1",
+        "n": "387"
+      }
+    },
+    {
+      "n": "140",
+      "first_chapter": {
+        "book": "1",
+        "n": "389"
+      }
+    },
+    {
+      "n": "141",
+      "first_chapter": {
+        "book": "1",
+        "n": "391"
+      }
+    },
+    {
+      "n": "142",
+      "first_chapter": {
+        "book": "1",
+        "n": "396"
+      }
+    },
+    {
+      "n": "143",
+      "first_chapter": {
+        "book": "1",
+        "n": "402"
+      }
+    },
+    {
+      "n": "144",
+      "first_chapter": {
+        "book": "1",
+        "n": "406"
+      }
+    },
+    {
+      "n": "145",
+      "first_chapter": {
+        "book": "1",
+        "n": "409"
+      }
+    },
+    {
+      "n": "146",
+      "first_chapter": {
+        "book": "1",
+        "n": "414"
+      }
+    },
+    {
+      "n": "147",
+      "first_chapter": {
+        "book": "2",
+        "n": "t"
+      }
+    },
+    {
+      "n": "148",
+      "first_chapter": {
+        "book": "2",
+        "n": "pin"
+      }
+    },
+    {
+      "n": "149",
+      "first_chapter": {
+        "book": "2",
+        "n": "pin"
+      }
+    },
+    {
+      "n": "150",
+      "first_chapter": {
+        "book": "2",
+        "n": "pin"
+      }
+    },
+    {
+      "n": "151",
+      "first_chapter": {
+        "book": "2",
+        "n": "pin"
+      }
+    },
+    {
+      "n": "152",
+      "first_chapter": {
+        "book": "2",
+        "n": "pin"
+      }
+    },
+    {
+      "n": "153",
+      "first_chapter": {
+        "book": "2",
+        "n": "1"
+      }
+    },
+    {
+      "n": "154",
+      "first_chapter": {
+        "book": "2",
+        "n": "2"
+      }
+    },
+    {
+      "n": "155",
+      "first_chapter": {
+        "book": "2",
+        "n": "3"
+      }
+    },
+    {
+      "n": "156",
+      "first_chapter": {
+        "book": "2",
+        "n": "3"
+      }
+    },
+    {
+      "n": "157",
+      "first_chapter": {
+        "book": "2",
+        "n": "4"
+      }
+    },
+    {
+      "n": "158",
+      "first_chapter": {
+        "book": "2",
+        "n": "6"
+      }
+    },
+    {
+      "n": "159",
+      "first_chapter": {
+        "book": "2",
+        "n": "9"
+      }
+    },
+    {
+      "n": "160",
+      "first_chapter": {
+        "book": "2",
+        "n": "12"
+      }
+    },
+    {
+      "n": "161",
+      "first_chapter": {
+        "book": "2",
+        "n": "13"
+      }
+    },
+    {
+      "n": "162",
+      "first_chapter": {
+        "book": "2",
+        "n": "16"
+      }
+    },
+    {
+      "n": "163",
+      "first_chapter": {
+        "book": "2",
+        "n": "19"
+      }
+    },
+    {
+      "n": "164",
+      "first_chapter": {
+        "book": "2",
+        "n": "23"
+      }
+    },
+    {
+      "n": "165",
+      "first_chapter": {
+        "book": "2",
+        "n": "25"
+      }
+    },
+    {
+      "n": "166",
+      "first_chapter": {
+        "book": "2",
+        "n": "29"
+      }
+    },
+    {
+      "n": "167",
+      "first_chapter": {
+        "book": "2",
+        "n": "32"
+      }
+    },
+    {
+      "n": "168",
+      "first_chapter": {
+        "book": "2",
+        "n": "36"
+      }
+    },
+    {
+      "n": "169",
+      "first_chapter": {
+        "book": "2",
+        "n": "42"
+      }
+    },
+    {
+      "n": "170",
+      "first_chapter": {
+        "book": "2",
+        "n": "47"
+      }
+    },
+    {
+      "n": "171",
+      "first_chapter": {
+        "book": "2",
+        "n": "49"
+      }
+    },
+    {
+      "n": "172",
+      "first_chapter": {
+        "book": "2",
+        "n": "52"
+      }
+    },
+    {
+      "n": "173",
+      "first_chapter": {
+        "book": "2",
+        "n": "56"
+      }
+    },
+    {
+      "n": "174",
+      "first_chapter": {
+        "book": "2",
+        "n": "63"
+      }
+    },
+    {
+      "n": "175",
+      "first_chapter": {
+        "book": "2",
+        "n": "66"
+      }
+    },
+    {
+      "n": "176",
+      "first_chapter": {
+        "book": "2",
+        "n": "71"
+      }
+    },
+    {
+      "n": "177",
+      "first_chapter": {
+        "book": "2",
+        "n": "77"
+      }
+    },
+    {
+      "n": "178",
+      "first_chapter": {
+        "book": "2",
+        "n": "81"
+      }
+    },
+    {
+      "n": "179",
+      "first_chapter": {
+        "book": "2",
+        "n": "84"
+      }
+    },
+    {
+      "n": "180",
+      "first_chapter": {
+        "book": "2",
+        "n": "85"
+      }
+    },
+    {
+      "n": "181",
+      "first_chapter": {
+        "book": "2",
+        "n": "87"
+      }
+    },
+    {
+      "n": "182",
+      "first_chapter": {
+        "book": "2",
+        "n": "92"
+      }
+    },
+    {
+      "n": "183",
+      "first_chapter": {
+        "book": "2",
+        "n": "92"
+      }
+    },
+    {
+      "n": "184",
+      "first_chapter": {
+        "book": "2",
+        "n": "94"
+      }
+    },
+    {
+      "n": "185",
+      "first_chapter": {
+        "book": "2",
+        "n": "95"
+      }
+    },
+    {
+      "n": "186",
+      "first_chapter": {
+        "book": "2",
+        "n": "96"
+      }
+    },
+    {
+      "n": "187",
+      "first_chapter": {
+        "book": "2",
+        "n": "96"
+      }
+    },
+    {
+      "n": "188",
+      "first_chapter": {
+        "book": "2",
+        "n": "99"
+      }
+    },
+    {
+      "n": "189",
+      "first_chapter": {
+        "book": "2",
+        "n": "101"
+      }
+    },
+    {
+      "n": "190",
+      "first_chapter": {
+        "book": "2",
+        "n": "104"
+      }
+    },
+    {
+      "n": "191",
+      "first_chapter": {
+        "book": "2",
+        "n": "106"
+      }
+    },
+    {
+      "n": "192",
+      "first_chapter": {
+        "book": "2",
+        "n": "108"
+      }
+    },
+    {
+      "n": "193",
+      "first_chapter": {
+        "book": "2",
+        "n": "111"
+      }
+    },
+    {
+      "n": "194",
+      "first_chapter": {
+        "book": "2",
+        "n": "113"
+      }
+    },
+    {
+      "n": "195",
+      "first_chapter": {
+        "book": "2",
+        "n": "116"
+      }
+    },
+    {
+      "n": "196",
+      "first_chapter": {
+        "book": "2",
+        "n": "120"
+      }
+    },
+    {
+      "n": "197",
+      "first_chapter": {
+        "book": "2",
+        "n": "121"
+      }
+    },
+    {
+      "n": "198",
+      "first_chapter": {
+        "book": "2",
+        "n": "121"
+      }
+    },
+    {
+      "n": "199",
+      "first_chapter": {
+        "book": "2",
+        "n": "124"
+      }
+    },
+    {
+      "n": "200",
+      "first_chapter": {
+        "book": "2",
+        "n": "128"
+      }
+    },
+    {
+      "n": "201",
+      "first_chapter": {
+        "book": "2",
+        "n": "132"
+      }
+    },
+    {
+      "n": "202",
+      "first_chapter": {
+        "book": "2",
+        "n": "134"
+      }
+    },
+    {
+      "n": "203",
+      "first_chapter": {
+        "book": "2",
+        "n": "136"
+      }
+    },
+    {
+      "n": "204",
+      "first_chapter": {
+        "book": "2",
+        "n": "136"
+      }
+    },
+    {
+      "n": "205",
+      "first_chapter": {
+        "book": "2",
+        "n": "140"
+      }
+    },
+    {
+      "n": "206",
+      "first_chapter": {
+        "book": "2",
+        "n": "144"
+      }
+    },
+    {
+      "n": "207",
+      "first_chapter": {
+        "book": "2",
+        "n": "147"
+      }
+    },
+    {
+      "n": "208",
+      "first_chapter": {
+        "book": "2",
+        "n": "151"
+      }
+    },
+    {
+      "n": "209",
+      "first_chapter": {
+        "book": "2",
+        "n": "152"
+      }
+    },
+    {
+      "n": "210",
+      "first_chapter": {
+        "book": "2",
+        "n": "155"
+      }
+    },
+    {
+      "n": "211",
+      "first_chapter": {
+        "book": "2",
+        "n": "159"
+      }
+    },
+    {
+      "n": "212",
+      "first_chapter": {
+        "book": "2",
+        "n": "163"
+      }
+    },
+    {
+      "n": "213",
+      "first_chapter": {
+        "book": "2",
+        "n": "167"
+      }
+    },
+    {
+      "n": "214",
+      "first_chapter": {
+        "book": "2",
+        "n": "168"
+      }
+    },
+    {
+      "n": "215",
+      "first_chapter": {
+        "book": "2",
+        "n": "170"
+      }
+    },
+    {
+      "n": "216",
+      "first_chapter": {
+        "book": "2",
+        "n": "172"
+      }
+    },
+    {
+      "n": "217",
+      "first_chapter": {
+        "book": "2",
+        "n": "174"
+      }
+    },
+    {
+      "n": "218",
+      "first_chapter": {
+        "book": "2",
+        "n": "176"
+      }
+    },
+    {
+      "n": "219",
+      "first_chapter": {
+        "book": "2",
+        "n": "178"
+      }
+    },
+    {
+      "n": "220",
+      "first_chapter": {
+        "book": "2",
+        "n": "183"
+      }
+    },
+    {
+      "n": "221",
+      "first_chapter": {
+        "book": "2",
+        "n": "184"
+      }
+    },
+    {
+      "n": "222",
+      "first_chapter": {
+        "book": "2",
+        "n": "188"
+      }
+    },
+    {
+      "n": "223",
+      "first_chapter": {
+        "book": "2",
+        "n": "195"
+      }
+    },
+    {
+      "n": "224",
+      "first_chapter": {
+        "book": "2",
+        "n": "196"
+      }
+    },
+    {
+      "n": "225",
+      "first_chapter": {
+        "book": "2",
+        "n": "196"
+      }
+    },
+    {
+      "n": "226",
+      "first_chapter": {
+        "book": "2",
+        "n": "196"
+      }
+    },
+    {
+      "n": "227",
+      "first_chapter": {
+        "book": "2",
+        "n": "199"
+      }
+    },
+    {
+      "n": "228",
+      "first_chapter": {
+        "book": "2",
+        "n": "203"
+      }
+    },
+    {
+      "n": "229",
+      "first_chapter": {
+        "book": "2",
+        "n": "208"
+      }
+    },
+    {
+      "n": "230",
+      "first_chapter": {
+        "book": "2",
+        "n": "209"
+      }
+    },
+    {
+      "n": "231",
+      "first_chapter": {
+        "book": "2",
+        "n": "215"
+      }
+    },
+    {
+      "n": "232",
+      "first_chapter": {
+        "book": "2",
+        "n": "218"
+      }
+    },
+    {
+      "n": "233",
+      "first_chapter": {
+        "book": "2",
+        "n": "224"
+      }
+    },
+    {
+      "n": "234",
+      "first_chapter": {
+        "book": "2",
+        "n": "226"
+      }
+    },
+    {
+      "n": "235",
+      "first_chapter": {
+        "book": "2",
+        "n": "231"
+      }
+    },
+    {
+      "n": "236",
+      "first_chapter": {
+        "book": "2",
+        "n": "235"
+      }
+    },
+    {
+      "n": "237",
+      "first_chapter": {
+        "book": "2",
+        "n": "238"
+      }
+    },
+    {
+      "n": "238",
+      "first_chapter": {
+        "book": "2",
+        "n": "239"
+      }
+    },
+    {
+      "n": "239",
+      "first_chapter": {
+        "book": "2",
+        "n": "240"
+      }
+    },
+    {
+      "n": "240",
+      "first_chapter": {
+        "book": "2",
+        "n": "241"
+      }
+    },
+    {
+      "n": "241",
+      "first_chapter": {
+        "book": "2",
+        "n": "243"
+      }
+    },
+    {
+      "n": "242",
+      "first_chapter": {
+        "book": "2",
+        "n": "247"
+      }
+    },
+    {
+      "n": "243",
+      "first_chapter": {
+        "book": "2",
+        "n": "250"
+      }
+    },
+    {
+      "n": "244",
+      "first_chapter": {
+        "book": "2",
+        "n": "252"
+      }
+    },
+    {
+      "n": "245",
+      "first_chapter": {
+        "book": "2",
+        "n": "253"
+      }
+    },
+    {
+      "n": "246",
+      "first_chapter": {
+        "book": "2",
+        "n": "253"
+      }
+    },
+    {
+      "n": "247",
+      "first_chapter": {
+        "book": "2",
+        "n": "254"
+      }
+    },
+    {
+      "n": "248",
+      "first_chapter": {
+        "book": "2",
+        "n": "256"
+      }
+    },
+    {
+      "n": "249",
+      "first_chapter": {
+        "book": "2",
+        "n": "258"
+      }
+    },
+    {
+      "n": "250",
+      "first_chapter": {
+        "book": "2",
+        "n": "260"
+      }
+    },
+    {
+      "n": "251",
+      "first_chapter": {
+        "book": "2",
+        "n": "262"
+      }
+    },
+    {
+      "n": "252",
+      "first_chapter": {
+        "book": "2",
+        "n": "265"
+      }
+    },
+    {
+      "n": "253",
+      "first_chapter": {
+        "book": "2",
+        "n": "265"
+      }
+    },
+    {
+      "n": "254",
+      "first_chapter": {
+        "book": "2",
+        "n": "266"
+      }
+    },
+    {
+      "n": "255",
+      "first_chapter": {
+        "book": "2",
+        "n": "269"
+      }
+    }
+  ],
+  "sigla": {
+    "A": "Codex Athous Λαύραϲ 718 Ω 63",
+    "Aᵗ": "Codex Athous Λαύραϲ 719 Ω 64",
+    "B": "Codex Parisinus graecus 2192",
+    "C": "Codex Parisinus graecus 1883",
+    "D": "Codex Athous Βατοπεδίου Α 29",
+    "E": "Codex Parisinus gr. 2193",
+    "F": "Codex Parisinus gr. 2256",
+    "G": "Codex Bononiensis 3632",
+    "H": "Codex Venet. Marcianus 289",
+    "K": "Codex Parisinus gr. 2191",
+    "L": "Codex Vaticanus gr. 2202",
+    "Lᵃ": "Codex Laurentianus LXXV, 20",
+    "Lᵇ": "Codex Laurentianus LXXV, 12",
+    "M": "Codex Vaticanus 1911",
+    "Mᵉ": "Codex Messanensis 84",
+    "Mᵒ": "Codex Marcianus 291",
+    "N": "Codex Vaticanus 1904",
+    "O": "Codex Vaticanus Ottobonianus 311",
+    "P": "Codex Vaticanus graecus 298",
+    "Pᵃ": "Codex Parisinus Suppl. gr. 1240",
+    "Pˣ": "Codex Vaticanus Palatinus 199",
+    "Q": "Codex Marcianus 596",
+    "R": "Codex Vaticanus 297",
+    "S": "Codex Scorialensis Ψ IV, 14",
+    "T": "Codex Scorialensis Τ II, 14",
+    "U": "Codex Scorialensis Σ III, 17",
+    "V": "Codex Vindobonensis medic. 6",
+    "Y": "Codex Parisin. gr. 2198",
+    "Z": "Codex Parisin. Suppl. gr. 630. 632",
+    "α": "consensus codicum",
+    "Gal.": "Galeni editionis Kuehnianae textus",
+    "Or.ᵃ": "Oribasii Synopsis ad Eustathium, CMG VI 3, ed. Raeder 1926",
+    "Or.ᵉ": "Oribasii Libri ad Eunapium, CMG VI 3, ed. Raeder 1926",
+    "Or.ᶜ": "Oribasii Collectiones medicae I–IV, CMG VI 1, ed. Raeder 1928",
+    "Ald.": "ed. Aldina Aetii lib. I–VIII",
+    "Bekk.": "ed. I. Bekker, Photii Bibliotheca (Berolini 1824–25); not in Olivieri's Signorum explicatio, cited in his Photius heading p. 1 (Bekk. 177—181) and apparatus pp. 1–7",
+    "Pˣ¹": "Codex Vaticanus Palatinus 199, the passage copied a second time",
+    "Or.": "Oribasius, the work not specified",
+    "Diosc.": "Dioscorides, De materia medica"
+  },
+  "bundle_id": "7145284126dfff3fbc67034c252307f31852aee1d1bc70ddba95dee6fc0ac6ed",
+  "producer_commit": "560ff1961cb01c98622b68db234416947615de76",
+  "rights": "Text CC BY-SA 4.0 · Scans: CMG, BBAW",
+  "manuscripts": {
+    "A": [
+      {
+        "sigla_id": "A-Phot",
+        "part": "",
+        "city": "Venice",
+        "library": "Biblioteca Nazionale Marciana",
+        "shelfmark": "gr. 450",
+        "folios": "",
+        "date": "",
+        "match": "exact",
+        "match_evidence": "Notice heading: Venezia, Biblioteca Nazionale Marciana (BNM), gr. Z., 450 (coll. 0652); Diktyon 69921. Olivieri supplies neither date nor folios here; Pinakes adds s. 10 in. and Bibliotheca ff. 005-537v. Pinakes witness data: folios 005-537v, century 10 in..",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/69921/"
+      },
+      {
+        "sigla_id": "A",
+        "part": "",
+        "city": "Mount Athos",
+        "library": "Monê Megistês Lauras",
+        "shelfmark": "Ω 63 (718)",
+        "folios": "346",
+        "date": "a. 1440",
+        "match": "probable",
+        "match_evidence": "No full match established. Searched Lavra Mss. Ω 63 and numeric catalogue 718. Ω 063 (Eustratiades 1873), Diktyon 28925, contains Aetius dated 1440 but gives ff. 001-543* and XVI books, against printed 346 folios and I–VIII. Η 063 (Eustratiades 0718), Diktyon 27735, is a Tetraeuangelium, s. 14. No notice establishes a renumbering from printed 718 to 1873. Candidates: https://pinakes.irht.cnrs.fr/notices/cote/28925/ and https://pinakes.irht.cnrs.fr/notices/cote/27735/. | [1] sign-off 2026-10-14: Pinakes 28925 = Lavra Ω 63 (Eustratiades 1873), Aetius, dated 1440 as Olivieri; Olivieri prints 718 Ω 63 (old number) and 346 ff.; Pinakes gives Aetius ff. 1-543*. Check build/pinakes_check/check.md.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/28925/"
+      }
+    ],
+    "Aᵗ": [
+      {
+        "sigla_id": "At",
+        "part": "",
+        "city": "Mount Athos",
+        "library": "Monê Megistês Lauras",
+        "shelfmark": "Ω 64 (719)",
+        "folios": "362",
+        "date": "s. XIV",
+        "match": "none",
+        "match_evidence": "No full match established. Searched Lavra Mss. Ω 64 and numeric catalogue 719. Ω 064 (Eustratiades 1874), Diktyon 28926, contains Aetius, s. 18, against printed s. XIV and 362 folios. Η 064 (Eustratiades 0719), Diktyon 27736, is an Aland Gospel witness, not the described Aetius codex. No notice establishes a renumbering from printed 719 to 1874. Candidates: https://pinakes.irht.cnrs.fr/notices/cote/28926/ and https://pinakes.irht.cnrs.fr/notices/cote/27736/. | [1] sign-off 2026-10-14: candidate Pinakes 28926 = Lavra Ω 64 (Eustratiades 1874), Aetius, but dated s. XVIII against Olivieri s. XIV; left none."
+      }
+    ],
+    "B": [
+      {
+        "sigla_id": "B",
+        "part": "",
+        "city": "Paris",
+        "library": "Bibliothèque nationale de France",
+        "shelfmark": "gr. 2192",
+        "folios": "345",
+        "date": "s. XV",
+        "match": "exact",
+        "match_evidence": "Notice heading: Paris, Bibliothèque nationale de France (BNF), Grec, 2192; Diktyon 51821.  Pinakes witness data: folios 001--316v*, century 15.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/51821/"
+      }
+    ],
+    "C": [
+      {
+        "sigla_id": "C",
+        "part": "",
+        "city": "Paris",
+        "library": "Bibliothèque nationale de France",
+        "shelfmark": "gr. 1883",
+        "folios": "794",
+        "date": "s. XIV",
+        "match": "exact",
+        "match_evidence": "Notice heading: Paris, Bibliothèque nationale de France (BNF), Grec, 1883; Diktyon 51509.  Pinakes witness data: folios 180v-720, century 14.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/51509/"
+      }
+    ],
+    "D": [
+      {
+        "sigla_id": "D",
+        "part": "",
+        "city": "Mount Athos",
+        "library": "Monê Vatopediou",
+        "shelfmark": "A 29",
+        "folios": "419",
+        "date": "s. XIV",
+        "match": "probable",
+        "match_evidence": "Notice heading: Athos, Μονή Βατοπεδίου, Mss., 0029; Diktyon 18176. Probable shelfmark equivalence: print A 29; Pinakes 0029, remark “olim 29”, with its bibliography explicitly naming “Athos Vatopedi A 29” (Calà 2023). Same monastery and Aetius I–V, VII–XVI. The A prefix is absent from the current heading. Pinakes dates it s. 15 / 1430 ca against printed s. XIV, and includes a further text at 420r-v against printed Ff. 419. Pinakes witness data: folios 001-419v, century 15, date 1430 ca.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/18176/"
+      }
+    ],
+    "E": [
+      {
+        "sigla_id": "E",
+        "part": "",
+        "city": "Paris",
+        "library": "Bibliothèque nationale de France",
+        "shelfmark": "gr. 2193",
+        "folios": "403",
+        "date": "s. XV",
+        "match": "exact",
+        "match_evidence": "Notice heading: Paris, Bibliothèque nationale de France (BNF), Grec, 2193; Diktyon 51822. Pinakes Aetius span 001-402* differs from printed ff. 1–399; its Africanus span 402--403v* differs from the printed allocation. The overall 403-folio extent is not replaced. Pinakes witness data: folios 001-402*, century 15.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/51822/"
+      }
+    ],
+    "F": [
+      {
+        "sigla_id": "F",
+        "part": "",
+        "city": "Paris",
+        "library": "Bibliothèque nationale de France",
+        "shelfmark": "gr. 2256",
+        "folios": "626",
+        "date": "s. XV",
+        "match": "exact",
+        "match_evidence": "Notice heading: Paris, Bibliothèque nationale de France (BNF), Grec, 2256; Diktyon 51886. Pinakes gives Aetius 034-142 and an additional excerpt at 562-565; print gives 34–194 for the two books. These are content spans, not a total-folio correction. Pinakes witness data: folios 034-142, century 15; folios 562-565, century 15.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/51886/"
+      }
+    ],
+    "G": [
+      {
+        "sigla_id": "G",
+        "part": "",
+        "city": "Bologna",
+        "library": "Biblioteca Universitaria",
+        "shelfmark": "3632",
+        "folios": "71—90",
+        "date": "s. XV",
+        "match": "exact",
+        "match_evidence": "Notice heading: Bologna, Biblioteca Universitaria, Mss., 3632; Diktyon 9761. The notice lists several Aetius excerpts but no Aetius span 71–90 as printed; no total extent is inferred from those spans. Pinakes witness data: folios 059-60v*, century 15; folios 114--125, 142--143, 233v--234v*, century 15; folios 139--171v, century 15; folios 172v-181, century 15.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/9761/"
+      }
+    ],
+    "H": [
+      {
+        "sigla_id": "H",
+        "part": "",
+        "city": "Venice",
+        "library": "Biblioteca Nazionale Marciana",
+        "shelfmark": "gr. 289",
+        "folios": "334",
+        "date": "s. circ. XVI",
+        "match": "exact",
+        "match_evidence": "Notice heading: Venezia, Biblioteca Nazionale Marciana (BNM), gr. Z., 289 (coll. 0627); Diktyon 69760. Pinakes s. 15 med. differs from printed s. circ. XVI; its Aetius span 002-332v does not establish the printed total Ff. 334. Pinakes witness data: folios 002-332v, century 15 med..",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/69760/"
+      }
+    ],
+    "K": [
+      {
+        "sigla_id": "K",
+        "part": "",
+        "city": "Paris",
+        "library": "Bibliothèque nationale de France",
+        "shelfmark": "gr. 2191",
+        "folios": "375",
+        "date": "s. XIV",
+        "match": "exact",
+        "match_evidence": "Notice heading: Paris, Bibliothèque nationale de France (BNF), Grec, 2191; Diktyon 51820. Pinakes Aetius 001-344* differs from printed 1–343; the notice continues to 375v, compatible with the printed total 375, not an independent total statement. Pinakes witness data: folios 001-344*, century 14.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/51820/"
+      }
+    ],
+    "L": [
+      {
+        "sigla_id": "L",
+        "part": "",
+        "city": "Vatican City",
+        "library": "Biblioteca Apostolica Vaticana",
+        "shelfmark": "Vat. gr. 2202",
+        "folios": "3—318",
+        "date": "s. XIV",
+        "match": "exact",
+        "match_evidence": "Notice heading: Città del Vaticano, Biblioteca Apostolica Vaticana (BAV), Vat. gr., 2202; Diktyon 68833.  Pinakes witness data: folios 003-318v, century 14.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/68833/"
+      }
+    ],
+    "Lᵃ": [
+      {
+        "sigla_id": "La",
+        "part": "",
+        "city": "Florence",
+        "library": "Biblioteca Medicea Laurenziana",
+        "shelfmark": "Plut. 75.20",
+        "folios": "256; quorum folia 248",
+        "date": "s. XIV; fortasse s. XVI",
+        "match": "exact",
+        "match_evidence": "Notice heading: Firenze, Biblioteca Medicea Laurenziana (BML), Plut., 75. 20; Diktyon 16705. Pinakes unit Folios 1-253 and s. 12, Aetius 003-255, with ff. 249-255 supplied in s. 16; print Ff. 256, first 248 s. XIV and remaining leaves perhaps s. XVI. These extent and main-date statements differ. Pinakes witness data: folios 003-255, century 12.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/16705/"
+      }
+    ],
+    "Lᵇ": [
+      {
+        "sigla_id": "Lb",
+        "part": "",
+        "city": "Florence",
+        "library": "Biblioteca Medicea Laurenziana",
+        "shelfmark": "Plut. 75.12",
+        "folios": "102",
+        "date": "s. X (fortasse di¬ midii prioris)",
+        "match": "exact",
+        "match_evidence": "Notice heading: Firenze, Biblioteca Medicea Laurenziana (BML), Plut., 75. 12; Diktyon 16697. Pinakes unit Folios 1-102 agrees numerically with printed Ff. 102; s. 15 differs from printed s. X (fortasse di¬ midii prioris). The surprising printed date is retained. Pinakes witness data: folios [not given], century 15.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/16697/"
+      }
+    ],
+    "M": [
+      {
+        "sigla_id": "M",
+        "part": "",
+        "city": "Vatican City",
+        "library": "Biblioteca Apostolica Vaticana",
+        "shelfmark": "Vat. gr. 1911",
+        "folios": "",
+        "date": "s. XIV",
+        "match": "exact",
+        "match_evidence": "Notice heading: Città del Vaticano, Biblioteca Apostolica Vaticana (BAV), Vat. gr., 1911; Diktyon 68540. Pinakes adds Aetius ff. 001-77v; Olivieri supplies no total foliation. Pinakes witness data: folios 001-77v, century 14.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/68540/"
+      }
+    ],
+    "Mᵉ": [
+      {
+        "sigla_id": "Me",
+        "part": "",
+        "city": "Messina",
+        "library": "Biblioteca Regionale Universitaria",
+        "shelfmark": "84",
+        "folios": "140",
+        "date": "s. X",
+        "match": "exact",
+        "match_evidence": "Notice heading: Messina, Biblioteca Regionale Universitaria 'Giacomo Longo', S.S. Salvatore, 084; Diktyon 40745.  Pinakes witness data: folios [not given], century 10.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/40745/"
+      }
+    ],
+    "Mᵒ": [
+      {
+        "sigla_id": "Mo",
+        "part": "",
+        "city": "Venice",
+        "library": "Biblioteca Nazionale Marciana",
+        "shelfmark": "gr. 291",
+        "folios": "450 (76. 77 ordine inverso); (451) adiectum est",
+        "date": "s. circiter XV",
+        "match": "exact",
+        "match_evidence": "Notice heading: Venezia, Biblioteca Nazionale Marciana (BNM), gr. Z., 291 (coll. 0298); Diktyon 69762. Pinakes adds s. 15 in. to printed s. circiter XV. It gives Aetius 005-448v and 451r-v, with other texts on 449–450; no different total is inferred. Pinakes witness data: folios 005-448v, century 15 in.; folios 451r-v, century 15 in..",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/69762/"
+      }
+    ],
+    "N": [
+      {
+        "sigla_id": "N",
+        "part": "",
+        "city": "Vatican City",
+        "library": "Biblioteca Apostolica Vaticana",
+        "shelfmark": "Vat. gr. 1904",
+        "folios": "",
+        "date": "a. 1306",
+        "match": "exact",
+        "match_evidence": "Notice heading: Città del Vaticano, Biblioteca Apostolica Vaticana (BAV), Vat. gr., 1904; Diktyon 68533. City, library and current shelfmark agree, but the notice describes Fragmenta miscellanea with units dated s. 09-16, s. 14 (2/2), s. 11 and no Aetius witness. It does not corroborate the printed Aetius codex dated 1306. Exact is a locator agreement only; witness identity remains doubtful. | [1] sign-off 2026-10-14: locator exact; the Pinakes notice lists no Aetius witness and different unit dates; link kept, content not corroborated.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/68533/"
+      }
+    ],
+    "O": [
+      {
+        "sigla_id": "O",
+        "part": "",
+        "city": "Vatican City",
+        "library": "Biblioteca Apostolica Vaticana",
+        "shelfmark": "Ott. gr. 311",
+        "folios": "123",
+        "date": "s. XV—XVI",
+        "match": "exact",
+        "match_evidence": "Notice heading: Città del Vaticano, Biblioteca Apostolica Vaticana (BAV), Ott. gr., 311; Diktyon 65554. Pinakes narrows the printed open-ended Aetius f. 95 sqq. to 095v-100*; no different total is inferred. Pinakes witness data: folios 095v-100*, century 15-16.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/65554/"
+      }
+    ],
+    "P": [
+      {
+        "sigla_id": "P",
+        "part": "",
+        "city": "Vatican City",
+        "library": "Biblioteca Apostolica Vaticana",
+        "shelfmark": "Vat. gr. 298",
+        "folios": "I. 599 (+ 599ᵃ add.)",
+        "date": "a. 1385—1389",
+        "match": "exact",
+        "match_evidence": "Notice heading: Città del Vaticano, Biblioteca Apostolica Vaticana (BAV), Vat. gr., 0298; Diktyon 66929. tei/sigla.tsv says “Ottobonianus 298”; Praefatio prints Vaticanus gr. 298 (amendment 1). Pinakes unit Folios 001-599 does not enumerate printed I. 599 (+ 599ᵃ add.); Aetius date 1385-1389 agrees. Its main Aetius span starts 004, against printed a f. 1, and adds excerpt 598v. Pinakes witness data: folios 004-590v, century 14 ex., date 1385-1389; folios 598v, century 14 ex., date 1385-1389.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/66929/"
+      }
+    ],
+    "Pᵃ": [
+      {
+        "sigla_id": "Pa",
+        "part": "",
+        "city": "Paris",
+        "library": "Bibliothèque nationale de France",
+        "shelfmark": "Suppl. gr. 1240",
+        "folios": "311, quorum 1—48; 49—311",
+        "date": "recentissimae; s. XI",
+        "match": "exact",
+        "match_evidence": "Notice heading: Paris, Bibliothèque nationale de France (BNF), Supplément grec, 1240; Diktyon 53904. Pinakes Aetius century 12-19 differs from the printed s. XI for the parchment and recentissimae for the paper; the notice also dates the palimpsest witness at f. 229 to s. 08. No different total foliation is given. Pinakes witness data: folios [not given], century 12-19.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/53904/"
+      }
+    ],
+    "Pˣ": [
+      {
+        "sigla_id": "Px",
+        "part": "",
+        "city": "Vatican City",
+        "library": "Biblioteca Apostolica Vaticana",
+        "shelfmark": "Pal. gr. 199",
+        "folios": "475, quorum 1—17, 471—475; 18—470",
+        "date": "s. XIII",
+        "match": "exact",
+        "match_evidence": "Notice heading: Città del Vaticano, Biblioteca Apostolica Vaticana (BAV), Pal. gr., 199; Diktyon 65931. Pinakes s. 13-14 (1300 ca.) expands printed s. XIII; Aetius 101-471* differs from printed 101–470. Its final witness extends 471-475*, without supplying a different total. Pinakes witness data: folios 101-471*, century 13-14, date 1300 ca.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/65931/"
+      }
+    ],
+    "Q": [
+      {
+        "sigla_id": "Q",
+        "part": "",
+        "city": "Venice",
+        "library": "Biblioteca Nazionale Marciana",
+        "shelfmark": "gr. 596",
+        "folios": "280",
+        "date": "s. circ. XV",
+        "match": "exact",
+        "match_evidence": "Notice heading: Venezia, Biblioteca Nazionale Marciana (BNM), gr. Z., 596 (coll. 0867); Diktyon 70067. Pinakes s. 14 (2/2) differs from printed s. circ. XV; Aetius 004-280 agrees in final folio with the printed 280, without being a total statement. Pinakes witness data: folios 004-280, century 14 (2/2).",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/70067/"
+      }
+    ],
+    "R": [
+      {
+        "sigla_id": "R",
+        "part": "",
+        "city": "Vatican City",
+        "library": "Biblioteca Apostolica Vaticana",
+        "shelfmark": "Vat. gr. 297",
+        "folios": "III 226",
+        "date": "s. XIV ineunte",
+        "match": "exact",
+        "match_evidence": "Notice heading: Città del Vaticano, Biblioteca Apostolica Vaticana (BAV), Vat. gr., 0297; Diktyon 66928. Pinakes s. 14 is less precise than printed s. XIV ineunte; final contents end at 226 and do not separately enumerate printed preliminary III. Pinakes witness data: folios 001-225, century 14.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/66928/"
+      }
+    ],
+    "S": [
+      {
+        "sigla_id": "S",
+        "part": "",
+        "city": "El Escorial",
+        "library": "Real Biblioteca del Monasterio de San Lorenzo de El Escorial",
+        "shelfmark": "Ψ IV, 14",
+        "folios": "0ᵛ—45ʳ (45ᵛ—47 scriptura carent); 48—369ᵛ (61ᵛ. 93ᵛ—94ᵛ. 209 sine script.)",
+        "date": "s. XV; s. XIII; 21 m. Augusti 1298",
+        "match": "exact",
+        "match_evidence": "Notice heading: Escorial, Real Biblioteca, Mss., Ψ. IV. 14 (Andrés 488); Diktyon 15259. Pinakes Aetius 001-370* differs from the printed parts 0ᵛ–45ʳ and 48–369ᵛ; century 13, 15 agrees broadly, but the 1298 colophon date is not repeated. Olivieri warns of faulty/repeated foliation; no reconciliation is inferred. Pinakes witness data: folios 001-370*, century 13, 15.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/15259/"
+      }
+    ],
+    "T": [
+      {
+        "sigla_id": "T",
+        "part": "",
+        "city": "El Escorial",
+        "library": "Real Biblioteca del Monasterio de San Lorenzo de El Escorial",
+        "shelfmark": "T II, 14",
+        "folios": "199—234 (207ᵛ—208ʳ scriptura carent)",
+        "date": "s. XVI",
+        "match": "exact",
+        "match_evidence": "Notice heading: Escorial, Real Biblioteca, Mss., Τ. II. 14 (Revilla 153); Diktyon 15425. Printed Latin T and Pinakes Greek Τ designate the same shelfmark; notice also has RBME identifier “T. II. 14”. Pinakes dates the Aetius witness to s. 15 against printed s. XVI and gives 199v-234 against printed 199–234. Pinakes witness data: folios 199v-234, century 15.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/15425/"
+      }
+    ],
+    "U": [
+      {
+        "sigla_id": "U",
+        "part": "",
+        "city": "El Escorial",
+        "library": "Real Biblioteca del Monasterio de San Lorenzo de El Escorial",
+        "shelfmark": "Σ III, 17",
+        "folios": "1; 8ᵛ; 9ʳ; 24ᵛ; 25=101ᵛ; 102; 109ᵛ; 220; 227ᵛ",
+        "date": "s. XVI",
+        "match": "exact",
+        "match_evidence": "Notice heading: Escorial, Real Biblioteca, Mss., Σ. III. 17 (Revilla 116); Diktyon 15387. Pinakes dates Aetius to s. 15 against printed s. XVI. Its Aetius spans 001-24v, 102-109v, 220-227v broadly cover the printed fragment locators; its separate Introductio spans 025-31v, 94-101v expand the printed 25=101ᵛ shorthand. Pinakes witness data: folios 001-24v, 102-109v, 220-227v, century 15.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/15387/"
+      }
+    ],
+    "V": [
+      {
+        "sigla_id": "V",
+        "part": "",
+        "city": "Vienna",
+        "library": "Österreichische Nationalbibliothek",
+        "shelfmark": "med. gr. 6",
+        "folios": "732",
+        "date": "s. XV",
+        "match": "exact",
+        "match_evidence": "Notice heading: Wien, Österreichische Nationalbibliothek (ÖNB), med. gr., 06; Diktyon 71031. Pinakes main date s. 13 differs from printed s. XV; it notes restoration of ff. 1, 3, 228 in the first half of s. 15. Aetius spans 003-272v, 273-275v and III do not corroborate printed total 732. Locator agreement does not resolve the extent discrepancy. Pinakes witness data: folios 003-272v, 273-275v, century 13; folios III, century 13.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/71031/"
+      }
+    ],
+    "Y": [
+      {
+        "sigla_id": "Y",
+        "part": "",
+        "city": "Paris",
+        "library": "Bibliothèque nationale de France",
+        "shelfmark": "gr. 2198",
+        "folios": "533",
+        "date": "αφκβ (1522)",
+        "match": "exact",
+        "match_evidence": "Notice heading: Paris, Bibliothèque nationale de France (BNF), Grec, 2198; Diktyon 51827. Pinakes date 1522 agrees with printed αφκβ (1522); Aetius 001-532v* stops before printed total 533 and says XVI books against printed XV. No total-folio correction is inferred. Pinakes witness data: folios 001-532v*, century 16, date 1522.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/51827/"
+      }
+    ],
+    "Z": [
+      {
+        "sigla_id": "Z",
+        "part": "1",
+        "city": "Paris",
+        "library": "Bibliothèque nationale de France",
+        "shelfmark": "Suppl. gr. 630",
+        "folios": "38",
+        "date": "s. XIV",
+        "match": "exact",
+        "match_evidence": "Notice heading: Paris, Bibliothèque nationale de France (BNF), Supplément grec, 0630; Diktyon 53365. Pinakes s. 14 agrees; it gives no foliation to compare with printed 38. Pinakes witness data: folios [not given], century 14.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/53365/"
+      },
+      {
+        "sigla_id": "Z",
+        "part": "2",
+        "city": "Paris",
+        "library": "Bibliothèque nationale de France",
+        "shelfmark": "Suppl. gr. 632",
+        "folios": "1—2; 3—298; 299—349",
+        "date": "s. XI",
+        "match": "exact",
+        "match_evidence": "Notice heading: Paris, Bibliothèque nationale de France (BNF), Supplément grec, 0632; Diktyon 53367. Pinakes Aetius s. 19 differs from printed parchment ff. 3–298 s. XI; it gives no foliation or separate dating for the printed mixed-material parts. Pinakes witness data: folios [not given], century 19.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/53367/"
+      }
+    ],
+    "Pˣ¹": [
+      {
+        "sigla_id": "Px1",
+        "part": "",
+        "city": "Vatican City",
+        "library": "Biblioteca Apostolica Vaticana",
+        "shelfmark": "Pal. gr. 199",
+        "folios": "",
+        "date": "",
+        "match": "exact",
+        "match_evidence": "same codex as Pˣ (repeated witness designation); Notice heading: Città del Vaticano, Biblioteca Apostolica Vaticana (BAV), Pal. gr., 199; Diktyon 65931. Pinakes s. 13-14 (1300 ca.) expands printed s. XIII; Aetius 101-471* differs from printed 101–470. Its final witness extends 471-475*, without supplying a different total. Pinakes witness data: folios 101-471*, century 13-14, date 1300 ca.",
+        "pinakes_url": "https://pinakes.irht.cnrs.fr/notices/cote/65931/"
+      }
+    ]
+  },
+  "public_credits": {
+    "licence": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "edition": [
+      "Edition: Alexander Olivieri (1935, Leipzig and Berlin)"
+    ],
+    "attribution": [
+      {
+        "name": "Sean Coughlin",
+        "role": "Encoding: Olivieri's text from our page transcriptions, checked against the scans (two machine readers, a third where they disagreed); both apparatus from page transcriptions made by machine",
+        "affiliation": ""
+      }
+    ],
+    "upstream": [],
+    "authority": [
+      "Alchemies of Scent — Institute of Philosophy, Czech Academy of Sciences"
+    ],
+    "scans": "Scans: CMG, BBAW"
+  }
+}

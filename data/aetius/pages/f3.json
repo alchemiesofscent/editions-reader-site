@@ -1,0 +1,53 @@
+{
+  "edition": "aetius",
+  "page": "f3",
+  "scan": "https://digilib.bbaw.de/digilib/Scaler/IIIF/silo10!cmg!cmg_08_01!CMG_08_01_0004/full/full/0/default.jpg",
+  "scan_id": "",
+  "lines": [
+    {
+      "n": "2",
+      "id": "front-0004:2",
+      "parts": [
+        {
+          "a": "front-0004:2"
+        },
+        {
+          "t": "LIPSIAE: TYPIS B. G. TEVBNERI",
+          "lang": "la"
+        },
+        {
+          "a": "front-0004:2-end"
+        }
+      ]
+    },
+    {
+      "n": "4",
+      "id": "front-0004:4",
+      "parts": [
+        {
+          "a": "front-0004:4"
+        },
+        {
+          "t": "PRINTED IN GERMANY",
+          "lang": "la"
+        },
+        {
+          "a": "front-0004:4-end"
+        }
+      ]
+    }
+  ],
+  "entries": [],
+  "chapters_on_page": [
+    {
+      "book": "front",
+      "n": "title",
+      "label": "Title",
+      "context": false
+    }
+  ],
+  "printed_page": "unnumbered",
+  "front": true,
+  "legend": {},
+  "legend_printed": []
+}

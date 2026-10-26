@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Critical editions</title>
+<link rel="stylesheet" href="viewer.css"><script defer src="viewer.js"></script>
+</head><body><div class="wrap">
+<header><h1 id="title">Critical editions</h1><span class="sub" id="sub"></span>
+<label>Theme <select id="theme"><option value="auto">System</option><option value="light">Light</option><option value="dark">Dark</option></select></label></header>
+<nav aria-label="Edition navigation">
+<label>Edition <select id="edition"></select></label>
+<label>Book <select id="book"></select></label><label>Chapter <select id="chapter"></select></label>
+<label id="section-nav" hidden>Section <select id="section"></select></label>
+<button id="prev" type="button">← Previous page</button><button id="next" type="button">Next page →</button>
+<form id="goto"><label>Page / line <input id="location" placeholder="p. 6, l. 14" aria-label="Printed page and line" required></label><button>Go</button></form>
+<label><input id="numerals" type="checkbox" checked> Printed chapter numerals</label>
+<label><input id="show-furniture" type="checkbox"> Page furniture</label>
+</nav>
+<details id="wellmann-tools" hidden><summary>Headwords and text search</summary>
+<label>Headwords <select id="headwords"></select></label>
+<form id="search"><label>Search all books <input id="query" type="search" required></label><button>Search</button></form>
+<ul id="search-results" aria-live="polite"></ul></details>
+<p class="legend">Blue: apparatus lemmata. Click or press Enter to link text and entry. Muted text: context outside the selected chapters.
+<span id="parallel-link" hidden></span></p>
+<p id="status" role="status" aria-live="polite"></p>
+<p id="candidate-banner" role="note" hidden>Candidate edition, under review — not yet accepted</p>
+<main class="grid">
+<section aria-label="Text"><h2>Edition text</h2><div class="furniture" id="furniture" hidden></div><div class="text" id="text"></div></section>
+<section aria-label="Apparatus"><h2>Apparatus</h2><div class="app" id="app"></div></section>
+<section class="scanbox" aria-label="Page scan"><h2>Printed page <span id="scan-page"></span></h2><p id="scan-status" class="sub"></p><a id="scan-link" target="_blank" rel="noopener" hidden>open at BBAW</a><button id="scan-open" class="scan-open" type="button" aria-label="Enlarge page scan"><img id="scan" alt="Scan of the printed page" loading="lazy"></button></section>
+</main>
+<footer id="credits"></footer></div>
+<dialog id="zoom"><button id="zoom-close" type="button">Close scan</button><div><img id="zoom-image" alt="Enlarged scan of the printed page"></div></dialog>
+</body></html>
