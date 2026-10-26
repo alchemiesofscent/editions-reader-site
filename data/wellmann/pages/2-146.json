@@ -629,36 +629,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-3-146-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "137 RV: χαμαίμηλον· . . . . . Ῥωμαῖοι μάλιουμ, Ἄφροι ἀστιρτιφρό.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-146-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-146-1",
-      "to": "wellmann-3-146-1-end",
-      "line_ids": [
-        "wellmann-3-146-1"
-      ]
-    },
-    {
       "id": "wellmann-print-3-146-3",
       "group": "criticus",
       "method": null,
@@ -2020,8 +1990,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "137",
+      "subtype": "R",
+      "n": "3.137",
       "corresp": "#wellmann1906-3-137",
       "part": "",
       "lines": [
@@ -2033,7 +2003,7 @@
               "a": "wellmann-3-146-19-segment-c2"
             },
             {
-              "t": "χαμαίμηλον . . . . Ῥωμαῖοι μάλιουμ, Ἄφροι ἀστιρ-"
+              "t": "χαμαίμηλον· . . . . . Ῥωμαῖοι μάλιουμ, Ἄφροι ἀστιρ"
             },
             {
               "a": "wellmann-3-146-19-segment-c2-end"

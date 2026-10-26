@@ -69,7 +69,7 @@
           "a": "awellmann-print-2-186-8"
         },
         {
-          "t": "κεφαλοειδὴς"
+          "t": "κεφαλοειδής"
         },
         {
           "a": "awellmann-print-2-186-8e"
@@ -210,7 +210,7 @@
           "a": "wellmann-2-186-u7"
         },
         {
-          "t": "ἦττον δὲ τρόφιμος. ποιεῖ "
+          "t": "ἧττον δὲ τρόφιμος. ποιεῖ "
         },
         {
           "a": "awellmann-print-2-186-15"
@@ -464,36 +464,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-186-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "112 RV: ῥάφανος κηπαία· οἱ δὲ πολύειδος ἠρυγγίου, Ῥωμαῖοι ῥάδιξ νόστρα, Ἄφροι θορφάθ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-186-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-186-1",
-      "to": "wellmann-2-186-1-end",
-      "line_ids": [
-        "wellmann-2-186-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-186-5",
       "group": "criticus",
@@ -1657,8 +1627,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "112",
+      "subtype": "R",
+      "n": "2.112",
       "corresp": "#wellmann1906-2-112",
       "part": "",
       "lines": [
@@ -1670,7 +1640,7 @@
               "a": "wellmann-2-186-14-segment-c2"
             },
             {
-              "t": "ῥάφανος κηπαία· οἱ δὲ πολύειδος ἠρυγγίου, Ῥω-"
+              "t": "ῥάφανος κηπαία· οἱ δὲ πολύειδος ἠρυγγίου, Ῥω"
             },
             {
               "a": "wellmann-2-186-14-segment-c2-end"

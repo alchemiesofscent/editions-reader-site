@@ -435,7 +435,7 @@
           "a": "awellmann-print-4-196-30e"
         },
         {
-          "t": " ἴστησι "
+          "t": " ἵστησι "
         },
         {
           "a": "awellmann-print-4-196-31"
@@ -468,36 +468,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-196-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "37 RV: βάτος· οἱ δὲ κυνόσβατον, οἱ δὲ σεληνοτρόπιον, οἱ δὲ ἀσύντροφον, προφῆται αἷμα Τιτάνου, οἱ δὲ αἷμα ἴβεως, Ῥωμαῖοι σέντιξ, οἱ δὲ ῥούβουμ, οἱ δὲ μόρα ⟨σιλ⟩βάτικα, Δάκοι μαντία, Αἰγύπτιοι αἱμοίως, οἱ δὲ ἄμετρος.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-196-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-196-1",
-      "to": "wellmann-4-196-1-end",
-      "line_ids": [
-        "wellmann-4-196-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-196-5",
       "group": "criticus",
@@ -1848,8 +1818,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "37",
+      "subtype": "R",
+      "n": "4.37",
       "corresp": "#wellmann1906-4-37",
       "part": "",
       "lines": [

@@ -234,7 +234,21 @@
           "a": "awellmann-print-4-281-20"
         },
         {
-          "t": "παραστιλβόντων"
+          "t": "παραστιλβ"
+        },
+        {
+          "t": "",
+          "br": "⟨"
+        },
+        {
+          "t": "όντ"
+        },
+        {
+          "t": "",
+          "br": "⟩"
+        },
+        {
+          "t": "ων"
         },
         {
           "a": "awellmann-print-4-281-19e"
@@ -451,36 +465,6 @@
       "cert": "low",
       "printed": "mg. add. ἢ ἐπὶ τὰς πηγὰς V",
       "printed_fallback": true,
-      "source_spans": [
-        {
-          "from": "wellmann-4-281-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-281-1",
-      "to": "wellmann-4-281-1-end",
-      "line_ids": [
-        "wellmann-4-281-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-4-281-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "135 RV: ἀδίαντον ἕτερον· οἱ δὲ τριχομανές, οἱ δὲ πτέριον, οἱ δὲ εὔπτερον, Ῥωμαῖοι καπιλλάρεμ, οἱ δὲ πίννουλαμ, οἱ δὲ φιλίκλαμ. 136 RV: ξάνθιον· οἱ δὲ φάσγανον, οἱ δὲ χοιραδόλεθρον, οἱ δὲ καὶ ταύτην ἀπαρίνην καλοῦσιν, Ῥωμαῖοι λάππαμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
       "source_spans": [
         {
           "from": "wellmann-4-281-1",
@@ -1937,8 +1921,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "135",
+      "subtype": "R",
+      "n": "4.135",
       "corresp": "#wellmann1906-4-135",
       "part": "",
       "lines": [
@@ -2033,8 +2017,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "136",
+      "subtype": "R",
+      "n": "4.136",
       "corresp": "#wellmann1906-4-136",
       "part": "",
       "lines": [

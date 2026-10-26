@@ -60,7 +60,7 @@
           "a": "awellmann-print-4-265-7e"
         },
         {
-          "t": ", ὅ φασι κατὰ τὰς ἀνατολὰς"
+          "t": ", ὃ φασι κατὰ τὰς ἀνατολὰς"
         },
         {
           "a": "wellmann-4-265-u2-end"
@@ -491,37 +491,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-265-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "114 RV: μυριόφυλλον· οἱ δὲ μηλόφυλλον, οἱ δὲ στρατιωτική, οἱ δὲ Ἀχίλλειος, Ῥωμαῖοι μιλλεφόλιουμ, οἱ δὲ σουπερκίλιουμ Βένερις, Γάλλοι βελιοκάνδο⟨ς⟩.",
-      "flags": [
-        "heading_attachment",
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-265-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-265-1",
-      "to": "wellmann-4-265-1-end",
-      "line_ids": [
-        "wellmann-4-265-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-265-5",
       "group": "criticus",
@@ -1756,8 +1725,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "114",
+      "subtype": "R",
+      "n": "4.114",
       "corresp": "#wellmann1906-4-114",
       "part": "",
       "lines": [
@@ -1769,7 +1738,7 @@
               "a": "wellmann-4-265-13-segment-c2"
             },
             {
-              "t": "μυριόφυλλον· οἱ δὲ μηλόφυλλον, οἱ δὲ στρατιω-"
+              "t": "μυριόφυλλον· οἱ δὲ μηλόφυλλον, οἱ δὲ στρατιω"
             },
             {
               "a": "wellmann-4-265-13-segment-c2-end"
@@ -1808,7 +1777,7 @@
               "a": "awellmann-print-4-265-35-c2e"
             },
             {
-              "t": ", οἱ δὲ σουπερ-"
+              "t": ", οἱ δὲ σουπερ"
             },
             {
               "a": "wellmann-4-265-14-segment-c2-end"

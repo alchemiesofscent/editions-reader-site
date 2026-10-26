@@ -208,7 +208,7 @@
           "a": "awellmann-print-2-235-14e"
         },
         {
-          "t": " καὶ δήγματα"
+          "t": " καὶ ῥήγματα"
         },
         {
           "a": "wellmann-2-235-u5-end"
@@ -401,7 +401,7 @@
           "a": "wellmann-2-235-u12"
         },
         {
-          "t": "συγκαθεψομένης τρυγὸς "
+          "t": "συγκαϑεψομένης τρυγὸς "
         },
         {
           "a": "awellmann-print-2-235-22"
@@ -536,7 +536,7 @@
           "a": "wellmann-2-235-u16"
         },
         {
-          "t": "καὶ πρὸς ὦτα πυορροοῦντα καθ᾿ ἑαυτὸν καὶ σὺν λιβανωτῷ καὶ"
+          "t": "καὶ πρὸς ὦτα πυορροοῦντα καϑ᾽ ἑαυτὸν καὶ σὺν λιβανωτῷ καὶ"
         },
         {
           "a": "wellmann-2-235-u16-end"
@@ -629,7 +629,7 @@
           "a": "awellmann-print-2-235-33e"
         },
         {
-          "t": " πραΰνει."
+          "t": " πραύνει."
         },
         {
           "a": "wellmann-2-235-18-end"
@@ -638,36 +638,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-235-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "169 RV: ἀσφόδελος· οἱ δὲ ναρθήκιον, Ῥωμαῖοι ἀλβούκιουμ, Ἄφροι κύρα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-235-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-235-1",
-      "to": "wellmann-2-235-1-end",
-      "line_ids": [
-        "wellmann-2-235-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-235-3",
       "group": "criticus",
@@ -1934,8 +1904,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "169",
+      "subtype": "R",
+      "n": "2.169",
       "corresp": "#wellmann1906-2-169",
       "part": "",
       "lines": [

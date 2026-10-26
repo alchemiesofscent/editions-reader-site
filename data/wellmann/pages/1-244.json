@@ -166,7 +166,7 @@
           "a": "awellmann-print-2-244-15e"
         },
         {
-          "t": ", λεπ\\τοσχιδέστερα "
+          "t": ", λεπτοσχιδέστερα "
         },
         {
           "t": "",
@@ -609,36 +609,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "EXC. Orib. XI s. v. (ἀνεμώνη — οὖσα); Gal. XII 831 (unde Aet. I s. v. Paul. Aeg. VII 3 s. v.).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-244-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-244-1",
-      "to": "wellmann-2-244-1-end",
-      "line_ids": [
-        "wellmann-2-244-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-2-244-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "176 RV: ἀνεμώνη ἡ φοινικῆ· οἱ δὲ ἠνέμιον, οἱ δὲ μηκώνιον ἢ μηκωνίδα, οἱ δὲ τραγόκερως, οἱ δὲ γῆς παρειάν, οἱ δὲ βραβύλη, Ὀσθάνης βηρύλλιος, ὁμοίως ὄρνιθος κεφάλιον, Πυθαγόρας ἀδρακτυλίς, προφῆται κνῆκος ἀγρία, Ῥωμαῖοι Ὄρκι τούνικαμ, Ἄφροι χουφροίστ. ἀνεμώνη ἡ ἀγρία μέλαινα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -2037,8 +2007,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "176",
+      "subtype": "R",
+      "n": "2.176",
       "corresp": "#wellmann1906-2-176",
       "part": "",
       "lines": [
@@ -2050,7 +2020,7 @@
               "a": "wellmann-2-244-14-segment-c2"
             },
             {
-              "t": "ἀνεμώνη ἡ φοινική· οἱ δὲ ἠνέμιον, οἱ δὲ μηκώ-"
+              "t": "ἀνεμώνη ἡ φοινικῆ· οἱ δὲ ἠνέμιον, οἱ δὲ μηκώ"
             },
             {
               "a": "wellmann-2-244-14-segment-c2-end"
@@ -2117,7 +2087,7 @@
               "a": "awellmann-print-2-244-39-c2e"
             },
             {
-              "t": " κεφάλιον, Πυθα-"
+              "t": " κεφάλιον, Πυθα"
             },
             {
               "a": "wellmann-2-244-16-segment-c2-end"
@@ -2144,7 +2114,7 @@
               "a": "awellmann-print-2-244-40-c2e"
             },
             {
-              "t": ", προφῆται κνῆκος ἀγρία, Ῥωμαῖοι Ὄρκι τού-"
+              "t": ", προφῆται κνῆκος ἀγρία, Ῥωμαῖοι Ὄρκι τού"
             },
             {
               "a": "wellmann-2-244-u17-end"

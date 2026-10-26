@@ -212,7 +212,7 @@
           "a": "awellmann-print-4-268-15"
         },
         {
-          "t": "κρισῶν"
+          "t": "κρισσῶν"
         },
         {
           "a": "awellmann-print-4-268-15e"
@@ -351,37 +351,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-268-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "118 RV: κρίσσιον· οἱ δὲ τρίγωνον, οἱ δὲ βούγλωσσυν μέγα καλοῦσιν, Ῥωμαῖοι σπίνα μόλλις. 119 RV: ἀστὴρ Ἀττικός· οἱ δὲ ἀστερίσκος, οἱ δὲ ἀστέριον, οἱ δὲ βουβώνιον, οἱ δὲ ὑόφθαλμον, Ῥωμαῖοι ἰγγυνάλις, Δάκοι ῥαθιβίδα.",
-      "flags": [
-        "line-reference-unavailable",
-        "run_together",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-268-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-268-1",
-      "to": "wellmann-4-268-1-end",
-      "line_ids": [
-        "wellmann-4-268-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-268-6",
       "group": "criticus",
@@ -1414,8 +1383,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "118",
+      "subtype": "R",
+      "n": "4.118",
       "corresp": "#wellmann1906-4-118",
       "part": "",
       "lines": [
@@ -1465,8 +1434,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "119",
+      "subtype": "R",
+      "n": "4.119",
       "corresp": "#wellmann1906-4-119",
       "part": "",
       "lines": [

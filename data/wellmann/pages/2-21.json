@@ -184,7 +184,7 @@
           "a": "awellmann-print-3-21-18e"
         },
         {
-          "t": ", ἦς "
+          "t": ", ἧς "
         },
         {
           "a": "awellmann-print-3-21-19"
@@ -658,37 +658,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "EXC.: Orib. XII s. v. (σκόλυμος — δύναμις). de virt. med. cf. Gal. XII 125 (cf. Orib. II 565), unde Orib. V 637 (unde Ps. Orib. IV 211), Aet. I s. v. Paul. Aeg. VII 3 s. v. Ps. D. de h. f. 35 (e D. lat.). Hes. s. v. σκόλυμος.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-21-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-21-1",
-      "to": "wellmann-3-21-1-end",
-      "line_ids": [
-        "wellmann-3-21-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-21-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "14 RV: σκόλυμος· οἱ δὲ φέρ⟨β⟩ουσα, οἱ δὲ πυράκανθα, Ῥωμαῖοι τρίβουλου⟨μ⟩, Αἰγύπτιοι κνούς.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "rv_line_unavailable",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -2250,8 +2219,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "14",
+      "subtype": "R",
+      "n": "3.14",
       "corresp": "#wellmann1906-3-14",
       "part": "",
       "lines": [

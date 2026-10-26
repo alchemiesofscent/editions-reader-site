@@ -144,7 +144,7 @@
           "a": "wellmann-3-155-u3"
         },
         {
-          "t": "λευκὴν ἕνδοθεν. ὠνόμασται δὲ ἀλθαία διὰ τὸ πολυαλθὲς καὶ"
+          "t": "λευκὴν ἔνδοϑεν. ὠνόμασται δὲ ἀλθαία διὰ τὸ πολυαλθὲς καὶ"
         },
         {
           "a": "wellmann-3-155-u3-end"
@@ -366,7 +366,7 @@
           "a": "awellmann-print-3-155-22"
         },
         {
-          "t": "ὑείῳ ἡ"
+          "t": "ὑείῳ ἢ"
         },
         {
           "a": "awellmann-print-3-155-22e"
@@ -506,36 +506,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-155-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "146 RV: ἀλθαία· οἱ δὲ ἀλθίσκον, οἱ δὲ μαλάχη ἀγρία, Ῥωμαῖοι ἐβίσκουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-155-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-155-1",
-      "to": "wellmann-3-155-1-end",
-      "line_ids": [
-        "wellmann-3-155-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-155-3",
       "group": "criticus",
@@ -1729,8 +1699,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "146",
+      "subtype": "R",
+      "n": "3.146",
       "corresp": "#wellmann1906-3-146",
       "part": "",
       "lines": [

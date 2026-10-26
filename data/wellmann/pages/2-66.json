@@ -72,7 +72,7 @@
           "a": "wellmann-3-66-u3"
         },
         {
-          "t": "οὖ ἄνθη "
+          "t": "οὗ ἄνθη "
         },
         {
           "a": "awellmann-print-3-66-6"
@@ -93,7 +93,7 @@
           "a": "awellmann-print-3-66-7e"
         },
         {
-          "t": " προρφυροειδὲς "
+          "t": " πορφυροειδὲς "
         },
         {
           "a": "awellmann-print-3-66-8"
@@ -150,7 +150,7 @@
           "a": "awellmann-print-3-66-11"
         },
         {
-          "t": "πάχος"
+          "t": "πάχος,"
         },
         {
           "a": "awellmann-print-3-66-11e"
@@ -497,36 +497,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-66-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "52 RV: σταφυλῖνος ἄγριος, οἱ δὲ κέρας, [οἱ δὲ κέρας κόμην καλοῦσιν] Ῥωμαῖοι καρώταμ, οἱ δὲ παστινάκα ῥούστικα, Αἰγύπτιοι βαβιβυρού, Ἄφροι σιχχάμ. σταφυλῖνος κηπαῖος, Ῥωμαῖοι παστινάκαμ, Ἄφροι σιχάμ, οἱ δὲ σιχκιριάμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-66-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-66-1",
-      "to": "wellmann-3-66-1-end",
-      "line_ids": [
-        "wellmann-3-66-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-66-3",
       "group": "criticus",
@@ -1911,8 +1881,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "52",
+      "subtype": "R",
+      "n": "3.52",
       "corresp": "#wellmann1906-3-52",
       "part": "",
       "lines": [
@@ -1951,7 +1921,7 @@
               "a": "awellmann-print-3-66-32-c2e"
             },
             {
-              "t": " ῥούστικα, Αἰ-"
+              "t": " ῥούστικα, Αἰ"
             },
             {
               "a": "wellmann-3-66-u15-end"

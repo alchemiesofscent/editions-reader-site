@@ -307,36 +307,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-239-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "78 RV: κώνειον· οἱ δὲ αἴγινος, οἱ δὲ αἴθουσα, οἱ δὲ ἀπολύουσα, οἱ δὲ δολία, οἱ δὲ ἀμαύρωσις, οἱ δὲ παράλυσις, οἱ δὲ ἄφρων, οἱ δὲ κρηίδιον, οἱ δὲ κονήν, οἱ δὲ κατεχομένον, οἱ δὲ ἄβιωτον, οἱ δὲ ἀψευδής, οἱ δὲ αἰγόμορον, οἱ δὲ ἀμερσίνοον, οἱ δὲ ἐνζύμιον, οἱ δὲ τιμωρόν, οἱ δὲ οὐκανθές, οἱ δὲ οὐλόμενον, οἱ δὲ δηϊοῦσα, οἱ δὲ πολυανώδυνος, οἱ δὲ Δαρδανίς, οἱ δὲ κατάψυξις, Ὀσθάνης βαβαθύ, Αἰγύπτιοι ἀπεμφύ, Ῥωμαῖοι κικούταμ, οἱ δὲ ἀλτερνάλις, οἱ δὲ ἰνφέρα, οἱ δὲ . . . . . Δάκοι ζῆνα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-239-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-239-1",
-      "to": "wellmann-4-239-1-end",
-      "line_ids": [
-        "wellmann-4-239-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-239-3",
       "group": "criticus",
       "method": null,
@@ -1754,8 +1724,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "78",
+      "subtype": "R",
+      "n": "4.78",
       "corresp": "#wellmann1906-4-78",
       "part": "",
       "lines": [
@@ -1767,7 +1737,7 @@
               "a": "wellmann-4-239-9-segment-c2"
             },
             {
-              "t": "κώνειον· οἱ δὲ αἴγινος, οἱ δὲ αἴθουσα, οἱ δὲ ἀπο-"
+              "t": "κώνειον· οἱ δὲ αἴγινος, οἱ δὲ αἴθουσα, οἱ δὲ ἀπο"
             },
             {
               "a": "wellmann-4-239-9-segment-c2-end"
@@ -1942,7 +1912,7 @@
               "a": "awellmann-print-4-239-36-c2e"
             },
             {
-              "t": ", οἱ δὲ ἰνφέρνα, οἱ δὲ . . . . . Δά-"
+              "t": ", οἱ δὲ ἰνφέρνα, οἱ δὲ . . . . . Δά"
             },
             {
               "a": "wellmann-4-239-16-segment-c2-end"

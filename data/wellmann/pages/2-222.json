@@ -633,36 +633,6 @@
       ]
     },
     {
-      "id": "wellmann-print-4-222-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "65 RV: μήκων κερατῖτις· οἱ δὲ παράλιον, οἱ δὲ ἀγρίαν μήκωνα, οἱ δὲ θαλάσσιον, Ῥωμαῖοι φαβιόλουμ μαρίνουμ, Ἄφροι σισσιμα⟨ν⟩σεσσά.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-222-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-222-1",
-      "to": "wellmann-4-222-1-end",
-      "line_ids": [
-        "wellmann-4-222-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-222-5",
       "group": "criticus",
       "method": null,
@@ -1812,8 +1782,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "65",
+      "subtype": "R",
+      "n": "4.65",
       "corresp": "#wellmann1906-4-65",
       "part": "",
       "lines": [
@@ -1840,7 +1810,7 @@
               "a": "wellmann-4-222-15-segment-c2"
             },
             {
-              "t": "μήκωνα, οἱ δὲ θαλάσσιον, Ῥωμαῖοι φαβίολο̄υμ μαρίνουμ, Ἄφροι"
+              "t": "μήκωνα, οἱ δὲ θαλάσσιον, Ῥωμαῖοι φαβίολουμ μαρίνουμ, Ἄφροι"
             },
             {
               "a": "wellmann-4-222-15-segment-c2-end"

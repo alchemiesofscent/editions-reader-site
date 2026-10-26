@@ -197,7 +197,7 @@
           "a": "awellmann-print-3-44-16e"
         },
         {
-          "t": "· καπτὸν"
+          "t": "· καρπὸν"
         },
         {
           "a": "wellmann-3-44-u5-end"
@@ -449,36 +449,6 @@
         "witness-disagreement"
       ],
       "printed": "EXC.: Orib. XI s. v. (ἐλελίσφακος — χωρίοις); Ps. D. de h. f. 4 (e D. lat.); carm. de herb. 7; Ps. Ap. 101 (unde Ps. Orib. I 82. A. Mai l. s. VII 418); Ps. Orib. V 103; Gal XI 873 (unde Paul. Aeg. VII 3 s. v. Aet. I s. v. aliis ex Agrippa et Ps. Orpheo adscitis). Hes. s. v. ἐλελίσφακος.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-44-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-44-1",
-      "to": "wellmann-3-44-1-end",
-      "line_ids": [
-        "wellmann-3-44-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-44-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "33 RV: ἐλελίσφακον· οἱ δὲ λελίσφακον, οἱ δὲ σφάκον, οἱ δὲ κισσίον, οἱ δὲ σφάγνος, οἱ δὲ βήκιον, Αἰγύπτιοι ἀπουσί, Ῥωμαῖοι σάλβια, οἱ δὲ κόρσαλον.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1454,8 +1424,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "33",
+      "subtype": "R",
+      "n": "3.33",
       "corresp": "#wellmann1906-3-33",
       "part": "",
       "lines": [

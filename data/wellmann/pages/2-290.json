@@ -150,7 +150,7 @@
           "a": "awellmann-print-4-290-11"
         },
         {
-          "t": "ἡ τεύτλου ἀγρίου"
+          "t": "ἢ τεύτλου ἀγρίου"
         },
         {
           "a": "awellmann-print-4-290-11e"
@@ -288,7 +288,7 @@
           "a": "awellmann-print-4-290-19e"
         },
         {
-          "t": ", ἀπὸ κεφαλίου μικροῦ "
+          "t": ", ἀπὸ | κεφαλίου μικροῦ "
         },
         {
           "a": "awellmann-print-4-290-20"
@@ -564,36 +564,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-290-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "148 RV: ἐλλέβορος λευκός· οἱ δὲ Ἀσκληπιάδα, οἱ δὲ ἔκτομον, οἱ δὲ πίνακα Τοξάρι⟨ο⟩ς, προφῆται γόνος Ἡρακλέους, οἱ δὲ πολύειδος, οἱ δὲ ἀνάρυστος, Αἰγύπτιοι σομφία, οἱ δὲ οὖρε, Ῥωμαῖοι βερέτρουμ ἄλβουμ, Γάλλοι λάγονον, οἱ δὲ ἀνειψά.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-290-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-290-1",
-      "to": "wellmann-4-290-1-end",
-      "line_ids": [
-        "wellmann-4-290-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-290-4",
       "group": "criticus",
@@ -2101,6 +2071,7 @@
       "from": "awellmann-print-4-290-41-c2",
       "to": "awellmann-print-4-290-41-c2e",
       "line_ids": [
+        "wellmann-4-290-15-segment-c2",
         "wellmann-4-290-u16"
       ]
     },
@@ -2232,8 +2203,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "148",
+      "subtype": "R",
+      "n": "4.148",
       "corresp": "#wellmann1906-4-148",
       "part": "",
       "lines": [
@@ -2245,7 +2216,7 @@
               "a": "wellmann-4-290-14-segment-c2"
             },
             {
-              "t": "ἐλλέβορος λευκός· οἱ δὲ Ἀσκληπιάδα, οἱ δὲ ἔκτομον,"
+              "t": "ἐλλέβορος λευκός· οἱ δὲ Ἀσκληπιάδα, οἱ δὲ ἔκτο-"
             },
             {
               "a": "wellmann-4-290-14-segment-c2-end"
@@ -2301,9 +2272,13 @@
               "t": ", προφῆται γόνος Ἡρακλέους, οἱ δὲ"
             },
             {
+              "a": "awellmann-print-4-290-41-c2"
+            },
+            {
               "a": "wellmann-4-290-15-segment-c2-end"
             }
-          ]
+          ],
+          "break_no": true
         },
         {
           "n": "16",
@@ -2311,9 +2286,6 @@
           "parts": [
             {
               "a": "wellmann-4-290-u16"
-            },
-            {
-              "a": "awellmann-print-4-290-41-c2"
             },
             {
               "t": "πολύειδος"
@@ -2328,7 +2300,7 @@
               "a": "awellmann-print-4-290-42-c2"
             },
             {
-              "t": "ἀνάφυτος"
+              "t": "ἀνάρυστος"
             },
             {
               "a": "awellmann-print-4-290-42-c2e"

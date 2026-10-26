@@ -28,7 +28,7 @@
           "a": "awellmann-print-1-87-10"
         },
         {
-          "t": "ἤ κίσσαρον"
+          "t": "ἢ κίσσαρον"
         },
         {
           "a": "awellmann-print-1-87-9e"
@@ -355,7 +355,7 @@
           "a": "awellmann-print-1-87-23e"
         },
         {
-          "t": ", ὐπ᾿ ἐνίων δὲ ὀρόβηθρον ἤ κύτινος "
+          "t": ", ὑπ’ ἐνίων δὲ ὀρόβηθρον ἤ κύτινος "
         },
         {
           "a": "awellmann-print-1-87-25"
@@ -516,66 +516,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "EXC. Orib. XI s. v. (κίσθος — λευκά); Gal. XII 27 (unde Aet. I s. v. Paul. Aeg. VII 3 s. v.).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-1-87-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-1-87-1",
-      "to": "wellmann-1-87-1-end",
-      "line_ids": [
-        "wellmann-1-87-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-1-87-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "97 RV: ὑποκισθίς· οἱ δὲ ὑποκισθίν, οἱ δὲ ὀρόβηθρον, οἱ δὲ θορύβηθρον, οἱ δὲ κύτινος, οἱ δὲ λεοντιάς, οἱ δὲ Διονυσιάς, οἱ δὲ θύρσιον.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-1-87-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-1-87-1",
-      "to": "wellmann-1-87-1-end",
-      "line_ids": [
-        "wellmann-1-87-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-1-87-2",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "15 ὑποκισθίς ἑτέρα· οἱ δὲ αἰείβιον, οἱ δὲ κύτινον ἄφυλλον, οἱ δὲ θύρσιον, οἱ δὲ θορύβηθρον, οἱ δὲ καὶ ὀρόβηθρον, Ἄφροι βιλλεσαδέ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1670,8 +1610,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "97",
+      "subtype": "R",
+      "n": "1.97",
       "corresp": "#wellmann1906-1-97",
       "part": "",
       "lines": [
@@ -1686,13 +1626,13 @@
               "a": "awellmann-print-1-87-27-c2"
             },
             {
-              "t": "_ὑποκισθίς"
+              "t": "ὑποκισθίς"
             },
             {
               "a": "awellmann-print-1-87-27-c2e"
             },
             {
-              "t": "· οἱ δὲ ὑποκυσθίν, οἱ δὲ ὀρόβηθρον, οἱ"
+              "t": "· οἱ δὲ ὑποκισθίν, οἱ δὲ ὀρόβηθρον, οἱ"
             },
             {
               "a": "wellmann-1-87-12-segment-c2-end"
@@ -1734,7 +1674,7 @@
               "a": "wellmann-1-87-u14"
             },
             {
-              "t": "οἱ δὲ θύρσιον._"
+              "t": "οἱ δὲ θύρσιον."
             },
             {
               "a": "wellmann-1-87-u14-end"
@@ -1749,7 +1689,7 @@
               "a": "wellmann-1-87-15-segment-c2"
             },
             {
-              "t": "_ὑποκισθὶς"
+              "t": "ὑποκισθίς"
             },
             {
               "t": " ἑτέρα· οἱ δὲ αἰείβιον, οἱ δὲ κύτινον ἄφυλλον, οἱ"
@@ -1797,7 +1737,7 @@
               "a": "awellmann-print-1-87-34-c2"
             },
             {
-              "t": "βιλλεσαδέ._"
+              "t": "βιλλεσαδέ."
             },
             {
               "a": "awellmann-print-1-87-34-c2e"

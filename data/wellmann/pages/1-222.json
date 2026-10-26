@@ -348,7 +348,7 @@
           "a": "awellmann-print-2-222-23e"
         },
         {
-          "t": " ἰσχιαδικοὺς ὠρελεῖ,"
+          "t": " ἰσχιαδικοὺς ὠφελεῖ,"
         },
         {
           "a": "wellmann-2-222-u8-end"
@@ -448,7 +448,7 @@
           "a": "awellmann-print-2-222-29"
         },
         {
-          "t": "θλάσπι"
+          "t": "ϑλάσπι"
         },
         {
           "a": "awellmann-print-2-222-28e"
@@ -609,36 +609,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-222-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "156 RV: θλάσπι· οἱ δὲ θλασπίδιον, οἱ δὲ σίνηπι Περσικόν, οἱ δὲ σίνηπι ἄγριον, οἱ δὲ μυῖτιν, οἱ δὲ μυιόπτερον, οἱ δὲ Δημοφῶν, οἱ δὲ βότρυον, Αἰγύπτιοι σουιτέμψον, Ῥωμαῖοι σκανδουλάκιουμ, οἱ δὲ καμψέλλα, οἱ δὲ πέδε⟨μ⟩ γαλλινάκιουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-222-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-222-1",
-      "to": "wellmann-2-222-1-end",
-      "line_ids": [
-        "wellmann-2-222-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-222-4",
       "group": "criticus",
@@ -2328,8 +2298,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "156",
+      "subtype": "R",
+      "n": "2.156",
       "corresp": "#wellmann1906-2-156",
       "part": "",
       "lines": [
@@ -2341,7 +2311,7 @@
               "a": "wellmann-2-222-17-segment-c2"
             },
             {
-              "t": "_Θλάσπι· οἱ δὲ θλασπίδιον, οἱ δὲ "
+              "t": "ϑλάσπι· οἱ δὲ θλασπίδιον, οἱ δὲ "
             },
             {
               "a": "awellmann-print-2-222-38-c2"
@@ -2353,7 +2323,7 @@
               "a": "awellmann-print-2-222-38-c2e"
             },
             {
-              "t": " Περσι_κόν,"
+              "t": " Περσι-"
             },
             {
               "a": "wellmann-2-222-17-segment-c2-end"
@@ -2368,7 +2338,13 @@
               "a": "wellmann-2-222-18-segment-c2"
             },
             {
-              "t": "_κόν, οἱ δὲ σίνηπι ἄγριον, οἱ δὲ μυῖτιν, "
+              "t": "κόν,"
+            },
+            {
+              "t": " "
+            },
+            {
+              "t": " οἱ δὲ σίνηπι ἄγριον, οἱ δὲ μυῖτιν, "
             },
             {
               "a": "awellmann-print-2-222-40-c2"
@@ -2380,12 +2356,16 @@
               "a": "awellmann-print-2-222-40-c2e"
             },
             {
-              "t": ", οἱ_"
+              "t": ", οἱ"
+            },
+            {
+              "t": ""
             },
             {
               "a": "wellmann-2-222-18-segment-c2-end"
             }
-          ]
+          ],
+          "break_no": true
         },
         {
           "n": "19",
@@ -2395,7 +2375,7 @@
               "a": "wellmann-2-222-19-segment-c2"
             },
             {
-              "t": "_δὲ Δημοφῶν, οἱ δὲ "
+              "t": "δὲ Δημοφῶν, οἱ δὲ "
             },
             {
               "a": "awellmann-print-2-222-42-c2"
@@ -2419,7 +2399,7 @@
               "a": "awellmann-print-2-222-43-c2e"
             },
             {
-              "t": ", Ῥωμαῖοι_"
+              "t": ", Ῥωμαῖοι"
             },
             {
               "a": "wellmann-2-222-19-segment-c2-end"
@@ -2434,7 +2414,7 @@
               "a": "wellmann-2-222-20-segment-c2"
             },
             {
-              "t": "_σκανδουλάκιουμ, οἱ δὲ "
+              "t": "σκανδουλάκιουμ, οἱ δὲ "
             },
             {
               "a": "awellmann-print-2-222-45-c2"
@@ -2446,21 +2426,21 @@
               "a": "awellmann-print-2-222-45-c2e"
             },
             {
-              "t": ", οἱ δὲ πέδε_"
+              "t": ", οἱ δὲ πέδε"
             },
             {
               "t": "",
               "br": "⟨"
             },
             {
-              "t": "_μ_"
+              "t": "μ"
             },
             {
               "t": "",
               "br": "⟩"
             },
             {
-              "t": " _γαλλινάκιουμ._"
+              "t": " γαλλινάκιουμ."
             },
             {
               "a": "wellmann-2-222-20-segment-c2-end"

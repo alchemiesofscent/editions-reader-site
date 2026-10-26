@@ -45,7 +45,7 @@
           "a": "awellmann-print-4-316-7"
         },
         {
-          "t": "ἀφʼ ἦς ὅλος"
+          "t": "ἀφʼ ἧς ὅλος"
         },
         {
           "a": "awellmann-print-4-316-7e"
@@ -443,36 +443,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-316-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "168 RV: πέπλιον· οἱ δὲ πεπλίδα, οἱ δὲ ἴαχος, οἱ δὲ πολύγαλον, οἱ δὲ φέρομβρον, οἱ δὲ ἀνδράχνην θαλασσίαν ἢ ἀγρίαν, οἱ δὲ γαλοῦμβρον, οἱ δὲ πέπων, οἱ δὲ συκῆν, οἱ δὲ μηκώνιον, οἱ δὲ Ἡράκλειον, οἱ δὲ μήκων ἀφρώδης, Ῥωμαῖοι πορτούλακα μίνορ, οἱ δὲ λάκτια.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-316-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-316-1",
-      "to": "wellmann-4-316-1-end",
-      "line_ids": [
-        "wellmann-4-316-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-316-4",
       "group": "criticus",
@@ -1857,8 +1827,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "168",
+      "subtype": "R",
+      "n": "4.168",
       "corresp": "#wellmann1906-4-168",
       "part": "",
       "lines": [
@@ -1870,7 +1840,7 @@
               "a": "wellmann-4-316-12-segment-c2"
             },
             {
-              "t": "πέπλιον· οἱ δὲ πεπλίδα, οἱ δὲ ἴαχος, οἱ δὲ πο-"
+              "t": "πέπλιον· οἱ δὲ πεπλίδα, οἱ δὲ ἴαχος, οἱ δὲ πο"
             },
             {
               "a": "wellmann-4-316-12-segment-c2-end"
@@ -1988,7 +1958,7 @@
               "a": "wellmann-4-316-u16"
             },
             {
-              "t": "μίνορ, οἱ δὲ λάπτια."
+              "t": "μίνορ, οἱ δὲ λάκτια."
             },
             {
               "a": "wellmann-4-316-u16-end"

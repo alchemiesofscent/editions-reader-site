@@ -649,36 +649,6 @@
       ]
     },
     {
-      "id": "wellmann-print-4-307-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "ἐλαφυής, οἱ δὲ κεμελέν, οἱ δὲ ἐρμιελύ, Ῥωμαῖοι βερέτρουμ νίγρουμ, οἱ δὲ κονσιλίγω, οἱ δὲ σαρράκα, Δάκοι προδιάρνα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-307-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-307-1",
-      "to": "wellmann-4-307-1-end",
-      "line_ids": [
-        "wellmann-4-307-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-307-3",
       "group": "criticus",
       "method": null,
@@ -2183,8 +2153,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "162",
+      "subtype": "R",
+      "n": "4.162",
       "corresp": "#wellmann1906-4-162",
       "part": "F",
       "lines": [
@@ -2196,13 +2166,13 @@
               "a": "wellmann-4-307-17-segment-c2"
             },
             {
-              "t": "_ἐλαφυής_, οἱ δὲ _κεμελέγ_, "
+              "t": "ἐλαφυής, οἱ δὲ κεμελέγ, "
             },
             {
               "a": "awellmann-print-4-307-36-c2"
             },
             {
-              "t": "οἱ δὲ _ἑρμιελύ_"
+              "t": "οἱ δὲ ἑρμιελύ"
             },
             {
               "a": "awellmann-print-4-307-36-c2e"
@@ -2214,13 +2184,13 @@
               "a": "awellmann-print-4-307-37-c2"
             },
             {
-              "t": "_βερέτρουμ"
+              "t": "βερέτρουμ"
             },
             {
               "a": "awellmann-print-4-307-37-c2e"
             },
             {
-              "t": " νί-"
+              "t": " νί"
             },
             {
               "a": "wellmann-4-307-17-segment-c2-end"
@@ -2235,13 +2205,13 @@
               "a": "wellmann-4-307-u18"
             },
             {
-              "t": "_γρουμ_, "
+              "t": "γρουμ, "
             },
             {
               "a": "awellmann-print-4-307-38-c2"
             },
             {
-              "t": "οἱ δὲ _κονσιλίγω_"
+              "t": "οἱ δὲ κονσιλίγω"
             },
             {
               "a": "awellmann-print-4-307-38-c2e"
@@ -2253,7 +2223,7 @@
               "a": "awellmann-print-4-307-39-c2"
             },
             {
-              "t": "_σαρράκα_"
+              "t": "σαρράκα"
             },
             {
               "a": "awellmann-print-4-307-39-c2e"
@@ -2265,7 +2235,7 @@
               "a": "awellmann-print-4-307-40-c2"
             },
             {
-              "t": "_προδιάρνα_"
+              "t": "προδιάρνα"
             },
             {
               "a": "awellmann-print-4-307-40-c2e"

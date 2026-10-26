@@ -12,7 +12,7 @@
           "a": "wellmann-2-252-1"
         },
         {
-          "t": "ειδέσι, περιφεστέροις "
+          "t": "ειδέσι, περιφερεστέροις "
         },
         {
           "a": "awellmann-print-2-252-4"
@@ -176,7 +176,7 @@
           "a": "wellmann-2-252-u5"
         },
         {
-          "t": "παῤ ὕδασι "
+          "t": "παρ᾽ ὕδασι "
         },
         {
           "a": "awellmann-print-2-252-13"
@@ -300,7 +300,7 @@
           "a": "awellmann-print-2-252-19"
         },
         {
-          "t": "χυλω θεῖσαι"
+          "t": "χυλω|ϑεῖσαι"
         },
         {
           "a": "awellmann-print-2-252-19e"
@@ -312,7 +312,7 @@
           "a": "awellmann-print-2-252-20"
         },
         {
-          "t": "χρήσιφμοι εἰς"
+          "t": "χρήσιμοι εἰς"
         },
         {
           "a": "awellmann-print-2-252-20e"
@@ -683,36 +683,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-252-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "181 RV: χελιδόνιον τὸ μικρόν· οἱ δὲ πυρὸν ἄγριον ἐκάλεσαν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-252-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-252-1",
-      "to": "wellmann-2-252-1-end",
-      "line_ids": [
-        "wellmann-2-252-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-252-4",
       "group": "criticus",
@@ -1977,6 +1947,32 @@
       "n": "182",
       "label": "Caput 182",
       "context": false
+    }
+  ],
+  "segments": [
+    {
+      "type": "recension",
+      "subtype": "R",
+      "n": "2.181",
+      "corresp": "#wellmann1906-2-181",
+      "part": "",
+      "lines": [
+        {
+          "n": "23",
+          "id": "wellmann-2-252-u23",
+          "parts": [
+            {
+              "a": "wellmann-2-252-u23"
+            },
+            {
+              "t": "181 RV: χελιδόνιον τὸ μικρόν· οἱ δὲ πυρὸν ἄγριον ἐκάλεσαν."
+            },
+            {
+              "a": "wellmann-2-252-u23-end"
+            }
+          ]
+        }
+      ]
     }
   ],
   "page_label": "I, p. 252",

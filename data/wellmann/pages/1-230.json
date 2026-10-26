@@ -106,7 +106,7 @@
           "a": "awellmann-print-2-230-10"
         },
         {
-          "t": "δἰ ἐλαίου"
+          "t": "δι᾽ ἐλαίου"
         },
         {
           "a": "awellmann-print-2-230-10e"
@@ -788,36 +788,6 @@
       "anchored": true,
       "from": "wellmann-2-230-1",
       "to": "awellmann-print-2-229-37e",
-      "line_ids": [
-        "wellmann-2-230-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-2-230-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "165 RV: κυκλάμινος ἑτέρα, ἣν ἔνιοι κισάνθεμον ἢ κισσόφυλλον καλοῦσι.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-230-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-230-1",
-      "to": "wellmann-2-230-1-end",
       "line_ids": [
         "wellmann-2-230-1"
       ]
@@ -2476,8 +2446,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "165",
+      "subtype": "R",
+      "n": "2.165",
       "corresp": "#wellmann1906-2-165",
       "part": "",
       "lines": [
@@ -2501,7 +2471,7 @@
               "a": "awellmann-print-2-230-44-c2e"
             },
             {
-              "t": " ἢ κισσό-"
+              "t": " ἢ κισσό"
             },
             {
               "a": "wellmann-2-230-21-segment-c2-end"

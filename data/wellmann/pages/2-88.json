@@ -76,7 +76,7 @@
           "a": "awellmann-print-3-88-12"
         },
         {
-          "t": "ῤουσμαρῖνον"
+          "t": "ῥουσμαρῖνον"
         },
         {
           "a": "awellmann-print-3-88-12e"
@@ -88,7 +88,7 @@
           "a": "awellmann-print-3-88-11e"
         },
         {
-          "t": ", ἧ καὶ"
+          "t": ", ᾗ καὶ"
         },
         {
           "a": "awellmann-print-3-88-13e"
@@ -181,7 +181,21 @@
           "a": "awellmann-print-3-88-18e"
         },
         {
-          "t": " , ἰσχνά, ἔνδοθεν λευκά, ἐκ δὲ"
+          "t": " "
+        },
+        {
+          "t": "",
+          "br": "["
+        },
+        {
+          "t": "καὶ"
+        },
+        {
+          "t": "",
+          "br": "]"
+        },
+        {
+          "t": ", ἰσχνά, ἔνδοθεν λευκά, ἐκ δὲ"
         },
         {
           "a": "wellmann-3-88-3-end"
@@ -196,7 +210,7 @@
           "a": "wellmann-3-88-u4"
         },
         {
-          "t": "τῶν ἐκτός χλωρά, βαρύοσμα."
+          "t": "τῶν ἐκτὸς χλωρά, βαρύοσμα."
         },
         {
           "a": "wellmann-3-88-u4-end"
@@ -352,7 +366,7 @@
           "a": "awellmann-print-3-88-28e"
         },
         {
-          "t": "."
+          "t": ".|"
         },
         {
           "a": "wellmann-3-88-u8-end"
@@ -487,7 +501,7 @@
           "a": "awellmann-print-3-88-37"
         },
         {
-          "t": "μαράθῳ"
+          "t": "μαράϑῳ"
         },
         {
           "a": "awellmann-print-3-88-36e"
@@ -710,36 +724,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "EXC.: Orib. XI s. v. (λιβανωτίς — βαρύοσμα) cf. Gal. XII 61. Ps. Ap. 79.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-88-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-88-1",
-      "to": "wellmann-3-88-1-end",
-      "line_ids": [
-        "wellmann-3-88-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-88-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "75 RV: λιβανωτίς· οἱ δὲ ἰκτερῖτις, Ῥωμαῖοι ῥουσμαρίνουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -2393,8 +2377,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "75",
+      "subtype": "R",
+      "n": "3.75",
       "corresp": "#wellmann1906-3-75",
       "part": "",
       "lines": [

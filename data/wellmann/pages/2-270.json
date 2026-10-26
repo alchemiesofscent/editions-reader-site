@@ -381,7 +381,21 @@
           "a": "wellmann-4-270-11"
         },
         {
-          "t": "βοηθεῖν καὶ ἐπιληψίαις ταῖς ἐπὶ παίδων."
+          "t": "βοηθεῖν καὶ ἐπιληψίαις ταῖς ἐπὶ "
+        },
+        {
+          "t": "",
+          "br": "["
+        },
+        {
+          "t": "τῶν"
+        },
+        {
+          "t": "",
+          "br": "]"
+        },
+        {
+          "t": " παίδων."
         },
         {
           "a": "wellmann-4-270-11-end"
@@ -433,36 +447,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-270-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "121 RV: ἴον πορφυροῦν· οἱ δὲ δασυπόδιον, οἱ δὲ Πριαπήϊον, οἱ δὲ ἴον ἄγριον, οἱ δὲ Κυβέλειον, Ῥωμαῖοι σεγετάλις, οἱ δὲ μουράρια, οἱ δὲ βίολα πουρπούρεα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-270-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-270-1",
-      "to": "wellmann-4-270-1-end",
-      "line_ids": [
-        "wellmann-4-270-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-270-6",
       "group": "criticus",
@@ -1869,8 +1853,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "121",
+      "subtype": "R",
+      "n": "4.121",
       "corresp": "#wellmann1906-4-121",
       "part": "",
       "lines": [
@@ -1882,7 +1866,7 @@
               "a": "wellmann-4-270-13-segment-c2"
             },
             {
-              "t": "ἴον πορφυροῦν· οἱ δὲ δασυπόδιον, οἱ δὲ Πρι-"
+              "t": "ἴον πορφυροῦν· οἱ δὲ δασυπόδιον, οἱ δὲ Πρι"
             },
             {
               "a": "wellmann-4-270-13-segment-c2-end"

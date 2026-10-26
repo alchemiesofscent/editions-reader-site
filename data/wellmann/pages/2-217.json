@@ -145,7 +145,18 @@
           "a": "awellmann-print-4-217-17"
         },
         {
-          "t": "κιχορίῳ"
+          "t": "",
+          "br": "["
+        },
+        {
+          "t": "ὀριγάνῳ ἢ εὐζώμῳ ἢ"
+        },
+        {
+          "t": "",
+          "br": "]"
+        },
+        {
+          "t": " κιχορίῳ"
         },
         {
           "a": "awellmann-print-4-217-17e"
@@ -777,36 +788,6 @@
         "witness-disagreement"
       ],
       "printed": "EXC.: Orib. XI s. v. (μήκων — πάχος); med. Gal. XII 72 (= Aet. I s. v. Paul. Aeg. VII 3 s. v.); Ps. Ap. 54; Hes. s. v. μήκωνες.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-217-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-217-1",
-      "to": "wellmann-4-217-1-end",
-      "line_ids": [
-        "wellmann-4-217-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-4-217-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "63 RV: μήκων ῥοιάς· οἱ δὲ ὀξύγονον, Ῥωμαῖοι παπάβερ ἄλβου⟨μ⟩, Αἰγύπτιοι ναντί.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -2348,8 +2329,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "63",
+      "subtype": "R",
+      "n": "4.63",
       "corresp": "#wellmann1906-4-63",
       "part": "",
       "lines": [

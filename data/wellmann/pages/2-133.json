@@ -212,7 +212,7 @@
           "a": "wellmann-3-133-u5"
         },
         {
-          "t": "εὐμεγέθη, ἥτις λεία ποθεῖσα "
+          "t": "εὐμεγέθη, | ἥτις λεία ποθεῖσα "
         },
         {
           "a": "awellmann-print-3-133-19"
@@ -224,7 +224,7 @@
           "a": "awellmann-print-3-133-19e"
         },
         {
-          "t": " σύν μέλιτι ἐν ἐρίῳ προστε"
+          "t": " σὺν μέλιτι ἐν ἐρίῳ προστε"
         },
         {
           "a": "wellmann-3-133-u5-end"
@@ -239,7 +239,7 @@
           "a": "wellmann-3-133-u6"
         },
         {
-          "t": "θείσα "
+          "t": "ϑεῖσα "
         },
         {
           "a": "awellmann-print-3-133-20"
@@ -294,13 +294,13 @@
           "a": "wellmann-3-133-u8"
         },
         {
-          "t": "ὀφθαλμῶν πραύνει· καταπλάσσεται "
+          "t": "ὀφθαλμῶν πραΰνει· καταπλάσσεται "
         },
         {
           "a": "awellmann-print-3-133-22"
         },
         {
-          "t": "δὲ ἡ ῥίζα ὡφελίμως"
+          "t": "δὲ ἡ ῥίζα ὠφελίμως"
         },
         {
           "a": "awellmann-print-3-133-22e"
@@ -475,36 +475,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "EXC.: Orib. XI s. v. (ἡμεροκαλλές — εὐμεγέθη); Gal. XI 884 (= Orib. II 637. Aet. I s. v. Paul. Aeg. VII 3 s. v.); Hes. s. v. ἡμεροκαλλές.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-133-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-133-1",
-      "to": "wellmann-3-133-1-end",
-      "line_ids": [
-        "wellmann-3-133-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-133-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "122 RV: ἡμεροκαλές· οἱ δὲ ἡμεροκατάλλακτον, οἱ δὲ κρίνον ἄγριον, οἱ δὲ κρινάνθεμον, οἱ δὲ πορφυρανθές, οἱ δὲ βολβὸς ὁ ἐμετικός, οἱ δὲ ἀντικάνθαρον, Αἰγύπτιοι ἰοκρύ, Ῥωμαῖοι βούλβουμ, οἱ δὲ λίλιουμ ἀγρέστε, οἱ δὲ λίλιουμ μαρίνουμ, Ἄφροι ἀβοίβλαβον.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1879,8 +1849,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "122",
+      "subtype": "R",
+      "n": "3.122",
       "corresp": "#wellmann1906-3-122",
       "part": "",
       "lines": [
@@ -1892,7 +1862,7 @@
               "a": "wellmann-3-133-11-segment-c2"
             },
             {
-              "t": "ἡμεροκαλλές· οἱ δὲ ἡμεροκατάλλακτον, οἱ δὲ κρί-"
+              "t": "ἡμεροκαλλές· οἱ δὲ ἡμεροκατάλλακτον, οἱ δὲ κρί"
             },
             {
               "a": "wellmann-3-133-11-segment-c2-end"
@@ -1931,7 +1901,7 @@
               "a": "awellmann-print-3-133-33-c2e"
             },
             {
-              "t": ", οἱ δὲ βολ-"
+              "t": ", οἱ δὲ βολ"
             },
             {
               "a": "wellmann-3-133-u12-end"

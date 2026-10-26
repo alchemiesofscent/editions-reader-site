@@ -445,36 +445,6 @@
       ]
     },
     {
-      "id": "wellmann-print-4-206-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "49 RV: τράγος· οἱ δὲ τράγιον, οἱ δὲ τραγόκερως, οἱ δὲ σκορπίον, οἱ δὲ τάργανον, Ῥωμαῖοι κορνούλακαμ, οἱ δὲ βιτου〈μ〉νέα, οἱ δὲ ἰρκουλου〈μ, οἱ δὲ〉 δεντάρια, Δάκοι σαλία, Αἰγύπτιοι σοβέρ, Ἄφροι ἀχχιουίμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-206-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-206-1",
-      "to": "wellmann-4-206-1-end",
-      "line_ids": [
-        "wellmann-4-206-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-206-7",
       "group": "criticus",
       "method": null,
@@ -1913,8 +1883,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "49",
+      "subtype": "R",
+      "n": "4.49",
       "corresp": "#wellmann1906-4-49",
       "part": "",
       "lines": [
@@ -1974,7 +1944,7 @@
               "a": "awellmann-print-4-206-35-c2e"
             },
             {
-              "t": ", οἱ δὲ βιτου-"
+              "t": ", οἱ δὲ βιτου"
             },
             {
               "a": "wellmann-4-206-14-segment-c2-end"
@@ -2000,7 +1970,7 @@
               "br": "⟩"
             },
             {
-              "t": "ινέα, οἱ δὲ ἵρκουλου<μ, οἱ δὲ⟩ δεντάρια, Δάκοι "
+              "t": "ινέα, οἱ δὲ ἱρκουλου⟨μ, οἱ δὲ⟩ δεντάρια, Δάκοι "
             },
             {
               "a": "awellmann-print-4-206-38-c2"
@@ -2012,7 +1982,7 @@
               "a": "awellmann-print-4-206-38-c2e"
             },
             {
-              "t": ", Αἰ-"
+              "t": ", Αἰ"
             },
             {
               "a": "wellmann-4-206-15-segment-c2-end"

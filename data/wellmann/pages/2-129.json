@@ -408,66 +408,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-3-129-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "117 RV: γναφάλλιον· οἱ δὲ εἶρος, οἱ δὲ ἀμπέχογκος, οἱ δὲ ἀνάξυστον, οἱ δὲ γναφαλλίς, Αἰγύπτιοι σεμεών, Γάλλοι γέλασῶνεμ, Ῥωμαῖοι κεντούκλὸυμ, ὁμοίως κεντουκουλάρις, οἱ δὲ ἀλβίνους.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-129-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-129-1",
-      "to": "wellmann-3-129-1-end",
-      "line_ids": [
-        "wellmann-3-129-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-129-2",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "15 118 RV: τύφη· οἱ δὲ τύφι καλοῦσιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-129-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-129-1",
-      "to": "wellmann-3-129-1-end",
-      "line_ids": [
-        "wellmann-3-129-1"
-      ]
-    },
-    {
       "id": "wellmann-print-3-129-7",
       "group": "criticus",
       "method": null,
@@ -1885,8 +1825,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "117",
+      "subtype": "R",
+      "n": "3.117",
       "corresp": "#wellmann1906-3-117",
       "part": "",
       "lines": [
@@ -1937,7 +1877,7 @@
               "a": "wellmann-3-129-12-segment-c2"
             },
             {
-              "t": "ἀνάξυστον, οἱ δὲ γναφαλλίς, Αἰγύπτιοι σεμεών, Γάλλοι γελα-"
+              "t": "ἀνάξυστον, οἱ δὲ γναφαλλίς, Αἰγύπτιοι σεμεών, Γάλλοι γελα"
             },
             {
               "a": "wellmann-3-129-12-segment-c2-end"
@@ -2012,8 +1952,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "118",
+      "subtype": "R",
+      "n": "3.118",
       "corresp": "#wellmann1906-3-118",
       "part": "",
       "lines": [

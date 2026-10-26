@@ -528,36 +528,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-3-71-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "59 RV: κύμινον ἥμερον· Ῥωμαῖοι κύμινοιμ, Ἄφροι χαμάν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-71-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-71-1",
-      "to": "wellmann-3-71-1-end",
-      "line_ids": [
-        "wellmann-3-71-1"
-      ]
-    },
-    {
       "id": "wellmann-print-3-71-4",
       "group": "criticus",
       "method": null,
@@ -1884,8 +1854,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "59",
+      "subtype": "R",
+      "n": "3.59",
       "corresp": "#wellmann1906-3-59",
       "part": "",
       "lines": [
@@ -1897,7 +1867,7 @@
               "a": "wellmann-3-71-16-segment-c2"
             },
             {
-              "t": "κύμινον ἥμερον· Ῥωμαῖοι κύμινουμ, Ἄφροι "
+              "t": "κύμινον ἥμερον· Ῥωμαῖοι κύμινοιμ, Ἄφροι "
             },
             {
               "a": "awellmann-print-3-71-37-c2"

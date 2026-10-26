@@ -163,7 +163,7 @@
           "a": "awellmann-print-3-148-12e"
         },
         {
-          "t": " α'υῆς "
+          "t": " αὐτῆς "
         },
         {
           "a": "awellmann-print-3-148-13"
@@ -175,7 +175,7 @@
           "a": "awellmann-print-3-148-13e"
         },
         {
-          "t": " ὑστέας "
+          "t": " ὑστέρας "
         },
         {
           "a": "awellmann-print-3-148-14"
@@ -344,7 +344,7 @@
           "a": "awellmann-print-3-148-23"
         },
         {
-          "t": "μαράθῳ ὅμοια"
+          "t": "μαράϑῳ ὅμοια"
         },
         {
           "a": "awellmann-print-3-148-23e"
@@ -587,36 +587,6 @@
         "witness-disagreement"
       ],
       "printed": "SIM.: Pl. l. s. Ruf. (Orib. II 106. 118) — Pl. l. s. D. eup. II 111 (310) — Pl. l. s. eup. II 70 (284) — Pl. l. s. eup. I 169 (181) — eup. I 147 (167).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-148-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-148-1",
-      "to": "wellmann-3-148-1-end",
-      "line_ids": [
-        "wellmann-3-148-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-148-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "139 RV: βούφθαλμον· οἱ δὲ βαλσαμίνη, προφῆται αἴλουρον, οἱ δὲ γόνος Ἑρμοῦ, οἱ δὲ γόνος ἄφθιτος, οἱ δὲ Μνησίθεος, Ῥωμαῖοι λάππα κορωνάρια, Ἄφροι ναρότ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -2186,8 +2156,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "139",
+      "subtype": "R",
+      "n": "3.139",
       "corresp": "#wellmann1906-3-139",
       "part": "",
       "lines": [
@@ -2211,7 +2181,7 @@
               "a": "awellmann-print-3-148-37-c2e"
             },
             {
-              "t": ", προφῆται αἴλου-"
+              "t": ", προφῆται αἴλου"
             },
             {
               "a": "wellmann-3-148-15-segment-c2-end"
@@ -2238,7 +2208,7 @@
               "a": "awellmann-print-3-148-39-c2e"
             },
             {
-              "t": ", οἱ δὲ Μνησί-"
+              "t": ", οἱ δὲ Μνησί"
             },
             {
               "a": "wellmann-3-148-u16-end"

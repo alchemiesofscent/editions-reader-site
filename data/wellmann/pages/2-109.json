@@ -378,37 +378,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-3-109-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "96 RV: λεοντοπέταλον· οἱ δὲ λεοντοπόδιον, οἱ δὲ λεύκηθρον, οἱ δὲ λεόντιον, οἱ δὲ δωρίς, οἱ δὲ δωριπτερίς, οἱ δὲ λυχνὶς ἀγρία, οἱ δὲ θορύβηθρον, οἱ δὲ ῥαπιδήϊον, οἱ δὲ μήκων κερατῖτις, οἱ δὲ ἀνεμώνη, Ῥωμαῖοι κουβίλια μαρίνα, οἱ δὲ σῆμεν λεωνίνουμ, οἱ δὲ παπαβέρκλουμ, Ἄφροι σισσιμανσεσσαδέ. 97 RV: Τεύκριον· οἱ δὲ καὶ τοῦτο χαμαίδρυν καλοῦσιν, οἱ δὲ Τευκρίδα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "split_entry",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-109-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-109-1",
-      "to": "wellmann-3-109-1-end",
-      "line_ids": [
-        "wellmann-3-109-1"
-      ]
-    },
-    {
       "id": "wellmann-print-3-109-5",
       "group": "criticus",
       "method": null,
@@ -1779,8 +1748,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "96",
+      "subtype": "R",
+      "n": "3.96",
       "corresp": "#wellmann1906-3-96",
       "part": "",
       "lines": [
@@ -1792,7 +1761,7 @@
               "a": "wellmann-3-109-10-segment-c2"
             },
             {
-              "t": "λεοντοπέταλον· οἱ δὲ λεοντοπόδιον, οἱ δὲ λεύκη-"
+              "t": "λεοντοπέταλον· οἱ δὲ λεοντοπόδιον, οἱ δὲ λεύκη"
             },
             {
               "a": "wellmann-3-109-10-segment-c2-end"
@@ -1922,7 +1891,7 @@
               "a": "awellmann-print-3-109-35-c2e"
             },
             {
-              "t": ", οἱ δὲ παπαβέρκλουμ, Ἄφροι σισσιμανσεσσάδέ."
+              "t": ", οἱ δὲ παπαβέρκλουμ, Ἄφροι σισσιμανσεσσαδέ."
             },
             {
               "a": "wellmann-3-109-14-segment-c2-end"
@@ -1933,8 +1902,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "97",
+      "subtype": "R",
+      "n": "3.97",
       "corresp": "#wellmann1906-3-97",
       "part": "",
       "lines": [

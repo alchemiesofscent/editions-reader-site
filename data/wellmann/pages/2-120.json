@@ -499,7 +499,7 @@
           "a": "awellmann-print-3-120-30"
         },
         {
-          "t": "ὄλου τοῦ"
+          "t": "ὅλου τοῦ"
         },
         {
           "a": "awellmann-print-3-120-29e"
@@ -560,36 +560,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-120-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "109 RV: τρίφυλλον ἢ ὀξύφυλλον· οἱ δὲ μινυανθές, οἱ δὲ ἀσφάλτιον, οἱ δὲ κνήκιον, Ῥωμαῖοι τριφόλιουμ ἀκούτουμ, οἱ δὲ τριφόλιουμ ὀδοράτουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-120-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-120-1",
-      "to": "wellmann-3-120-1-end",
-      "line_ids": [
-        "wellmann-3-120-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-120-3",
       "group": "criticus",
@@ -1939,8 +1909,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "109",
+      "subtype": "R",
+      "n": "3.109",
       "corresp": "#wellmann1906-3-109",
       "part": "",
       "lines": [

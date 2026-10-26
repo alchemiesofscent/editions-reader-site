@@ -406,7 +406,7 @@
           "a": "wellmann-3-25-u11"
         },
         {
-          "t": "φαινομένη δὲ καὶ ὑπὲρ γῆς, ἀφʼ ἦς κλάδοι "
+          "t": "φαινομένη δὲ καὶ ὑπὲρ γῆς, ἀφʼ ἧς κλάδοι "
         },
         {
           "a": "awellmann-print-3-25-30"
@@ -418,7 +418,7 @@
           "a": "awellmann-print-3-25-30e"
         },
         {
-          "t": ", ἰσχυροί."
+          "t": ", ἰσχυροί,"
         },
         {
           "a": "wellmann-3-25-u11-end"
@@ -535,7 +535,7 @@
           "a": "awellmann-print-3-25-35e"
         },
         {
-          "t": ", ἦς διαφέρει ἡ διαυγής καὶ λεία"
+          "t": ", ἧς διαφέρει ἡ δι|αυγὴς καὶ λεία"
         },
         {
           "a": "wellmann-3-25-u15-end"
@@ -583,36 +583,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-25-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "19 RV: λευκάκανθα· οἱ δὲ πολυγόνατον, οἱ δὲ φύλλιον, οἱ δὲ ἰσχιάδα καλοῦσιν, Ῥωμαῖοι γενικουλάτα κάρδους, Θοῦσκοι σπίνα ἄλβα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-25-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-25-1",
-      "to": "wellmann-3-25-1-end",
-      "line_ids": [
-        "wellmann-3-25-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-25-7",
       "group": "criticus",
@@ -2159,8 +2129,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "19",
+      "subtype": "R",
+      "n": "3.19",
       "corresp": "#wellmann1906-3-19",
       "part": "",
       "lines": [

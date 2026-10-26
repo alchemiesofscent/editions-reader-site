@@ -493,36 +493,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-271-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "123 RV: βούνιον· οἱ δὲ ἄ〈κ〉τ〈ι〉ον, οἱ δὲ ἀκτίνην, οἱ δὲ ἀνθεμοφόρον, προφῆται παράδακρον, Αἰγύπτιοι ἐρξώην, Ῥωμαῖοι σκῶπα ῥήγια, Ἄφροι γιζάρ, οἱ δὲ θεμψώ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-271-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-271-1",
-      "to": "wellmann-4-271-1-end",
-      "line_ids": [
-        "wellmann-4-271-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-271-4",
       "group": "criticus",
       "method": null,
@@ -1821,8 +1791,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "123",
+      "subtype": "R",
+      "n": "4.123",
       "corresp": "#wellmann1906-4-123",
       "part": "",
       "lines": [
@@ -1834,28 +1804,28 @@
               "a": "wellmann-4-271-16-segment-c2"
             },
             {
-              "t": "βούνιον· οἱ δὲ ἄ`"
+              "t": "βούνιον· οἱ δὲ ἄ"
             },
             {
               "t": "",
               "br": "⟨"
             },
             {
-              "t": "κ`"
+              "t": "κ"
             },
             {
               "t": "",
               "br": "⟩"
             },
             {
-              "t": "τ`"
+              "t": "τ"
             },
             {
               "t": "",
               "br": "⟨"
             },
             {
-              "t": "ι`"
+              "t": "ι"
             },
             {
               "t": "",
@@ -1898,7 +1868,7 @@
               "a": "awellmann-print-4-271-33-c2e"
             },
             {
-              "t": ", Ῥω-"
+              "t": ", Ῥω"
             },
             {
               "a": "wellmann-4-271-u17-end"

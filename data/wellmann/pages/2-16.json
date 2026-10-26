@@ -12,13 +12,24 @@
           "a": "wellmann-3-16-1"
         },
         {
+          "t": "",
+          "br": "⟨"
+        },
+        {
           "t": "ζολον ἢ "
         },
         {
           "a": "awellmann-print-3-16-3"
         },
         {
-          "t": "κυνόμαζον"
+          "t": "κυνό"
+        },
+        {
+          "t": "",
+          "br": "⟩"
+        },
+        {
+          "t": "μαζον"
         },
         {
           "a": "awellmann-print-3-16-3e"
@@ -166,7 +177,7 @@
           "a": "awellmann-print-3-16-10e"
         },
         {
-          "t": ", ποικίλα. ῥίζα δὲ παχεία, μέλαινα, "
+          "t": ", ποικίλα. ῥίζα δὲ παχεῖα, μέλαινα, "
         },
         {
           "a": "awellmann-print-3-16-11"
@@ -539,36 +550,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-16-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "9 RV: χαμαιλέων μέλας·’ οἱ δὲ πάγκαρπος, οἱ δὲ οὐλοφόνον, οἱ δὲ ἰξίαν, οἱ δὲ κυνόμαζον, οἱ δὲ ὠκιμοειδές, οἱ δὲ Κνίδιος κόκκος, οἱ δὲ κυνόξολον, οἱ δὲ ὀξύα, Ῥωμαῖοι κάρδους νίγρα, οἱ δὲ οὐερνιλάγω, οἱ δὲ οὐστιλάγω, Αἰγύπτιοι σορβέλ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-16-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-16-1",
-      "to": "wellmann-3-16-1-end",
-      "line_ids": [
-        "wellmann-3-16-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-16-3",
       "group": "criticus",
@@ -1964,8 +1945,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "9",
+      "subtype": "R",
+      "n": "3.9",
       "corresp": "#wellmann1906-3-9",
       "part": "",
       "lines": [
@@ -1989,7 +1970,7 @@
               "a": "awellmann-print-3-16-30-c2e"
             },
             {
-              "t": ", οἱ δὲ οὐλο-"
+              "t": ", οἱ δὲ οὐλο"
             },
             {
               "a": "wellmann-3-16-16-segment-c2-end"

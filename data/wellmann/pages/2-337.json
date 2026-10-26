@@ -245,7 +245,7 @@
           "a": "awellmann-print-4-337-14e"
         },
         {
-          "t": ". "
+          "t": ", "
         },
         {
           "a": "awellmann-print-4-337-15"
@@ -318,37 +318,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-337-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "189 RV: λινόζωστις ἄρην· οἱ δὲ ἄργυρος, οἱ δὲ ἀργυρῖτις, οἱ δὲ παρθένιον, οἱ δὲ χρυσῖτις, Αἰγύπτιοι ἀφλοφώ, οἱ δὲ Ἑρμοῦ βασίλειον, Ῥωμαῖοι ἕρβα μερκουριάλις μάσκλα, οἱ δὲ τεστικουλάτα, Ἄφροι ἀσουμές. λινόζωστις θήλεια· οἱ δὲ θηλύγονον, οἱ δὲ παρθένιον, οἱ δὲ Ἑρμοῦ βοτάνιον, οἱ δὲ ἄργυρον, οἱ δὲ χρυσῖτις, Αἰγύπτιοι ἀφλοφώ, Ῥωμαῖοι ἕρβα μερκουριάλις, οἱ δὲ μερκουριάλις φήμινα, Ἄφροι ἀσουμές.",
-      "flags": [
-        "heading_attachment",
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-337-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-337-1",
-      "to": "wellmann-4-337-1-end",
-      "line_ids": [
-        "wellmann-4-337-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-337-4",
       "group": "criticus",
@@ -1627,8 +1596,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "190RV",
+      "subtype": "R",
+      "n": "4.190",
       "corresp": "#wellmann1906-4-190RVRV",
       "part": "",
       "rend": "bracketed",
@@ -1752,8 +1721,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "189",
+      "subtype": "R",
+      "n": "4.189",
       "corresp": "#wellmann1906-4-189",
       "part": "",
       "lines": [
@@ -1924,7 +1893,7 @@
               "a": "wellmann-4-337-20-segment-c2"
             },
             {
-              "t": "ἀφλογώ, Ῥωμαῖοι ἔρβα μερκουριάλλις, οἱ δὲ μερκουριάλις φή-"
+              "t": "ἀφλοφώ, Ῥωμαῖοι ἔρβα μερκουριάλις, οἱ δὲ μερκουριάλις φή"
             },
             {
               "a": "wellmann-4-337-20-segment-c2-end"

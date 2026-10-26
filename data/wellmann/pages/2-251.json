@@ -34,7 +34,7 @@
           "a": "awellmann-print-4-251-9e"
         },
         {
-          "t": " δὲ καὶ ἕτερον εἶδὸς κοτυληδόνος, "
+          "t": " δὲ καὶ ἕτερον εἶδος κοτυληδόνος, "
         },
         {
           "a": "awellmann-print-4-251-10"
@@ -88,7 +88,7 @@
           "a": "awellmann-print-4-251-13"
         },
         {
-          "t": "ὡς γλωττάρια"
+          "t": "ὡς | γλωττάρια"
         },
         {
           "a": "awellmann-print-4-251-13e"
@@ -212,7 +212,7 @@
           "a": "awellmann-print-4-251-19e"
         },
         {
-          "t": " ὄμοια ὑπερικῷ, ῥίζαν μείζονα."
+          "t": " ὅμοια ὑπερικῷ, ῥίζαν μείζονα."
         },
         {
           "a": "wellmann-4-251-u5-end"
@@ -306,7 +306,7 @@
           "a": "awellmann-print-4-251-26"
         },
         {
-          "t": "ἔστιν"
+          "t": "ἐστιν"
         },
         {
           "a": "awellmann-print-4-251-26e"
@@ -411,7 +411,7 @@
           "a": "wellmann-4-251-11"
         },
         {
-          "t": "ἀμφοτέρων δὲ τὰ φύλλα καταπλασσόμενα μεθʼ ἀλῶν κυνό"
+          "t": "ἀμφοτέρων δὲ τὰ φύλλα καταπλασσόμενα μεθʼ ἁλῶν κυνό"
         },
         {
           "a": "wellmann-4-251-11-end"
@@ -493,7 +493,7 @@
           "a": "awellmann-print-4-251-35e"
         },
         {
-          "t": ", φύκοτυληδὼν γεθλα,"
+          "t": ", φύ"
         },
         {
           "a": "wellmann-4-251-13-end"
@@ -592,36 +592,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "EXC.: Orib. XI s. v. (ἔστι — ἀείζωον).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-251-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-251-1",
-      "to": "wellmann-4-251-1-end",
-      "line_ids": [
-        "wellmann-4-251-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-4-251-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "92 RV: κοτυληδὼν ἑτέρα· οἱ δὲ κυμβάλιον καλοῦσιν. 93 RV: κνήφη ἢ κνίδη· οἱ δὲ ἀκαλύφη, οἱ δὲ ἀδίκη, Ῥωμαῖοι οὐρτίκα, Αἰγύπτιοι σελεψιοῦ, Δάκοι δύν. κνήφη ἑτέρα· οἱ δὲ ἀκαλύφην καλοῦσιν, Ῥωμαῖοι οὐρτίκα μόλλις.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -2162,8 +2132,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "92",
+      "subtype": "R",
+      "n": "4.92",
       "corresp": "#wellmann1906-4-92",
       "part": "",
       "lines": [
@@ -2186,8 +2156,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "93",
+      "subtype": "R",
+      "n": "4.93",
       "corresp": "#wellmann1906-4-93",
       "part": "",
       "lines": [
@@ -2217,7 +2187,7 @@
               "a": "awellmann-print-4-251-40-c2e"
             },
             {
-              "t": ", οἱ δὲ ἀδίκη, Ῥω-"
+              "t": ", οἱ δὲ ἀδίκη, Ῥω"
             },
             {
               "a": "wellmann-4-251-15-segment-c2-end"

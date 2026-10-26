@@ -125,7 +125,18 @@
           "a": "awellmann-print-4-320-14"
         },
         {
-          "t": "πυκνά"
+          "t": "",
+          "br": "["
+        },
+        {
+          "t": "πικρά,"
+        },
+        {
+          "t": "",
+          "br": "]"
+        },
+        {
+          "t": " πυκνά"
         },
         {
           "a": "awellmann-print-4-320-14e"
@@ -173,7 +184,7 @@
           "a": "wellmann-4-320-u5"
         },
         {
-          "t": "ταύτης τά φύλλα "
+          "t": "ταύτης τὰ φύλλα "
         },
         {
           "t": "",
@@ -534,37 +545,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "EXC.: Orib. XII s. v. (χαμελαία — χαράττοντα); de virt. med. cf. Gal. XII 154 (= Aet. I s. v. Paul. Aeg. VII 3 s. v.) Ps. D. de h. f. 38 (e D. lat. unde) Isid. XVII 7, 56 s. turbiscus cf. A. Mai l. s. VII 453. Isid. XVII 9, 65.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-320-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-320-1",
-      "to": "wellmann-4-320-1-end",
-      "line_ids": [
-        "wellmann-4-320-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-4-320-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "171 RV: χαμελαία· οἱ δὲ χαμελαία μέλαινα, οἱ δὲ Ἡράκλειον, οἱ δὲ βδελυρά, οἱ δὲ κόκκος Κνίδιος, Ῥωμαῖοι κιτοκάκιον⟨μ⟩, οἱ δὲ ὀλεάγω, οἱ δὲ ὀλεαστέλλουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "rv_placement_requires_review",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1933,8 +1913,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "171",
+      "subtype": "R",
+      "n": "4.171",
       "corresp": "#wellmann1906-4-171",
       "part": "",
       "lines": [
@@ -1946,7 +1926,7 @@
               "a": "wellmann-4-320-12-segment-c2"
             },
             {
-              "t": "χαμελαία· οἱ δὲ χαμελαία μέλαινα, οἱ δὲ Ἡρά-"
+              "t": "χαμελαία· οἱ δὲ χαμελαία μέλαινα, οἱ δὲ Ἡρά"
             },
             {
               "a": "wellmann-4-320-12-segment-c2-end"
@@ -1961,21 +1941,7 @@
               "a": "wellmann-4-320-13-segment-c2"
             },
             {
-              "t": "κλειον, οἱ δὲ βδελυρά, οἱ δὲ κόκκος Κνίδιος, Ῥωμαῖοι κιτοκάκιου`"
-            },
-            {
-              "t": "",
-              "br": "⟨"
-            },
-            {
-              "t": "μ`"
-            },
-            {
-              "t": "",
-              "br": "⟩"
-            },
-            {
-              "t": ","
+              "t": "κλειον, οἱ δὲ βδελυρά, οἱ δὲ κόκκος Κνίδιος, Ῥωμαῖοι κιτο-"
             },
             {
               "a": "wellmann-4-320-13-segment-c2-end"
@@ -2005,7 +1971,13 @@
               "br": "⟩"
             },
             {
-              "t": ", οἱ δὲ "
+              "t": ","
+            },
+            {
+              "t": " "
+            },
+            {
+              "t": "οἱ δὲ "
             },
             {
               "a": "awellmann-print-4-320-37-c2"
@@ -2034,7 +2006,8 @@
             {
               "a": "wellmann-4-320-u14-end"
             }
-          ]
+          ],
+          "break_no": true
         }
       ]
     }

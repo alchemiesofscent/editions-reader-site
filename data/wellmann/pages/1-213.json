@@ -624,37 +624,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-2-213-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "147 RV: Μήδιον· οἱ δὲ Μηδική, οἱ δὲ τρίφυλλον, οἱ δὲ κλημάτιον, οἱ δὲ ὀσμ〈ηρ〉ός, οἱ δὲ τρίγωνος, οἱ δὲ Κυβέλιον, οἱ δὲ πολύφυλλον, Ῥωμαῖοι τριφόλλιουμ ὀδοράτουμ, Αἰγύπτιοι ἐπαθοῦ.",
-      "flags": [
-        "heading_attachment",
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-213-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-213-1",
-      "to": "wellmann-2-213-1-end",
-      "line_ids": [
-        "wellmann-2-213-1"
-      ]
-    },
-    {
       "id": "wellmann-print-2-213-3",
       "group": "criticus",
       "method": null,
@@ -2077,8 +2046,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "147",
+      "subtype": "R",
+      "n": "2.147",
       "corresp": "#wellmann1906-2-147",
       "part": "",
       "lines": [
@@ -2090,7 +2059,7 @@
               "a": "wellmann-2-213-17-segment-c2"
             },
             {
-              "t": "_Μήδιον_· οἱ δὲ _Μηδική_, οἱ δὲ _τρίφυλλον_, οἱ δὲ"
+              "t": "Μήδιον· οἱ δὲ Μηδική, οἱ δὲ τρίφυλλον, οἱ δὲ"
             },
             {
               "a": "wellmann-2-213-17-segment-c2-end"
@@ -2108,27 +2077,27 @@
               "a": "awellmann-print-2-213-37-c2"
             },
             {
-              "t": "_κλημάτιον_"
+              "t": "κλημάτιον"
             },
             {
               "a": "awellmann-print-2-213-37-c2e"
             },
             {
-              "t": ", οἱ δὲ _ὀσμ`"
+              "t": ", οἱ δὲ ὀσμ"
             },
             {
               "t": "",
               "br": "⟨"
             },
             {
-              "t": "ηρ`"
+              "t": "ηρ"
             },
             {
               "t": "",
               "br": "⟩"
             },
             {
-              "t": "ός_, οἱ δὲ _τρίγωνος_, οἱ δὲ _Κυβέλιον_, οἱ"
+              "t": "ός, οἱ δὲ τρίγωνος, οἱ δὲ Κυβέλιον, οἱ"
             },
             {
               "a": "wellmann-2-213-u18-end"
@@ -2143,13 +2112,13 @@
               "a": "wellmann-2-213-u19"
             },
             {
-              "t": "δὲ _πολύφυλλον_, Ῥωμαῖοι "
+              "t": "δὲ πολύφυλλον, Ῥωμαῖοι "
             },
             {
               "a": "awellmann-print-2-213-38-c2"
             },
             {
-              "t": "_τριφόλλιουμ ὀδοράτουμ_"
+              "t": "τριφόλλιουμ ὀδοράτουμ"
             },
             {
               "a": "awellmann-print-2-213-38-c2e"
@@ -2173,7 +2142,7 @@
               "a": "awellmann-print-2-213-39-c2"
             },
             {
-              "t": "_ἐπαθού_"
+              "t": "ἐπαϑού"
             },
             {
               "a": "awellmann-print-2-213-39-c2e"

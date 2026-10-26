@@ -12,7 +12,7 @@
           "a": "wellmann-4-252-1"
         },
         {
-          "t": "ἀποστήματα"
+          "t": "γεθλα, ἀποστήματα"
         },
         {
           "a": "awellmann-print-4-251-36e"
@@ -574,37 +574,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "SIM.: Phanias (Pl. XXII 35) Pl. XXII 32 D. eup. I 148 (169) — Pl. l. s. 33 eup. II 62 (274)—Pl. 32. 36 eup. I 210 (203)—[Hipp.] περὶ γ. φ. 32 (VII 358. 426 L) eup. II 78 (290) — Pl. 31 eup. II 69 (284) — eup. II 96 (300) Alex. Tr. II 496 — Pl. 32 — Pl. 33 eup. II 39 (252) — Pl. 33 eup. II 35 (247) — [Hipp.] περὶ νούσ. II 47 (VII 68) III 15 (VII 142) eup. II 36 (249) — Pl. 33 eup. II 32 (245) — [Hipp.] περὶ δ. II 54 (VI 558) Phanias (Pl. XXII 35) — Pl. 33 — Pl. 36 eup. II 112 (311)—Pl. 35 eup. II 76 (287) Zop. (Orib. II 598)—Pl. 31. 36 eup. I 86 (136).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-252-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-252-1",
-      "to": "wellmann-4-252-1-end",
-      "line_ids": [
-        "wellmann-4-252-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-4-252-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "94 RV: γαλέοψις· οἱ δὲ γαλεόβδολον, οἱ δὲ γαληψός, Αἰγύπτιοι αἰθωπί, Ῥωμαῖοι οὐρτίκαι λαβεώνεμ.",
-      "flags": [
-        "heading_attachment",
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1898,8 +1867,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "94",
+      "subtype": "R",
+      "n": "4.94",
       "corresp": "#wellmann1906-4-94",
       "part": "",
       "lines": [
@@ -1923,7 +1892,7 @@
               "a": "awellmann-print-4-252-31-c2e"
             },
             {
-              "t": ", οἱ δὲ γαληψός, Αἰ-"
+              "t": ", οἱ δὲ γαληψός, Αἰ"
             },
             {
               "a": "wellmann-4-252-16-segment-c2-end"

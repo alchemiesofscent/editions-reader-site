@@ -82,7 +82,7 @@
           "a": "awellmann-print-2-179-8e"
         },
         {
-          "t": ", ψηθείς"
+          "t": ", ἐψηθείς"
         },
         {
           "a": "wellmann-2-179-u2-end"
@@ -119,7 +119,7 @@
           "a": "awellmann-print-2-179-10e"
         },
         {
-          "t": " ἀξυκράτῳ καὶ σὺν τῳ λέπει ἐσθιόμενος δυσεν"
+          "t": " ὀξυκράτῳ καὶ σὺν τῷ λέπει ἐσθιόμενος δυσεν"
         },
         {
           "a": "wellmann-2-179-u3-end"
@@ -465,7 +465,7 @@
           "a": "awellmann-print-2-179-27e"
         },
         {
-          "t": " τῷ τοῦ ᾠοῦ λευκῷ"
+          "t": " τῷ τοῦ ὠοῦ λευκῷ"
         },
         {
           "a": "awellmann-print-2-179-28e"
@@ -755,36 +755,6 @@
         "witness-disagreement"
       ],
       "printed": "EXC. Gal. XII 49 (unde Aet. I s. v. Paul. Aeg. VII 3 s. v.).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-179-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-179-1",
-      "to": "wellmann-2-179-1-end",
-      "line_ids": [
-        "wellmann-2-179-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-2-179-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "105 RV: κύαμος· Ῥωμαῖοι φάβα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -2185,6 +2155,32 @@
       "n": "105",
       "label": "Caput 105",
       "context": false
+    }
+  ],
+  "segments": [
+    {
+      "type": "recension",
+      "subtype": "R",
+      "n": "2.105",
+      "corresp": "#wellmann1906-2-105",
+      "part": "",
+      "lines": [
+        {
+          "n": "18",
+          "id": "wellmann-2-179-u18",
+          "parts": [
+            {
+              "a": "wellmann-2-179-u18"
+            },
+            {
+              "t": "105 RV: κύαμος· Ῥωμαῖοι φάβα."
+            },
+            {
+              "a": "wellmann-2-179-u18-end"
+            }
+          ]
+        }
+      ]
     }
   ],
   "page_label": "I, p. 179",

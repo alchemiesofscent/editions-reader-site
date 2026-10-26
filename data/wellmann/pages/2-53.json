@@ -175,7 +175,7 @@
           "a": "wellmann-3-53-u6"
         },
         {
-          "t": "διδύμους μετὰ γλυκέος ἑψηθεὶς καὶ καταπλασθείς, ἐνίοτε "
+          "t": "διδύμους | μετὰ γλυκέος ἐψηϑεὶς καὶ καταπλασθείς, ἐνίοτε "
         },
         {
           "a": "awellmann-print-3-53-11"
@@ -250,7 +250,7 @@
           "a": "wellmann-3-53-8"
         },
         {
-          "t": "λινοσπέρμου ἡ γύρεως ἢ "
+          "t": "λινοσπέρμου ἢ γύρεως ἢ "
         },
         {
           "a": "awellmann-print-3-53-15"
@@ -338,7 +338,7 @@
           "a": "awellmann-print-3-53-21"
         },
         {
-          "t": "κηκίδι"
+          "t": "ἢ κηκίδι"
         },
         {
           "a": "awellmann-print-3-53-21-locus-1e"
@@ -383,7 +383,7 @@
           "a": "awellmann-print-3-53-23"
         },
         {
-          "t": "μετʼ οἴνου ἑφθός "
+          "t": "μετʼ οἴνου ἐφϑός "
         },
         {
           "t": "",
@@ -481,7 +481,7 @@
           "a": "awellmann-print-3-53-28"
         },
         {
-          "t": "ς καὶ"
+          "t": " καὶ"
         },
         {
           "a": "awellmann-print-3-53-28e"
@@ -570,36 +570,6 @@
         "witness-disagreement"
       ],
       "printed": "SIM.: Zop. (Orib. II 589) Cels. V 15 — Pl. XXI 151 eup. I 29 (108) 39 (111) — Pl. l. s. eup. II 70 (284) — Pl. l. s. eup. I 215 (206) — Pl. l. s. eup. I 141 (165) — Pl. l. s. eup. I 156 (175) — eup. I 105 (146) — Pl. l. s. eup. II 7 (229) — Pl. l. s. — Pl. l. s. eup. I 2 (95).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-53-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-53-1",
-      "to": "wellmann-3-53-1-end",
-      "line_ids": [
-        "wellmann-3-53-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-53-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "15 40 RV: μελίλωτον· οἱ δὲ ζωοδότιον, οἱ δὲ ὀρθάδιον, οἱ δὲ μελίλλωτον, προφῆται θερμοῦτις, Αἰγύπτιοι αἰμείθ, Ῥωμαῖοι σέρκακλαμ, οἱ δὲ τριπαρτίτουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1995,8 +1965,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "40",
+      "subtype": "R",
+      "n": "3.40",
       "corresp": "#wellmann1906-3-40",
       "part": "",
       "lines": [
@@ -2008,7 +1978,7 @@
               "a": "wellmann-3-53-15-segment-c2"
             },
             {
-              "t": "μελίλλωτον· οἱ δὲ ζωοδότιον, οἱ δὲ ὀρθάδιον, οἱ δὲ"
+              "t": "μελίλωτον· οἱ δὲ ζωοδότιον, οἱ δὲ ὀρθάδιον, οἱ δὲ"
             },
             {
               "a": "wellmann-3-53-15-segment-c2-end"

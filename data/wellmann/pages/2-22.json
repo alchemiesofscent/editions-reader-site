@@ -358,7 +358,7 @@
           "a": "awellmann-print-3-22-26e"
         },
         {
-          "t": " ἀραχνοειδὴς"
+          "t": " ἀραχνοειδής"
         },
         {
           "a": "awellmann-print-3-22-25e"
@@ -427,13 +427,10 @@
           "a": "awellmann-print-3-22-31"
         },
         {
-          "t": "γίνεσθαί"
+          "t": "γίνεσϑαί"
         },
         {
           "a": "awellmann-print-3-22-31e"
-        },
-        {
-          "t": "."
         },
         {
           "a": "wellmann-3-22-u12-end"
@@ -533,36 +530,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-22-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "16 ἀκάνθιον· οἱ δὲ ἀκανθίς, Ῥωμαῖοι σπίνα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-22-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-22-1",
-      "to": "wellmann-3-22-1-end",
-      "line_ids": [
-        "wellmann-3-22-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-22-7",
       "group": "criticus",
@@ -1949,6 +1916,36 @@
       "n": "16",
       "label": "Caput 16",
       "context": false
+    }
+  ],
+  "segments": [
+    {
+      "type": "recension",
+      "subtype": "R",
+      "n": "3.16",
+      "corresp": "#wellmann1906-3-16",
+      "part": "",
+      "lines": [
+        {
+          "n": "16",
+          "id": "wellmann-3-22-u16",
+          "parts": [
+            {
+              "a": "wellmann-3-22-u16"
+            },
+            {
+              "t": "16",
+              "num": true
+            },
+            {
+              "t": " ἀκάνϑιον· οἱ δὲ ἀκανϑίς, Ῥωμαῖοι σπίνα."
+            },
+            {
+              "a": "wellmann-3-22-u16-end"
+            }
+          ]
+        }
+      ]
     }
   ],
   "page_label": "II, p. 22",

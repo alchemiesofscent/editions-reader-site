@@ -113,7 +113,15 @@
           "a": "awellmann-print-4-328-14"
         },
         {
+          "t": "",
+          "br": "⟨"
+        },
+        {
           "t": "ὂν"
+        },
+        {
+          "t": "",
+          "br": "⟩"
         },
         {
           "a": "awellmann-print-4-328-14e"
@@ -376,36 +384,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-328-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "180 RV: κληματῖτις· οἱ δὲ ἡπατῖτις, Αἰγύπτιοι φιλάκουον, Ῥωμαῖοι ἀμβούξου⟨μ⟩, οἱ δὲ ⟨οὐ⟩ολούκρουμ λακτούκις. 181 RV: ἄμπελος ἀγρία.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-328-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-328-1",
-      "to": "wellmann-4-328-1-end",
-      "line_ids": [
-        "wellmann-4-328-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-328-9",
       "group": "criticus",
@@ -1591,8 +1569,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "180",
+      "subtype": "R",
+      "n": "4.180",
       "corresp": "#wellmann1906-4-180",
       "part": "",
       "lines": [
@@ -1691,8 +1669,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "181",
+      "subtype": "R",
+      "n": "4.181",
       "corresp": "#wellmann1906-4-181",
       "part": "",
       "lines": [

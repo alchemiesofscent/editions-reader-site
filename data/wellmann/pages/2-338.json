@@ -473,36 +473,6 @@
       ]
     },
     {
-      "id": "wellmann-print-4-338-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "190 RV: σκορπίουρον· οἱ δὲ ἡλιοτρόπιον, οἱ δὲ ἡλιότροπος, οἱ δὲ ἀδιάλυτον, οἱ δὲ ἡλιόπουν, οἱ δὲ σκορπιοκτόνον, οἱ δὲ σήσαμον ἄγριον, οἱ δὲ σκορπίου οὐρὰν καλοῦσιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-338-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-338-1",
-      "to": "wellmann-4-338-1-end",
-      "line_ids": [
-        "wellmann-4-338-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-338-5",
       "group": "criticus",
       "method": null,
@@ -1591,8 +1561,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "190RV",
+      "subtype": "R",
+      "n": "4.190",
       "corresp": "#wellmann1906-4-190RVRV",
       "part": "",
       "rend": "bracketed",
@@ -1683,8 +1653,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "190",
+      "subtype": "R",
+      "n": "4.190",
       "corresp": "#wellmann1906-4-190",
       "part": "",
       "lines": [
@@ -1723,7 +1693,7 @@
               "a": "wellmann-4-338-16-rul"
             },
             {
-              "t": "οἱ δὲ ἀδιάλυτον, οἱ δὲ ἡλιόπουν, οἱ δὲ σκορπιοκτόνον, οἱ δὲ σή-"
+              "t": "οἱ δὲ ἀδιάλυτον, οἱ δὲ ἡλιόπουν, οἱ δὲ σκορπιοκτόνον, οἱ δὲ σή"
             },
             {
               "a": "wellmann-4-338-16-rul-end"

@@ -368,7 +368,7 @@
           "g": true
         },
         {
-          "t": " σελίνου, τὰ αὐτὰ δύναται, ὁσαπερ"
+          "t": " σελίνου, τὰ αὐτὰ δύναται, ὅσαπερ"
         },
         {
           "a": "wellmann-3-76-u9-end"
@@ -496,36 +496,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-76-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "64 RV: σέλινον κηπαῖον· οἱ δὲ μελισσόφυλλον, προφῆται αἷμα Ὥρου, Ῥωμαῖοι ἄπιουμ, Αἰγύπτιοι μίθ, Ἄφροι σίληνα. RV: ἐλεοσέλινον· οἱ δὲ πεδινόν, οἱ δὲ ὑδροσέλινον, οἱ δὲ σέλινον ἄγριον καλοῦσιν, Ῥωμαῖοι ἄπιουμ ῥούστικουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-76-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-76-1",
-      "to": "wellmann-3-76-1-end",
-      "line_ids": [
-        "wellmann-3-76-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-76-6",
       "group": "criticus",
@@ -2073,8 +2043,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "64",
+      "subtype": "R",
+      "n": "3.64",
       "corresp": "#wellmann1906-3-64",
       "part": "",
       "lines": [
@@ -2110,7 +2080,7 @@
               "a": "awellmann-print-3-76-35-rule"
             },
             {
-              "t": " Ὥρου, Ῥωμαῖοι ἄπιουμ, Αἰγύπτιοι μὶθ, Ἄφροι σίληνα."
+              "t": " Ὥρου, Ῥωμαῖοι ἄπιουμ, Αἰγύπτιοι μίθ, Ἄφροι σίληνα."
             },
             {
               "a": "wellmann-3-76-14-rul-end"

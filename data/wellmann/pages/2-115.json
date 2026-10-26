@@ -499,36 +499,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-3-115-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "104 RV: μελισσόφυλλον· οἱ δὲ μελίτταιον, οἱ δὲ μελίτταιναν, οἱ δὲ μελίφυλλον, οἱ δὲ ἐρυθρά, οἱ δὲ ἡδὺ μέλι, Ῥωμαῖοι ἀπιάστρουμ, οἱ δὲ κιτράγω, Γάλλοι μεριοιτοιμόριον.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-115-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-115-1",
-      "to": "wellmann-3-115-1-end",
-      "line_ids": [
-        "wellmann-3-115-1"
-      ]
-    },
-    {
       "id": "wellmann-print-3-115-5",
       "group": "criticus",
       "method": null,
@@ -1891,8 +1861,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "104",
+      "subtype": "R",
+      "n": "3.104",
       "corresp": "#wellmann1906-3-104",
       "part": "",
       "lines": [
@@ -1904,7 +1874,7 @@
               "a": "wellmann-3-115-13-segment-c2"
             },
             {
-              "t": "μελισσόφυλλον· οἱ δὲ μελίτταιον, οἱ δὲ μελίτται-"
+              "t": "μελισσόφυλλον· οἱ δὲ μελίτταιον, οἱ δὲ μελίτται"
             },
             {
               "a": "wellmann-3-115-13-segment-c2-end"

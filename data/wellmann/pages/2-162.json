@@ -345,7 +345,7 @@
           "a": "awellmann-print-3-162-23"
         },
         {
-          "t": "ὅμοιον ὑπερικῷ"
+          "t": "ὅμοιον | ὑπερικῷ"
         },
         {
           "a": "awellmann-print-3-162-23e"
@@ -378,7 +378,7 @@
           "a": "awellmann-print-3-162-24e"
         },
         {
-          "t": " οἱονεὶ αἱμάσσοντα τούς "
+          "t": " οἱονεὶ αἱμάσσοντα τοὺς "
         },
         {
           "a": "awellmann-print-3-162-25"
@@ -645,36 +645,6 @@
         "witness-disagreement"
       ],
       "printed": "SIM.: Zop. (Orib. II 567) Pl. l. s. Ruf. 26. D. eup. II 112 (311) — Zop. (Orib. II 599) eup. II 78 (292) — eup. II 21. 22 (234. 235) — eup. I 237 (218) — eup. I 178 (187).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-162-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-162-1",
-      "to": "wellmann-3-162-1-end",
-      "line_ids": [
-        "wellmann-3-162-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-162-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "155 RV: ὑπερικόν· οἱ δὲ ἄσκυρον, οἱ δὲ ἀσκυροειδές, οἱ δὲ ἀνδρόσαιμον.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -2098,8 +2068,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "155",
+      "subtype": "R",
+      "n": "3.155",
       "corresp": "#wellmann1906-3-155",
       "part": "",
       "lines": [

@@ -230,7 +230,7 @@
           "a": "awellmann-print-4-285-15"
         },
         {
-          "t": "ἐγχριόμενος δεύματα ὀφθαλ"
+          "t": "ἐγχριόμενος ῥεύματα ὀφθαλ"
         },
         {
           "a": "wellmann-4-285-u6-end"
@@ -399,7 +399,7 @@
           "a": "wellmann-4-285-u11"
         },
         {
-          "t": "βάτος, ἐλίσσεταί "
+          "t": "βάτος, ἑλίσσεταί "
         },
         {
           "a": "awellmann-print-4-285-25"
@@ -471,36 +471,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-285-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "141 RV: ἔρινος· οἱ δὲ ὠκιμοειδές, οἱ δὲ ὑδρηρόν, Ῥωμαῖοι ὤκιμουμ ἀκουάτικουμ, οἱ δὲ μινῶρειμ. 142 RV: σμῖλαξ τραχεῖα· οἱ δὲ ἡπατῖτις, οἱ δὲ καλυκάνθεμον, οἱ δὲ κυνόσβατον, οἱ δὲ ἀνίκητον, οἱ δὲ ἡλιόρυτον, οἱ δὲ ἀνατολικόν, οἱ δὲ δυτικόν, οἱ δὲ ἑλξίνη, οἱ δὲ κλύμενον, Αἰγύπτιοι λυιαθή, οἱ δὲ κόνυσσον, Ῥωμαῖοι μεργίνα, οἱ δὲ βούλουκρουμ λέντουμ, Θοῦσκοι ῥαδία.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-285-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-285-1",
-      "to": "wellmann-4-285-1-end",
-      "line_ids": [
-        "wellmann-4-285-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-285-4",
       "group": "criticus",
@@ -1999,8 +1969,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "141",
+      "subtype": "R",
+      "n": "4.141",
       "corresp": "#wellmann1906-4-141",
       "part": "",
       "lines": [
@@ -2018,7 +1988,7 @@
               "a": "awellmann-print-4-285-30-c2"
             },
             {
-              "t": "ὕδρηρόν"
+              "t": "ὑδρηρόν"
             },
             {
               "a": "awellmann-print-4-285-30-c2e"
@@ -2039,7 +2009,7 @@
               "a": "wellmann-4-285-14-segment-c2"
             },
             {
-              "t": "ὡκιμουμ ἀκουάτικουμ, οἱ δὲ μινῶρεμ."
+              "t": "ὤκιμουμ ἀκουάτικουμ, οἱ δὲ μινῶρεμ."
             },
             {
               "a": "wellmann-4-285-14-segment-c2-end"
@@ -2050,8 +2020,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "142",
+      "subtype": "R",
+      "n": "4.142",
       "corresp": "#wellmann1906-4-142",
       "part": "",
       "lines": [
@@ -2072,7 +2042,7 @@
               "a": "awellmann-print-4-285-33-c2e"
             },
             {
-              "t": " τραχεῖα· οἱ δὲ ἡπατῖτις, οἱ δὲ καλυκάν-"
+              "t": " τραχεῖα· οἱ δὲ ἡπατῖτις, οἱ δὲ καλυκάν"
             },
             {
               "a": "wellmann-4-285-15-segment-c2-end"
@@ -2127,7 +2097,7 @@
               "a": "awellmann-print-4-285-37-c2e"
             },
             {
-              "t": ", οἱ δὲ κλύμενον, Αἰ-"
+              "t": ", οἱ δὲ κλύμενον, Αἰ"
             },
             {
               "a": "wellmann-4-285-u17-end"
@@ -2178,7 +2148,7 @@
               "a": "awellmann-print-4-285-40-c2e"
             },
             {
-              "t": ", οἱ δὲ βού-"
+              "t": ", οἱ δὲ βού"
             },
             {
               "a": "wellmann-4-285-u18-end"
@@ -2194,7 +2164,7 @@
               "a": "wellmann-4-285-u19"
             },
             {
-              "t": "λουκρουμ λέντουμ, Θρᾷσκοι ῥαδία."
+              "t": "λουκρουμ λέντουμ, Θοῦσκοι ῥαδία."
             },
             {
               "a": "wellmann-4-285-u19-end"

@@ -452,7 +452,7 @@
           "a": "awellmann-print-3-30-33"
         },
         {
-          "t": "ἐνηρεικότων"
+          "t": "ἐνῃρεικότων"
         },
         {
           "a": "awellmann-print-3-30-33e"
@@ -563,36 +563,6 @@
       "cert": "low",
       "printed": "post παρηγορεῖ inser. ἔστιν δὲ καὶ ἀντιφάρμακον· πραΰνει δὲ καὶ E verba καὶ κεφαλαλγίαν — λείου del. A²",
       "printed_fallback": true,
-      "source_spans": [
-        {
-          "from": "wellmann-3-30-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-30-1",
-      "to": "wellmann-3-30-1-end",
-      "line_ids": [
-        "wellmann-3-30-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-30-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "23 RV: ἀψίνθιον βαθύπικρον· Αἰγύπτιοι σομί, Ῥωμαῖοι ἀψίνθιουμ ῥούστικουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
       "source_spans": [
         {
           "from": "wellmann-3-30-1",
@@ -1989,8 +1959,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "23",
+      "subtype": "R",
+      "n": "3.23",
       "corresp": "#wellmann1906-3-23",
       "part": "",
       "lines": [

@@ -509,36 +509,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-2-248-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "179 RV: κισσός· οἱ δὲ κιθάραν, οἱ δὲ κίσσαρον, οἱ δὲ χρυσόκαρπος, οἱ δὲ ποιητική, οἱ δὲ κορυμβήθρα, οἱ δὲ Νύσιον, οἱ δὲ Διονύσιον, οἱ δὲ ἰθυντήριον, οἱ δὲ Περσίς, οἱ δὲ κῆμος, οἱ δὲ ἄσπληνος, Ῥωμαῖοι σίλβαι μάτερ, οἱ δὲ ἔδεραμ, Γάλλοι σουιβῖτις.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-248-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-248-1",
-      "to": "wellmann-2-248-1-end",
-      "line_ids": [
-        "wellmann-2-248-1"
-      ]
-    },
-    {
       "id": "wellmann-print-2-248-4",
       "group": "criticus",
       "method": null,
@@ -2090,8 +2060,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "179",
+      "subtype": "R",
+      "n": "2.179",
       "corresp": "#wellmann1906-2-179",
       "part": "",
       "lines": [
@@ -2178,7 +2148,7 @@
               "a": "wellmann-2-248-16-segment-c2"
             },
             {
-              "t": "οἱ δὲ Διονύσιον, οἱ δὲ ἰθυντήριον, οἱ δὲ Περσίς, οἱ δὲ "
+              "t": "οἱ δὲ Διονύσιον, οἱ δὲ ἰϑυντήριον, οἱ δὲ Περσίς, οἱ δὲ "
             },
             {
               "a": "awellmann-print-2-248-39-c2"
@@ -2235,7 +2205,7 @@
               "a": "awellmann-print-2-248-42-c2"
             },
             {
-              "t": "ἕδεραμ"
+              "t": "ἔδεραμ"
             },
             {
               "a": "awellmann-print-2-248-42-c2e"

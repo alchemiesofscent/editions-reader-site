@@ -12,7 +12,7 @@
           "a": "wellmann-2-242-1"
         },
         {
-          "t": "ἔστι τῶν φύλλων δριμεῖα, ἑλκωτική, ὅθεν "
+          "t": "ἐστι τῶν φύλλων δριμεῖα, ἑλκωτική, ὅθεν "
         },
         {
           "a": "awellmann-print-2-242-4"
@@ -278,7 +278,7 @@
           "a": "awellmann-print-2-242-21"
         },
         {
-          "t": "ἑλκωτικήἔχει"
+          "t": "ἑλκωτική."
         },
         {
           "a": "awellmann-print-2-242-17e"
@@ -293,36 +293,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-242-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "175 RV: σέλινον ἄγριον· οἱ δὲ βατράχιον, οἱ δὲ γελωτοποιός, οἱ δὲ μεθύουσα, οἱ δὲ Σαρδόνιον, οἱ δὲ ἀμέθυστον, οἱ δὲ ὑοσέλινον, οἱ δὲ ἱπποσέλινον, Αἰγύπτιοι μεθνού, Ῥωμαῖοι ἄπιουμ, οἱ δὲ ἄπιου⟨μ⟩ ἱρσού⟨τουμ⟩, οἱ δὲ αὐριμετέλλουμ, Θοῦσκοι ἄπιου⟨μ⟩ ῥανίνου⟨μ⟩. σέλινον ἄγριον ἕτερον· οἱ δὲ φρύνιον, οἱ δὲ ἀκιδωτόν, οἱ δὲ βατράχιον, Ῥωμαῖοι ἄπιου⟨μ⟩ φλάου⟨ουμ⟩.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-242-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-242-1",
-      "to": "wellmann-2-242-1-end",
-      "line_ids": [
-        "wellmann-2-242-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-242-4",
       "group": "criticus",
@@ -1566,8 +1536,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "175",
+      "subtype": "R",
+      "n": "2.175",
       "corresp": "#wellmann1906-2-175",
       "part": "",
       "lines": [
@@ -1591,7 +1561,7 @@
               "a": "awellmann-print-2-242-24-c2e"
             },
             {
-              "t": ", οἱ δὲ γελωτο-"
+              "t": ", οἱ δὲ γελωτο"
             },
             {
               "a": "wellmann-2-242-8-segment-c2-end"

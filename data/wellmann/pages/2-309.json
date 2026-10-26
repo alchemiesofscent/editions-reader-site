@@ -409,7 +409,7 @@
           "a": "awellmann-print-4-309-29e"
         },
         {
-          "t": " ὀξυβάφου ἥμισυ σὺν μελικράτῳ καταπλασθὲν δὲ μεθʼ"
+          "t": " ὀξυβάφου ἥμισυ σὺν μελικράτῳ· καταπλασθὲν δὲ μεθʼ"
         },
         {
           "a": "wellmann-4-309-u10-end"
@@ -509,36 +509,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-309-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "163 RV: σησαμοειδὲς τὸ λευκόν· οἱ δὲ κορώνιον, οἱ δὲ σήσαμον ἄγριον καλοῦσιν. 164 RV: τιθύμαλλος χαρακίας.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-309-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-309-1",
-      "to": "wellmann-4-309-1-end",
-      "line_ids": [
-        "wellmann-4-309-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-309-6",
       "group": "criticus",
@@ -1926,8 +1896,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "163",
+      "subtype": "R",
+      "n": "4.163",
       "corresp": "#wellmann1906-4-163",
       "part": "",
       "lines": [
@@ -1963,7 +1933,7 @@
               "a": "awellmann-print-4-309-36-c2e"
             },
             {
-              "t": ", οἱ δὲ σή-"
+              "t": ", οἱ δὲ σή"
             },
             {
               "a": "wellmann-4-309-14-segment-c2-end"
@@ -1990,8 +1960,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "164",
+      "subtype": "R",
+      "n": "4.164",
       "corresp": "#wellmann1906-4-164",
       "part": "",
       "lines": [

@@ -127,7 +127,18 @@
           "a": "wellmann-3-130-u4"
         },
         {
-          "t": "εὐηλίοις."
+          "t": "",
+          "br": "["
+        },
+        {
+          "t": "εὐπνόοις"
+        },
+        {
+          "t": "",
+          "br": "]"
+        },
+        {
+          "t": " εὐηλίοις."
         },
         {
           "a": "wellmann-3-130-u4-end"
@@ -439,36 +450,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-130-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "120 RV: οἰνάνθη· οἱ δὲ κέρας, οἱ δὲ λευκά⟨κα⟩νθον καλοῦσιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-130-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-130-1",
-      "to": "wellmann-3-130-1-end",
-      "line_ids": [
-        "wellmann-3-130-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-130-8",
       "group": "criticus",
@@ -1627,8 +1608,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "120",
+      "subtype": "R",
+      "n": "3.120",
       "corresp": "#wellmann1906-3-120",
       "part": "",
       "lines": [
@@ -1654,7 +1635,7 @@
               "br": "⟩"
             },
             {
-              "t": "νθον κα-"
+              "t": "νθον κα"
             },
             {
               "a": "wellmann-3-130-14-segment-c2-end"

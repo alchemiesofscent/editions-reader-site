@@ -261,66 +261,6 @@
       ]
     },
     {
-      "id": "wellmann-print-4-275-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "129 RV: ὑπόγλωσσον· οἱ δὲ καὶ τοῦτο ἀντίρρινον καλοῦσιν, οἱ δὲ ἀνάρρινον, οἱ δὲ καὶ ταύτην λυχνίδα ἀγρίαν καλοῦσιν. 130 RV: κυνοκεφάλιον· οἱ δὲ ἀντίρρινον, οἱ δὲ ἀνάρρινον, οἱ δὲ βουκράνιον, οἱ δὲ κούριον, οἱ δὲ πιθήκιον, οἱ δὲ κυνόρο",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-275-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-275-1",
-      "to": "wellmann-4-275-1-end",
-      "line_ids": [
-        "wellmann-4-275-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-4-275-2",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "10 δον, οἱ δὲ λυχνὶς ἀγρία, προφῆται ἄλκιμα, οἱ δὲ κυριόμορφον, οἱ δὲ νεδθεος, Αἰγύπτιοι αἰσού, οἱ δὲ ὀρμενισφί, οἱ δὲ κατακιρσαί, Ῥωμαῖοι τιγίλλους ἄλβα, οἱ δὲ τραγατιγίλλους, οἱ δὲ ἔρβα ἀσινίνα, οἱ δὲ βενέριαμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-275-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-275-1",
-      "to": "wellmann-4-275-1-end",
-      "line_ids": [
-        "wellmann-4-275-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-275-6",
       "group": "criticus",
       "method": null,
@@ -1511,8 +1451,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "129",
+      "subtype": "R",
+      "n": "4.129",
       "corresp": "#wellmann1906-4-129",
       "part": "",
       "lines": [
@@ -1592,8 +1532,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "130",
+      "subtype": "R",
+      "n": "4.130",
       "corresp": "#wellmann1906-4-130",
       "part": "",
       "lines": [
@@ -1632,7 +1572,7 @@
               "a": "awellmann-print-4-275-28-c2e"
             },
             {
-              "t": ", οἱ δὲ κούριον, οἱ δὲ πιθήκιον, οἱ δὲ κυνόρο-"
+              "t": ", οἱ δὲ κούριον, οἱ δὲ πιθήκιον, οἱ δὲ κυνόρο"
             },
             {
               "a": "wellmann-4-275-u9-end"
@@ -1711,7 +1651,7 @@
               "a": "awellmann-print-4-275-32-c2e"
             },
             {
-              "t": ", οἱ δὲ κατα-"
+              "t": ", οἱ δὲ κατα"
             },
             {
               "a": "wellmann-4-275-u11-end"

@@ -87,7 +87,7 @@
           "a": "wellmann-3-4-u3"
         },
         {
-          "t": "ἔγγλισχρόν "
+          "t": "ἐγγλισχρόν "
         },
         {
           "a": "awellmann-print-3-4-10"
@@ -228,7 +228,7 @@
           "a": "wellmann-3-4-u7"
         },
         {
-          "t": "τικούς, νεφρετικούς"
+          "t": "τικούς, νεφριτικούς"
         },
         {
           "a": "awellmann-print-3-4-16e"
@@ -551,36 +551,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-4-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "3 RV: γεντιανή· οἱ δὲ κενταύρειος ῥίζα, οἱ δὲ ἀλόη Γαλ",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-4-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-4-1",
-      "to": "wellmann-3-4-1-end",
-      "line_ids": [
-        "wellmann-3-4-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-4-6",
       "group": "criticus",
@@ -1837,8 +1807,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "3",
+      "subtype": "R",
+      "n": "3.3",
       "corresp": "#wellmann1906-3-3",
       "part": "I",
       "lines": [

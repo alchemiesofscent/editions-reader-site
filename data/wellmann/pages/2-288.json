@@ -34,7 +34,7 @@
           "a": "awellmann-print-4-288-9e"
         },
         {
-          "t": "· οἱ δὲ "
+          "t": "· οἱ δὲ Ἰ"
         },
         {
           "a": "awellmann-print-4-288-10"
@@ -202,7 +202,7 @@
           "a": "awellmann-print-4-288-18"
         },
         {
-          "t": "κλῶνας ἀπὸ"
+          "t": "κλῶνας | ἀπὸ"
         },
         {
           "a": "awellmann-print-4-288-18e"
@@ -557,36 +557,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "EXC.: Orib. XI s. v. (δάφνη — ὀρεινοῖς); de virt. med. cf. Gal. XI 863 (= Paul. Aeg. VII 3 s. v.); Hes. s. v. ἀλεξάνδριος.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-288-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-288-1",
-      "to": "wellmann-4-288-1-end",
-      "line_ids": [
-        "wellmann-4-288-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-4-288-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "145 RV: δάφνη· οἱ δὲ Ἀλεξάνδρειαν, οἱ δὲ Ἰδαίαν, οἱ δὲ Δανάην, οἱ δὲ ζαλείαν, οἱ δὲ στέφανον, οἱ δὲ δάφνος Σαμοθρακική, οἱ δὲ Μίθριος, οἱ δὲ ὑπογλώσσιον. 146 RV: δαφνοειδές· οἱ δὲ εὐπέταλον, οἱ δὲ δαφνῖτις, οἱ δὲ χαμαιδάφνην, οἱ δὲ εὔπεπλον καλοῦσιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1922,8 +1892,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "145",
+      "subtype": "R",
+      "n": "4.145",
       "corresp": "#wellmann1906-4-145",
       "part": "",
       "lines": [
@@ -1983,7 +1953,7 @@
               "a": "awellmann-print-4-288-33-c2e"
             },
             {
-              "t": ", οἱ δὲ δάφνος Σαμοθρᾳκική,"
+              "t": ", οἱ δὲ δάφνος Σαμοθρα-"
             },
             {
               "a": "wellmann-4-288-13-segment-c2-end"
@@ -2003,14 +1973,15 @@
             {
               "a": "wellmann-4-288-14-segment-c2-end"
             }
-          ]
+          ],
+          "break_no": true
         }
       ]
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "146",
+      "subtype": "R",
+      "n": "4.146",
       "corresp": "#wellmann1906-4-146",
       "part": "",
       "lines": [

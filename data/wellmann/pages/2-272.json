@@ -580,36 +580,6 @@
       ]
     },
     {
-      "id": "wellmann-print-4-272-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "124 RV: ψευδοβούνιον. 125 RV: χαμαίκισσος· οἱ δὲ χαμαιλεύκη, οἱ δὲ κισσὸς ἄκαρπος, οἱ δὲ γῆς στέφανος, οἱ δὲ σεληνῖτις, Ῥωμαῖοι ἕδερα πλουβιάτικα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-272-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-272-1",
-      "to": "wellmann-4-272-1-end",
-      "line_ids": [
-        "wellmann-4-272-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-272-8",
       "group": "criticus",
       "method": null,
@@ -1845,8 +1815,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "124",
+      "subtype": "R",
+      "n": "4.124",
       "corresp": "#wellmann1906-4-124",
       "part": "",
       "lines": [
@@ -1869,8 +1839,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "125",
+      "subtype": "R",
+      "n": "4.125",
       "corresp": "#wellmann1906-4-125",
       "part": "",
       "lines": [
@@ -1894,7 +1864,7 @@
               "a": "awellmann-print-4-272-35-c2e"
             },
             {
-              "t": ", οἱ δὲ κισσὸς ἄκαρ-"
+              "t": ", οἱ δὲ κισσὸς ἄκαρ"
             },
             {
               "a": "wellmann-4-272-11-segment-c2-end"
@@ -1933,7 +1903,7 @@
               "a": "awellmann-print-4-272-37-c2e"
             },
             {
-              "t": " πλου-"
+              "t": " πλου"
             },
             {
               "a": "wellmann-4-272-u12-end"

@@ -65,6 +65,21 @@
       ]
     },
     {
+      "n": "3",
+      "id": "wellmann-4-269-u3",
+      "parts": [
+        {
+          "a": "wellmann-4-269-u3"
+        },
+        {
+          "t": "[ὠφελεῖ δὲ στόμαχον πυρούμενον, ὀφθαλμῶν φλεγμονὰς καὶ"
+        },
+        {
+          "a": "wellmann-4-269-u3-end"
+        }
+      ]
+    },
+    {
       "n": "4",
       "id": "wellmann-4-269-u4",
       "parts": [
@@ -84,7 +99,7 @@
           "a": "awellmann-print-4-269-10e"
         },
         {
-          "t": " προσπτώσεις ἕδρας· φασὶ δὲ "
+          "t": " προπτώσεις ἕδρας· φασὶ δὲ "
         },
         {
           "a": "awellmann-print-4-269-12"
@@ -111,7 +126,7 @@
           "a": "wellmann-4-269-u5"
         },
         {
-          "t": "τοῦ ἄνθους μεθ’ ὕδατος ποθὲν συναγχικοῖς βοηθεῖν καὶ "
+          "t": "| τοῦ ἄνθους μεθ’ ὕδατος ποθὲν συναγχικοῖς βοηθεῖν καὶ "
         },
         {
           "a": "awellmann-print-4-269-11"
@@ -135,7 +150,7 @@
           "a": "wellmann-4-269-u6"
         },
         {
-          "t": "ληψίαις παιδίων.] ἁρμόζει"
+          "t": "ληψίαις παίδων.] ἁρμόζει"
         },
         {
           "a": "awellmann-print-4-269-11e"
@@ -410,36 +425,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-269-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "120 RV: ἰσόπυρον· οἱ δὲ φασήλιον καλοῦσιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-269-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-269-1",
-      "to": "wellmann-4-269-1-end",
-      "line_ids": [
-        "wellmann-4-269-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-269-4",
       "group": "criticus",
@@ -1610,6 +1595,32 @@
       "n": "120",
       "label": "Caput 120",
       "context": false
+    }
+  ],
+  "segments": [
+    {
+      "type": "recension",
+      "subtype": "R",
+      "n": "4.120",
+      "corresp": "#wellmann1906-4-120",
+      "part": "",
+      "lines": [
+        {
+          "n": "14",
+          "id": "wellmann-4-269-u14",
+          "parts": [
+            {
+              "a": "wellmann-4-269-u14"
+            },
+            {
+              "t": "120 RV: ἰσόπυρον· οἱ δὲ φασήλιον καλοῦσιν."
+            },
+            {
+              "a": "wellmann-4-269-u14-end"
+            }
+          ]
+        }
+      ]
     }
   ],
   "page_label": "II, p. 269",

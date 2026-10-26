@@ -308,7 +308,7 @@
           "a": "awellmann-print-4-181-22"
         },
         {
-          "t": "θἀτέρου"
+          "t": "ϑἀτέρου"
         },
         {
           "a": "awellmann-print-4-181-22e"
@@ -376,7 +376,7 @@
           "a": "awellmann-print-4-181-25"
         },
         {
-          "t": "καὶ τἀς ἐν στό"
+          "t": "καὶ τὰς ἐν στό"
         },
         {
           "a": "wellmann-4-181-u9-end"
@@ -568,36 +568,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-181-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "15 RV: τρίβολος· οἱ δὲ βουκέφαλος, οἱ δὲ ταυρόκερας, Ῥωμαῖοι τρίβουλουμ ἀκονάτικουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-181-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-181-1",
-      "to": "wellmann-4-181-1-end",
-      "line_ids": [
-        "wellmann-4-181-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-181-5",
       "group": "criticus",
@@ -1953,8 +1923,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "15",
+      "subtype": "R",
+      "n": "4.15",
       "corresp": "#wellmann1906-4-15",
       "part": "",
       "lines": [
@@ -1978,7 +1948,7 @@
               "a": "awellmann-print-4-181-35-c2e"
             },
             {
-              "t": ", οἱ δὲ ταυρόκερας, Ῥω-"
+              "t": ", οἱ δὲ ταυρόκερας, Ῥω"
             },
             {
               "a": "wellmann-4-181-16-segment-c2-end"

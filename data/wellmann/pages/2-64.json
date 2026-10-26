@@ -12,7 +12,7 @@
           "a": "wellmann-3-64-1"
         },
         {
-          "t": "ἄκρου σκιάδιον, ἐφʼ οὖ τὰ ἄνθη χρυσοειδῆ, δριμέα, εὐώδη·"
+          "t": "ἄκρου σκιάδιον, ἐφʼ οὗ τὰ ἄνθη χρυσοειδῆ, δριμέα, εὐώδη·"
         },
         {
           "a": "wellmann-3-64-1-end"
@@ -228,7 +228,7 @@
           "a": "wellmann-3-64-u7"
         },
         {
-          "t": "περὶ ἦς εἴρηται ἐν τοῖς περὶ "
+          "t": "περὶ ἧς εἴρηται ἐν τοῖς περὶ "
         },
         {
           "a": "awellmann-print-3-64-17"
@@ -240,7 +240,7 @@
           "a": "awellmann-print-3-64-17e"
         },
         {
-          "t": " (III 129)."
+          "t": " (III 29)."
         },
         {
           "a": "wellmann-3-64-u7-end"
@@ -361,7 +361,7 @@
           "a": "wellmann-3-64-u11"
         },
         {
-          "t": "δύναμιν δὲ ἔχει ἡ ῥίζα πρὸς ἑρπετὰ πινομένη καὶ ἡ κόμη"
+          "t": "δύναμιν δὲ ἔχει ἡ ῥίζα πρὸς ἑρπετὰ πινομένη· καὶ ἡ κόμη"
         },
         {
           "a": "wellmann-3-64-u11-end"
@@ -494,7 +494,7 @@
           "a": "awellmann-print-3-64-33e"
         },
         {
-          "t": " ταῖς Ἄλπεσι· "
+          "t": " ταῖς Ἄλπεσι. "
         },
         {
           "a": "awellmann-print-3-64-34"
@@ -583,36 +583,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-64-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "51 RV: λιγουστικόν· οἱ δὲ πανάκειαν καλοῦσι, Ῥωμαῖοι πάνακες.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-64-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-64-1",
-      "to": "wellmann-3-64-1-end",
-      "line_ids": [
-        "wellmann-3-64-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-64-6",
       "group": "criticus",
@@ -2166,8 +2136,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "51",
+      "subtype": "R",
+      "n": "3.51",
       "corresp": "#wellmann1906-3-51",
       "part": "",
       "lines": [

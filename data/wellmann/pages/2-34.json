@@ -265,7 +265,7 @@
           "a": "awellmann-print-3-34-19"
         },
         {
-          "t": "ἄρεν"
+          "t": "ἄρρεν"
         },
         {
           "a": "awellmann-print-3-34-19e"
@@ -444,36 +444,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-34-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "24 RV: ἀβρότονον· οἱ δὲ ἀβούτονον, οἱ δὲ ἀψίνθιον, οἱ δὲ Ἡράκλειον, οἱ δὲ ⟨γλυκὺν⟩ ἀγκῶνα, οἱ δὲ ἀπόγαλον, οἱ δὲ μήρυκον, οἱ δὲ χολοποιόν, οἱ δὲ θηλυφθόριον, οἱ δὲ ἀψινθιόμηνον, οἱ δὲ προκάμπυλον, προφῆται νεῦρα φοίνικος, οἱ δὲ κυναγχῖτις, Ῥωμαῖοι ἀψίνθιουμ Πόντικουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-34-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-34-1",
-      "to": "wellmann-3-34-1-end",
-      "line_ids": [
-        "wellmann-3-34-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-34-3",
       "group": "criticus",
@@ -1890,8 +1860,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "24",
+      "subtype": "R",
+      "n": "3.24",
       "corresp": "#wellmann1906-3-24",
       "part": "",
       "lines": [
@@ -1956,7 +1926,7 @@
               "br": "⟩"
             },
             {
-              "t": " ἀγκῶνα, οἱ δὲ ἀπόγαλον, οἱ δὲ μή-"
+              "t": " ἀγκῶνα, οἱ δὲ ἀπόγαλον, οἱ δὲ μή"
             },
             {
               "a": "wellmann-3-34-10-segment-c2-end"
@@ -1971,7 +1941,7 @@
               "a": "wellmann-3-34-11-segment-c2"
             },
             {
-              "t": "ρυκον, οἱ δὲ χολοποιόν, οἱ δὲ θηλυφθόριον, οἱ δὲ ἀψινθιό-"
+              "t": "ρυκον, οἱ δὲ χολοποιόν, οἱ δὲ θηλυφθόριον, οἱ δὲ ἀψινθιό"
             },
             {
               "a": "wellmann-3-34-11-segment-c2-end"

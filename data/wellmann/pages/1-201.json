@@ -575,36 +575,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-2-201-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "128 RV: σισύμβριον ἕτερον· οἱ δὲ καρδαμίνην, οἱ δὲ καὶ τοῦτο σίον καλοῦσιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-201-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-201-1",
-      "to": "wellmann-2-201-1-end",
-      "line_ids": [
-        "wellmann-2-201-1"
-      ]
-    },
-    {
       "id": "wellmann-print-2-201-6",
       "group": "criticus",
       "method": null,
@@ -2005,6 +1975,47 @@
       "n": "129",
       "label": "Caput 129",
       "context": false
+    }
+  ],
+  "segments": [
+    {
+      "type": "recension",
+      "subtype": "R",
+      "n": "2.128",
+      "corresp": "#wellmann1906-2-128",
+      "part": "",
+      "lines": [
+        {
+          "n": "16",
+          "id": "wellmann-2-201-u16",
+          "parts": [
+            {
+              "a": "wellmann-2-201-u16"
+            },
+            {
+              "t": "128 RV: σισύμβριον ἕτερον· οἱ δὲ καρδαμίνην, οἱ δὲ καὶ"
+            },
+            {
+              "a": "wellmann-2-201-u16-end"
+            }
+          ]
+        },
+        {
+          "n": "17",
+          "id": "wellmann-2-201-u17",
+          "parts": [
+            {
+              "a": "wellmann-2-201-u17"
+            },
+            {
+              "t": "τοῦτο σίον καλοῦσιν."
+            },
+            {
+              "a": "wellmann-2-201-u17-end"
+            }
+          ]
+        }
+      ]
     }
   ],
   "page_label": "I, p. 201",

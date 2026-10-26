@@ -336,36 +336,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-194-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "33 RV: σιδηρεῖτις· οἱ δὲ Ἡράκλειον, προφῆται γόνος σκορπίου, οἱ δὲ αἷμα Τιτάνου, οἱ δὲ οὐρὰ σκορπίου, Πυθαγόρας πάερμορον, Ἀνδρέας ξανθοφαναία, Ὀσθάνης βούφθαλμον, Αἰγύπτιοι σενωδιονώρ, Ῥωμαῖοι οὐερτούμνουμ, οἱ δὲ μουλγήθρουμ, οἱ δὲ σωλάστρουμ, οἱ δὲ ἴντουβουμ σιλβάτικουμ, Ἄφροι οὐδοδοννίν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-194-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-194-1",
-      "to": "wellmann-4-194-1-end",
-      "line_ids": [
-        "wellmann-4-194-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-194-6",
       "group": "criticus",
       "method": null,
@@ -1721,8 +1691,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "33",
+      "subtype": "R",
+      "n": "4.33",
       "corresp": "#wellmann1906-4-33",
       "part": "",
       "lines": [
@@ -1758,7 +1728,7 @@
               "a": "awellmann-print-4-194-25-c2e"
             },
             {
-              "t": " σκορ-"
+              "t": " σκορ"
             },
             {
               "a": "wellmann-4-194-13-segment-c2-end"
@@ -1816,13 +1786,13 @@
               "a": "awellmann-print-4-194-28-c2"
             },
             {
-              "t": "ξανθοφαναία"
+              "t": "ξανϑοφαναία"
             },
             {
               "a": "awellmann-print-4-194-28-c2e"
             },
             {
-              "t": ", Ὀσθάνης βούφθαλμον, Αἰ- 15"
+              "t": ", Ὀσθάνης βούφθαλμον, Αἰ-"
             },
             {
               "a": "wellmann-4-194-15-segment-c2-end"
@@ -1837,7 +1807,7 @@
               "a": "wellmann-4-194-16-segment-c2"
             },
             {
-              "t": "γύπτιοι σενωδιονώρ, Ῥωμαῖοι οὐερτούμνουμ, οἱ δὲ μουλγή-"
+              "t": "γύπτιοι σενωδιονώρ, Ῥωμαῖοι οὐερτούμνουμ, οἱ δὲ μουλγή"
             },
             {
               "a": "wellmann-4-194-16-segment-c2-end"

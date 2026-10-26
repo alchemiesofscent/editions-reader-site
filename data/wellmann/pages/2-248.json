@@ -223,7 +223,7 @@
           "a": "wellmann-4-248-u7"
         },
         {
-          "t": "πέλατα, ἐρπητας, νομάς, ὀφθαλμῶν "
+          "t": "πέλατα, | ἕρπητας, νομάς, ὀφθαλμῶν "
         },
         {
           "a": "awellmann-print-4-248-13"
@@ -429,36 +429,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-248-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "88 RV: ἀείζων τὸ μέγα· οἱ δὲ ἐριθαλές, οἱ δὲ ἀμβρόσιον, οἱ δὲ χρυσίσπερμον, οἱ δὲ ζωόφθαλμον, οἱ δὲ βούφθαλμον, οἱ δὲ στέργηθρον, οἱ δὲ αἰώνιον, οἱ δὲ ζωόφυτον, οἱ δὲ ἀείχρυσον, οἱ δὲ μελίχρυσον, οἱ δὲ ὁλόχρυσον, οἱ δὲ χρυσάνθεμον, οἱ δὲ πρωτόγονον, οἱ δὲ βόρειος, οἱ δὲ νότιος, οἱ δὲ βηρύλλιος, προφῆται [λέγουσιν] παρωνυχία, οἱ δὲ χρυσῖτις, Ῥωμαῖοι κεριακούσια, οἱ δὲ Ἰόβις ὄκουλους, οἱ δὲ δίγιτους, οἱ δὲ σέδουμ μουρ⟨άλε⟩, Αἰγύπτιοι παμφανής.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-248-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-248-1",
-      "to": "wellmann-4-248-1-end",
-      "line_ids": [
-        "wellmann-4-248-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-248-3",
       "group": "criticus",
@@ -1687,8 +1657,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "88",
+      "subtype": "R",
+      "n": "4.88",
       "corresp": "#wellmann1906-4-88",
       "part": "",
       "lines": [
@@ -1793,7 +1763,7 @@
               "a": "awellmann-print-4-248-26-c2e"
             },
             {
-              "t": ", οἱ δὲ νότιος, οἱ δὲ βηρύλλιος, προ-"
+              "t": ", οἱ δὲ νότιος, οἱ δὲ βηρύλλιος, προ"
             },
             {
               "a": "wellmann-4-248-18-segment-c2-end"
@@ -1832,7 +1802,7 @@
               "a": "awellmann-print-4-248-29-c2e"
             },
             {
-              "t": ", Ῥωμαῖοι κερια-"
+              "t": ", Ῥωμαῖοι κερια"
             },
             {
               "a": "wellmann-4-248-19-segment-c2-end"

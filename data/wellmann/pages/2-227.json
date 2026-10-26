@@ -558,36 +558,6 @@
       ]
     },
     {
-      "id": "wellmann-print-4-227-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "69 RV: ψύλλιον· οἱ δὲ κατάρυσις, οἱ δὲ κυνοκεφάλιον, οἱ δὲ κρυστάλλιον, οἱ δὲ κυνόμυιαν, οἱ δὲ ψύλλερις, οἱ δὲ Σικελιωτικόν, Σικελοὶ δὲ κυνοειδὴς ἢ κρυστάλλιον, Ῥωμαῖοι σιλβάκιουμ, οἱ δὲ ἔρβα πουλικάρις, Ἄφροι οὐαργουγούμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-227-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-227-1",
-      "to": "wellmann-4-227-1-end",
-      "line_ids": [
-        "wellmann-4-227-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-227-5",
       "group": "criticus",
       "method": null,
@@ -2230,8 +2200,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "69",
+      "subtype": "R",
+      "n": "4.69",
       "corresp": "#wellmann1906-4-69",
       "part": "",
       "lines": [
@@ -2258,7 +2228,7 @@
               "a": "wellmann-4-227-13-segment-c2"
             },
             {
-              "t": "δὲ κρυστάλλιον, οἱ δὲ κυνόμυιαν, οἱ δὲ ψύλλερις, οἱ δὲ Σικε-"
+              "t": "δὲ κρυστάλλιον, οἱ δὲ κυνόμυιαν, οἱ δὲ ψύλλερις, οἱ δὲ Σικε"
             },
             {
               "a": "wellmann-4-227-13-segment-c2-end"
@@ -2285,7 +2255,7 @@
               "a": "awellmann-print-4-227-42-c2e"
             },
             {
-              "t": " κρυστάλλιον, Ῥωμαῖοι σιλβά-"
+              "t": " κρυστάλλιον, Ῥωμαῖοι σιλβά"
             },
             {
               "a": "wellmann-4-227-14-segment-c2-end"

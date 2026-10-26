@@ -183,7 +183,7 @@
           "a": "awellmann-print-3-116-14e"
         },
         {
-          "t": " τε διάκλυσμα, "
+          "t": " τε διάκλυσμα, ὀδονταλγίας τε διάκλυσμα, "
         },
         {
           "a": "awellmann-print-3-116-15"
@@ -415,7 +415,7 @@
           "a": "awellmann-print-3-116-30e"
         },
         {
-          "t": "· θάμνος ἐστιν "
+          "t": "· θάμνος ἐστὶν "
         },
         {
           "a": "awellmann-print-3-116-31"
@@ -451,36 +451,6 @@
         "witness-disagreement"
       ],
       "printed": "SIM.: Nic. Th. 550. 677 (ex Apollod.) Pl. l. s. 149 eup. II 121 (320) 122 (321) — Pl. 150 eup. I 113 (314) — Pl. 150 — eup. I 69 (127) — Pl. 150 eup. I 52 (265) — Pl. 149 eup I 40 (255) — Pl. 150 eup. II 39 (253)— Pl. 150 eup. I 154 (172) — Pl eup. I 184 (191) — Pl. eup. I 235 (217).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-116-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-116-1",
-      "to": "wellmann-3-116-1-end",
-      "line_ids": [
-        "wellmann-3-116-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-116-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "105 RV: πράσιον· οἱ δὲ εὐπατόριον, οἱ δὲ φιλόπαις, οἱ δὲ φιλοφαρές, οἱ δὲ περοπέδιλον, οἱ δὲ καμηλοπόδιον, οἱ δὲ φυλλοφαρές, Αἰγύπτιοι ἀστερίστα, προφῆται αἷμα ταύρου, οἱ δὲ ἄφεδρος, οἱ δὲ γόνος Ὥρου, Ῥωμαῖοι μαρρούβιουμ, οἱ δὲ λαβεώνια, Ἄφροι ἀτιερβέρζοια.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1982,8 +1952,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "105",
+      "subtype": "R",
+      "n": "3.105",
       "corresp": "#wellmann1906-3-105",
       "part": "",
       "lines": [
@@ -2034,7 +2004,7 @@
               "a": "awellmann-print-3-116-37-c2e"
             },
             {
-              "t": ", οἱ δὲ προπέδιλον, οἱ δὲ καμηλοπόδιον, οἱ δὲ φυλλο-"
+              "t": ", οἱ δὲ περοπέδιλον, οἱ δὲ καμηλοπόδιον, οἱ δὲ φυλλο"
             },
             {
               "a": "wellmann-3-116-12-segment-c2-end"
@@ -2055,13 +2025,13 @@
               "a": "awellmann-print-3-116-38-c2"
             },
             {
-              "t": "ἀστερίσπα"
+              "t": "ἀστερίστα"
             },
             {
               "a": "awellmann-print-3-116-38-c2e"
             },
             {
-              "t": ", προφῆται αἷμα ταύρου, οἱ δὲ ἄφε-"
+              "t": ", προφῆται αἷμα ταύρου, οἱ δὲ ἄφε"
             },
             {
               "a": "wellmann-3-116-u13-end"
@@ -2123,7 +2093,7 @@
               "a": "awellmann-print-3-116-42-c2"
             },
             {
-              "t": "ἀτιερβέρζιοια"
+              "t": "ἀτιερβέρζοια"
             },
             {
               "a": "awellmann-print-3-116-42-c2e"

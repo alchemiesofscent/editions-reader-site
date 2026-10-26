@@ -285,7 +285,7 @@
           "a": "awellmann-print-4-305-20-rule"
         },
         {
-          "t": " νεῦραπάθεσιν ἁρμόζει"
+          "t": " νεῦρα πάθεσιν ἁρμόζει"
         },
         {
           "a": "awellmann-print-4-305-18e"
@@ -437,7 +437,7 @@
           "a": "wellmann-4-305-12"
         },
         {
-          "t": "ὅμοια πλατάνῳ, μείζονα δὲ καὶ λειότερα καὶ μελάντερα, τὰ δὴ"
+          "t": "ὅμοια πλατάνῳ, μείζονα δὲ καὶ λειότερα καὶ μελάντερα, τὰ δὲ"
         },
         {
           "a": "wellmann-4-305-12-end"
@@ -446,36 +446,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-305-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "δὲ ἵππιον, οἱ δὲ ἐχίνιον, οἱ δὲ πελεκῖνος, Ῥωμαῖοι λαππάγω, οἱ δὲ λάππο⟨υ⟩λα μέρα. 160 RV: ὑπόφαιστον· οἱ δὲ καὶ τοῦτο ἱπποφαὲς καλοῦσιν. 161 RV: κρότων ἢ κίκι· οἱ δὲ σήσαμον ἄγριον, οἱ δὲ σέσελι Κύπριον, οἱ δὲ κρότωνα, Αἰγύπτιοι σησθάμνα, οἱ δὲ τρίξιν, προφῆται αἷμα πυρετοῦ, Ῥωμαῖοι ῥίκινουμ, οἱ δὲ λούπα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-305-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-305-1",
-      "to": "wellmann-4-305-1-end",
-      "line_ids": [
-        "wellmann-4-305-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-305-4",
       "group": "criticus",
@@ -1786,8 +1756,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "159",
+      "subtype": "R",
+      "n": "4.159",
       "corresp": "#wellmann1906-4-159",
       "part": "F",
       "lines": [
@@ -1863,8 +1833,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "160",
+      "subtype": "R",
+      "n": "4.160",
       "corresp": "#wellmann1906-4-160",
       "part": "",
       "lines": [
@@ -1896,8 +1866,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "161",
+      "subtype": "R",
+      "n": "4.161",
       "corresp": "#wellmann1906-4-161",
       "part": "",
       "lines": [
@@ -1921,7 +1891,7 @@
               "a": "awellmann-print-4-305-35-rule"
             },
             {
-              "t": "· οἱ δὲ σήσαμον ἄγριον, οἱ δὲ σέ-"
+              "t": "· οἱ δὲ σήσαμον ἄγριον, οἱ δὲ σέ"
             },
             {
               "a": "wellmann-4-305-16-rul-end"
@@ -1936,7 +1906,7 @@
               "a": "wellmann-4-305-u17"
             },
             {
-              "t": "σελι Κύπριον, οἱ δὲ κρότωνα, Αἰγύπτιοι σησθάμνα, οἱ δὲ τρί-"
+              "t": "σελι Κύπριον, οἱ δὲ κρότωνα, Αἰγύπτιοι σησθάμνα, οἱ δὲ τρί"
             },
             {
               "a": "wellmann-4-305-u17-end"

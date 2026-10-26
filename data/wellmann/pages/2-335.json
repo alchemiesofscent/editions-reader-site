@@ -12,13 +12,13 @@
           "a": "wellmann-4-335-1"
         },
         {
-          "t": "χλωρά, στρυφνὴ κατὰ "
+          "t": "χλωρά, | στρυφνὴ κατὰ "
         },
         {
           "a": "awellmann-print-4-335-6"
         },
         {
-          "t": "τὴν γεῦσιν καὶ ὑπόγλυκυς"
+          "t": "τὴν γεῦσιν καὶ ὑπόγλυκυς,"
         },
         {
           "a": "awellmann-print-4-335-6e"
@@ -84,7 +84,7 @@
           "a": "awellmann-print-4-335-9"
         },
         {
-          "t": "τεύτλῳ"
+          "t": "ἢ τεύτλῳ"
         },
         {
           "a": "awellmann-print-4-335-9e"
@@ -335,7 +335,7 @@
           "br": "⟩"
         },
         {
-          "t": " · ῥίζας δʼ ἔχει κατʼ ἐπιπλοκὴν δασείας, στρυφνάς"
+          "t": " · ῥίζας δʼ ἔχει κατʼ ἐπιπλοκὴν δασείας, στρυφνὰς"
         },
         {
           "a": "wellmann-4-335-u8-end"
@@ -541,36 +541,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-335-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "187 RV: δρυοπτερίς· οἱ δὲ πτέριον, οἱ δὲ νυμφαία πτέρις, Ῥωμαῖοι φιλίκλαμ. 188 RV: κνῆκος.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-335-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-335-1",
-      "to": "wellmann-4-335-1-end",
-      "line_ids": [
-        "wellmann-4-335-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-335-6",
       "group": "criticus",
@@ -2109,8 +2079,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "187",
+      "subtype": "R",
+      "n": "4.187",
       "corresp": "#wellmann1906-4-187",
       "part": "",
       "lines": [
@@ -2178,8 +2148,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "188",
+      "subtype": "R",
+      "n": "4.188",
       "corresp": "#wellmann1906-4-188",
       "part": "",
       "lines": [

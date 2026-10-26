@@ -28,7 +28,7 @@
           "a": "awellmann-print-4-171-6e"
         },
         {
-          "t": "· οἰ δὲ "
+          "t": "· οἱ δὲ "
         },
         {
           "a": "awellmann-print-4-171-7"
@@ -141,7 +141,7 @@
           "a": "awellmann-print-4-171-12"
         },
         {
-          "t": "περιειλημμένους, ἕρποντας ἐπὶ γῆς· "
+          "t": "περιειλημμένους, ἕρποντας ἐπὶ γῆς "
         },
         {
           "a": "awellmann-print-4-171-13"
@@ -236,7 +236,7 @@
           "a": "awellmann-print-4-171-17"
         },
         {
-          "t": "ἔχει δὲ καρπὸν παῤ ἕκαστον φύλλον, ὅθεν καὶ ἄρρεν καλεῖται"
+          "t": "ἔχει δὲ καρπὸν παρ᾽ ἕκαστον φύλλον, ὅθεν καὶ ἄρρεν καλεῖται"
         },
         {
           "a": "awellmann-print-4-171-17e"
@@ -394,36 +394,6 @@
         "witness-disagreement"
       ],
       "printed": "EXC.: Orib. XII s. v. (πολύγονον — φοινικοῦν); Gal. XII 104 (= Aet. I s. v. Paul. Aeg. VII 3 s. v.); Ps. D. de h. f. 9 (e D. lat.); Isid. XVII 9, 79.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-171-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-171-1",
-      "to": "wellmann-4-171-1-end",
-      "line_ids": [
-        "wellmann-4-171-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-4-171-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "4 RV: πολύγονον ἄρεν· οἱ δὲ πολυγόνατον, οἱ δὲ κυνοχάλκη, οἱ δὲ Ἡρακλεία, οἱ δὲ ἀσφάλτιον, οἱ δὲ χιλιόφυλλον, οἱ δὲ κλῆμα, οἱ δὲ πολύκαρπον, οἱ δὲ καρκίνωθρον, οἱ δὲ μυρτοπέταλον, οἱ δὲ κ⟨ορ⟩νοπόδιον, οἱ δὲ ἀριθέα, οἱ δὲ πηδάλιον, Αἰγύπτιοι θεφίν, οἱ δὲ στεμφίν, προφῆται γόνος ἥρωος, οἱ δὲ ὄνυξ μυός, Ῥωμαῖοι σημινάλις, οἱ δὲ σκορπίνακα, οἱ δὲ προσερπίνακα, Ἄφροι χουλουμιλούμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1601,8 +1571,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "4",
+      "subtype": "R",
+      "n": "4.4",
       "corresp": "#wellmann1906-4-4",
       "part": "",
       "lines": [
@@ -1614,7 +1584,7 @@
               "a": "wellmann-4-171-8-segment-c2"
             },
             {
-              "t": "πολύγονον ἄρρεν· οἱ δὲ πολυγόνατον, οἱ δὲ κυνο-"
+              "t": "πολύγονον ἄρρεν· οἱ δὲ πολυγόνατον, οἱ δὲ κυνο"
             },
             {
               "a": "wellmann-4-171-8-segment-c2-end"
@@ -1681,7 +1651,7 @@
               "a": "awellmann-print-4-171-24-c2e"
             },
             {
-              "t": ", οἱ δὲ μυρτο-"
+              "t": ", οἱ δὲ μυρτο"
             },
             {
               "a": "wellmann-4-171-10-segment-c2-end"
@@ -1801,7 +1771,7 @@
               "a": "awellmann-print-4-171-31-c2e"
             },
             {
-              "t": ", οἱ δὲ σκορπίνακα, οἱ δὲ προ-"
+              "t": ", οἱ δὲ σκορπίνακα, οἱ δὲ προ"
             },
             {
               "a": "wellmann-4-171-13-segment-c2-end"
@@ -1822,7 +1792,7 @@
               "a": "awellmann-print-4-171-35-c2"
             },
             {
-              "t": "χουλουμλούμ"
+              "t": "χουλουμιλούμ"
             },
             {
               "a": "awellmann-print-4-171-35-c2e"

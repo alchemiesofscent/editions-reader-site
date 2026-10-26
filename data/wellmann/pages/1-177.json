@@ -36,7 +36,7 @@
           "a": "awellmann-print-2-177-4e"
         },
         {
-          "t": " καὶ δυσώδη ὑποχωρήματα ὑυνεντερικά· τὸ δὲ ἀπ᾿"
+          "t": " καὶ δυσώδη ὑποχωρήματα δυσεντερικά· τὸ δὲ ἀπ᾿"
         },
         {
           "a": "wellmann-2-177-u2-end"
@@ -285,7 +285,7 @@
           "a": "awellmann-print-2-177-18"
         },
         {
-          "t": "ἑρπητάς"
+          "t": "ἕρπητάς"
         },
         {
           "a": "awellmann-print-2-177-18e"
@@ -532,7 +532,7 @@
           "a": "awellmann-print-2-177-30"
         },
         {
-          "t": "φλεγμονάς"
+          "t": "φλεγμονὰς"
         },
         {
           "a": "awellmann-print-2-177-30e"
@@ -575,36 +575,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-177-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "103 RV: λίνον· οἱ δὲ λινοκάλαμις, οἱ δὲ αἴλινον, οἱ δὲ λίνον ἄγριον, Ῥωμαῖοι λίνουμ ῥούστικουμ, οἱ δὲ λίνουμ ἀγρέστεμ, Ἄφροι ζεραφοίστ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-177-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-177-1",
-      "to": "wellmann-2-177-1-end",
-      "line_ids": [
-        "wellmann-2-177-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-177-4",
       "group": "criticus",
@@ -1996,8 +1966,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "103",
+      "subtype": "R",
+      "n": "2.103",
       "corresp": "#wellmann1906-2-103",
       "part": "",
       "lines": [
@@ -2036,7 +2006,7 @@
               "a": "wellmann-2-177-19-segment-c2"
             },
             {
-              "t": "λίνον ἄγριον, Ῥωμαῖοι λίνουμ ῥούστικουμ, οἱ δὲ λίνουμ ἀγρέ-"
+              "t": "λίνον ἄγριον, Ῥωμαῖοι λίνουμ ῥούστικουμ, οἱ δὲ λίνουμ ἀγρέ"
             },
             {
               "a": "wellmann-2-177-19-segment-c2-end"

@@ -598,36 +598,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-277-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "15 132 RV: τριπόλιον· οἱ δὲ ψυχήν, οἱ δὲ μηρίς, οἱ δὲ ποταμογείτων, οἱ δὲ σταχυῖτις, Ῥωμαῖοι τριφόλιουμ μάϊους.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-277-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-277-1",
-      "to": "wellmann-4-277-1-end",
-      "line_ids": [
-        "wellmann-4-277-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-277-5",
       "group": "criticus",
       "method": null,
@@ -2221,8 +2191,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "132",
+      "subtype": "R",
+      "n": "4.132",
       "corresp": "#wellmann1906-4-132",
       "part": "",
       "lines": [
@@ -2261,7 +2231,7 @@
               "t": ", οἱ δὲ "
             },
             {
-              "t": "ποτα"
+              "t": "ποτα-"
             },
             {
               "a": "wellmann-4-277-15-segment-c2-end"

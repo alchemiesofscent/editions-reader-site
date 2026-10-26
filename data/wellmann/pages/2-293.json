@@ -463,36 +463,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-293-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "15 150 RV: σίκυς ἄγριος· οἱ δὲ ἐλατήριον, οἱ δὲ γρυνόν, οἱ δὲ βαλ〈αν〉ίς, οἱ δὲ σύγκρισις, οἱ δὲ βουβάλιον, οἱ δὲ σκορπίον, οἱ δὲ φέρομβρον, οἱ δὲ πευκέδανον, οἱ δὲ νότιον, Ῥωμαῖοι ἀγγούινουμ, οἱ δὲ κουκούμερε〈μ〉 ῥούστικουμ, οἱ δὲ ἀγρέστεμ, Ἄφροι κουσσιμεζάρ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-293-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-293-1",
-      "to": "wellmann-4-293-1-end",
-      "line_ids": [
-        "wellmann-4-293-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-293-3",
       "group": "criticus",
       "method": null,
@@ -1636,8 +1606,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "150",
+      "subtype": "R",
+      "n": "4.150",
       "corresp": "#wellmann1906-4-150",
       "part": "",
       "lines": [
@@ -1676,14 +1646,14 @@
               "a": "wellmann-4-293-16-segment-c2"
             },
             {
-              "t": "βαλ`"
+              "t": "βαλ"
             },
             {
               "t": "",
               "br": "⟨"
             },
             {
-              "t": "αν`"
+              "t": "αν"
             },
             {
               "t": "",
@@ -1768,21 +1738,21 @@
               "a": "wellmann-4-293-18-segment-c2"
             },
             {
-              "t": "οἱ δὲ κουκούμερε`"
+              "t": "οἱ δὲ κουκούμερε"
             },
             {
               "t": "",
               "br": "⟨"
             },
             {
-              "t": "μ`"
+              "t": "μ"
             },
             {
               "t": "",
               "br": "⟩"
             },
             {
-              "t": " ῥούστικουμ, οἱ δὲ ἀγρέστεμ, Ἄφροι κουσσι-"
+              "t": " ῥούστικουμ, οἱ δὲ ἀγρέστεμ, Ἄφροι κουσσι"
             },
             {
               "a": "wellmann-4-293-18-segment-c2-end"

@@ -67,7 +67,7 @@
           "a": "awellmann-print-3-24-9e"
         },
         {
-          "t": " σπάσμασιν ὠφέλιμοι καὶ δήγμασι."
+          "t": " σπάσμασιν ὠφέλιμοι καὶ ῥήγμασι."
         },
         {
           "a": "wellmann-3-24-u2-end"
@@ -547,36 +547,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-24-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "17 RV: ἄκανθος ἀγρία· Ῥωμαῖοι σπίνα ἀγρέστις.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-24-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-24-1",
-      "to": "wellmann-3-24-1-end",
-      "line_ids": [
-        "wellmann-3-24-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-24-6",
       "group": "criticus",
@@ -2128,8 +2098,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "17",
+      "subtype": "R",
+      "n": "3.17",
       "corresp": "#wellmann1906-3-17",
       "part": "F",
       "lines": [
@@ -2147,13 +2117,13 @@
               "a": "awellmann-print-3-24-42-c2"
             },
             {
-              "t": "ἀγρία"
+              "t": "ἄκανϑος ἀγρία"
             },
             {
               "a": "awellmann-print-3-24-42-c2e"
             },
             {
-              "t": " · Ῥωμαῖοι "
+              "t": "· Ῥωμαῖοι "
             },
             {
               "a": "awellmann-print-3-24-43-c2"

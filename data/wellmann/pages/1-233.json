@@ -372,7 +372,7 @@
           "a": "awellmann-print-2-233-22"
         },
         {
-          "t": "ἀστίλωτα"
+          "t": "ἀσπίλωτα"
         },
         {
           "a": "awellmann-print-2-233-22e"
@@ -388,36 +388,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-233-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "167 RV: δρακοντία μικρά· οἱ δὲ ἄρον, οἱ δὲ ἀρίς, οἱ δὲ",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-233-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-233-1",
-      "to": "wellmann-2-233-1-end",
-      "line_ids": [
-        "wellmann-2-233-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-233-4",
       "group": "criticus",
@@ -1846,8 +1816,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "166",
+      "subtype": "R",
+      "n": "2.166",
       "corresp": "#wellmann1906-2-166",
       "part": "F",
       "lines": [
@@ -1859,7 +1829,7 @@
               "a": "wellmann-2-233-u12"
             },
             {
-              "t": "βρύων κομιδῇ· ποιεῖ δὲ καὶ πρὸς ἀλφοὺς σὺν μέλιτι κατα-"
+              "t": "βρύων κομιδήν· ποιεῖ δὲ καὶ πρὸς ἀλφοὺς σὺν μέλιτι κατα"
             },
             {
               "a": "wellmann-2-233-u12-end"
@@ -1905,7 +1875,7 @@
               "a": "wellmann-2-233-u15"
             },
             {
-              "t": "ἀχλύς. ἡ δὲ ὀσμὴ τῆς ῥίζης καὶ τῆς πόας τῶν ἄρτι συνειλημ-"
+              "t": "ἀχλῦς. ἡ δὲ ὀσμὴ τῆς ῥίζης καὶ τῆς πόας τῶν ἄρτι συνειλημ"
             },
             {
               "a": "wellmann-2-233-u15-end"
@@ -1936,7 +1906,7 @@
               "a": "wellmann-2-233-u17"
             },
             {
-              "t": "μετ’ ὀξυκράτου. ἔνιοι δὲ τῷ χυλῷ τούτου καὶ τοὺς ὠταλγοῦν-"
+              "t": "μετ’ ὀξυκράτου. ἔνιοι δὲ τῷ χυλῷ τούτου καὶ τοὺς ὠταλγοῦν"
             },
             {
               "a": "wellmann-2-233-u17-end"
@@ -2008,8 +1978,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "167",
+      "subtype": "R",
+      "n": "2.167",
       "corresp": "#wellmann1906-2-167",
       "part": "I",
       "lines": [

@@ -487,36 +487,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-3-124-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "112 RV: βήχιον ἢ βήκιον· οἱ δὲ πήχιον, οἱ δὲ πετρίνη, οἱ δὲ πετρώνιον, οἱ δὲ πίθιον, οἱ δὲ παγγόνατον, οἱ δὲ χαμαιλεύκην, οἱ δὲ πρόχετον, οἱ δὲ ἀκρόφυλλον, οἱ δὲ χαμαίγειρον, Αἰγύπτιοι σααρθρά, Ῥωμαῖοι τουσιλάγω, οἱ δὲ φαρφάριαμ, οἱ δὲ πουστουλάγω, Βέσσοι ἀσᾶ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-124-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-124-1",
-      "to": "wellmann-3-124-1-end",
-      "line_ids": [
-        "wellmann-3-124-1"
-      ]
-    },
-    {
       "id": "wellmann-print-3-124-3",
       "group": "criticus",
       "method": null,
@@ -1804,8 +1774,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "112",
+      "subtype": "R",
+      "n": "3.112",
       "corresp": "#wellmann1906-3-112",
       "part": "",
       "lines": [
@@ -1886,7 +1856,7 @@
               "a": "awellmann-print-3-124-31-c2"
             },
             {
-              "t": "χαμαιλεύ-"
+              "t": "χαμαιλεύ"
             },
             {
               "a": "awellmann-print-3-124-31-c2e"
@@ -1928,7 +1898,7 @@
               "a": "awellmann-print-3-124-33-c2e"
             },
             {
-              "t": ", Αἰ-"
+              "t": ", Αἰ"
             },
             {
               "a": "wellmann-3-124-u16-end"

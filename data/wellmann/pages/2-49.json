@@ -24,7 +24,7 @@
           "a": "awellmann-print-3-49-5e"
         },
         {
-          "t": " ἀλῶν καὶ ὄξους ἄγειν"
+          "t": " ἁλῶν καὶ ὄξους ἄγειν"
         },
         {
           "a": "wellmann-3-49-1-end"
@@ -128,7 +128,7 @@
           "a": "awellmann-print-3-49-10"
         },
         {
-          "t": "ἐστι δὲ καὶ οὐρητι"
+          "t": "ἔστι δὲ καὶ οὐρητι"
         },
         {
           "a": "wellmann-3-49-u4-end"
@@ -351,7 +351,7 @@
           "a": "awellmann-print-3-49-22"
         },
         {
-          "t": "θύμβρα"
+          "t": "ϑύμβρα"
         },
         {
           "a": "awellmann-print-3-49-20e"
@@ -422,36 +422,6 @@
         "witness-disagreement"
       ],
       "printed": "SIM.: [Hipp.] περὶ διαίτης II 54 (VI 560) Ruf. (Orib. II 117. III 95) Pl. l. s. 155 — Pl. l. s. 156 eup. II 39 (252) — Pl. l. s. eup. II 76 (288) — Zop. (Orib. II 566) Cels. II 31 eup. II 112 (312) cf. [Hipp.] l. s. — Zop. (Orib. II 568) Pl. l. s. 155 eup. II 31 (241) Alex. Trall. II 223 — Pl. l. s. 157 — Pl. 155 eup. I 211 (204) — Pl. 157 eup. I 176 (186) — Pl. 157 eup. I 240 (221) Alex. Trall. II 533 — Pl. 154 eup. I 43 (113) Ruf. (Orib. III 95).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-49-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-49-1",
-      "to": "wellmann-3-49-1-end",
-      "line_ids": [
-        "wellmann-3-49-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-49-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "37 RV: θύμβρα· οἱ δὲ ὀρσίνη, οἱ δὲ προβάτιος, οἱ δὲ ὀσμῖτις, οἱ δὲ ὀρίγανον ἄγριον, οἱ δὲ ἀγήρατον, Ῥωμαῖοι σατουρεΐαμ, οἱ δὲ θούμουμ, οἱ δὲ κούνουλα ῥούστικα, Αἰγύπτιοι σκεμμένη.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1507,8 +1477,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "37",
+      "subtype": "R",
+      "n": "3.37",
       "corresp": "#wellmann1906-3-37",
       "part": "",
       "lines": [
@@ -1520,7 +1490,7 @@
               "a": "wellmann-3-49-12-segment-c2"
             },
             {
-              "t": "Θύμβρα· οἱ δὲ ὀρσίνη, οἱ δὲ προβάτιος, οἱ δὲ"
+              "t": "θύμβρα· οἱ δὲ ὀρσίνη, οἱ δὲ προβάτιος, οἱ δὲ"
             },
             {
               "a": "wellmann-3-49-12-segment-c2-end"
@@ -1538,7 +1508,7 @@
               "t": "ὀσμῖτις, οἱ δὲ ὀρίγανον ἄγριον, οἱ δὲ ἀγήρατον, Ῥωμαῖοι "
             },
             {
-              "t": "σα-"
+              "t": "σα"
             },
             {
               "a": "wellmann-3-49-13-segment-c2-end"
@@ -1553,7 +1523,7 @@
               "a": "wellmann-3-49-u14"
             },
             {
-              "t": "τουρείαμ, οἱ δὲ "
+              "t": "τουρεΐαμ, οἱ δὲ "
             },
             {
               "a": "awellmann-print-3-49-28-c2"

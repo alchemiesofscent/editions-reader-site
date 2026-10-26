@@ -236,7 +236,18 @@
           "a": "awellmann-print-2-198-18"
         },
         {
-          "t": "κεκλιμένον"
+          "t": "",
+          "br": "["
+        },
+        {
+          "t": "καὶ"
+        },
+        {
+          "t": "",
+          "br": "]"
+        },
+        {
+          "t": " κεκλιμένον"
         },
         {
           "a": "awellmann-print-2-198-18e"
@@ -339,36 +350,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-198-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "126 RV: ἀρνόγλωσσον· οἱ δὲ ἄρνειον, οἱ δὲ προβάτειον, οἱ δὲ κυνόγλωσσον, οἱ δὲ ἑπτάπλευρον, οἱ δὲ πολύνευρον, προφῆται οὐρὰ ἰχνεύμονας, Αἰγύπτιοι ἀσοήθ, Ῥωμαῖοι πιλαντάγω μίνορ, Γάλλοι ταρβηλοδάδιον, Σπάνοι θισάρικαμ, Ἄφροι ἀστιρχόκ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-198-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-198-1",
-      "to": "wellmann-2-198-1-end",
-      "line_ids": [
-        "wellmann-2-198-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-198-4",
       "group": "criticus",
@@ -1726,8 +1707,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "126",
+      "subtype": "R",
+      "n": "2.126",
       "corresp": "#wellmann1906-2-126",
       "part": "",
       "lines": [
@@ -1778,7 +1759,7 @@
               "a": "wellmann-2-198-10-segment-c2"
             },
             {
-              "t": "οἱ δὲ κυνόγλωσσον, οἱ δὲ ἑπτάπλευρον, οἱ δὲ πολύνευρον, προ- 10"
+              "t": "οἱ δὲ κυνόγλωσσον, οἱ δὲ ἑπτάπλευρον, οἱ δὲ πολύνευρον, προ-"
             },
             {
               "a": "wellmann-2-198-10-segment-c2-end"

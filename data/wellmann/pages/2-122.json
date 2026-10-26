@@ -384,36 +384,6 @@
       ]
     },
     {
-      "id": "wellmann-print-3-122-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "111 RV: σκόρδιον· οἱ δὲ σκόρβιον, οἱ δὲ πλευρῖτις, οἱ δὲ δύσοσμον, οἱ δὲ καλαμίνθη ἀγρία, οἱ δὲ Μιθριδάτιος, οἱ δὲ χαμαίδρυς, προφῆται αἷμα Ἀπόλλωνος, Αἰγύπτιοι ἀφόν, Ῥωμαῖοι τριξάγω παλούστρις.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-122-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-122-1",
-      "to": "wellmann-3-122-1-end",
-      "line_ids": [
-        "wellmann-3-122-1"
-      ]
-    },
-    {
       "id": "wellmann-print-3-122-5",
       "group": "criticus",
       "method": null,
@@ -1480,8 +1450,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "111",
+      "subtype": "R",
+      "n": "3.111",
       "corresp": "#wellmann1906-3-111",
       "part": "",
       "lines": [
@@ -1535,7 +1505,7 @@
               "a": "wellmann-3-122-13-segment-c2"
             },
             {
-              "t": "χαμαίδρυς, προφῆται αἷμα Ἀπόλλωνος, Αἰγύπτιοι ἀφόν, Ῥω-"
+              "t": "χαμαίδρυς, προφῆται αἷμα Ἀπόλλωνος, Αἰγύπτιοι ἀφόν, Ῥω"
             },
             {
               "a": "wellmann-3-122-13-segment-c2-end"

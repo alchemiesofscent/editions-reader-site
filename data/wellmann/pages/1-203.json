@@ -637,36 +637,6 @@
       ]
     },
     {
-      "id": "wellmann-print-2-203-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "131 RV: σόγχος τραχύς· οἱ δὲ κιχώριον ⟨ἄρεν⟩, Ῥωμαῖοι κιχίρβιτα ἄσπρα, Ἄφροι γαθουονίμ. σόγχος τρυφερός· οἱ δὲ κιχώριον θῆλυ, Ῥωμαῖοι κιχίρβιτα⟨μ⟩ μόλλε⟨μ⟩, Ἄφροι γαθουονίμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-203-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-203-1",
-      "to": "wellmann-2-203-1-end",
-      "line_ids": [
-        "wellmann-2-203-1"
-      ]
-    },
-    {
       "id": "wellmann-print-2-203-7",
       "group": "criticus",
       "method": null,
@@ -2082,8 +2052,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "131",
+      "subtype": "R",
+      "n": "2.131",
       "corresp": "#wellmann1906-2-131",
       "part": "",
       "lines": [
@@ -2190,7 +2160,7 @@
               "a": "awellmann-print-2-203-41-c2e"
             },
             {
-              "t": ", Ῥωμαῖοι κικίρ-"
+              "t": ", Ῥωμαῖοι κικίρ"
             },
             {
               "a": "wellmann-2-203-14-segment-c2-end"

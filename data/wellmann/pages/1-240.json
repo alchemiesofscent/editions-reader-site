@@ -76,7 +76,7 @@
           "a": "awellmann-print-2-240-8e"
         },
         {
-          "t": ", οἱ δὲ ὁλόφυτον, "
+          "t": ", οἱ δὲ ὀλόφυτον, "
         },
         {
           "a": "awellmann-print-2-240-10"
@@ -112,7 +112,7 @@
           "a": "awellmann-print-2-240-11e"
         },
         {
-          "t": ", οἱ δὲ τριχομανές καλοῦσι·"
+          "t": ", οἱ δὲ τριχομανὲς καλοῦσι·"
         },
         {
           "a": "wellmann-2-240-u4-end"
@@ -127,7 +127,7 @@
           "a": "wellmann-2-240-u5"
         },
         {
-          "t": "θάμνος ἐστὶν ἀκανθώδης, ἐπὶ γῆς γυροειδῶς "
+          "t": "ϑάμνος ἐστὶν ἀκανθώδης, ἐπὶ γῆς γυροειδῶς "
         },
         {
           "a": "awellmann-print-2-240-12"
@@ -603,36 +603,6 @@
         "witness-disagreement"
       ],
       "printed": "EXC. Orib. XI s. v. (κάππαρις — βρῶσιν); Gal. XII 9sq. (= Aet. I s. v. Paul. Aeg. VII 3 s. v.); Ps. D. de h. f. 59. 61 (e D. I 94 et II 173 conflatum), cf. A. Mai l. s. VII 454; Garg. M. 48 (de zizypho); Isid. XVII 10, 20.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-240-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-240-1",
-      "to": "wellmann-2-240-1-end",
-      "line_ids": [
-        "wellmann-2-240-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-2-240-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "173 RV: κάππαρις· οἱ δὲ κυνόσβατον, οἱ δὲ κατρίαν, οἱ δὲ κόρακος μῆλον, οἱ δὲ ὀφιόσκορδον, οἱ δὲ ὀφιοστάφυλον, οἱ δὲ πετραίαν, οἱ δὲ ὁλόφυτον, οἱ δὲ ὀλιγόχλωρον, οἱ δὲ ἀκόνιτον, οἱ δὲ ἱππομανές, οἱ δὲ τριχομανές, προφῆται ποτέρα, οἱ δὲ πευθήραν, οἱ δὲ καρδία λύκου, οἱ δὲ πολύειδος, οἱ δὲ ἀλόσκορδον, οἱ δὲ κρίνον, οἱ δὲ θλάσπι, οἱ δὲ κυνὸς ἄνθος, Ῥωμαῖοι σινᾶπε πέρσικουμ, οἱ δὲ ἰντοῦρις, Ἄφροι ἐρβιαραούθ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -2054,8 +2024,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "173",
+      "subtype": "R",
+      "n": "2.173",
       "corresp": "#wellmann1906-2-173",
       "part": "",
       "lines": [
@@ -2109,7 +2079,7 @@
               "a": "awellmann-print-2-240-35-c2e"
             },
             {
-              "t": ", οἱ δὲ ὀλιγόχλωρον, οἱ δὲ ἀκόνι-"
+              "t": ", οἱ δὲ ὀλιγόχλωρον, οἱ δὲ ἀκόνι"
             },
             {
               "a": "wellmann-2-240-15-segment-c2-end"
@@ -2152,7 +2122,7 @@
               "a": "awellmann-print-2-240-37-c2e"
             },
             {
-              "t": ", οἱ δὲ καρδία λύκου, οἱ δὲ πολύειδος, οἱ δὲ ἁλό-"
+              "t": ", οἱ δὲ καρδία λύκου, οἱ δὲ πολύειδος, οἱ δὲ ἀλό"
             },
             {
               "a": "wellmann-2-240-17-segment-c2-end"
@@ -2191,7 +2161,7 @@
               "a": "awellmann-print-2-240-41-c2e"
             },
             {
-              "t": ", Ῥω-"
+              "t": ", Ῥω"
             },
             {
               "a": "wellmann-2-240-u18-end"

@@ -611,37 +611,6 @@
       ]
     },
     {
-      "id": "wellmann-print-3-118-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "106 RV: στάχυς· οἱ δὲ σταχυῖτις, οἱ δὲ τριπόλιον, Ῥωμαῖοι τριφάριουμ. 107 RV: φυλλῖτις· οἱ δὲ φυλλίς, οἱ δὲ ἄκαυλον, οἱ δὲ λάπαθον ἄγριον καλοῦσιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "run_together",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-118-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-118-1",
-      "to": "wellmann-3-118-1-end",
-      "line_ids": [
-        "wellmann-3-118-1"
-      ]
-    },
-    {
       "id": "wellmann-print-3-118-6",
       "group": "criticus",
       "method": null,
@@ -1773,8 +1742,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "106",
+      "subtype": "R",
+      "n": "3.106",
       "corresp": "#wellmann1906-3-106",
       "part": "",
       "lines": [
@@ -1812,8 +1781,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "107",
+      "subtype": "R",
+      "n": "3.107",
       "corresp": "#wellmann1906-3-107",
       "part": "",
       "lines": [
@@ -1825,7 +1794,7 @@
               "a": "wellmann-3-118-14-segment-c2"
             },
             {
-              "t": "φυλλῖτις· οἱ δὲ φυλλίς, οἱ δὲ ἄκαυλον, οἱ δὲ λά-"
+              "t": "φυλλῖτις· οἱ δὲ φυλλίς, οἱ δὲ ἄκαυλον, οἱ δὲ λά"
             },
             {
               "a": "wellmann-3-118-14-segment-c2-end"

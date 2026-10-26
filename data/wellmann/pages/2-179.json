@@ -315,7 +315,7 @@
           "a": "awellmann-print-4-179-20e"
         },
         {
-          "t": " ἀπλοῦς, "
+          "t": " ἁπλοῦς, "
         },
         {
           "a": "awellmann-print-4-179-21"
@@ -370,7 +370,7 @@
           "a": "awellmann-print-4-179-24"
         },
         {
-          "t": "αὐτόν"
+          "t": "| αὐτόν"
         },
         {
           "a": "awellmann-print-4-179-24e"
@@ -385,36 +385,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-179-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "14 RV: περικλύμενον· οἱ δὲ αἰγίνη, οἱ δὲ κλύμενον, οἱ δὲ κάρπαθον, οἱ δὲ σπλήνιον, οἱ δὲ ἡπατῖτις, οἱ δὲ ἑλξίνη μείζων, οἱ δὲ κληματῖτις, οἱ δὲ ⟨ἀ⟩μερσίνη, οἱ δὲ καλυκάνθεμον, προφῆται πτίλιον Ἀφροδίτης, Αἰγύπτιοι τουκοῦ, Ἄφροι λανάθ, Ῥωμαῖοι βούλουκρουμ μάϊους.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-179-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-179-1",
-      "to": "wellmann-4-179-1-end",
-      "line_ids": [
-        "wellmann-4-179-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-179-5",
       "group": "criticus",
@@ -1739,8 +1709,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "14",
+      "subtype": "R",
+      "n": "4.14",
       "corresp": "#wellmann1906-4-14",
       "part": "",
       "lines": [
@@ -1788,7 +1758,7 @@
               "a": "awellmann-print-4-179-28-rule"
             },
             {
-              "t": ", οἱ δὲ σπλήνιον, οἱ δὲ ἡπατῖτις, οἱ δὲ ἐλξίνη μεί-"
+              "t": ", οἱ δὲ σπλήνιον, οἱ δὲ ἡπατῖτις, οἱ δὲ ἐλξίνη μεί"
             },
             {
               "a": "wellmann-4-179-13-rul-end"
@@ -1890,7 +1860,7 @@
               "a": "awellmann-print-4-179-35-rule"
             },
             {
-              "t": " λαυάθ,"
+              "t": " λαυάϑ,"
             },
             {
               "a": "wellmann-4-179-u15-end"

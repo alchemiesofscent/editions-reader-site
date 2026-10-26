@@ -393,37 +393,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-209-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "53 RV: λειχὴν ὁ ἐπὶ τῶν πετρῶν· οἱ δὲ βρύον καλοῦσιν. 54 RV: παρωνυχία· οἱ δὲ ἀκιδωτός, οἱ δὲ νευράς, οἱ δὲ φρύνιον, Ῥωμαῖοι βού〈λ〉ιναμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "split_entry",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-209-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-209-1",
-      "to": "wellmann-4-209-1-end",
-      "line_ids": [
-        "wellmann-4-209-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-209-6",
       "group": "criticus",
       "method": null,
@@ -1709,8 +1678,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "53",
+      "subtype": "R",
+      "n": "4.53",
       "corresp": "#wellmann1906-4-53",
       "part": "",
       "lines": [
@@ -1745,8 +1714,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "54",
+      "subtype": "R",
+      "n": "4.54",
       "corresp": "#wellmann1906-4-54",
       "part": "",
       "lines": [

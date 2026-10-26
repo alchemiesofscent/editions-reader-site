@@ -24,7 +24,7 @@
           "a": "awellmann-print-4-199-5e"
         },
         {
-          "t": ", μέλαιναν, ἔνδασυν, "
+          "t": "; μέλαιναν, ἔνδασυν, "
         },
         {
           "a": "awellmann-print-4-199-6"
@@ -193,7 +193,7 @@
           "a": "awellmann-print-4-199-14e"
         },
         {
-          "t": " τσῦ"
+          "t": " τοῦ"
         },
         {
           "a": "wellmann-4-199-u5-end"
@@ -490,37 +490,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-199-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "41 RV: ἡπατόριος· οἱ δὲ Εὐπατόριον, οἱ δὲ ἡπατῖτις, Ῥωμαῖοι οὐολούκρουμ μάϊους, Αἰγύπτιοι ὀξιουίν.",
-      "flags": [
-        "heading_attachment",
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-199-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-199-1",
-      "to": "wellmann-4-199-1-end",
-      "line_ids": [
-        "wellmann-4-199-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-199-5",
       "group": "criticus",
@@ -1861,8 +1830,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "41",
+      "subtype": "R",
+      "n": "4.41",
       "corresp": "#wellmann1906-4-41",
       "part": "",
       "lines": [
@@ -1898,7 +1867,7 @@
               "a": "awellmann-print-4-199-35-c2e"
             },
             {
-              "t": ", Ῥω-"
+              "t": ", Ῥω"
             },
             {
               "a": "wellmann-4-199-14-segment-c2-end"
@@ -1931,7 +1900,7 @@
               "a": "awellmann-print-4-199-37-c2"
             },
             {
-              "t": "Αἰγύπτιοι ὄξιουίν"
+              "t": "Αἰγύπτιοι ὀξιουίν"
             },
             {
               "a": "awellmann-print-4-199-37-c2e"

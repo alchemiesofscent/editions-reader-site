@@ -109,7 +109,7 @@
           "a": "wellmann-3-52-u3"
         },
         {
-          "t": "τῆς λεπτοφύλλου καλαμίνθης, σφόδρα "
+          "t": "τῆς λεπτοφύλλου | καλαμίνθης, σφόδρα "
         },
         {
           "a": "awellmann-print-3-52-11"
@@ -257,7 +257,7 @@
           "a": "awellmann-print-3-52-16e"
         },
         {
-          "t": " πληγὴν μετὰ ἀλῶν καὶ"
+          "t": " πληγὴν μετὰ ἁλῶν καὶ"
         },
         {
           "a": "wellmann-3-52-u8-end"
@@ -475,36 +475,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-52-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "39 RV: σάμψυχον· οἱ δὲ τρίφυλλον, οἱ δὲ ἀμάρακον, οἱ δὲ ἀγαθίδες, οἱ δὲ κνήκιον, οἱ δὲ ἄκαπνον, Πυθαγόρας θριαμβίς, Αἰγύπτιοι σορῶ, Ἀρμένιοι μόνυρον, προφῆται γόνος ⟨Ὀσ⟩ίρεως, οἱ δὲ ὁμόγονος Ἴσεως, Ῥωμαῖοι μεζουράνα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-52-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-52-1",
-      "to": "wellmann-3-52-1-end",
-      "line_ids": [
-        "wellmann-3-52-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-52-8",
       "group": "criticus",
@@ -1765,8 +1735,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "39",
+      "subtype": "R",
+      "n": "3.39",
       "corresp": "#wellmann1906-3-39",
       "part": "",
       "lines": [
@@ -1805,7 +1775,7 @@
               "a": "awellmann-print-3-52-30-c2e"
             },
             {
-              "t": ", οἱ δὲ κνήκιον, οἱ δὲ ἄκαπνον, Πυθαγόρας θριαμ-"
+              "t": ", οἱ δὲ κνήκιον, οἱ δὲ ἄκαπνον, Πυθαγόρας θριαμ"
             },
             {
               "a": "wellmann-3-52-u16-end"

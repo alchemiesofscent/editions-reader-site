@@ -390,7 +390,7 @@
           "a": "wellmann-2-200-u12"
         },
         {
-          "t": "ῥίζα μετά γλυκέος. φασὶ δὲ "
+          "t": "ῥίζα μετὰ γλυκέος. φασὶ δὲ "
         },
         {
           "a": "awellmann-print-2-200-23"
@@ -620,36 +620,6 @@
       "cert": "low",
       "printed": "οὖν δὲ — 6 ἐγκλυζόμενος om. C",
       "printed_fallback": true,
-      "source_spans": [
-        {
-          "from": "wellmann-2-200-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-200-1",
-      "to": "wellmann-2-200-1-end",
-      "line_ids": [
-        "wellmann-2-200-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-2-200-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "127 RV: σίον τὸ ἐν ὕδασιν· οἱ δὲ ἀναγαλλὶς ἔνυδρος, οἱ δὲ σχοῖνος ἀρωματική, οἱ δὲ δωρώνιον, Ῥωμαῖοι λάουερεμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
       "source_spans": [
         {
           "from": "wellmann-2-200-1",
@@ -2166,8 +2136,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "127",
+      "subtype": "R",
+      "n": "2.127",
       "corresp": "#wellmann1906-2-127",
       "part": "",
       "lines": [

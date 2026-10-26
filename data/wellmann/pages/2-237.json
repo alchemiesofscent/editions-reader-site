@@ -40,7 +40,7 @@
           "a": "wellmann-4-237-u2"
         },
         {
-          "t": "δραγόρᾳ, μικρότερα δὲ ὡς σπιθαμαῖα, λευκά, κύκλῳ περὶ τὴν"
+          "t": "δραγόρᾳ, μικρότερα δὲ ὡς σπιθαμιαῖα, λευκά, κύκλῳ περὶ τὴν"
         },
         {
           "a": "wellmann-4-237-u2-end"
@@ -400,7 +400,7 @@
           "a": "awellmann-print-4-237-24e"
         },
         {
-          "t": " τρία ἢ τέσσαρα, ὅμοια κυκλαμίνῳ σικύῳ"
+          "t": " τρία ἢ τέσσαρα, ὅμοια κυκλαμίνῳ ἢ σικύῳ"
         },
         {
           "a": "awellmann-print-4-237-25e"
@@ -415,36 +415,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-237-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "76 RV: ἀκόνιτον· οἱ δὲ παρδαλιαγχές, οἱ δὲ κάμμαρον, οἱ δὲ θηλυφόνον, οἱ δὲ μυοκτόνον.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-237-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-237-1",
-      "to": "wellmann-4-237-1-end",
-      "line_ids": [
-        "wellmann-4-237-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-237-5",
       "group": "criticus",
@@ -1442,8 +1412,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "76",
+      "subtype": "R",
+      "n": "4.76",
       "corresp": "#wellmann1906-4-76",
       "part": "",
       "lines": [
@@ -1455,7 +1425,7 @@
               "a": "wellmann-4-237-14-segment-c2"
             },
             {
-              "t": "_ἀκόνιτον· οἱ δὲ παρδαλιαγχές, οἱ δὲ κάμμαρον, οἱ_"
+              "t": "ἀκόνιτον· οἱ δὲ παρδαλιαγχές, οἱ δὲ κάμμαρον, οἱ"
             },
             {
               "a": "wellmann-4-237-14-segment-c2-end"
@@ -1470,7 +1440,7 @@
               "a": "wellmann-4-237-u15"
             },
             {
-              "t": "_δὲ θηλυφόνον, οἱ δὲ μυοκτόνον._"
+              "t": "δὲ θηλυφόνον, οἱ δὲ μυοκτόνον."
             },
             {
               "a": "wellmann-4-237-u15-end"

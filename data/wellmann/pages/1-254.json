@@ -85,7 +85,7 @@
           "a": "awellmann-print-2-254-9"
         },
         {
-          "t": "στἑλλει"
+          "t": "στέλλει"
         },
         {
           "a": "awellmann-print-2-254-9e"
@@ -222,7 +222,7 @@
           "a": "awellmann-print-2-254-19"
         },
         {
-          "t": "οἱ"
+          "t": "ᾗ οἱ"
         },
         {
           "a": "awellmann-print-2-254-19e"
@@ -454,36 +454,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-254-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "185 RV: ἴσατις ἀγρία, οἱ δὲ ὑσγίνη μικρά, Ῥωμαῖοι ἀλούταμ μινῶρεμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-254-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-254-1",
-      "to": "wellmann-2-254-1-end",
-      "line_ids": [
-        "wellmann-2-254-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-254-6",
       "group": "criticus",
@@ -1751,8 +1721,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "185",
+      "subtype": "R",
+      "n": "2.185",
       "corresp": "#wellmann1906-2-185",
       "part": "",
       "lines": [
@@ -1764,7 +1734,7 @@
               "a": "wellmann-2-254-u13"
             },
             {
-              "t": "ἴσατις ἀγρία, οἱ δὲ ὑσγίνη μικρά, Ῥωμαῖοι ἀλού-"
+              "t": "ἴσατις ἀγρία, οἱ δὲ ὑσγίνη μικρά, Ῥωμαῖοι ἀλού"
             },
             {
               "a": "wellmann-2-254-u13-end"

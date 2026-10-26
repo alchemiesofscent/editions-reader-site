@@ -535,36 +535,6 @@
       ]
     },
     {
-      "id": "wellmann-print-4-215-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "61 RV: ἀστράγαλος· οἱ δὲ ἰσχάς, οἱ δὲ ἄπιος, οἱ δὲ χαμαισύκη, οἱ δὲ ὄνυξ, οἱ δὲ γαγάτης, Ῥωμαῖοι πίρουμ λιτούρβιουμ, οἱ δὲ φίκουμ τέρραι, οἱ δὲ γλάνδουλαμ, οἱ δὲ πίσουμ, οἱ δὲ Νωνάκριαμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-215-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-215-1",
-      "to": "wellmann-4-215-1-end",
-      "line_ids": [
-        "wellmann-4-215-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-215-5",
       "group": "criticus",
       "method": null,
@@ -1893,8 +1863,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "61",
+      "subtype": "R",
+      "n": "4.61",
       "corresp": "#wellmann1906-4-61",
       "part": "",
       "lines": [
@@ -1918,7 +1888,7 @@
               "a": "awellmann-print-4-215-32-c2e"
             },
             {
-              "t": ", οἱ δὲ ἄπιος, οἱ δὲ χα-"
+              "t": ", οἱ δὲ ἄπιος, οἱ δὲ χα"
             },
             {
               "a": "wellmann-4-215-14-segment-c2-end"
@@ -1933,7 +1903,7 @@
               "a": "wellmann-4-215-15-segment-c2"
             },
             {
-              "t": "µαισύκη, οἱ δὲ ὄνυξ, οἱ δὲ γαγάτης, Ῥωµαῖοι πίρουµ λιτούρ-"
+              "t": "μαισύκη, οἱ δὲ ὄνυξ, οἱ δὲ γαγάτης, Ῥωμαῖοι πίρουμ λιτούρ"
             },
             {
               "a": "wellmann-4-215-15-segment-c2-end"
@@ -1949,13 +1919,13 @@
               "a": "wellmann-4-215-u16"
             },
             {
-              "t": "βιουµ, οἱ δὲ φίκουµ τέρραι, οἱ δὲ "
+              "t": "βιουμ, οἱ δὲ φίκουμ τέρραι, οἱ δὲ "
             },
             {
               "a": "awellmann-print-4-215-36-c2"
             },
             {
-              "t": "γλάνδουλαµ"
+              "t": "γλάνδουλαμ"
             },
             {
               "a": "awellmann-print-4-215-36-c2e"
@@ -1967,7 +1937,7 @@
               "a": "awellmann-print-4-215-37-c2"
             },
             {
-              "t": "πίσουµ"
+              "t": "πίσουμ"
             },
             {
               "a": "awellmann-print-4-215-37-c2e"
@@ -1989,7 +1959,7 @@
               "a": "wellmann-4-215-17-segment-c2"
             },
             {
-              "t": "οἱ δὲ Νωνάκριαµ."
+              "t": "οἱ δὲ Νωνάκριαμ."
             },
             {
               "a": "wellmann-4-215-17-segment-c2-end"

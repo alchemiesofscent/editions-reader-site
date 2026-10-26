@@ -40,7 +40,7 @@
           "a": "awellmann-print-3-92-5e"
         },
         {
-          "t": " ἀρμόζει, κοιλίαν "
+          "t": " ἁρμόζει, κοιλίαν "
         },
         {
           "a": "awellmann-print-3-92-6"
@@ -603,36 +603,6 @@
         "witness-disagreement"
       ],
       "printed": "SIM.: Pl. XXV 164 — Scrib. Larg. 56 Pl. XXV 166 eup. I 71 (130) — eup. II 31 (241) — eup. II 39 (253) — eup. II 40 (255) — Pl. XXVI 74 — [Theophr.] l. s. Pl. XXVI 76 eup. II 61 (272) — Pl. XXVI 89 Zop. (Orib. II 567) — Pl. XXVI 76 — eup. I 166 (179).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-92-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-92-1",
-      "to": "wellmann-3-92-1-end",
-      "line_ids": [
-        "wellmann-3-92-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-92-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "79 RV: μελάνθιον· οἱ δὲ καὶ τοῦτο μήκωνα ἄγριον μέλανα καλοῦσιν, Ῥωμαῖοι παπάβερ νίγρουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1789,8 +1759,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "79",
+      "subtype": "R",
+      "n": "3.79",
       "corresp": "#wellmann1906-3-79",
       "part": "",
       "lines": [
@@ -1802,7 +1772,7 @@
               "a": "wellmann-3-92-16-segment-c2"
             },
             {
-              "t": "+μελάνθιον+· οἱ δὲ καὶ τοῦτο μήκωνα ἄγριον "
+              "t": "μελάνϑιον· οἱ δὲ καὶ τοῦτο μήκωνα ἄγριον "
             },
             {
               "a": "awellmann-print-3-92-33-c2"

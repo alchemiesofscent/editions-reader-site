@@ -161,7 +161,7 @@
           "a": "awellmann-print-4-278-14"
         },
         {
-          "t": "τετορημένα"
+          "t": "τετρημένα"
         },
         {
           "a": "awellmann-print-4-278-13e"
@@ -337,36 +337,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-278-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "133 RV: ζῳόνυχον· οἱ δὲ ἀετώνυχον, οἱ δὲ λεοντοπόδιον, οἱ δὲ κῆμος, οἱ δὲ ἴφυον, οἱ δὲ κατανάγκην, οἱ δὲ δαμναμένη, οἱ δὲ ἰδιόφυτον, οἱ δὲ φυτοβασίλειον, οἱ δὲ κροσσίον, οἱ δὲ κροσσόφθον, προφῆται αἷμα κροκοδείλου, οἱ δὲ κροκομέριον, Αἰγύπτιοι δαρνοινές, Ῥωμαῖοι Μινέρβιουμ, οἱ δὲ Ἰόουις μάνους, οἱ δὲ Παλλάδιουμ, οἱ δὲ φλάμμουλα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-278-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-278-1",
-      "to": "wellmann-4-278-1-end",
-      "line_ids": [
-        "wellmann-4-278-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-278-4",
       "group": "criticus",
@@ -1827,8 +1797,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "133",
+      "subtype": "R",
+      "n": "4.133",
       "corresp": "#wellmann1906-4-133",
       "part": "",
       "lines": [
@@ -1927,7 +1897,7 @@
               "a": "awellmann-print-4-278-34-c2e"
             },
             {
-              "t": ", οἱ δὲ κροσ-"
+              "t": ", οἱ δὲ κροσ"
             },
             {
               "a": "wellmann-4-278-u9-end"
@@ -1966,7 +1936,7 @@
               "a": "awellmann-print-4-278-36-c2e"
             },
             {
-              "t": ", Αἰ-"
+              "t": ", Αἰ"
             },
             {
               "a": "wellmann-4-278-u10-end"

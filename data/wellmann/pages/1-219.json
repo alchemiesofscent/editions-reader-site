@@ -580,7 +580,7 @@
           "a": "awellmann-print-2-219-34"
         },
         {
-          "t": "ὑδρωπιῶσιν"
+          "t": "ὑδρωπιῶσίν"
         },
         {
           "a": "awellmann-print-2-219-34e"
@@ -680,36 +680,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-219-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "153 RV: σκορδόπρασον.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-219-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-219-1",
-      "to": "wellmann-2-219-1-end",
-      "line_ids": [
-        "wellmann-2-219-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-219-4",
       "group": "criticus",
@@ -2160,6 +2130,32 @@
       "n": "153",
       "label": "Caput 153",
       "context": false
+    }
+  ],
+  "segments": [
+    {
+      "type": "recension",
+      "subtype": "R",
+      "n": "2.153",
+      "corresp": "#wellmann1906-2-153",
+      "part": "",
+      "lines": [
+        {
+          "n": "19",
+          "id": "wellmann-2-219-u19",
+          "parts": [
+            {
+              "a": "wellmann-2-219-u19"
+            },
+            {
+              "t": "153 RV: σκορδόπρασον."
+            },
+            {
+              "a": "wellmann-2-219-u19-end"
+            }
+          ]
+        }
+      ]
     }
   ],
   "page_label": "I, p. 219",

@@ -88,7 +88,7 @@
           "a": "awellmann-print-3-28-11e"
         },
         {
-          "t": ". εἰς τοὐπίσω "
+          "t": ", εἰς τοὐπίσω "
         },
         {
           "a": "awellmann-print-3-28-12"
@@ -100,7 +100,7 @@
           "a": "awellmann-print-3-28-12e"
         },
         {
-          "t": "· παῤ"
+          "t": "· παρ᾽"
         },
         {
           "a": "wellmann-3-28-u2-end"
@@ -782,36 +782,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "EXC.: Orib. XI s. v. (ἀλόη — μίσγονται); synops. II 56 (V 69Dar.), unde Aet. II 196; de virt. med. cf. Gal. XI 821 (unde Aet. I s. v. Paul. Aeg. VII 3); Ps. Orib. V 5; Isid. XVII 8, 9; Hes. s. v. ἀλόη.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-28-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-28-1",
-      "to": "wellmann-3-28-1-end",
-      "line_ids": [
-        "wellmann-3-28-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-28-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "22 RV: ἀλόη· οἱ δὲ ἀμφίβιον, οἱ δὲ ἠρύγγιον, οἱ δὲ ἔρμ⟨α⟩ιον, οἱ δὲ τραγόκερως, Ῥωμαῖοι ἀλόαμ [παρὰ βαρβάροις ἀλοέ].",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -2201,7 +2171,8 @@
       "from": "awellmann-print-3-28-44-c2",
       "to": "awellmann-print-3-28-44-c2e",
       "line_ids": [
-        "wellmann-3-28-15-segment-c2"
+        "wellmann-3-28-15-segment-c2",
+        "wellmann-3-28-u16"
       ]
     },
     {
@@ -2249,8 +2220,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "22",
+      "subtype": "R",
+      "n": "3.22",
       "corresp": "#wellmann1906-3-22",
       "part": "",
       "lines": [
@@ -2268,27 +2239,7 @@
               "a": "awellmann-print-3-28-44-c2"
             },
             {
-              "t": "ἑρμ"
-            },
-            {
-              "t": "",
-              "br": "⟨"
-            },
-            {
-              "t": "α"
-            },
-            {
-              "t": "",
-              "br": "⟩"
-            },
-            {
-              "t": "ιον"
-            },
-            {
-              "a": "awellmann-print-3-28-44-c2e"
-            },
-            {
-              "t": ","
+              "t": "ἔρ-"
             },
             {
               "a": "wellmann-3-28-15-segment-c2-end"
@@ -2317,7 +2268,13 @@
               "br": "⟩"
             },
             {
-              "t": "ιον, οἱ δὲ τραγόκερως, Ῥωμαῖοι ἀλόαμ ["
+              "t": "ιον"
+            },
+            {
+              "a": "awellmann-print-3-28-44-c2e"
+            },
+            {
+              "t": ", οἱ δὲ τραγόκερως, Ῥωμαῖοι ἀλόαμ ["
             },
             {
               "a": "awellmann-print-3-28-45-c2"
@@ -2334,7 +2291,8 @@
             {
               "a": "wellmann-3-28-u16-end"
             }
-          ]
+          ],
+          "break_no": true
         }
       ]
     }

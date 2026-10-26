@@ -541,7 +541,7 @@
           "a": "awellmann-print-4-169-34e"
         },
         {
-          "t": " ἀνίησιν οὖ μέγαν, "
+          "t": " ἀνίησιν οὐ μέγαν, "
         },
         {
           "a": "awellmann-print-4-169-35"
@@ -709,36 +709,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "SIM.: Pl. XXVI 136 D. eup. II 30 (240) — Pl. XXVI 42 — Pl. XXVI 38 eup. II 102 (304) — Pl. XXVI 78 — Pl. XXVI 119 eup. II 63 (276) — Pl. XXVI 123 eup. II 56 (267) — eup. II 77 (289) — Pl. XXVI 74. 110. 28.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-169-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-169-1",
-      "to": "wellmann-4-169-1-end",
-      "line_ids": [
-        "wellmann-4-169-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-4-169-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "2 RV: βεττονική· Ῥωμαῖοι βεττόνικαμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -2267,8 +2237,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "2",
+      "subtype": "R",
+      "n": "4.2",
       "corresp": "#wellmann1906-4-2",
       "part": "",
       "lines": [

@@ -12,7 +12,7 @@
           "a": "wellmann-4-312-1"
         },
         {
-          "t": "δὲ καρπὸν φέρει παῤ ἐνιαυτὸν "
+          "t": "δὲ καρπὸν φέρει παρʼ ἐνιαυτὸν "
         },
         {
           "a": "awellmann-print-4-312-5"
@@ -678,66 +678,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-312-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "6 RV: τιθύμαλλος παράλιος· οἱ δὲ τιθυμαλίδα, οἱ δὲ μηκώνιον.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-312-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-312-1",
-      "to": "wellmann-4-312-1-end",
-      "line_ids": [
-        "wellmann-4-312-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-4-312-2",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "14 RV: τιθύμαλλος ἡλιοσκόπιος· οἱ δὲ τιθυμαλλίς, Ῥωμαῖοι ἔρβα λάκτια, οἱ δὲ λακτοῦκα κατρῖνα, Ἄφροι νουνκουβάτ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-312-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-312-1",
-      "to": "wellmann-4-312-1-end",
-      "line_ids": [
-        "wellmann-4-312-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-312-5",
       "group": "criticus",
@@ -2171,8 +2111,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "164",
+      "subtype": "R",
+      "n": "4.164",
       "corresp": "#wellmann1906-4-164",
       "part": "",
       "refs": [
@@ -2193,7 +2133,7 @@
               "a": "wellmann-4-312-u18"
             },
             {
-              "t": "τιθύμαλλος παράλιος· οἱ δὲ τιθυμαλλίδα, οἱ δὲ μη-"
+              "t": "τιθύμαλλος παράλιος· οἱ δὲ τιθυμαλλίδα, οἱ δὲ μη"
             },
             {
               "a": "wellmann-4-312-u18-end"
@@ -2220,8 +2160,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "164",
+      "subtype": "R",
+      "n": "4.164",
       "corresp": "#wellmann1906-4-164",
       "part": "",
       "refs": [
@@ -2242,7 +2182,7 @@
               "a": "wellmann-4-312-u20"
             },
             {
-              "t": "τιθύμαλλος ἡλιοσκόπιος· οἱ δὲ τιθυμαλλίς, Ῥω-"
+              "t": "τιθύμαλλος ἡλιοσκόπιος· οἱ δὲ τιθυμαλλίς, Ῥω"
             },
             {
               "a": "wellmann-4-312-u20-end"
@@ -2257,7 +2197,7 @@
               "a": "wellmann-4-312-u21"
             },
             {
-              "t": "μαῖοι ἔρβα λάκτια, οἱ δὲ λακτοῦκα καπρίνα, Ἄφροι νουκουβάτ."
+              "t": "μαῖοι ἔρβα λάκτια, οἱ δὲ λακτοῦκα καπρίνα, Ἄφροι νουνκουβάτ."
             },
             {
               "a": "wellmann-4-312-u21-end"

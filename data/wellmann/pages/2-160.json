@@ -487,36 +487,6 @@
       ]
     },
     {
-      "id": "wellmann-print-3-160-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "153 RV: ὀνοβρυχίς· οἱ δὲ ὀνοβρόχειλος, οἱ δὲ ἐσχασμένη, οἱ δὲ ὑπερικόν, οἱ δὲ κόριον, οἱ δὲ χαμαίπιτυν, Ῥωμαῖοι ὀπτάτα, οἱ δὲ βράχιολάτα, οἱ δὲ ἰωνία, οἱ δὲ ἰουγκινάλεμ, Δάκοι ἀνιαρσεξέ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-160-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-160-1",
-      "to": "wellmann-3-160-1-end",
-      "line_ids": [
-        "wellmann-3-160-1"
-      ]
-    },
-    {
       "id": "wellmann-print-3-160-6",
       "group": "criticus",
       "method": null,
@@ -1967,8 +1937,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "153",
+      "subtype": "R",
+      "n": "3.153",
       "corresp": "#wellmann1906-3-153",
       "part": "",
       "lines": [
@@ -1980,7 +1950,7 @@
               "a": "wellmann-3-160-12-segment-c2"
             },
             {
-              "t": "ὀνοβρυχίς· οἱ δὲ οἱ οἱ δὲ ἐσχασμένη,"
+              "t": "ὀνοβρυχίς· οἱ δὲ ὀνοβρόχειλος, οἱ δὲ ἐσχασμένη,"
             },
             {
               "a": "wellmann-3-160-12-segment-c2-end"

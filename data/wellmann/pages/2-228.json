@@ -391,36 +391,6 @@
       ]
     },
     {
-      "id": "wellmann-print-4-228-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "70 RV: στρύχνος μέλας κηπαῖος· οἱ δὲ ἥμερον, Ῥωμαῖοι στρούμουμ, οἱ δὲ κουκούβαλουμ, Αἰγύπτιοι ἀληλώ, Γάλλοι σκούβουλου⟨μ⟩, Ἄφροι ἀστιρμουνίμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-228-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-228-1",
-      "to": "wellmann-4-228-1-end",
-      "line_ids": [
-        "wellmann-4-228-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-228-4",
       "group": "criticus",
       "method": null,
@@ -1643,8 +1613,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "70",
+      "subtype": "R",
+      "n": "4.70",
       "corresp": "#wellmann1906-4-70",
       "part": "",
       "lines": [
@@ -1707,7 +1677,7 @@
               "a": "awellmann-print-4-228-33-c2e"
             },
             {
-              "t": ", Αἰγύπτιοι ἀληλώ, Γάλλοι σκού-"
+              "t": ", Αἰγύπτιοι ἀληλώ, Γάλλοι σκού"
             },
             {
               "a": "wellmann-4-228-8-segment-c2-end"

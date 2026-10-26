@@ -495,36 +495,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-230-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "71 RV: φυσαλλίς· οἱ δὲ στρύχνον, οἱ δὲ ἀλικάκκαβον, Ῥωμαῖοι βησικάρια.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-230-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-230-1",
-      "to": "wellmann-4-230-1-end",
-      "line_ids": [
-        "wellmann-4-230-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-230-4",
       "group": "criticus",
       "method": null,
@@ -1888,8 +1858,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "71",
+      "subtype": "R",
+      "n": "4.71",
       "corresp": "#wellmann1906-4-71",
       "part": "",
       "lines": [
@@ -1922,7 +1892,7 @@
               "a": "awellmann-print-4-230-36-c2e"
             },
             {
-              "t": ", Ῥω-"
+              "t": ", Ῥω"
             },
             {
               "a": "wellmann-4-230-14-segment-c2-end"

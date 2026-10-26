@@ -613,37 +613,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-339-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "191 RV: ἡλιοτρόπιον τὸ μικρόν· οἱ δὲ καὶ τοῦτο σκορπίουρον ἐκάλεσαν· ἑτέρα δὲ σκορπίουρος. 192 RV: σκορπιοειδές.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "split_entry",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-339-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-339-1",
-      "to": "wellmann-4-339-1-end",
-      "line_ids": [
-        "wellmann-4-339-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-339-6",
       "group": "criticus",
       "method": null,
@@ -1898,8 +1867,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "191",
+      "subtype": "R",
+      "n": "4.191",
       "corresp": "#wellmann1906-4-191",
       "part": "",
       "lines": [
@@ -1911,7 +1880,7 @@
               "a": "wellmann-4-339-19-segment-c2"
             },
             {
-              "t": "ἡλιοτρόπιον τὸ μικρόν· οἱ δὲ καὶ τοῦτο σκορπί-"
+              "t": "ἡλιοτρόπιον τὸ μικρόν· οἱ δὲ καὶ τοῦτο σκορπί"
             },
             {
               "a": "wellmann-4-339-19-segment-c2-end"
@@ -1938,8 +1907,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "192",
+      "subtype": "R",
+      "n": "4.192",
       "corresp": "#wellmann1906-4-192",
       "part": "",
       "lines": [

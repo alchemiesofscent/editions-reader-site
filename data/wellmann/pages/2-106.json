@@ -12,7 +12,7 @@
           "a": "wellmann-3-106-1"
         },
         {
-          "t": "κυνὸς ἰᾶσθαι "
+          "t": "κυνὸς ἰᾶσϑαι "
         },
         {
           "a": "awellmann-print-3-106-7"
@@ -108,7 +108,7 @@
           "a": "wellmann-3-106-u3"
         },
         {
-          "t": "φθὲν δὲ "
+          "t": "φϑὲν δὲ "
         },
         {
           "a": "awellmann-print-3-106-13"
@@ -203,7 +203,18 @@
           "a": "wellmann-3-106-u5"
         },
         {
-          "t": "κισσῷ ὅμοια, "
+          "t": "",
+          "br": "["
+        },
+        {
+          "t": "μακρά"
+        },
+        {
+          "t": "",
+          "br": "]"
+        },
+        {
+          "t": " κισσῷ ὅμοια, "
         },
         {
           "a": "awellmann-print-3-106-19"
@@ -510,36 +521,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-106-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "92 RV: ἀσκληπιάς· οἱ δὲ κισσίον, οἱ δὲ κισσόφυλλον καλοῦσιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-106-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-106-1",
-      "to": "wellmann-3-106-1-end",
-      "line_ids": [
-        "wellmann-3-106-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-106-7",
       "group": "criticus",
@@ -1981,6 +1962,32 @@
       "n": "93",
       "label": "Caput 93",
       "context": false
+    }
+  ],
+  "segments": [
+    {
+      "type": "recension",
+      "subtype": "R",
+      "n": "3.92",
+      "corresp": "#wellmann1906-3-92",
+      "part": "",
+      "lines": [
+        {
+          "n": "12",
+          "id": "wellmann-3-106-u12",
+          "parts": [
+            {
+              "a": "wellmann-3-106-u12"
+            },
+            {
+              "t": "92 RV: ἀσκληπιάς· οἱ δὲ κισσίον, οἱ δὲ κισσόφυλλον καλοῦσιν."
+            },
+            {
+              "a": "wellmann-3-106-u12-end"
+            }
+          ]
+        }
+      ]
     }
   ],
   "page_label": "II, p. 106",

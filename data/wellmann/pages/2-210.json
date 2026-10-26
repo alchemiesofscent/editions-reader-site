@@ -208,7 +208,7 @@
           "a": "awellmann-print-4-210-15e"
         },
         {
-          "t": " σὺν ὑδορομέλιτι"
+          "t": " σὺν ὑδρομέλιτι"
         },
         {
           "a": "wellmann-4-210-u4-end"
@@ -557,37 +557,6 @@
       "anchored": true,
       "from": "wellmann-4-210-1",
       "to": "awellmann-print-4-209-29e",
-      "line_ids": [
-        "wellmann-4-210-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-4-210-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "55 RV: χρυσοκόμη ἢ χρυσῖτις· οἱ δὲ χρυσάνθεμον, οἱ δὲ ἀμάραντον, οἱ δὲ Διὸς πώγων, Ῥωμαῖοι Ἰόβις βάρβα, Ἄφροι δουβάθ, οἱ δὲ βουρχουμάθ. 56 RV: χρυσόγονον· οἱ δὲ χρυσόσπερμον, οἱ δὲ ἴασπιν, οἱ δὲ λίνον, οἱ δὲ ὀρίγανον, οἱ δὲ ἀρκόφθαλμον, Ῥωμαῖοι αὐριολάρια.",
-      "flags": [
-        "line-reference-unavailable",
-        "run_together",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-210-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-210-1",
-      "to": "wellmann-4-210-1-end",
       "line_ids": [
         "wellmann-4-210-1"
       ]
@@ -2215,8 +2184,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "55",
+      "subtype": "R",
+      "n": "4.55",
       "corresp": "#wellmann1906-4-55",
       "part": "",
       "lines": [
@@ -2311,8 +2280,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "56",
+      "subtype": "R",
+      "n": "4.56",
       "corresp": "#wellmann1906-4-56",
       "part": "",
       "lines": [
@@ -2348,7 +2317,7 @@
               "a": "awellmann-print-4-210-42-c2e"
             },
             {
-              "t": ", οἱ δὲ ὀρίγανον, οἱ δὲ ἀρκόφθαλμον, Ῥωμαῖοι αὐριολλάρια."
+              "t": ", οἱ δὲ ὀρίγανον, οἱ δὲ ἀρκόφθαλμον, Ῥωμαῖοι αὐριολάρια."
             },
             {
               "a": "wellmann-4-210-u16-end"

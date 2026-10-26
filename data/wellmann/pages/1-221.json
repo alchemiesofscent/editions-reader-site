@@ -99,7 +99,7 @@
           "a": "awellmann-print-2-221-7"
         },
         {
-          "t": "στέατι ἢ κηρωτῇ"
+          "t": "ἢ στέατι ἢ κηρωτῇ"
         },
         {
           "a": "awellmann-print-2-221-7e"
@@ -440,36 +440,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-221-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "155 RV: κάρδαμον· οἱ δὲ κυνοκάρδαμον, οἱ δὲ ἰβηρίς, οἱ δὲ καρδαμίνη, Αἰγύπτιοι σεμέθ, Ῥωμαῖοι ναστούρκιουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-221-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-221-1",
-      "to": "wellmann-2-221-1-end",
-      "line_ids": [
-        "wellmann-2-221-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-221-4",
       "group": "criticus",
@@ -1530,8 +1500,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "155",
+      "subtype": "R",
+      "n": "2.155",
       "corresp": "#wellmann1906-2-155",
       "part": "",
       "lines": [
@@ -1543,13 +1513,13 @@
               "a": "wellmann-2-221-14-segment-c2"
             },
             {
-              "t": "_κάρδαμον_· οἱ δὲ "
+              "t": "κάρδαμον· οἱ δὲ "
             },
             {
               "a": "awellmann-print-2-221-24-c2"
             },
             {
-              "t": "_κυνοκάρδαμον_"
+              "t": "κυνοκάρδαμον"
             },
             {
               "a": "awellmann-print-2-221-24-c2e"
@@ -1561,7 +1531,7 @@
               "a": "awellmann-print-2-221-25-c2"
             },
             {
-              "t": "_ἰβηρίς_"
+              "t": "ἰβηρίς"
             },
             {
               "a": "awellmann-print-2-221-25-c2e"
@@ -1582,7 +1552,7 @@
               "a": "wellmann-2-221-15-segment-c2"
             },
             {
-              "t": "δὲ _καρδαμίνη_, _Αἰγύπτιοι_ "
+              "t": "δὲ καρδαμίνη, Αἰγύπτιοι "
             },
             {
               "a": "awellmann-print-2-221-27-c2"
@@ -1594,7 +1564,7 @@
               "a": "awellmann-print-2-221-27-c2e"
             },
             {
-              "t": ", _Ῥωμαῖοι_ ναστούρκιουμ."
+              "t": ", Ῥωμαῖοι ναστούρκιουμ."
             },
             {
               "a": "wellmann-2-221-15-segment-c2-end"

@@ -70,7 +70,7 @@
           "a": "awellmann-print-4-301-12"
         },
         {
-          "t": "ἅλμῃ"
+          "t": "ἅλμη"
         },
         {
           "a": "awellmann-print-4-301-12e"
@@ -341,7 +341,7 @@
           "a": "wellmann-4-301-u11"
         },
         {
-          "t": "βολβῷ, περὶ ἦν "
+          "t": "βολβῷ, περὶ ἣν "
         },
         {
           "a": "awellmann-print-4-301-28"
@@ -433,7 +433,7 @@
           "a": "awellmann-print-4-301-33"
         },
         {
-          "t": "μυρίκη"
+          "t": "μυρίκῃ"
         },
         {
           "a": "awellmann-print-4-301-33e"
@@ -460,7 +460,7 @@
           "a": "awellmann-print-4-301-32e"
         },
         {
-          "t": ", ὅμοιος τῳ λεγομένῳ Ποντικῷ καρύᾳ, οὖ τὸ ἐντὸς θλιβό"
+          "t": ", ὅμοιος τῷ λεγομένῳ Ποντικῷ καρύῳ, οὗ τὸ ἐντὸς θλιβό"
         },
         {
           "a": "wellmann-4-301-15-end"
@@ -470,36 +470,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-301-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "155 RV: σίλλυβον.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-301-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-301-1",
-      "to": "wellmann-4-301-1-end",
-      "line_ids": [
-        "wellmann-4-301-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-301-9",
       "group": "criticus",
@@ -1793,6 +1763,32 @@
     }
   ],
   "next_break_no": true,
+  "segments": [
+    {
+      "type": "recension",
+      "subtype": "R",
+      "n": "4.155",
+      "corresp": "#wellmann1906-4-155",
+      "part": "",
+      "lines": [
+        {
+          "n": "16",
+          "id": "wellmann-4-301-u16",
+          "parts": [
+            {
+              "a": "wellmann-4-301-u16"
+            },
+            {
+              "t": "155 RV: σίλλυβον."
+            },
+            {
+              "a": "wellmann-4-301-u16-end"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "page_label": "II, p. 301",
   "scan_link": "https://dfg-viewer.de/show/?tx_dlf[id]=https%3A%2F%2Fcmg.bbaw.de%2Fepubl%2Fonline%2Fmets%2Fwa_dioscurides_mat_med_lib_3_4.xml&tx_dlf[page]=327"
 }

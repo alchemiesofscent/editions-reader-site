@@ -22,6 +22,10 @@
           "a": "awellmann-print-4-214-4"
         },
         {
+          "t": "",
+          "br": "⟨"
+        },
+        {
           "t": "γονατώδεις"
         },
         {
@@ -32,7 +36,14 @@
           "br": "⟩"
         },
         {
-          "t": ", περὶ"
+          "t": ","
+        },
+        {
+          "t": "",
+          "br": "⟩"
+        },
+        {
+          "t": " περὶ"
         },
         {
           "a": "wellmann-4-214-1-end"
@@ -86,7 +97,18 @@
           "a": "awellmann-print-4-214-7"
         },
         {
-          "t": "τὰ"
+          "t": "",
+          "br": "["
+        },
+        {
+          "t": "δὲ"
+        },
+        {
+          "t": "",
+          "br": "]"
+        },
+        {
+          "t": " τὰ"
         },
         {
           "a": "awellmann-print-4-214-7e"
@@ -173,7 +195,21 @@
           "a": "awellmann-print-4-214-11"
         },
         {
-          "t": "ἑρπετῶν δήγματα"
+          "t": "ἑρπετ"
+        },
+        {
+          "t": "",
+          "br": "⟨"
+        },
+        {
+          "t": "ῶν δήγματ"
+        },
+        {
+          "t": "",
+          "br": "⟩"
+        },
+        {
+          "t": "α"
         },
         {
           "a": "awellmann-print-4-214-11e"
@@ -288,36 +324,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-214-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "60 RV: περιστερεὼν ὕπτιος· οἱ δὲ ἱερὰν βοτάνην, οἱ δὲ ἠριγένειον, οἱ δὲ χαμαίλυκος, οἱ δὲ σιδηρῖτις, οἱ δὲ κουρῖτις, οἱ δὲ Φερσεφόνιον, οἱ δὲ Διὸς ἠλακάτη, οἱ δὲ δίχρωμον, οἱ δὲ κόλλησις, οἱ δὲ κυπάρισσος, οἱ δὲ Δημητριάς, Αἰγύπτιοι πεμφεμφθάμ, Πυθαγόρας ἐρυσίσκηπτρον, Ῥωμαῖοι κιγκιννάλις, οἱ δὲ βερβήνακαμ, οἱ δὲ λουστράγω, οἱ δὲ κολουμβίνα, οἱ δὲ οὐερτιπήδιουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-214-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-214-1",
-      "to": "wellmann-4-214-1-end",
-      "line_ids": [
-        "wellmann-4-214-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-214-4",
       "group": "criticus",
@@ -1581,8 +1587,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "60",
+      "subtype": "R",
+      "n": "4.60",
       "corresp": "#wellmann1906-4-60",
       "part": "",
       "lines": [
@@ -1717,7 +1723,7 @@
               "a": "awellmann-print-4-214-28-c2e"
             },
             {
-              "t": ", Αἰγύπτιοι πεμ-"
+              "t": ", Αἰγύπτιοι πεμ"
             },
             {
               "a": "wellmann-4-214-12-segment-c2-end"
@@ -1772,7 +1778,7 @@
               "a": "awellmann-print-4-214-33-c2e"
             },
             {
-              "t": ", οἱ δὲ κολουμβίνα, οἱ δὲ οὐερτι-"
+              "t": ", οἱ δὲ κολουμβίνα, οἱ δὲ οὐερτι"
             },
             {
               "a": "wellmann-4-214-14-segment-c2-end"

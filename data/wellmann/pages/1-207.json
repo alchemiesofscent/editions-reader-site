@@ -280,7 +280,21 @@
           "br": "⟩"
         },
         {
-          "t": " μετὰ μέλιτος."
+          "t": " μετὰ "
+        },
+        {
+          "t": "",
+          "br": "["
+        },
+        {
+          "t": "τοῦ"
+        },
+        {
+          "t": "",
+          "br": "]"
+        },
+        {
+          "t": " μέλιτος."
         },
         {
           "a": "wellmann-2-207-9-end"
@@ -433,36 +447,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-207-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "136 RV: θρίδαξ ἥμερος· Ῥωμαῖοι λακτοῦκα, Αἰγύπτιοι ἐμβρωσί. θρίδαξ ἀγρία· οἱ δὲ καὶ τοῦτο ἱεράκιον, προφῆται αἷμα Τιτάνου, Ζωροάστρης φέρομβρος, Αἰγύπτιοι ἐμβρωσί, Ῥωμαῖοι λακτοῦκαμ ἀγρέστε⟨μ⟩.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-207-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-207-1",
-      "to": "wellmann-2-207-1-end",
-      "line_ids": [
-        "wellmann-2-207-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-207-5",
       "group": "criticus",
@@ -1654,8 +1638,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "136",
+      "subtype": "R",
+      "n": "2.136",
       "corresp": "#wellmann1906-2-136",
       "part": "",
       "lines": [
@@ -1667,7 +1651,7 @@
               "a": "wellmann-2-207-15-segment-c2"
             },
             {
-              "t": "Θρίδαξ ἥμερος· Ῥωμαῖοι λακτοῦκα, Αἰγύπτιοι"
+              "t": "θρίδαξ ἥμερος· Ῥωμαῖοι λακτοῦκα, Αἰγύπτιοι"
             },
             {
               "a": "wellmann-2-207-15-segment-c2-end"
@@ -1706,7 +1690,7 @@
               "a": "wellmann-2-207-17-segment-c2"
             },
             {
-              "t": "Θρίδαξ ἀγρία· οἱ δὲ καὶ τοῦτο ἱεράκιον, προφῆται αἷμα"
+              "t": "θρίδαξ ἀγρία· οἱ δὲ καὶ τοῦτο ἱεράκιον, προφῆται αἷμα"
             },
             {
               "a": "wellmann-2-207-17-segment-c2-end"

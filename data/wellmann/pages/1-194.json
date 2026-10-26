@@ -57,7 +57,7 @@
           "a": "awellmann-print-2-194-8"
         },
         {
-          "t": "σπληνικούς"
+          "t": "σπληνικοὺς"
         },
         {
           "a": "awellmann-print-2-194-8e"
@@ -578,36 +578,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-194-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "121 RV: κράμβη ἀγρία· Ῥωμαῖοι βράσσικα ῥούστικα. 122 RV: κράμβη θαλασσία· οἱ δὲ θαλασσοκράμβην καλοῦσιν, Ῥωμαῖοι κολίκλουμ μαρίνουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-194-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-194-1",
-      "to": "wellmann-2-194-1-end",
-      "line_ids": [
-        "wellmann-2-194-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-194-6",
       "group": "criticus",
@@ -1910,8 +1880,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "121",
+      "subtype": "R",
+      "n": "2.121",
       "corresp": "#wellmann1906-2-121",
       "part": "",
       "lines": [
@@ -1934,8 +1904,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "122",
+      "subtype": "R",
+      "n": "2.122",
       "corresp": "#wellmann1906-2-122",
       "part": "",
       "lines": [
@@ -1947,7 +1917,7 @@
               "a": "wellmann-2-194-20-segment-c2"
             },
             {
-              "t": "κράμβη θαλασσία· οἱ δὲ θαλασσοκράμβην καλοῦ-"
+              "t": "κράμβη θαλασσία· οἱ δὲ θαλασσοκράμβην καλοῦ"
             },
             {
               "a": "wellmann-2-194-20-segment-c2-end"

@@ -70,7 +70,7 @@
           "a": "wellmann-3-113-u2"
         },
         {
-          "t": "ὅ "
+          "t": "ὃ "
         },
         {
           "a": "awellmann-print-3-113-7"
@@ -299,7 +299,7 @@
           "a": "awellmann-print-3-113-18e"
         },
         {
-          "t": " μέλιτι ἕψηθείς τε ἐν χαλκώματι ὑγρὸν γίνεται"
+          "t": " μέλιτι ἑψηϑείς τε ἐν χαλκώματι ὑγρὸν γίνεται"
         },
         {
           "a": "wellmann-3-113-u7-end"
@@ -483,36 +483,6 @@
       "line_ids": [
         "wellmann-3-113-1",
         "wellmann-3-113-u2"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-113-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "102 RV: κρίνον βασιλικόν· οἱ δὲ κρινάνθεμον, οἱ δὲ καλλείριον, οἱ δὲ λείριον, οἱ δὲ σούσινον, προφῆται αἷμα Ἄρεως, Ὀσθάνης αὔρα κροκοδείλου, Αἰγύπτιοι σομφαιρού, οἱ δὲ ὀμβρισεδώ, οἱ δὲ τίαλος, οἱ δὲ λαρσάορα, Ῥωμαῖοι λίλιουμ, οἱ δὲ ῥόσα Ἰουνώνις, οἱ δὲ λίλιουμ ἄλβουμ, Σύροι σασά, Ἄφροι ἀβρίβλαβον.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-113-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-113-1",
-      "to": "wellmann-3-113-1-end",
-      "line_ids": [
-        "wellmann-3-113-1"
       ]
     },
     {
@@ -1911,8 +1881,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "102",
+      "subtype": "R",
+      "n": "3.102",
       "corresp": "#wellmann1906-3-102",
       "part": "",
       "lines": [
@@ -1936,7 +1906,7 @@
               "a": "awellmann-print-3-113-27-c2e"
             },
             {
-              "t": ", οἱ δὲ καλ-"
+              "t": ", οἱ δὲ καλ"
             },
             {
               "a": "wellmann-3-113-11-segment-c2-end"
@@ -1991,7 +1961,7 @@
               "a": "awellmann-print-3-113-31-c2e"
             },
             {
-              "t": " κροκοδείλου, Αἰγύπτιοι σομφαιφού, οἱ δὲ ὀμ-"
+              "t": " κροκοδείλου, Αἰγύπτιοι σομφαιφού, οἱ δὲ ὀμ"
             },
             {
               "a": "wellmann-3-113-13-segment-c2-end"
@@ -2082,7 +2052,7 @@
               "a": "awellmann-print-3-113-38-c2e"
             },
             {
-              "t": ", Ἄφροι ἀβοί-"
+              "t": ", Ἄφροι ἀβοί"
             },
             {
               "a": "wellmann-3-113-15-segment-c2-end"

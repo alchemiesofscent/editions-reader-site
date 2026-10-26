@@ -228,7 +228,7 @@
           "a": "awellmann-print-3-70-18"
         },
         {
-          "t": "ἐπεται"
+          "t": "ἕπεται"
         },
         {
           "a": "awellmann-print-3-70-18e"
@@ -489,37 +489,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-70-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "57 RV: καρώ. 58 RV: ἄνηθον τὸ ἐσθιόμενον· οἱ δὲ πολύειδος, οἱ δὲ ἀνίκητον, προφῆται γόνος κυνοκεφάλου, ὁμοίως τρίχες κυνοκεφάλου, οἱ δὲ γόνος Ἑρμοῦ, Αἰγύπτιοι ἀραχού, Ῥωμαῖοι ἀνήθουμ, Ἄφροι σικκιριά, Δάκοι πόλπουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "run_together",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-70-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-70-1",
-      "to": "wellmann-3-70-1-end",
-      "line_ids": [
-        "wellmann-3-70-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-70-6",
       "group": "criticus",
@@ -2018,8 +1987,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "57",
+      "subtype": "R",
+      "n": "3.57",
       "corresp": "#wellmann1906-3-57",
       "part": "",
       "lines": [
@@ -2031,7 +2000,7 @@
               "a": "wellmann-3-70-13-segment-c2"
             },
             {
-              "t": "+καρώ+."
+              "t": "καρώ."
             },
             {
               "a": "wellmann-3-70-13-segment-c2-end"
@@ -2042,8 +2011,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "58",
+      "subtype": "R",
+      "n": "3.58",
       "corresp": "#wellmann1906-3-58",
       "part": "",
       "lines": [
@@ -2055,7 +2024,7 @@
               "a": "wellmann-3-70-14-segment-c2"
             },
             {
-              "t": "+ἄνηθον+ "
+              "t": "ἄνηϑον "
             },
             {
               "a": "awellmann-print-3-70-37-c2"
@@ -2079,7 +2048,7 @@
               "a": "awellmann-print-3-70-38-c2e"
             },
             {
-              "t": ", οἱ δὲ ἀνί-"
+              "t": ", οἱ δὲ ἀνί"
             },
             {
               "a": "wellmann-3-70-14-segment-c2-end"

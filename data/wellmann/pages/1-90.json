@@ -122,7 +122,18 @@
           "a": "awellmann-print-1-90-12"
         },
         {
-          "t": "ἐν σκιᾷ ἐν θυίᾳ"
+          "t": "",
+          "br": "["
+        },
+        {
+          "t": "ἐν σκιᾷ"
+        },
+        {
+          "t": "",
+          "br": "]"
+        },
+        {
+          "t": " ἐν θυίᾳ"
         },
         {
           "a": "awellmann-print-1-90-12e"
@@ -242,7 +253,15 @@
           "a": "awellmann-print-1-90-16"
         },
         {
+          "t": "",
+          "br": "["
+        },
+        {
           "t": "ἐντέρου"
+        },
+        {
+          "t": "",
+          "br": "]"
         },
         {
           "a": "awellmann-print-1-90-16e"
@@ -722,36 +741,6 @@
         "witness-disagreement"
       ],
       "printed": "EXC. Orib. XII s. v. (ῥόδα — εὐρωτιάσῃ); Gal. XII 114.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-1-90-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-1-90-1",
-      "to": "wellmann-1-90-1-end",
-      "line_ids": [
-        "wellmann-1-90-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-1-90-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "99 RV: ῥόδον ἢ ῥόδα, Ῥωμαῖοι ῥόσα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1792,6 +1781,32 @@
       "n": "99",
       "label": "Caput 99",
       "context": false
+    }
+  ],
+  "segments": [
+    {
+      "type": "recension",
+      "subtype": "R",
+      "n": "1.99",
+      "corresp": "#wellmann1906-1-99",
+      "part": "",
+      "lines": [
+        {
+          "n": "19",
+          "id": "wellmann-1-90-u19",
+          "parts": [
+            {
+              "a": "wellmann-1-90-u19"
+            },
+            {
+              "t": "99 RV: ῥόδον ἢ ῥόδα, Ῥωμαῖοι ῥόσα."
+            },
+            {
+              "a": "wellmann-1-90-u19-end"
+            }
+          ]
+        }
+      ]
     }
   ],
   "page_label": "I, p. 90",

@@ -48,7 +48,7 @@
           "a": "awellmann-print-4-190-6e"
         },
         {
-          "t": " καἱ"
+          "t": " καὶ"
         },
         {
           "a": "wellmann-4-190-1-end"
@@ -72,7 +72,21 @@
           "a": "awellmann-print-4-190-7e"
         },
         {
-          "t": " , "
+          "t": " "
+        },
+        {
+          "t": "",
+          "br": "["
+        },
+        {
+          "t": "πλατύτερα"
+        },
+        {
+          "t": "",
+          "br": "]"
+        },
+        {
+          "t": ", "
         },
         {
           "a": "awellmann-print-4-190-8"
@@ -84,7 +98,7 @@
           "a": "awellmann-print-4-190-8e"
         },
         {
-          "t": " περὶ τὴν τῆς ῥίζης κεφαλήν"
+          "t": " περὶ τὴν τῆς ῥίζης κεφαλήν·"
         },
         {
           "a": "wellmann-4-190-u2-end"
@@ -535,36 +549,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-190-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "27 RV: ἔχιον· οἱ δὲ Ἀλκιβιάδειον, οἱ δὲ Δωρίδα, Ῥωμαῖοι ἀλκουβίακουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-190-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-190-1",
-      "to": "wellmann-4-190-1-end",
-      "line_ids": [
-        "wellmann-4-190-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-190-4",
       "group": "criticus",
@@ -1875,8 +1859,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "27",
+      "subtype": "R",
+      "n": "4.27",
       "corresp": "#wellmann1906-4-27",
       "part": "",
       "lines": [
@@ -1927,13 +1911,13 @@
               "a": "awellmann-print-4-190-37-c2"
             },
             {
-              "t": "ἀλκουβιακουμ"
+              "t": "ἀλκουβίακουμ"
             },
             {
               "a": "awellmann-print-4-190-37-c2e"
             },
             {
-              "t": ". 15"
+              "t": "."
             },
             {
               "a": "wellmann-4-190-u15-end"

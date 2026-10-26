@@ -43,7 +43,7 @@
           "a": "awellmann-print-3-149-11e"
         },
         {
-          "t": ", οἱ δὲ δαίους δακτύ"
+          "t": ", οἱ δὲ Ἰδαίους δακτύ"
         },
         {
           "a": "wellmann-3-149-1-end"
@@ -337,7 +337,7 @@
           "a": "awellmann-print-3-149-26e"
         },
         {
-          "t": ", ἐν μέσῳ δὲ μέλανες, ἐμπόρφυροι, πέντε ἢ ἕξ."
+          "t": ", ἐν μέσῳ δὲ μέλανες, ἐμπόρφυροι, πέντε ἢ ἕξ. ῥίζα δὲ"
         },
         {
           "a": "awellmann-print-3-149-27"
@@ -544,96 +544,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "EXC.: Orib. XI s. v. (γλυκυσίδη — ἀσφόδελος); cf. Gal. XI 858 (unde Aet. I s. v. Paul. Aeg. VII 3 s. v.); Ps. Ap. 64 (unde Orib. I 52 ∾ A. Mai VII 456; cf. carm. de herb. 11, 139sq.); Isid. XVII 9, 48; Hes. s. v. ἀγλαοφῶτις et πεντόροβον.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-149-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-149-1",
-      "to": "wellmann-3-149-1-end",
-      "line_ids": [
-        "wellmann-3-149-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-149-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "140 RV: παιωνία ἄρρην ἢ γλυκυσίδη· οἱ δὲ πεντόροβον, οἱ",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-149-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-149-1",
-      "to": "wellmann-3-149-1-end",
-      "line_ids": [
-        "wellmann-3-149-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-149-2",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "10 δὲ ὀροβάδιον, οἱ δὲ ὀροβάξ, οἱ δὲ αἱμαγωγόν, οἱ δὲ πασιθέη, οἱ δὲ μηνογένειον, οἱ δὲ μήνιον, οἱ δὲ παιώνιον, οἱ δὲ Πανὸς κέρατα, οἱ δὲ Ἰδαίους δακτύλους, οἱ δὲ ἀγλαοφώτιδα, οἱ δὲ θεοδώρητον, οἱ δὲ σελήνιον, προφῆται σεληνόγονον, οἱ δὲ φθίσις, Ῥωμαῖοι κάστα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-149-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-149-1",
-      "to": "wellmann-3-149-1-end",
-      "line_ids": [
-        "wellmann-3-149-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-149-3",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "15 παιωνία θήλεια· καὶ ταύτην ἀγλαοφώτιδα καλοῦσιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1873,8 +1783,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "140",
+      "subtype": "R",
+      "n": "3.140",
       "corresp": "#wellmann1906-3-140",
       "part": "",
       "lines": [
@@ -1994,7 +1904,7 @@
               "a": "awellmann-print-3-149-36-c2"
             },
             {
-              "t": "οἱ δὲ Ἰδαίους δακτύλους, οἱ·δὲ "
+              "t": "οἱ δὲ Ἰδαίους δακτύλους, οἱ δὲ "
             },
             {
               "a": "awellmann-print-3-149-37-c2"
@@ -2009,7 +1919,7 @@
               "a": "awellmann-print-3-149-37-c2e"
             },
             {
-              "t": ", οἱ δὲ Θεο-"
+              "t": ", οἱ δὲ θεο"
             },
             {
               "a": "wellmann-3-149-12-segment-c2-end"

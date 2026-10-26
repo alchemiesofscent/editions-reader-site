@@ -385,36 +385,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-333-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "προφῆται Ἑρμοῦ βάσιν, Ῥωμαῖοι φίλις ῥανάρια, οἱ δὲ λακουλάτα, οἱ δὲ φίλικεμ, Αἰγύπτιοι αἷμα ὄνου. 185 RV: θηλυπτερίς· οἱ δὲ νυμφαίαν πτέριν ὀνομάζουσιν, Ῥωμαῖοι λίγγουα κερβίνα. πτέρις ἑτέρα· οἱ δὲ νυμφαίαν πτέριν, οἱ δὲ καὶ ταύτην θηλυπτερίδα ὀνομάζουσιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-333-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-333-1",
-      "to": "wellmann-4-333-1-end",
-      "line_ids": [
-        "wellmann-4-333-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-333-5",
       "group": "criticus",
       "method": null,
@@ -1477,8 +1447,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "184",
+      "subtype": "R",
+      "n": "4.184",
       "corresp": "#wellmann1906-4-184",
       "part": "F",
       "lines": [
@@ -1514,7 +1484,7 @@
               "a": "awellmann-print-4-333-28-rule"
             },
             {
-              "t": ", οἱ δὲ λακου-"
+              "t": ", οἱ δὲ λακου"
             },
             {
               "a": "wellmann-4-333-12-rul-end"
@@ -1541,8 +1511,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "185",
+      "subtype": "R",
+      "n": "4.185",
       "corresp": "#wellmann1906-4-185",
       "part": "",
       "lines": [
@@ -1557,7 +1527,7 @@
               "a": "awellmann-print-4-333-30-rul"
             },
             {
-              "t": "Θηλυπτερίς"
+              "t": "θηλυπτερίς"
             },
             {
               "a": "awellmann-print-4-333-30-rule"

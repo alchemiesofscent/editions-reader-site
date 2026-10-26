@@ -116,7 +116,7 @@
           "a": "awellmann-print-3-143-12e"
         },
         {
-          "t": " ποθεῖσα σύν οἴνῳ δραχμῶν δυεῖν πλῆθος"
+          "t": " ποθεῖσα σὺν οἴνῳ δραχμῶν δυεῖν· πλῆθος"
         },
         {
           "a": "wellmann-3-143-3-end"
@@ -444,36 +444,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-143-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "133 RV: ἀνδρόσακες· οἱ δὲ πικράδα, οἱ δὲ λεύκην, οἱ δὲ θαλασσίαν καλοῦσιν. 134 RV: σκολοπένδριον· οἱ δὲ ἄσπληνον, οἱ δὲ σπλήνιον, οἱ δὲ ἡμιόνιον, οἱ δὲ πτέρυγα, οἱ δὲ λογχῖτις, οἱ δὲ Τεύκριος, οἱ δὲ Φρυγία, οἱ δὲ Φρυγῖτις, οἱ δὲ φιλτροδότις, προφῆται αἷμα γαλῆς.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-143-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-143-1",
-      "to": "wellmann-3-143-1-end",
-      "line_ids": [
-        "wellmann-3-143-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-143-7",
       "group": "criticus",
@@ -1981,8 +1951,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "133",
+      "subtype": "R",
+      "n": "3.133",
       "corresp": "#wellmann1906-3-133",
       "part": "",
       "lines": [
@@ -2032,8 +2002,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "134",
+      "subtype": "R",
+      "n": "3.134",
       "corresp": "#wellmann1906-3-134",
       "part": "",
       "lines": [

@@ -443,36 +443,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-2-220-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "154 RV: σίνηπι κηπαῖον· οἱ δὲ νᾶπυ, Ῥωμαῖοι σινᾶπε⟨μ⟩. RV: σίνηπι ἄγριον ἢ καὶ σκόρδιον μέγα, οἱ δὲ ἀνδρεῖον, Ῥωμαῖοι σινᾶπε⟨μ⟩ ῥούστικα⟨μ⟩,",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-220-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-220-1",
-      "to": "wellmann-2-220-1-end",
-      "line_ids": [
-        "wellmann-2-220-1"
-      ]
-    },
-    {
       "id": "wellmann-print-2-220-5",
       "group": "criticus",
       "method": null,
@@ -1676,8 +1646,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "154",
+      "subtype": "R",
+      "n": "2.154",
       "corresp": "#wellmann1906-2-154",
       "part": "",
       "lines": [
@@ -1689,7 +1659,7 @@
               "a": "wellmann-2-220-15-segment-c2"
             },
             {
-              "t": "σίνηπι κηπαῖον· οἱ δὲ νᾶπυ, Ῥωμαῖοι σινάπε"
+              "t": "σίνηπι κηπαῖον· οἱ δὲ νᾶπυ, Ῥωμαῖοι σινᾶπε"
             },
             {
               "t": "",
@@ -1769,7 +1739,7 @@
               "a": "wellmann-2-220-17-segment-c2"
             },
             {
-              "t": "Ῥωμαῖοι σινάπε"
+              "t": "Ῥωμαῖοι σινᾶπε"
             },
             {
               "t": "",

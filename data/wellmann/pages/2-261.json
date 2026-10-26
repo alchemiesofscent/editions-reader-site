@@ -443,36 +443,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-261-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "106 RV: ἄρκιον ἢ προσωπίδα· οἱ δὲ προσώπιον, οἱ δὲ ποταμογείτων, οἱ δὲ σίνηπι Περσικόν, οἱ δὲ πανάκεια, οἱ δὲ κρήν⟨α⟩ιον, οἱ δὲ θλάσπι, οἱ δὲ ἀπαρίνην, Ῥωμαῖοι περσωνάκιαμ, οἱ δὲ λάππαμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-261-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-261-1",
-      "to": "wellmann-4-261-1-end",
-      "line_ids": [
-        "wellmann-4-261-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-261-6",
       "group": "criticus",
       "method": null,
@@ -2076,8 +2046,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "106",
+      "subtype": "R",
+      "n": "4.106",
       "corresp": "#wellmann1906-4-106",
       "part": "",
       "lines": [
@@ -2163,7 +2133,7 @@
               "a": "awellmann-print-4-261-37-c2e"
             },
             {
-              "t": ", οἱ δὲ θλάσπι, οἱ δὲ ἀπαρίνην, Ῥωμαῖοι περσωνά-"
+              "t": ", οἱ δὲ θλάσπι, οἱ δὲ ἀπαρίνην, Ῥωμαῖοι περσωνά"
             },
             {
               "a": "wellmann-4-261-13-segment-c2-end"

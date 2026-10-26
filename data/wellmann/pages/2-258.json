@@ -614,36 +614,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-258-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "102 RV: στρατιώτης ὁ χιλιόφυλλος. 103 RV: φλόμος· οἱ δὲ φλόνον, Ῥωμαῖοι βερβάσκλουμ, οἱ δὲ φημινάλε. φλόμος ἕτερος· οἱ δὲ φλόνος, οἱ δὲ λυχνῖτις, οἱ δὲ θρυαλλίς, οἱ δὲ νεκυίαν, προφῆται κηρύκιον, οἱ δὲ Ἑρμοῦ ῥάβδον, Ῥωμαῖοι φουμούσκλουμ, οἱ δὲ λανάτα, Αἰγύπτιοι ἀθάλ, Δάκοι διέσεμα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-258-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-258-1",
-      "to": "wellmann-4-258-1-end",
-      "line_ids": [
-        "wellmann-4-258-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-258-2",
       "group": "criticus",
       "method": null,
@@ -2546,8 +2516,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "102",
+      "subtype": "R",
+      "n": "4.102",
       "corresp": "#wellmann1906-4-102",
       "part": "",
       "lines": [
@@ -2559,7 +2529,7 @@
               "a": "wellmann-4-258-14-segment-c2"
             },
             {
-              "t": "στρατιώτης ὁ χιλίοφυλλος."
+              "t": "στρατιώτης ὁ χιλιόφυλλος."
             },
             {
               "a": "wellmann-4-258-14-segment-c2-end"
@@ -2570,8 +2540,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "103",
+      "subtype": "R",
+      "n": "4.103",
       "corresp": "#wellmann1906-4-103",
       "part": "",
       "lines": [

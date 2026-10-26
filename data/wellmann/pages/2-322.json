@@ -438,36 +438,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-322-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "173 RV: ἀκτῆ· οἱ δὲ δένδρον ἄρκτου, οἱ δὲ ἥμερον, Ῥωμαῖοι σαμβούκουμ, Γάλλοι σκοβιήμ, Δάκοι σέβα. χαμαιάκτη· οἱ δὲ ἕλειος ἀκτῆ, οἱ δὲ ἀγρία ἀκτῆ, οἱ δὲ Εὐβοϊκή, Ῥωμαῖοι ἔβουλουμ, Γάλλοι δουκωνέ, Δάκοι ὄλμα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-322-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-322-1",
-      "to": "wellmann-4-322-1-end",
-      "line_ids": [
-        "wellmann-4-322-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-322-4",
       "group": "criticus",
       "method": null,
@@ -1817,8 +1787,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "173",
+      "subtype": "R",
+      "n": "4.173",
       "corresp": "#wellmann1906-4-173",
       "part": "",
       "lines": [
@@ -1830,7 +1800,7 @@
               "a": "wellmann-4-322-12-segment-c2"
             },
             {
-              "t": "_ἀκτῆ· οἱ δὲ δένδρον ἄρκτου, οἱ δὲ ἥμερον, Ῥω-"
+              "t": "ἀκτῆ· οἱ δὲ δένδρον ἄρκτου, οἱ δὲ ἥμερον, Ῥω"
             },
             {
               "a": "wellmann-4-322-12-segment-c2-end"
@@ -1875,7 +1845,7 @@
               "a": "awellmann-print-4-322-32-c2"
             },
             {
-              "t": "σέβα._"
+              "t": "σέβα."
             },
             {
               "a": "awellmann-print-4-322-32-c2e"
@@ -1894,7 +1864,7 @@
               "a": "wellmann-4-322-14-segment-c2"
             },
             {
-              "t": "_χαμαιάκτη· οἱ δὲ "
+              "t": "χαμαιάκτη· οἱ δὲ "
             },
             {
               "a": "awellmann-print-4-322-34-c2"
@@ -1939,7 +1909,7 @@
               "a": "awellmann-print-4-322-37-c2"
             },
             {
-              "t": "ὄλμα._"
+              "t": "ὄλμα."
             },
             {
               "a": "awellmann-print-4-322-37-c2e"

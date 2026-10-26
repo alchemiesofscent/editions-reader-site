@@ -188,7 +188,7 @@
           "a": "awellmann-print-3-6-13e"
         },
         {
-          "t": " ἑψηθεῖσα ἐν τῷ ὔδατι, "
+          "t": " ἑψηθεῖσα ἐν τῷ ὕδατι, "
         },
         {
           "a": "awellmann-print-3-6-14"
@@ -307,7 +307,7 @@
           "a": "awellmann-print-3-6-20"
         },
         {
-          "t": "ἀριστολοχεία"
+          "t": "ἀριστολοχεία·"
         },
         {
           "a": "awellmann-print-3-6-20e"
@@ -340,36 +340,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-6-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "4 RV: ἀριστολοχεία μακρά· οἱ δὲ μηλόκαρπον, οἱ δὲ πύξινον, Ῥωμαῖοι ἀριστολόχιαμ. ἀριστολοχεία στρογγύλη· οἱ δὲ ἀδρὰ ῥίζα, οἱ δὲ μηλόκαρπον, οἱ δὲ φευξίκερος, οἱ δὲ Ἐφεσία, οἱ δὲ ἐρεχθῖτις, οἱ δὲ πύξινον,Δάρδανοι σωπῖτις,Αἰγύπτιοι σοβοέφ,Ῥωμαῖοι τέρραι μάλουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-6-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-6-1",
-      "to": "wellmann-3-6-1-end",
-      "line_ids": [
-        "wellmann-3-6-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-6-4",
       "group": "criticus",
@@ -1772,8 +1742,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "4",
+      "subtype": "R",
+      "n": "3.4",
       "corresp": "#wellmann1906-3-4",
       "part": "",
       "lines": [
@@ -1842,7 +1812,7 @@
               "a": "awellmann-print-3-6-32-c2e"
             },
             {
-              "t": ", οἱ δὲ πύξι-"
+              "t": ", οἱ δὲ πύξι"
             },
             {
               "a": "wellmann-3-6-13-segment-c2-end"
@@ -1857,7 +1827,7 @@
               "a": "wellmann-3-6-14-segment-c2"
             },
             {
-              "t": "νον, Δάρδανοι σωπῖτις, Αἰγύπτιοι σοβοέφ, Ῥωμαῖοι τέρραι μάλονμ."
+              "t": "νον, Δάρδανοι σωπῖτις, Αἰγύπτιοι σοβοέφ, Ῥωμαῖοι τέρραι μάλουμ."
             },
             {
               "a": "wellmann-3-6-14-segment-c2-end"

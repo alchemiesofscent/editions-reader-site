@@ -24,7 +24,7 @@
           "a": "awellmann-print-4-262-6e"
         },
         {
-          "t": ", ἐφʼ οὖ φύλλον "
+          "t": ", ἐφʼ οὗ φύλλον "
         },
         {
           "a": "awellmann-print-4-262-7"
@@ -363,36 +363,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-262-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "107 RV: πετασῖτις. 108 RV: ἐλλεβορίνη· οἱ δὲ ἐπιπακτίς, οἱ δὲ βόρειον. 109 RV: καπνὸς ἢ κορυδάλλιον· οἱ δὲ κόριον, οἱ δὲ κόριον ἄγριον, οἱ δὲ καπνὸς ὁ ἐν ταῖς κριθαῖς, οἱ δὲ καπνῖτις, οἱ δὲ μαρμαρῖτις, οἱ δὲ καπνογόργιον, οἱ δὲ χελιδόνιον μικρόν, οἱ δὲ περιστέριον, οἱ δὲ κανθαρίς, οἱ δὲ χαλκόκροτ⟨ον⟩, Ῥωμαῖοι ἄπιουμ, οἱ δὲ φουμάρια, Αἰγύπτιοι κνύξ, οἱ δὲ τούκοιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-262-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-262-1",
-      "to": "wellmann-4-262-1-end",
-      "line_ids": [
-        "wellmann-4-262-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-262-6",
       "group": "criticus",
@@ -1629,8 +1599,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "107",
+      "subtype": "R",
+      "n": "4.107",
       "corresp": "#wellmann1906-4-107",
       "part": "",
       "lines": [
@@ -1653,8 +1623,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "108",
+      "subtype": "R",
+      "n": "4.108",
       "corresp": "#wellmann1906-4-108",
       "part": "",
       "lines": [
@@ -1689,8 +1659,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "109",
+      "subtype": "R",
+      "n": "4.109",
       "corresp": "#wellmann1906-4-109",
       "part": "",
       "lines": [

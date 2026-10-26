@@ -12,7 +12,7 @@
           "a": "wellmann-3-127-1"
         },
         {
-          "t": "θαμνίσκος ἐστὶ "
+          "t": "ϑαμνίσκος ἐστὶ "
         },
         {
           "a": "awellmann-print-3-127-4"
@@ -548,36 +548,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-127-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "114 RV: ἀμβροσία· οἱ δὲ βότρυς, οἱ δὲ [βότρυς] ἀρτεμισία, Ῥωμαῖοι κούπρουμ σιλβάτικουμ, οἱ δὲ ἄπιουμ ῥούστικουμ, Αἰγύπτιοι μερσεώ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-127-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-127-1",
-      "to": "wellmann-3-127-1-end",
-      "line_ids": [
-        "wellmann-3-127-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-127-4",
       "group": "criticus",
@@ -1843,8 +1813,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "114",
+      "subtype": "R",
+      "n": "3.114",
       "corresp": "#wellmann1906-3-114",
       "part": "",
       "lines": [
@@ -1895,7 +1865,7 @@
               "a": "awellmann-print-3-127-35-c2e"
             },
             {
-              "t": ", οἱ δὲ ἄπιουμ ῥούστικουμ, Αἰ-"
+              "t": ", οἱ δὲ ἄπιουμ ῥούστικουμ, Αἰ"
             },
             {
               "a": "wellmann-3-127-u17-end"

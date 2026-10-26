@@ -30,7 +30,7 @@
           "a": "awellmann-print-3-43-6"
         },
         {
-          "t": "τοξευθῶσι. νεμηθείσας"
+          "t": "τοξευϑῶσι. νεμηθείσας"
         },
         {
           "a": "awellmann-print-3-43-6e"
@@ -144,7 +144,7 @@
           "a": "wellmann-3-43-u4"
         },
         {
-          "t": "τόποις, ἐμφερὲς δὲ τῳ πρὸ "
+          "t": "τόποις, ἐμφερὲς δὲ τῷ πρὸ "
         },
         {
           "a": "awellmann-print-3-43-12"
@@ -162,7 +162,7 @@
           "a": "awellmann-print-3-43-13"
         },
         {
-          "t": "καὶ ἦττον δριμύ"
+          "t": "καὶ ἧττον δριμύ"
         },
         {
           "a": "awellmann-print-3-43-13e"
@@ -387,7 +387,7 @@
           "a": "awellmann-print-3-43-24e"
         },
         {
-          "t": " καὶ ἡ πρὸ αὐτῆς, ἦσσον πληκτικὴ ὑπάρ"
+          "t": " καὶ ἡ πρὸ αὐτῆς, ἧσσον πληκτικὴ ὑπάρ"
         },
         {
           "a": "wellmann-3-43-u10-end"
@@ -424,38 +424,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-43-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "32 RV: ψευδοδίκταμνον· οἱ δὲ ἐλελίσφακον, οἱ δὲ βήκιον, προφῆται κυνοκεφαλοειδής, Ῥωμαῖοι σάλβιαμ. 32 RV: δίκταμνον ἄλλο· οἱ δὲ ἐφήμερον, οἱ δὲ Ἰδαία, Ῥωμαῖοι οὐστιλάγω.",
-      "flags": [
-        "line-reference-unavailable",
-        "run_together",
-        "rv_block_unstructured",
-        "rv_line_unavailable",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-43-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-43-1",
-      "to": "wellmann-3-43-1-end",
-      "line_ids": [
-        "wellmann-3-43-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-43-5",
       "group": "criticus",
@@ -1538,8 +1506,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "32",
+      "subtype": "R",
+      "n": "3.32",
       "corresp": "#wellmann1906-3-32",
       "part": "F",
       "lines": [
@@ -1551,7 +1519,7 @@
               "a": "wellmann-3-43-12-segment-c2"
             },
             {
-              "t": "RV: οἱ δὲ ἐλελίσφακον, "
+              "t": "RV: ψευδοδίκταμνον· οἱ δὲ ἐλελίσφακον, "
             },
             {
               "a": "awellmann-print-3-43-27-c2"
@@ -1605,7 +1573,7 @@
               "a": "wellmann-3-43-14-segment-c2"
             },
             {
-              "t": "RV: ἄλλο· οἱ δὲ ἐφήμερον, οἱ δὲ "
+              "t": "RV: δίκταμνον ἄλλο· οἱ δὲ ἐφήμερον, οἱ δὲ "
             },
             {
               "a": "awellmann-print-3-43-31-c2"
@@ -1617,7 +1585,7 @@
               "a": "awellmann-print-3-43-31-c2e"
             },
             {
-              "t": ", Ῥω-"
+              "t": ", Ῥω"
             },
             {
               "a": "wellmann-3-43-14-segment-c2-end"

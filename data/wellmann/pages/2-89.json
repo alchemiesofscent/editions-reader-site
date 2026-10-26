@@ -293,7 +293,7 @@
           "a": "awellmann-print-3-89-19e"
         },
         {
-          "t": " ὦτα καὶ πυορροοῦντα ἀρμόζει. ἀποτί"
+          "t": " ὦτα καὶ πυορροοῦντα ἁρμόζει. ἀποτί"
         },
         {
           "a": "wellmann-3-89-u9-end"
@@ -404,36 +404,6 @@
         "witness-disagreement"
       ],
       "printed": "SIM.: Pl. XXIV 25 — Pl. l. s. D. eup. II 58 (270) — Pl. eup. II 56 (266) — Pl. eup. II 39 (252) — Pl. eup. I 18 (103) — Pl. eup. II 87 (296) — Pl. eup. I 10 (98) — Pl. eup. I 2 (94) — Pl. eup. I 170 (182) — Pl. 26 eup. I 207 (202) — Pl. 26.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-89-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-89-1",
-      "to": "wellmann-3-89-1-end",
-      "line_ids": [
-        "wellmann-3-89-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-89-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "76 RV: σφονδύλιον· οἱ δὲ ἀράχνη, οἱ δὲ φαλάγγιον, οἱ δὲ ἀστέριον,οἱ δὲ νήσυρις, οἱ δὲ σφονδυλίς, οἱ δὲ χοιρόδανον, οἱ δὲ οἰνάνθη, Ῥωμαῖοι ἔρβα ῥουτινάλις, Αἰγύπτιοι ἀψαφέρ, προφῆται Ὄσιρις.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1603,8 +1573,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "76",
+      "subtype": "R",
+      "n": "3.76",
       "corresp": "#wellmann1906-3-76",
       "part": "",
       "lines": [
@@ -1640,7 +1610,7 @@
               "a": "awellmann-print-3-89-28-c2e"
             },
             {
-              "t": ", οἱ δὲ ἀστέ-"
+              "t": ", οἱ δὲ ἀστέ"
             },
             {
               "a": "wellmann-3-89-12-segment-c2-end"
@@ -1655,7 +1625,7 @@
               "a": "wellmann-3-89-u13"
             },
             {
-              "t": "ριον, οἱ δὲ "
+              "t": "ριον,οἱ δὲ "
             },
             {
               "a": "awellmann-print-3-89-30-c2"
@@ -1695,7 +1665,7 @@
               "a": "wellmann-3-89-u14"
             },
             {
-              "t": "Ῥωμαῖοι ἕρβα "
+              "t": "Ῥωμαῖοι ἔρβα "
             },
             {
               "a": "awellmann-print-3-89-32-c2"

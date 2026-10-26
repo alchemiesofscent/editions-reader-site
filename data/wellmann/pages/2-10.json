@@ -385,36 +385,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-3-10-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "6 RV: κενταύρειον τὸ μέγα· οἱ δὲ νάρκην καλοῦσιν, οἱ δὲ λιμνήσιον, οἱ δὲ Μαρώνιον, οἱ δὲ Πελεθρονιάς, οἱ δὲ χειρωνιάς, οἱ δὲ λίμνηστις, προφῆται αἷμα Ἡρακλέους, Ῥωμαῖοι φὲλ τέρραι, οἱ δὲ οὐ〈ερ〉νίφερα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-10-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-10-1",
-      "to": "wellmann-3-10-1-end",
-      "line_ids": [
-        "wellmann-3-10-1"
-      ]
-    },
-    {
       "id": "wellmann-print-3-10-5",
       "group": "criticus",
       "method": null,
@@ -1584,8 +1554,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "6",
+      "subtype": "R",
+      "n": "3.6",
       "corresp": "#wellmann1906-3-6",
       "part": "",
       "lines": [
@@ -1624,7 +1594,7 @@
               "a": "wellmann-3-10-12-segment-c2"
             },
             {
-              "t": "δὲ λιμνήσιον, οἱ δὲ Μαρώνιον, οἱ δὲ Πελεθρονιάς, οἱ δὲ χει-"
+              "t": "δὲ λιμνήσιον, οἱ δὲ Μαρώνιον, οἱ δὲ Πελεθρονιάς, οἱ δὲ χει"
             },
             {
               "a": "wellmann-3-10-12-segment-c2-end"
@@ -1639,7 +1609,7 @@
               "a": "wellmann-3-10-13-segment-c2"
             },
             {
-              "t": "ρωνιάς, οἱ δὲ λίμνηστις, προφῆται αἷμα Ἡρακλέους, "
+              "t": "ρωνιάς, οἱ δὲ λιμνηστις, προφῆται αἷμα Ἡρακλέους, "
             },
             {
               "a": "awellmann-print-3-10-30-c2"

@@ -371,7 +371,7 @@
           "a": "awellmann-print-2-185-25"
         },
         {
-          "t": "βιβρωσκομένη"
+          "t": "βιβρωσκομένη·"
         },
         {
           "a": "awellmann-print-2-185-25e"
@@ -648,36 +648,6 @@
         "witness-disagreement"
       ],
       "printed": "EXC. Orib. XI s. v. (γογγύλη — παρορμητική, ὁ δὲ ἐξ — εὔθετον); Gal. XI 861 (= Aet. Paul. et Aeg. l. s.), cf. Gal. VI 648.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-185-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-185-1",
-      "to": "wellmann-2-185-1-end",
-      "line_ids": [
-        "wellmann-2-185-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-2-185-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "15 110 RV: γογγύλη· οἱ δὲ γογγυλίδα, οἱ δὲ γορσόσιον, Ῥωμαῖοι ῥάπαμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -2040,8 +2010,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "110",
+      "subtype": "R",
+      "n": "2.110",
       "corresp": "#wellmann1906-2-110",
       "part": "",
       "lines": [
@@ -2074,7 +2044,7 @@
               "a": "awellmann-print-2-185-38-c2e"
             },
             {
-              "t": ", Ῥω-"
+              "t": ", Ῥω"
             },
             {
               "a": "wellmann-2-185-15-segment-c2-end"

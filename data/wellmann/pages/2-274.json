@@ -12,7 +12,7 @@
           "a": "wellmann-4-274-1"
         },
         {
-          "t": "χύ"
+          "t": "χὺ"
         },
         {
           "a": "awellmann-print-4-273-33e"
@@ -145,7 +145,7 @@
           "a": "awellmann-print-4-274-14-c2e"
         },
         {
-          "t": " κανίνα. φύλλα ἔχει ἀρνογλώσσῳ τῷ πλατυφύλλῳ ἐμ-"
+          "t": " κανίνα. φύλλα ἔχει ἀρνογλώσσῳ τῷ πλατυφύλλῳ ἐμ"
         },
         {
           "a": "wellmann-4-274-u5-end"
@@ -450,36 +450,6 @@
       "anchored": true,
       "from": "wellmann-4-274-1",
       "to": "awellmann-print-4-273-33e",
-      "line_ids": [
-        "wellmann-4-274-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-4-274-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "οἱ δὲ Λευκανοὶ ⟨κορράγω⟩, Ἄφροι λασουνάφ, Δάκοι βουδάθλα. 128 RV: φύτευμα· οἱ δὲ ἀδρώδης, Ῥωμαῖοι ἀπλουμερού.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-274-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-274-1",
-      "to": "wellmann-4-274-1-end",
       "line_ids": [
         "wellmann-4-274-1"
       ]
@@ -1878,8 +1848,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "127",
+      "subtype": "R",
+      "n": "4.127",
       "corresp": "#wellmann1906-4-127",
       "part": "F",
       "lines": [
@@ -1916,8 +1886,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "128",
+      "subtype": "R",
+      "n": "4.128",
       "corresp": "#wellmann1906-4-128",
       "part": "",
       "lines": [
@@ -1929,7 +1899,7 @@
               "a": "wellmann-4-274-u16"
             },
             {
-              "t": "φύτευμα· οἱ δὲ ἁδρώδης, Ῥωμαῖοι ἀπλουμερού."
+              "t": "φύτευμα· οἱ δὲ ἀδρώδης, Ῥωμαῖοι ἀπλουμερού."
             },
             {
               "a": "wellmann-4-274-u16-end"

@@ -12,7 +12,7 @@
           "a": "wellmann-3-12-1"
         },
         {
-          "t": "ἀγει"
+          "t": "ἄγει"
         },
         {
           "a": "awellmann-print-3-11-37e"
@@ -129,7 +129,7 @@
           "a": "awellmann-print-3-12-12"
         },
         {
-          "t": "ὅ τινες | λι"
+          "t": "ὃ τινες | λι"
         },
         {
           "a": "wellmann-3-12-3-end"
@@ -398,36 +398,6 @@
       "anchored": true,
       "from": "wellmann-3-12-1",
       "to": "awellmann-print-3-11-37e",
-      "line_ids": [
-        "wellmann-3-12-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-12-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "γ RV: κενταύρειον τὸ μικρόν· οἱ δὲ λιμνήσιον, οἱ δὲ ἐλλεβορίτης, οἱ δὲ ἀμάραντον, προφῆται αἷμα Ἡρακλέους, Ῥωμαῖοι φεβριφούγιαμ, οἱ δὲ ἔρβα μουλτιράδιξ, Δάκοι τούλβηλα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-12-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-12-1",
-      "to": "wellmann-3-12-1-end",
       "line_ids": [
         "wellmann-3-12-1"
       ]
@@ -1619,8 +1589,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "7",
+      "subtype": "R",
+      "n": "3.7",
       "corresp": "#wellmann1906-3-7",
       "part": "",
       "lines": [
@@ -1686,7 +1656,7 @@
               "a": "awellmann-print-3-12-32-c2e"
             },
             {
-              "t": " μουλτιράδιξ, Δάκοι τούλ-"
+              "t": " μουλτιράδιξ, Δάκοι τούλ"
             },
             {
               "a": "wellmann-3-12-12-segment-c2-end"

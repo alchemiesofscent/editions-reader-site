@@ -18,7 +18,7 @@
           "a": "awellmann-print-3-37-5"
         },
         {
-          "t": "θύμῳ κόμην"
+          "t": "ϑύμῳ κόμην"
         },
         {
           "a": "awellmann-print-3-37-5e"
@@ -99,13 +99,13 @@
           "a": "wellmann-3-37-u3"
         },
         {
-          "t": "ποιεῖ δὲ τὸ ἀφέψημα αὐτῆς πρὸς τὰ ἐν θώρακι "
+          "t": "ποιεῖ δὲ τὸ ἀφέψημα αὐτῆς πρὸς τὰ ἐν ϑώρακι "
         },
         {
           "a": "awellmann-print-3-37-10"
         },
         {
-          "t": "καθὼς ὁ"
+          "t": "καϑὼς ὁ"
         },
         {
           "a": "awellmann-print-3-37-10e"
@@ -220,7 +220,7 @@
           "a": "awellmann-print-3-37-18e"
         },
         {
-          "t": ", ἀλλʼ ὥσπερδιηρημένον"
+          "t": ", ἀλλʼ διηρημένον"
         },
         {
           "a": "wellmann-3-37-u6-end"
@@ -242,7 +242,7 @@
           "a": "awellmann-print-3-37-20"
         },
         {
-          "t": "ἐπʼ ἄκρων"
+          "t": "| ἐπʼ ἄκρων"
         },
         {
           "a": "awellmann-print-3-37-20e"
@@ -284,7 +284,7 @@
           "a": "wellmann-3-37-u8"
         },
         {
-          "t": "ἐστὶ δὲ θερμαντική, ὅθεν τὸ ἀφέψημα αὐτῆς "
+          "t": "ἐστὶ δὲ ϑερμαντική, ὅϑεν τὸ ἀφέψημα αὐτῆς "
         },
         {
           "a": "awellmann-print-3-37-22"
@@ -308,13 +308,13 @@
           "a": "wellmann-3-37-9"
         },
         {
-          "t": "ποθὲν ἁρμόζει "
+          "t": "ποϑὲν ἁρμόζει "
         },
         {
           "a": "awellmann-print-3-37-23"
         },
         {
-          "t": "θηριοδήκτοις"
+          "t": "ϑηριοδήκτοις"
         },
         {
           "a": "awellmann-print-3-37-23e"
@@ -341,36 +341,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-37-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "26 RV: στοιχάς· οἱ δὲ συγκλίνωπα, οἱ δὲ Ἀλκιβιάδειον, οἱ δὲ παγκράτιον, οἱ δὲ Τυφωνία, Αἰγύπτιοι σουφλώ, προφῆται ὀφθαλμὸς Πύθωνος, Ῥωμαῖοι σκίλλα ῥούβιδα. 27 RV: ὀρίγανος Ἡρακλεωτική· οἱ δὲ κονίλην καλοῦσιν, Ῥωμαῖοι κούνουλαμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-37-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-37-1",
-      "to": "wellmann-3-37-1-end",
-      "line_ids": [
-        "wellmann-3-37-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-37-5",
       "group": "criticus",
@@ -1570,8 +1540,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "26",
+      "subtype": "R",
+      "n": "3.26",
       "corresp": "#wellmann1906-3-26",
       "part": "",
       "lines": [
@@ -1672,8 +1642,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "27",
+      "subtype": "R",
+      "n": "3.27",
       "corresp": "#wellmann1906-3-27",
       "part": "",
       "lines": [

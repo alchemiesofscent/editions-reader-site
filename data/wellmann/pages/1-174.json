@@ -18,7 +18,7 @@
           "a": "awellmann-print-2-174-6"
         },
         {
-          "t": "δὲ ἡ ὥσπερ"
+          "t": "δὲ ἢ ὥσπερ"
         },
         {
           "a": "awellmann-print-2-174-6e"
@@ -36,7 +36,7 @@
           "a": "awellmann-print-2-174-7e"
         },
         {
-          "t": " σκευασθεῖσα κοιλίαν ἴστησιν, οὖρα"
+          "t": " σκευασθεῖσα κοιλίαν ἵστησιν, οὖρα"
         },
         {
           "a": "wellmann-2-174-1-end"
@@ -149,7 +149,7 @@
           "a": "awellmann-print-2-174-12e"
         },
         {
-          "t": " δέ, ἦν τινες "
+          "t": " δέ, ἥν τινες "
         },
         {
           "a": "awellmann-print-2-174-14"
@@ -589,7 +589,7 @@
           "a": "awellmann-print-2-174-33e"
         },
         {
-          "t": " αἶπα "
+          "t": " αἶρα "
         },
         {
           "a": "awellmann-print-2-174-34"
@@ -628,36 +628,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-174-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "97 RV: κέγχρος· Ῥωμαῖοι μίλεουμ. 98 RV: ἔλυμος· οἱ δὲ μελίβιον, οἱ δὲ μελίνην, Ῥωμαῖοι πάνικουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-174-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-174-1",
-      "to": "wellmann-2-174-1-end",
-      "line_ids": [
-        "wellmann-2-174-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-174-6",
       "group": "criticus",
@@ -2328,8 +2298,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "97",
+      "subtype": "R",
+      "n": "2.97",
       "corresp": "#wellmann1906-2-97",
       "part": "",
       "lines": [
@@ -2364,8 +2334,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "98",
+      "subtype": "R",
+      "n": "2.98",
       "corresp": "#wellmann1906-2-98",
       "part": "",
       "lines": [

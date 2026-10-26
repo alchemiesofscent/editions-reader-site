@@ -33,7 +33,7 @@
           "a": "awellmann-print-4-207-6e"
         },
         {
-          "t": "· θαμνίσκος "
+          "t": "· ϑαμνίσκος "
         },
         {
           "a": "awellmann-print-4-207-7"
@@ -69,7 +69,21 @@
           "a": "wellmann-4-207-u2"
         },
         {
-          "t": "ἢ καὶ μείζων, φύλλα "
+          "t": "ἢ "
+        },
+        {
+          "t": "",
+          "br": "⟨"
+        },
+        {
+          "t": "καὶ"
+        },
+        {
+          "t": "",
+          "br": "⟩"
+        },
+        {
+          "t": " μείζων, φύλλα "
         },
         {
           "a": "awellmann-print-4-207-9"
@@ -166,7 +180,7 @@
           "a": "awellmann-print-4-207-15"
         },
         {
-          "t": "ἑπ᾿ ἄκρου"
+          "t": "ἐπ᾽ ἄκρου"
         },
         {
           "a": "awellmann-print-4-207-15e"
@@ -409,36 +423,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-207-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "50 RV: τράγιον ἄλλο. 51 RV: τράγος ἕτερος ἢ σκορπίος ἢ τάργανον. 52 RV: ὀξύσχοινος· οἱ δὲ ὀξύπτερος οἱ δὲ ὀφρὺς ἡλίου, Ῥωμαῖοι ἰούγκουμ μαρίνουμ, οἱ δὲ ἰούγκουμ μανουάλεμ, Ἄφροι χουδόδ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-207-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-207-1",
-      "to": "wellmann-4-207-1-end",
-      "line_ids": [
-        "wellmann-4-207-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-207-5",
       "group": "criticus",
@@ -1859,8 +1843,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "50",
+      "subtype": "R",
+      "n": "4.50",
       "corresp": "#wellmann1906-4-50",
       "part": "",
       "lines": [
@@ -1883,8 +1867,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "51",
+      "subtype": "R",
+      "n": "4.51",
       "corresp": "#wellmann1906-4-51",
       "part": "",
       "lines": [
@@ -1907,8 +1891,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "52",
+      "subtype": "R",
+      "n": "4.52",
       "corresp": "#wellmann1906-4-52",
       "part": "",
       "lines": [

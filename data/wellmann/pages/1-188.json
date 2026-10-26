@@ -34,7 +34,18 @@
           "a": "awellmann-print-2-188-8"
         },
         {
-          "t": "εὐστό"
+          "t": "",
+          "br": "["
+        },
+        {
+          "t": "εὔστομος"
+        },
+        {
+          "t": "",
+          "br": "]"
+        },
+        {
+          "t": " εὐστό"
         },
         {
           "a": "wellmann-2-188-1-end"
@@ -150,7 +161,7 @@
           "a": "awellmann-print-2-188-13e"
         },
         {
-          "t": " ἅποξυ, τὸ δέ "
+          "t": " ἄποξυ, τὸ δέ "
         },
         {
           "a": "awellmann-print-2-188-14"
@@ -330,36 +341,6 @@
         "witness-disagreement"
       ],
       "printed": "EXC. Gal. XII 124 (unde Paul. Aeg. 3 s. v. aliis additis).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-188-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-188-1",
-      "to": "wellmann-2-188-1-end",
-      "line_ids": [
-        "wellmann-2-188-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-2-188-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "114 RV: λάπαθον, Ῥωμαῖοι ῥούμηξ, προφῆται αἷμα Τυφῶνος, Αἰγύπτιοι ἐπτίς· γνώριμον, κοιλίας μαλακτικὸν ἑψηθέν. ὠμὸν δὲ καταπλασσόμενον μελικηρίδας σὺν χρόνῳ διαφορεῖ. ὀξυλάπαθον τὸ μέγα· οἱ δὲ σύμφυτον, οἱ δὲ φλόμος Ἰουδαία, οἱ δὲ σατύριον, Ῥωμαῖοι ῥουμίκουλα, οἱ δὲ ῥούμηξ ἄκιδους, οἱ δὲ ῥούμηξ κανθηρίνους, Αἰγύπτιοι σεμίθ, Ἄφροι ἀμουτίμ. ὀξυλάπαθον τὸ μικρόν· οἱ δὲ ὀξαλίδα, Ῥωμαῖοι ῥουμιγάστρουμ, Ἄφροι ἀμούξεγαράφ. τὸ δὲ ὀξυλάπαθον, φυόμενον ἐν ἕλεσι, σκληρόν, ἄτοξυ κτλ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1345,8 +1326,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "114",
+      "subtype": "R",
+      "n": "2.114",
       "corresp": "#wellmann1906-2-114",
       "part": "",
       "lines": [
@@ -1358,7 +1339,7 @@
               "a": "wellmann-2-188-7-segment-c2"
             },
             {
-              "t": "λάπαθον, Ῥωμαῖοι ῥούμηξ, προφῆται αἷμα Τυ-"
+              "t": "λάπαθον, Ῥωμαῖοι ῥούμηξ, προφῆται αἷμα Τυ"
             },
             {
               "a": "wellmann-2-188-7-segment-c2-end"
@@ -1416,7 +1397,7 @@
               "a": "awellmann-print-2-188-22-c2e"
             },
             {
-              "t": ", οἱ δὲ φλόμος Ἰου-"
+              "t": ", οἱ δὲ φλόμος Ἰου"
             },
             {
               "a": "wellmann-2-188-10-segment-c2-end"
@@ -1443,7 +1424,7 @@
               "a": "awellmann-print-2-188-23-c2e"
             },
             {
-              "t": ", οἱ δὲ ῥούμηξ ἄκι-"
+              "t": ", οἱ δὲ ῥούμηξ ἄκι"
             },
             {
               "a": "wellmann-2-188-11-segment-c2-end"
@@ -1514,7 +1495,7 @@
               "a": "awellmann-print-2-188-27-c2e"
             },
             {
-              "t": "· οἱ δὲ ὀξαλίδα, Ῥωμαῖοι ῥουμιγά-"
+              "t": "· οἱ δὲ ὀξαλίδα, Ῥωμαῖοι ῥουμιγά"
             },
             {
               "a": "wellmann-2-188-14-segment-c2-end"

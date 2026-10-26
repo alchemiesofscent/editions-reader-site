@@ -268,8 +268,7 @@
         {
           "a": "wellmann-4-331-u7-end"
         }
-      ],
-      "margin": "4"
+      ]
     },
     {
       "n": "8",
@@ -285,7 +284,8 @@
           "a": "wellmann-4-331-u8-end"
         }
       ],
-      "break_no": true
+      "break_no": true,
+      "margin": "4"
     },
     {
       "n": "9",
@@ -516,36 +516,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-331-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "183 RV: βρυωνία μέλαινα· οἱ δὲ ἄμπελος μέλαινα, οἱ δὲ Χειρωνία, οἱ δὲ βουκράνιον, Ῥωμαῖοι ὄβα ταμίνα, οἱ δὲ ὄβα",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-331-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-331-1",
-      "to": "wellmann-4-331-1-end",
-      "line_ids": [
-        "wellmann-4-331-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-331-5",
       "group": "criticus",
@@ -1841,8 +1811,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "183",
+      "subtype": "R",
+      "n": "4.183",
       "corresp": "#wellmann1906-4-183",
       "part": "I",
       "lines": [

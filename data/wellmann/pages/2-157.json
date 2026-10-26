@@ -169,7 +169,7 @@
           "a": "awellmann-print-3-157-17e"
         },
         {
-          "t": " πλείων βρω| θεὶς σβέννυσι γονήν· χλωρὸς"
+          "t": " πλείων βρω|ϑεὶς σβέννυσι γονήν· χλωρὸς"
         },
         {
           "a": "awellmann-print-3-157-16e"
@@ -277,7 +277,7 @@
           "a": "awellmann-print-3-157-23"
         },
         {
-          "t": "ὄμοια"
+          "t": "ὅμοια"
         },
         {
           "a": "awellmann-print-3-157-23e"
@@ -509,37 +509,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "EXC.: med. Gal. XII 8 (unde Paul. Aeg. VII 3 s. v.): καννάβεως ὁ καρπὸς ἄφυσός τε καὶ ξηραντικὸς εἰς τοσοῦτόν ἐστιν ὡς, εἰ πλείων βρωθείη, ξηραίνειν τὴν γονήν. ἔνιοι δὲ χλωρὸν αὐτὸν χυλίζοντες εἰς ὤτων ἀλγήματα χρῶνται τὰ κατ’ ἔμφραξιν, ὡς ἐμοὶ δοκεῖ, γινόμενα. cf. Aet. I s. v. (unde?).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-157-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-157-1",
-      "to": "wellmann-3-157-1-end",
-      "line_ids": [
-        "wellmann-3-157-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-157-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "148 RV: κάνναβις ἥμερος· οἱ δὲ καννάβιον, οἱ δὲ σχοινιόστροφον, οἱ δὲ ἀστέριον, Ῥωμαῖοι κάνναβεμ. 149 RV: κάνναβις ἀγρία· οἱ δὲ ὑδράστινα, Ῥωμαῖοι τερμινάλις.",
-      "flags": [
-        "line-reference-unavailable",
-        "run_together",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1717,8 +1686,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "148",
+      "subtype": "R",
+      "n": "3.148",
       "corresp": "#wellmann1906-3-148",
       "part": "",
       "lines": [
@@ -1730,7 +1699,7 @@
               "a": "wellmann-3-157-11-segment-c2"
             },
             {
-              "t": "κάνναβις ἥμερος· οἱ δὲ καννάβιον, οἱ δὲ σχοινιό-"
+              "t": "κάνναβις ἥμερος· οἱ δὲ καννάβιον, οἱ δὲ σχοινιό"
             },
             {
               "a": "wellmann-3-157-11-segment-c2-end"
@@ -1769,8 +1738,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "149",
+      "subtype": "R",
+      "n": "3.149",
       "corresp": "#wellmann1906-3-149",
       "part": "",
       "lines": [
@@ -1782,7 +1751,7 @@
               "a": "wellmann-3-157-13-segment-c2"
             },
             {
-              "t": "κάνναβις ἀγρία· οἱ δὲ ὑδράστινα, Ῥωμαῖοι τερ-"
+              "t": "κάνναβις ἀγρία· οἱ δὲ ὑδράστινα, Ῥωμαῖοι τερ"
             },
             {
               "a": "wellmann-3-157-13-segment-c2-end"

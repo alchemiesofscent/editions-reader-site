@@ -30,7 +30,7 @@
           "a": "awellmann-print-3-56-4"
         },
         {
-          "t": "μέγεθος ἔχοντα μεταξύ "
+          "t": "μέγεθος ἔχοντα μεταξὺ "
         },
         {
           "a": "awellmann-print-3-56-5"
@@ -338,7 +338,7 @@
           "a": "awellmann-print-3-56-25"
         },
         {
-          "t": "ἐψηθεῖσα"
+          "t": "ἐψηϑεῖσα"
         },
         {
           "a": "awellmann-print-3-56-25e"
@@ -481,7 +481,7 @@
           "a": "awellmann-print-3-56-33"
         },
         {
-          "t": "τῶν ῥιζῶν ἀπαλῶν"
+          "t": "τῶν ῥιζῶν ἁπαλῶν"
         },
         {
           "a": "awellmann-print-3-56-33e"
@@ -620,7 +620,7 @@
           "a": "wellmann-3-56-u13"
         },
         {
-          "t": "μονάς"
+          "t": "μονὰς"
         },
         {
           "a": "awellmann-print-3-56-40e"
@@ -688,36 +688,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-56-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "44 RV: ἄσαρον.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-56-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-56-1",
-      "to": "wellmann-3-56-1-end",
-      "line_ids": [
-        "wellmann-3-56-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-56-3",
       "group": "criticus",
@@ -2284,8 +2254,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "44",
+      "subtype": "R",
+      "n": "3.44",
       "corresp": "#wellmann1906-3-44",
       "part": "",
       "lines": [

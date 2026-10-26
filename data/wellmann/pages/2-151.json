@@ -433,36 +433,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-3-151-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "141 RV: λιθόσπερμον· οἱ δὲ ἀετώνυχον, οἱ δὲ λεόντιον, οἱ δὲ λίθος λεοντική, οἱ δὲ Γοργόνειον, οἱ δὲ Τανταλῖτις, οἱ δὲ Διὸς πυρόν, Ῥωμαῖοι κολουμβ⟨ίν⟩αμ, Δάκοι γουολῆτα. 142 RV: φαληρόν· οἱ δὲ φαλήριον καλοῦσιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-151-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-151-1",
-      "to": "wellmann-3-151-1-end",
-      "line_ids": [
-        "wellmann-3-151-1"
-      ]
-    },
-    {
       "id": "wellmann-print-3-151-5",
       "group": "criticus",
       "method": null,
@@ -1939,8 +1909,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "141",
+      "subtype": "R",
+      "n": "3.141",
       "corresp": "#wellmann1906-3-141",
       "part": "",
       "lines": [
@@ -2017,8 +1987,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "142",
+      "subtype": "R",
+      "n": "3.142",
       "corresp": "#wellmann1906-3-142",
       "part": "",
       "lines": [

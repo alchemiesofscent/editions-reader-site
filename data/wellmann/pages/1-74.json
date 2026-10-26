@@ -363,7 +363,15 @@
           "a": "awellmann-print-1-74-17"
         },
         {
+          "t": "",
+          "br": "⟨"
+        },
+        {
           "t": "καὶ"
+        },
+        {
+          "t": "",
+          "br": "⟩"
         },
         {
           "a": "awellmann-print-1-74-17e"
@@ -427,7 +435,7 @@
           "a": "awellmann-print-1-74-20e"
         },
         {
-          "t": "· ἠ μέν τῖς ἐστι μεγάλη ἡ δὲ "
+          "t": "· ἡ μέν τίς ἐστι μεγάλη ἡ δὲ "
         },
         {
           "a": "awellmann-print-1-74-22"
@@ -466,7 +474,7 @@
           "a": "awellmann-print-1-74-23e"
         },
         {
-          "t": " οὐρητικαί, θυμιώμεναι"
+          "t": " οὐρητικαί,"
         },
         {
           "a": "wellmann-1-74-17-end"
@@ -476,36 +484,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-1-74-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "75 RV: ἄρκευθος· οἱ δὲ ἀρκευθίδα, οἱ δὲ Μνησίθεος, οἱ δὲ ἀκακαλλίδα, Ἄφροι ζουορινσοιπέτ, Αἰγύπτιοι λιβιοῦμ, Ῥωμαῖοι ζουνιπέρουμ, Γάλλοι ἰουπικέλλους. ἔστιν ἀρκευθὶς ἡ μὲν μικρὰ ἡ δὲ μεγάλη· δριμεῖαι δὲ ἀμφότεραι, διουρητικαί, πυρω",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-1-74-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-1-74-1",
-      "to": "wellmann-1-74-1-end",
-      "line_ids": [
-        "wellmann-1-74-1"
-      ]
-    },
     {
       "id": "wellmann-print-1-74-4",
       "group": "criticus",
@@ -1658,8 +1636,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "75",
+      "subtype": "R",
+      "n": "1.75",
       "corresp": "#wellmann1906-1-75",
       "part": "I",
       "lines": [
@@ -1719,7 +1697,7 @@
               "a": "awellmann-print-1-74-28-c2e"
             },
             {
-              "t": ", Αἰγύπτιοι λιβιούμ, Ῥω-"
+              "t": ", Αἰγύπτιοι λιβιούμ, Ῥω"
             },
             {
               "a": "wellmann-1-74-19-segment-c2-end"

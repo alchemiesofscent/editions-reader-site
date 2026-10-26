@@ -441,36 +441,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-263-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "110 RV: λωτός· οἱ δὲ τρίφυλλον καλοῦσιν, οἱ δὲ τριπόδιον, οἱ δὲ τρίβολον. 111 RV: λωτὸς ἄγριος· οἱ δὲ τρίφυλλον, οἱ δὲ Λιβυ〈κ〉ὸν καλοῦσι, Ῥωμαῖοι τριφόλιουμ μίνους.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-263-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-263-1",
-      "to": "wellmann-4-263-1-end",
-      "line_ids": [
-        "wellmann-4-263-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-263-6",
       "group": "criticus",
       "method": null,
@@ -1935,8 +1905,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "110",
+      "subtype": "R",
+      "n": "4.110",
       "corresp": "#wellmann1906-4-110",
       "part": "",
       "lines": [
@@ -1969,7 +1939,7 @@
               "a": "awellmann-print-4-263-34-c2e"
             },
             {
-              "t": ", οἱ δὲ τριπό-"
+              "t": ", οἱ δὲ τριπό"
             },
             {
               "a": "wellmann-4-263-12-segment-c2-end"
@@ -1996,8 +1966,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "111",
+      "subtype": "R",
+      "n": "4.111",
       "corresp": "#wellmann1906-4-111",
       "part": "",
       "lines": [

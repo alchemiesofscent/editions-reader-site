@@ -25,13 +25,27 @@
           "a": "awellmann-print-3-54-10"
         },
         {
-          "t": "ἕρπυλλον ἄγριον"
+          "t": "ἕρπυλλον ἄγρι"
+        },
+        {
+          "t": "",
+          "br": "⟨"
+        },
+        {
+          "t": "ον"
         },
         {
           "a": "awellmann-print-3-54-10e"
         },
         {
-          "t": " μέγαν"
+          "t": " μέγ"
+        },
+        {
+          "t": "",
+          "br": "⟩"
+        },
+        {
+          "t": "αν"
         },
         {
           "a": "awellmann-print-3-54-9e"
@@ -541,36 +555,6 @@
         "witness-disagreement"
       ],
       "printed": "EXC.: Orib. XII s. v. (σισύμβριον — στεφανωματικόν); Ps. D. de h. f. 17 ∾ Garg. Mart. 39 (177 R); Ps. Orib. I 101 ∾ A. Mai VII 409 (e D. lat. et Ps. Ap.); Ps. Ap. 105 (unde Ps. Orib. I 86); Gal. XII 124; Hes. s. v. σισύμβριον.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-54-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-54-1",
-      "to": "wellmann-3-54-1-end",
-      "line_ids": [
-        "wellmann-3-54-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-54-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "41 RV: σισύμβριον· οἱ δὲ ἑρπύλλον μέγαν καλοῦσιν, οἱ δὲ Ἀφροδίτης στέφανος, Ῥωμαῖοι αὐστεράλις, οἱ δὲ ἕρβα βενέρια. 42 RV: μάρον· οἱ δὲ ὀριγανίδα καλοῦσιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1706,8 +1690,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "41",
+      "subtype": "R",
+      "n": "3.41",
       "corresp": "#wellmann1906-3-41",
       "part": "",
       "lines": [
@@ -1781,8 +1765,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "42",
+      "subtype": "R",
+      "n": "3.42",
       "corresp": "#wellmann1906-3-42",
       "part": "",
       "lines": [

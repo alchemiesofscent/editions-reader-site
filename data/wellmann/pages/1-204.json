@@ -329,7 +329,15 @@
           "a": "awellmann-print-2-204-22"
         },
         {
+          "t": "",
+          "br": "⟨"
+        },
+        {
           "t": "καὶ"
+        },
+        {
+          "t": "",
+          "br": "⟩"
         },
         {
           "a": "awellmann-print-2-204-22e"
@@ -602,36 +610,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-204-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "132 RV: σέρις ἥμερος· οἱ δὲ πικρίδιον, Αἰγύπτιοι ἄγον, Ῥωμαῖοι ἴντουβου〈μ〉 ἀγρέστε, οἱ δὲ κικίρβιτα ἄλβα, οἱ δὲ ἀμαριτούδω. σέρις ἀγρία· οἱ δὲ κικώριον, οἱ δὲ πικρίδα ἀγρίαν, Αἰγύπτιοι ἀγονουχί, Ῥωμαῖοι κικίρβιτα〈μ〉 ἀγρέστε〈μ〉.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-204-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-204-1",
-      "to": "wellmann-2-204-1-end",
-      "line_ids": [
-        "wellmann-2-204-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-204-5",
       "group": "criticus",
@@ -2131,8 +2109,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "132",
+      "subtype": "R",
+      "n": "2.132",
       "corresp": "#wellmann1906-2-132",
       "part": "",
       "lines": [

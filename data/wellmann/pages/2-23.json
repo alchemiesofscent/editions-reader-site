@@ -248,7 +248,7 @@
           "a": "awellmann-print-3-23-19"
         },
         {
-          "t": "ὑακινθώδεσιν"
+          "t": "ὑακινϑώδεσιν"
         },
         {
           "a": "awellmann-print-3-23-19e"
@@ -508,36 +508,6 @@
         "witness-disagreement"
       ],
       "printed": "EXC.: Orib. XI s. v. (ἄκανθος — μακραί, γίνεται — παραδείσοις). cf. praet. Gal. XI 818 (unde Orib. II 558. Aet. I s. v. Paul. Aeg. VII 3 s. v.). Ps. D. de h. f. 3 (e D. lat.); Hes. s. v. ἄκανθοι et ἄκανθος.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-23-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-23-1",
-      "to": "wellmann-3-23-1-end",
-      "line_ids": [
-        "wellmann-3-23-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-23-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "10 17 RV: ἄκανθα· οἱ δὲ ἐρπάκανθα, οἱ δὲ μελάμφυλλον, οἱ δὲ παιδέρωτα, Ῥωμαῖοι ἀκάνθους τοπιάρια, οἱ δὲ μαρμοράρια, οἱ δὲ κρεπ⟨ιδ⟩ουλα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1649,8 +1619,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "17",
+      "subtype": "R",
+      "n": "3.17",
       "corresp": "#wellmann1906-3-17",
       "part": "I",
       "lines": [
@@ -1674,7 +1644,7 @@
               "a": "awellmann-print-3-23-26-c2e"
             },
             {
-              "t": " ἑρπάκανθα, οἱ δὲ "
+              "t": " ἐρπάκανθα, οἱ δὲ "
             },
             {
               "a": "awellmann-print-3-23-28-c2"
@@ -1713,7 +1683,7 @@
               "a": "awellmann-print-3-23-29-c2e"
             },
             {
-              "t": " ἄκανθους τοπιάρια, οἱ δὲ μαρμορά-"
+              "t": " ἄκανθους τοπιάρια, οἱ δὲ μαρμορά"
             },
             {
               "a": "wellmann-3-23-11-segment-c2-end"

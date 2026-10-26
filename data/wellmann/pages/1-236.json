@@ -170,7 +170,21 @@
           "a": "awellmann-print-2-236-13"
         },
         {
-          "t": "προανατριφθέντα ὀθονίῳ "
+          "t": "προανατριφθέντα "
+        },
+        {
+          "t": "",
+          "br": "["
+        },
+        {
+          "t": "ἐν"
+        },
+        {
+          "t": "",
+          "br": "]"
+        },
+        {
+          "t": " ὀθονίῳ "
         },
         {
           "a": "awellmann-print-2-236-14"
@@ -467,7 +481,7 @@
           "a": "awellmann-print-2-236-29"
         },
         {
-          "t": "ἐμπνευματοῦντες"
+          "t": "ἐμπνευματοῦντες·"
         },
         {
           "a": "awellmann-print-2-236-29e"
@@ -555,36 +569,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-236-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "170 RV: βολβός.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-236-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-236-1",
-      "to": "wellmann-2-236-1-end",
-      "line_ids": [
-        "wellmann-2-236-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-236-4",
       "group": "criticus",
@@ -1921,8 +1905,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "170",
+      "subtype": "R",
+      "n": "2.170",
       "corresp": "#wellmann1906-2-170",
       "part": "",
       "lines": [

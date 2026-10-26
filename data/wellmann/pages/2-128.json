@@ -77,6 +77,10 @@
           "a": "awellmann-print-3-128-12"
         },
         {
+          "t": "",
+          "br": "⟨"
+        },
+        {
           "t": "δέ"
         },
         {
@@ -87,7 +91,14 @@
           "br": "⟩"
         },
         {
-          "t": "· ῥίζαν "
+          "t": "·"
+        },
+        {
+          "t": "",
+          "br": "⟩"
+        },
+        {
+          "t": " ῥίζαν "
         },
         {
           "a": "awellmann-print-3-128-13"
@@ -201,7 +212,7 @@
           "a": "wellmann-3-128-u5"
         },
         {
-          "t": "καλεῖται δὲ ὐπʼ ἐνίων "
+          "t": "καλεῖται δὲ ὑπ’ ἐνίων "
         },
         {
           "a": "awellmann-print-3-128-19"
@@ -553,36 +564,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "Hes. s. v. γεράνιον.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-128-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-128-1",
-      "to": "wellmann-3-128-1-end",
-      "line_ids": [
-        "wellmann-3-128-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-128-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "116 RV: γεράνιον· οἱ δὲ ὀξύφυλλον, οἱ δὲ μέρτρυξ, οἱ δὲ μυρρίς, οἱ δὲ καρδάμωμον, οἱ δὲ ὀρίγανον, προφῆται ἱεροβρύγκας, Ῥωμαῖοι πουλμώνια, οἱ δὲ κικουτάρια, οἱ δὲ γρουίνα, Ἄφροι ἰέσκ. γεράνιον ἕτερον· οἱ δὲ πελαργῖτις, οἱ δὲ τρίκα, οἱ δὲ γερανογέρων, Ῥωμαῖοι ἐχινάστρουμ, Ἄφροι ἰέσκ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -2113,8 +2094,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "116",
+      "subtype": "R",
+      "n": "3.116",
       "corresp": "#wellmann1906-3-116",
       "part": "",
       "lines": [
@@ -2225,7 +2206,7 @@
               "t": ", οἱ δὲ κικουτάρια, οἱ δὲ γρουίνα, Ἄφροι "
             },
             {
-              "t": "λέσχ."
+              "t": "ἰέσχ."
             },
             {
               "a": "wellmann-3-128-12-segment-c2-end"
@@ -2249,7 +2230,7 @@
               "a": "awellmann-print-3-128-42-c2e"
             },
             {
-              "t": " ἕτερον· οἱ δὲ πελαργῖτις, οἱ δὲ τρίκα, οἱ δὲ γερα-"
+              "t": " ἕτερον· οἱ δὲ πελαργῖτις, οἱ δὲ τρίκα, οἱ δὲ γερα"
             },
             {
               "a": "wellmann-3-128-13-segment-c2-end"
@@ -2276,7 +2257,7 @@
               "a": "awellmann-print-3-128-45-c2e"
             },
             {
-              "t": ", Ἄφροι λέσχ."
+              "t": ", Ἄφροι ἰέσχ."
             },
             {
               "a": "wellmann-3-128-14-segment-c2-end"

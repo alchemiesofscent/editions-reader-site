@@ -102,19 +102,19 @@
           "a": "awellmann-print-1-75-10"
         },
         {
-          "t": "γλυκύς"
+          "t": "γλυκὺς"
         },
         {
           "a": "awellmann-print-1-75-10e"
         },
         {
-          "t": " ἐν τῳ διαμασᾶσθαι καὶ "
+          "t": " ἐν τῷ διαμασᾶσθαι καὶ "
         },
         {
           "a": "awellmann-print-1-75-11"
         },
         {
-          "t": "ὐπό"
+          "t": "ὑπό"
         },
         {
           "a": "wellmann-1-75-u3-end"
@@ -279,7 +279,15 @@
           "a": "awellmann-print-1-75-18"
         },
         {
-          "t": "ὅ"
+          "t": "",
+          "br": "⟨"
+        },
+        {
+          "t": "ὃ"
+        },
+        {
+          "t": "",
+          "br": "⟩"
         },
         {
           "a": "awellmann-print-1-75-18e"
@@ -319,7 +327,7 @@
           "a": "awellmann-print-1-75-20e"
         },
         {
-          "t": " τούτου εἴδη φύο·"
+          "t": " τούτου εἴδη"
         },
         {
           "a": "wellmann-1-75-9-end"
@@ -348,36 +356,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "SIM. Pl. XXIV 54; D. eup. II 14 (232) II 31 (241) II 44 (257) II 47 (259) — Nic. Th. 584 (ex Apollod.) Pl. 55 eup. II 115 (315) — eup. II 112 (311) Pl. 55 — eup. II 34 (246) Pl. 55 — Pl. 55.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-1-75-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-1-75-1",
-      "to": "wellmann-1-75-1-end",
-      "line_ids": [
-        "wellmann-1-75-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-1-75-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "76 RV: βράθυ· οἱ δὲ βόρατον, Ῥωμαῖοι ἔρβα Σαβίνα. δισ",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1490,8 +1468,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "75",
+      "subtype": "R",
+      "n": "1.75",
       "corresp": "#wellmann1906-1-75",
       "part": "F",
       "lines": [
@@ -1503,7 +1481,7 @@
               "a": "wellmann-1-75-u10"
             },
             {
-              "t": "τικαί, θυμιώμεναι θηρία διώκουσιν. ὁ δὲ καρπὸς αὐτῶν εὐ-"
+              "t": "τικαί, θυμιώμεναι θηρία διώκουσιν. ὁ δὲ καρπὸς αὐτῶν εὐ"
             },
             {
               "a": "wellmann-1-75-u10-end"
@@ -1610,7 +1588,7 @@
               "a": "wellmann-1-75-17-rul3"
             },
             {
-              "t": "[ἀρκευθὶς μεγάλη· οἱ δὲ κυπάρισσος ἀγρία, οἱ δὲ Μνησί-"
+              "t": "[ἀρκευθὶς μεγάλη· οἱ δὲ κυπάρισσος ἀγρία, οἱ δὲ Μνησί"
             },
             {
               "a": "wellmann-1-75-17-rul3-end"
@@ -1656,7 +1634,7 @@
               "a": "wellmann-1-75-u20"
             },
             {
-              "t": "τραχέσι καὶ παραθαλασσίοις τόποις ὡς ἐπὶ τὸ πλεῖστον. δύνα-"
+              "t": "τραχέσι καὶ παραθαλασσίοις τόποις ὡς ἐπὶ τὸ πλεῖστον. δύνα"
             },
             {
               "a": "wellmann-1-75-u20-end"
@@ -1683,8 +1661,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "76",
+      "subtype": "R",
+      "n": "1.76",
       "corresp": "#wellmann1906-1-76",
       "part": "I",
       "lines": [
@@ -1696,7 +1674,7 @@
               "a": "wellmann-1-75-22-rul3"
             },
             {
-              "t": "βράθυ· οἱ δὲ βόρατον, Ῥωμαῖοι ἕρβα Σαβίνα. δισ-"
+              "t": "βράθυ· οἱ δὲ βόρατον, Ῥωμαῖοι ἔρβα Σαβίνα. δισ-"
             },
             {
               "a": "wellmann-1-75-22-rul3-end"

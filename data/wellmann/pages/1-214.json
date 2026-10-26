@@ -64,7 +64,7 @@
           "a": "awellmann-print-2-214-9"
         },
         {
-          "t": "ἀντὶ ἀγρώστεως"
+          "t": "ἀντὶ .ἀγρώστεως"
         },
         {
           "a": "awellmann-print-2-214-9e"
@@ -468,36 +468,6 @@
       "anchored": true,
       "from": "wellmann-2-214-1",
       "to": "awellmann-print-2-213-35e",
-      "line_ids": [
-        "wellmann-2-214-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-2-214-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "148 RV: ἀφάκη. 149 RV: πρᾶσον κηπαῖον· οἱ δὲ κεφαλωτόν, Ῥωμαῖοι πόρρουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-214-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-214-1",
-      "to": "wellmann-2-214-1-end",
       "line_ids": [
         "wellmann-2-214-1"
       ]
@@ -1852,8 +1822,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "148",
+      "subtype": "R",
+      "n": "2.148",
       "corresp": "#wellmann1906-2-148",
       "part": "",
       "lines": [
@@ -1876,8 +1846,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "149",
+      "subtype": "R",
+      "n": "2.149",
       "corresp": "#wellmann1906-2-149",
       "part": "",
       "lines": [

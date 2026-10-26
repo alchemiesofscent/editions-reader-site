@@ -172,7 +172,7 @@
           "a": "awellmann-print-3-81-13e"
         },
         {
-          "t": " διουρητικὸν ὑπάρχον, ἑρπετοδήκτοις"
+          "t": " | διουρητικὸν ὑπάρχον, ἑρπετοδήκτοις"
         },
         {
           "a": "wellmann-3-81-u4-end"
@@ -734,37 +734,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "EXC.: Gal. XII 67 (unde Aet. I s. v. Paul. Aeg. VII 3 s. v.) Ps. Ap. 124.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-81-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-81-1",
-      "to": "wellmann-3-81-1-end",
-      "line_ids": [
-        "wellmann-3-81-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-81-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "70 RV: μάραθον· οἱ δὲ ἱππομάραθον, Ῥωμαῖοι φενούκλουμ, Ἄφροι βουνγοῦμ.",
-      "flags": [
-        "heading_attachment",
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -2066,8 +2035,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "70",
+      "subtype": "R",
+      "n": "3.70",
       "corresp": "#wellmann1906-3-70",
       "part": "",
       "lines": [

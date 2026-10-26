@@ -374,7 +374,7 @@
           "a": "wellmann-2-228-u10"
         },
         {
-          "t": "κτυλον, γυμνόν, ἐφ οὖ "
+          "t": "κτυλον, γυμνόν, ἐφ’ οὗ "
         },
         {
           "a": "awellmann-print-2-228-25"
@@ -531,36 +531,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-228-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "164 RV: κυκλάμινος· οἱ δὲ κισσάνθεμον, οἱ δὲ κισσόφυλλον, οἱ δὲ χελ⟨ιδ⟩όνιον, οἱ δὲ ἰχθυοθήρα, οἱ δὲ Κυλλήνη, Ζωροάστρης Στυμφαλῖτις, Ὀσθάνης ἀσφώ, προφῆται μιασφώ, Αἰγύπτιοι θέσκε, Ῥωμαῖοι ῥάπουμ τέρραι, οἱ δὲ οὐμβιλίκουμ τέρραι, οἱ δὲ ῥάπουμ πορκίνουμ, οἱ δὲ οὐρσίνουμ, οἱ δὲ ἀρχαρά.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-228-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-228-1",
-      "to": "wellmann-2-228-1-end",
-      "line_ids": [
-        "wellmann-2-228-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-228-4",
       "group": "criticus",
@@ -2269,8 +2239,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "164",
+      "subtype": "R",
+      "n": "2.164",
       "corresp": "#wellmann1906-2-164",
       "part": "",
       "lines": [
@@ -2282,7 +2252,7 @@
               "a": "wellmann-2-228-15-segment-c2"
             },
             {
-              "t": "_κυκλάμινος· οἱ δὲ "
+              "t": "κυκλάμινος· οἱ δὲ "
             },
             {
               "a": "awellmann-print-2-228-34-c2"
@@ -2309,7 +2279,21 @@
               "a": "wellmann-2-228-16-segment-c2"
             },
             {
-              "t": "οἱ δὲ χελιδόνιον, οἱ δὲ "
+              "t": "οἱ δὲ χελ"
+            },
+            {
+              "t": "",
+              "br": "⟨"
+            },
+            {
+              "t": "ιδ"
+            },
+            {
+              "t": "",
+              "br": "⟩"
+            },
+            {
+              "t": "όνιον, οἱ δὲ "
             },
             {
               "a": "awellmann-print-2-228-36-c2"
@@ -2321,7 +2305,7 @@
               "a": "awellmann-print-2-228-36-c2e"
             },
             {
-              "t": ", οἱ δὲ Κυλλήνη, Ζωρο-"
+              "t": ", οἱ δὲ Κυλλήνη, Ζωρο"
             },
             {
               "a": "wellmann-2-228-16-segment-c2-end"
@@ -2348,7 +2332,7 @@
               "a": "awellmann-print-2-228-39-c2e"
             },
             {
-              "t": ", Αἰ-"
+              "t": ", Αἰ"
             },
             {
               "a": "wellmann-2-228-17-segment-c2-end"
@@ -2392,7 +2376,7 @@
               "a": "wellmann-2-228-19-segment-c2"
             },
             {
-              "t": "τέρραι, οἱ δὲ ῥάπουμ πορκίνουμ, οἱ δὲ οὐρσίνουμ, οἱ δὲ ἀρχαρά._"
+              "t": "τέρραι, οἱ δὲ ῥάπουμ πορκίνουμ, οἱ δὲ οὐρσίνουμ, οἱ δὲ ἀρχαρά."
             },
             {
               "a": "wellmann-2-228-19-segment-c2-end"

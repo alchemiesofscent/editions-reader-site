@@ -387,37 +387,6 @@
       ]
     },
     {
-      "id": "wellmann-print-4-249-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "89 RV: ἀείζων τὸ μικρόν· οἱ δὲ πετροφυές, οἱ δὲ βρότιον, οἱ δὲ θεοβρότιον, οἱ δὲ ⟨μα⟩κρόβι[σ]ον, οἱ δὲ χειμερινήν, οἱ δὲ κεραυνία, Ῥωμαῖοι βιτάλις, οἱ δὲ κάρδους σεμπερβίβους, Αἰγύπτιοι ἐτιεικελτά. 90 RV: ἀείζων τὸ λεπτόφυλλον· οἱ δὲ ἀείζων τὸ μικρόν, οἱ δὲ πετροφυές, οἱ δὲ ἀείζων ἄγριον, Ῥωμαῖοι σεμπερβίβου⟨μ⟩ μίνους.",
-      "flags": [
-        "line-reference-unavailable",
-        "run_together",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-249-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-249-1",
-      "to": "wellmann-4-249-1-end",
-      "line_ids": [
-        "wellmann-4-249-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-249-6",
       "group": "criticus",
       "method": null,
@@ -1872,8 +1841,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "89",
+      "subtype": "R",
+      "n": "4.89",
       "corresp": "#wellmann1906-4-89",
       "part": "",
       "lines": [
@@ -1930,14 +1899,14 @@
               "a": "awellmann-print-4-249-32-c2e"
             },
             {
-              "t": ", οἱ δὲ `"
+              "t": ", οἱ δὲ "
             },
             {
               "t": "",
               "br": "⟨"
             },
             {
-              "t": "μα`"
+              "t": "μα"
             },
             {
               "t": "",
@@ -1995,7 +1964,7 @@
               "a": "awellmann-print-4-249-36-c2e"
             },
             {
-              "t": ", Αἰ-"
+              "t": ", Αἰ"
             },
             {
               "a": "wellmann-4-249-u11-end"
@@ -2034,8 +2003,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "90",
+      "subtype": "R",
+      "n": "4.90",
       "corresp": "#wellmann1906-4-90",
       "part": "",
       "lines": [
@@ -2083,7 +2052,18 @@
               "a": "awellmann-print-4-249-40-c2e"
             },
             {
-              "t": " ἄγριον, Ῥωμαῖοι σεμπερβῖβον"
+              "t": " ἄγριον, Ῥωμαῖοι σεμπερβίβου"
+            },
+            {
+              "t": "",
+              "br": "⟨"
+            },
+            {
+              "t": "μ"
+            },
+            {
+              "t": "",
+              "br": "⟩"
             },
             {
               "a": "wellmann-4-249-u14-end"

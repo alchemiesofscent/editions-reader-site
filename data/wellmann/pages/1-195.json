@@ -45,7 +45,7 @@
           "a": "wellmann-2-195-u2"
         },
         {
-          "t": "λοχείᾳ ὅμοία"
+          "t": "λοχείᾳ ὅμοια"
         },
         {
           "a": "awellmann-print-2-195-4e"
@@ -304,7 +304,7 @@
           "a": "awellmann-print-2-195-21"
         },
         {
-          "t": "ἔστιν"
+          "t": "ἐστιν"
         },
         {
           "a": "awellmann-print-2-195-20e"
@@ -349,7 +349,7 @@
           "a": "wellmann-2-195-u9"
         },
         {
-          "t": "κοιλίας σύν φακῇ "
+          "t": "κοιλίας σὺν φακῇ "
         },
         {
           "a": "awellmann-print-2-195-24"
@@ -561,36 +561,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-195-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "123 RV: σεῦτλον μέλαν ἄγριον· Ῥωμαῖοι βῆτα σιλβάτικα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-195-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-195-1",
-      "to": "wellmann-2-195-1-end",
-      "line_ids": [
-        "wellmann-2-195-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-195-4",
       "group": "criticus",
@@ -1814,6 +1784,32 @@
     }
   ],
   "next_break_no": true,
+  "segments": [
+    {
+      "type": "recension",
+      "subtype": "R",
+      "n": "2.123",
+      "corresp": "#wellmann1906-2-123",
+      "part": "",
+      "lines": [
+        {
+          "n": "16",
+          "id": "wellmann-2-195-u16",
+          "parts": [
+            {
+              "a": "wellmann-2-195-u16"
+            },
+            {
+              "t": "123 RV: σεῦτλον μέλαν ἄγριον· Ῥωμαῖοι βῆτα σιλβάτικα."
+            },
+            {
+              "a": "wellmann-2-195-u16-end"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "page_label": "I, p. 195",
   "scan_link": "https://dfg-viewer.de/show/?tx_dlf[id]=https%3A%2F%2Fcmg.bbaw.de%2Fepubl%2Fonline%2Fmets%2Fwa_dioscurides_mat_med_lib_1_2.xml&tx_dlf[page]=201"
 }

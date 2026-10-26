@@ -219,36 +219,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-3-131-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "121 RV: κόνυζα λεπτόφυλλος· οἱ δὲ κόνυζα μικρά, οἱ δὲ Πάνιος, οἱ δὲ λιβανωτίς, προφῆται Κρόνιος. κόνυζα πλατύφυλλος· οἱ δὲ κόνυζα μεγάλη, οἱ δὲ κόνυζα αἱματῖτις, οἱ δὲ Δαναΐς, οἱ δὲ πανάκειον, οἱ δὲ φῦκος, οἱ δὲ ἰχθύς, οἱ δὲ δείνοσμος, προφῆται βρεφοκτόνος, οἱ δὲ ἀνουβιάς, οἱ δὲ †ἠδεαμιας, Αἰγύπτιοι κέτι, Ῥωμαῖοι ἴντουβουμ, οἱ δὲ μιλιτάρις μίνορ, οἱ δὲ πουλικάρια, οἱ δὲ φεβρεφούγια, οἱ δὲ φραγμώσα, οἱ δὲ μουστάρια, οἱ δὲ †κοπικολέδιου, οἱ δὲ πίκειμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-131-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-131-1",
-      "to": "wellmann-3-131-1-end",
-      "line_ids": [
-        "wellmann-3-131-1"
-      ]
-    },
-    {
       "id": "wellmann-print-3-131-4",
       "group": "criticus",
       "method": null,
@@ -1524,8 +1494,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "121",
+      "subtype": "R",
+      "n": "3.121",
       "corresp": "#wellmann1906-3-121",
       "part": "",
       "lines": [
@@ -1663,7 +1633,7 @@
               "a": "awellmann-print-3-131-27-c2"
             },
             {
-              "t": "†ἡδεαμιας"
+              "t": "†ἠδεαμιας"
             },
             {
               "a": "awellmann-print-3-131-27-c2e"

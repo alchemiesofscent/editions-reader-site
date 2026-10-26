@@ -177,7 +177,7 @@
           "a": "awellmann-print-2-227-13e"
         },
         {
-          "t": ", περιφερεῖς, ὁμοίους ἁβροτόνῳ, περὶ οὓς φύλλα ἐπιμήκη,"
+          "t": ", περιφερεῖς, ὁμοίους ἀβροτόνῳ, περὶ οὓς φύλλα ἐπιμήκη,"
         },
         {
           "a": "wellmann-2-227-u6-end"
@@ -478,37 +478,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-227-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "163 RV: στρούθιον· οἱ δὲ κέδρον, οἱ δὲ κάθαρσις, οἱ δὲ στρουθοκάμηλος, οἱ δὲ χαμαίρρυτον, προφῆται χαλίρυτον, Ῥωμαῖοι ῥάδιξ σανάρια, οἱ δὲ ἔρβα λανάρια, Αἰγύπτιοι οἰνώ, Ἄφροι σοιρίς.",
-      "flags": [
-        "heading_attachment",
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-227-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-227-1",
-      "to": "wellmann-2-227-1-end",
-      "line_ids": [
-        "wellmann-2-227-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-227-6",
       "group": "criticus",
@@ -1571,8 +1540,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "163",
+      "subtype": "R",
+      "n": "2.163",
       "corresp": "#wellmann1906-2-163",
       "part": "",
       "lines": [
@@ -1584,7 +1553,7 @@
               "a": "wellmann-2-227-17-segment-c2"
             },
             {
-              "t": "στρούθιον· οἱ δὲ κέδρον, οἱ δὲ κάθαρσις, οἱ δὲ_"
+              "t": "στρούθιον· οἱ δὲ κέδρον, οἱ δὲ κάθαρσις, οἱ δὲ"
             },
             {
               "a": "wellmann-2-227-17-segment-c2-end"
@@ -1599,19 +1568,19 @@
               "a": "wellmann-2-227-u18"
             },
             {
-              "t": "_στρουθοκάμηλος, οἱ δὲ "
+              "t": "στρουϑοκάμηλος, οἱ δὲ "
             },
             {
               "a": "awellmann-print-2-227-28-c2"
             },
             {
-              "t": "χαμαίρρυτον,_"
+              "t": "χαμαίρρυτον,"
             },
             {
               "a": "awellmann-print-2-227-28-c2e"
             },
             {
-              "t": " προφῆται _χαλίρρυτον,_ Ῥω-"
+              "t": " προφῆται χαλίρρυτον, Ῥω"
             },
             {
               "a": "wellmann-2-227-u18-end"
@@ -1626,19 +1595,19 @@
               "a": "wellmann-2-227-u19"
             },
             {
-              "t": "μαῖοι _ῥάδιξ σανάρια, οἱ δὲ ἕρβα "
+              "t": "μαῖοι ῥάδιξ σανάρια, οἱ δὲ ἔρβα "
             },
             {
               "a": "awellmann-print-2-227-29-c2"
             },
             {
-              "t": "λανάρια,_"
+              "t": "λανάρια,"
             },
             {
               "a": "awellmann-print-2-227-29-c2e"
             },
             {
-              "t": " Αἰγύπτιοι _οἰνώ,_"
+              "t": " Αἰγύπτιοι οἰνώ,"
             },
             {
               "a": "wellmann-2-227-u19-end"
@@ -1654,7 +1623,7 @@
               "a": "wellmann-2-227-20-segment-c2"
             },
             {
-              "t": "Ἄφροι _σοιρίς._"
+              "t": "Ἄφροι σοιρίς."
             },
             {
               "a": "wellmann-2-227-20-segment-c2-end"

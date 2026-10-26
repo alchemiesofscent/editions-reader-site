@@ -28,7 +28,7 @@
           "a": "awellmann-print-3-80-5e"
         },
         {
-          "t": "· καυλός ἐστι λιβανωτίδι ἢ μαράθῳ"
+          "t": "· καυλός ἐστι λιβανωτίδι ἢ μαράϑῳ"
         },
         {
           "a": "wellmann-3-80-1-end"
@@ -220,7 +220,7 @@
           "a": "awellmann-print-3-80-19"
         },
         {
-          "t": "ἐμφερές"
+          "t": "ἐμφερές·"
         },
         {
           "a": "awellmann-print-3-80-19e"
@@ -488,36 +488,6 @@
         "witness-disagreement"
       ],
       "printed": "EXC.: Orib. XI s. v. (ἐλαφοβόσκον — ἀρτιφυής); Gal. XI 873 (unde Paul. Aeg. VII 3. Aet. I s. v. aliis aliunde adscitis); Hes. s. v. ἐλαφοβοσκός.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-80-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-80-1",
-      "to": "wellmann-3-80-1-end",
-      "line_ids": [
-        "wellmann-3-80-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-80-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "69 RV: ἐλαφοβόσκον· οἱ δὲ ἐλαφικόν, οἱ δὲ νέβρειον, οἱ δὲ ὀφιογένιον, οἱ δὲ ὀφιοκτόνον, οἱ δὲ ἐρπυξῆ, οἱ δὲ λύμη, Ῥωμαῖοι κέρβι ὀκέλλουμ, οἱ δὲ κερβίνα, Αἰγύπτιοι χημίς, Ἄφροι ἀσκαυκαού.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1503,8 +1473,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "69",
+      "subtype": "R",
+      "n": "3.69",
       "corresp": "#wellmann1906-3-69",
       "part": "",
       "lines": [
@@ -1549,13 +1519,13 @@
               "a": "awellmann-print-3-80-27-c2"
             },
             {
-              "t": "ἑρπυξή"
+              "t": "ἐρπυξή"
             },
             {
               "a": "awellmann-print-3-80-27-c2e"
             },
             {
-              "t": ", οἱ δὲ λύμη, Ῥω-"
+              "t": ", οἱ δὲ λύμη, Ῥω"
             },
             {
               "a": "wellmann-3-80-12-segment-c2-end"

@@ -260,7 +260,7 @@
           "a": "awellmann-print-2-223-20"
         },
         {
-          "t": "ὅ"
+          "t": "ὃ"
         },
         {
           "a": "awellmann-print-2-223-20e"
@@ -435,7 +435,7 @@
           "a": "awellmann-print-2-223-29"
         },
         {
-          "t": "λεπτάς· παῤ ἑκάτερα "
+          "t": "λεπτάς· παρ’ ἑκάτερα "
         },
         {
           "a": "awellmann-print-2-223-30"
@@ -538,7 +538,21 @@
           "a": "awellmann-print-2-223-34e"
         },
         {
-          "t": " συνέψεται πτισάνῃ, μάλιστα "
+          "t": " συνέψεται "
+        },
+        {
+          "t": "",
+          "br": "["
+        },
+        {
+          "t": "τῇ"
+        },
+        {
+          "t": "",
+          "br": "]"
+        },
+        {
+          "t": " πτισάνῃ, μάλιστα "
         },
         {
           "t": "",
@@ -683,36 +697,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-223-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "158 RV: ἐρύσιμον· οἱ δὲ χαμαίπλιον, προφῆται Ἡρακλέους ἄλφιτα, Αἰγύπτιοι ἐρεθμού, Ῥωμαῖοι ἰριώνεμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-223-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-223-1",
-      "to": "wellmann-2-223-1-end",
-      "line_ids": [
-        "wellmann-2-223-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-223-6",
       "group": "criticus",
@@ -2319,8 +2303,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "158",
+      "subtype": "R",
+      "n": "2.158",
       "corresp": "#wellmann1906-2-158",
       "part": "",
       "lines": [

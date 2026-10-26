@@ -88,7 +88,7 @@
           "a": "wellmann-3-3-u3"
         },
         {
-          "t": "βόλου μεθ᾿ ὕδατος "
+          "t": "βόλου μεϑ’ ὕδατος "
         },
         {
           "a": "awellmann-print-3-3-9"
@@ -266,7 +266,7 @@
           "a": "wellmann-3-3-u9"
         },
         {
-          "t": "καὶ θανασίμων "
+          "t": "καὶ ϑανασίμων "
         },
         {
           "a": "awellmann-print-3-3-16"
@@ -398,7 +398,7 @@
           "a": "wellmann-3-3-u13"
         },
         {
-          "t": "οἷς μὲν μεθʼ ὕδατος, οἷς δὲ μετʼ οἴνου ἢ ὀξυμέλιτος ἢ μελικράτου."
+          "t": "οἷς μὲν μεϑ’ ὕδατος, οἷς δὲ μετʼ οἴνου ἢ ὀξυμέλιτος ἢ μελικράτου."
         },
         {
           "a": "wellmann-3-3-u13-end"
@@ -591,36 +591,6 @@
         "witness-disagreement"
       ],
       "printed": "SIM.: Pl. XXVI 32. 112 eup. II 13. 14 (231) — Ruf. l. s. — Pl. XXVI 34 eup. II 29 (238) — Pl. XXVI 42. 90 eup. I 257 (219) Ruf. l. s. — eup. I 18 (103) Ruf. l. s. — Pl. XXVI 158 eup. II 76 (287) — Pl. XXVI 155 eup. II 86 (295) — Pl. XXVI 115 — Pl. XXVI 54 Ruf. (Orib. II 106. 121) — Pl. XXV 128 Scr. L. 177 — Pl. XXV 119 eup. II 115 (315) 121 (319).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-3-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-3-1",
-      "to": "wellmann-3-3-1-end",
-      "line_ids": [
-        "wellmann-3-3-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-3-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "2 RV: ῥᾶ· οἱ δὲ ῥῆον, οἱ δὲ ῥήαν καλοῦσιν, Ῥωμαῖοι ῥᾶ Πόντικουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1942,8 +1912,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "2",
+      "subtype": "R",
+      "n": "3.2",
       "corresp": "#wellmann1906-3-2",
       "part": "",
       "lines": [
@@ -1979,7 +1949,7 @@
               "a": "awellmann-print-3-3-35-c2e"
             },
             {
-              "t": " καλοῦσιν, Ῥωµαῖοι ῥᾶ"
+              "t": " καλοῦσιν, Ῥωμαῖοι ῥᾶ"
             },
             {
               "a": "wellmann-3-3-16-segment-c2-end"
@@ -1994,7 +1964,7 @@
               "a": "wellmann-3-3-u17"
             },
             {
-              "t": "Πόντικουµ."
+              "t": "Πόντικουμ."
             },
             {
               "a": "wellmann-3-3-u17-end"

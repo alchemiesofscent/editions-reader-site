@@ -129,7 +129,7 @@
           "a": "awellmann-print-3-139-11e"
         },
         {
-          "t": ". ἔστι δὲ τῆς ῥίζης αὐτοῦ ὀ μὲν φλοιὸς "
+          "t": ". ἔστι δὲ τῆς ῥίζης αὐτοῦ ὁ μὲν φλοιὸς "
         },
         {
           "a": "awellmann-print-3-139-12"
@@ -668,36 +668,6 @@
         "witness-disagreement"
       ],
       "printed": "EXC.: Orib. XII s. v. (λέγεται — τόποις).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-139-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-139-1",
-      "to": "wellmann-3-139-1-end",
-      "line_ids": [
-        "wellmann-3-139-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-139-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "129 RV: ὅρμινον ἥμερον· Ῥωμαῖοι γεμινάλις, Δάκοι ὅρμεα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -2110,8 +2080,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "129",
+      "subtype": "R",
+      "n": "3.129",
       "corresp": "#wellmann1906-3-129",
       "part": "",
       "lines": [

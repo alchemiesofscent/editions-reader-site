@@ -436,7 +436,7 @@
           "a": "awellmann-print-4-218-31e"
         },
         {
-          "t": ", ὐπ᾿ ἐνίων δὲ ῥοιὰς καὶ αὐτὴ διὰ τὸ"
+          "t": ", ὑπ᾽ ἐνίων δὲ ῥοιὰς καὶ αὐτὴ διὰ τὸ"
         },
         {
           "a": "wellmann-4-218-11-end"
@@ -467,36 +467,6 @@
         "witness-disagreement"
       ],
       "printed": "SIM.: [Hipp.] περὶ διαίτης II 45 (VI 544) [Theophr.] l. s. Pl. l. s. Ruf. (Orib. II 106. 118).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-218-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-218-1",
-      "to": "wellmann-4-218-1-end",
-      "line_ids": [
-        "wellmann-4-218-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-4-218-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "64 RV: μήκων ἥμερος κηπαῖος· οἱ δὲ χαμαισύκη, οἱ δὲ μήκων ῥοιάς, οἱ δὲ ὀξύγονον, Ῥωμαῖοι παπάβερ, Αἰγύπτιοι ναντί. μήκων ἄγριος· οἱ δὲ μήκων μέλας, Ῥωμαῖοι παπάβερ νίγρουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1823,8 +1793,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "64",
+      "subtype": "R",
+      "n": "4.64",
       "corresp": "#wellmann1906-4-64",
       "part": "",
       "lines": [
@@ -1881,7 +1851,7 @@
               "a": "wellmann-4-218-15-rul3"
             },
             {
-              "t": "μήκων ἄγριος· οἱ δὲ μήκων μέλας, Ῥωμαῖοι παπάβερ νί-"
+              "t": "μήκων ἄγριος· οἱ δὲ μήκων μέλας, Ῥωμαῖοι παπάβερ νί"
             },
             {
               "a": "wellmann-4-218-15-rul3-end"

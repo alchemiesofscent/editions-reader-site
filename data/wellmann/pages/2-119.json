@@ -181,13 +181,13 @@
           "a": "wellmann-3-119-u5"
         },
         {
-          "t": "κάκανθον"
+          "t": "κάκανϑον"
         },
         {
           "a": "awellmann-print-3-119-17e"
         },
         {
-          "t": " καλοῦσι. κλῶνές εἰσι δύο ἡ τρεῖς "
+          "t": " καλοῦσι. κλῶνές εἰσι δύο ἢ τρεῖς "
         },
         {
           "a": "awellmann-print-3-119-18"
@@ -499,36 +499,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-119-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "108 RV: φαλάγγιον· οἱ δὲ φαλαγγῖτιν, οἱ δὲ καὶ ταύτην λευκάκανθαν καλοῦσιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-119-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-119-1",
-      "to": "wellmann-3-119-1-end",
-      "line_ids": [
-        "wellmann-3-119-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-119-6",
       "group": "criticus",
@@ -1855,8 +1825,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "108",
+      "subtype": "R",
+      "n": "3.108",
       "corresp": "#wellmann1906-3-108",
       "part": "",
       "lines": [

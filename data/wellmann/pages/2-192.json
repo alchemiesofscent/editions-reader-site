@@ -52,7 +52,7 @@
           "a": "awellmann-print-4-192-10e"
         },
         {
-          "t": ", ἔρποντα"
+          "t": ", ἕρποντα"
         },
         {
           "a": "wellmann-4-192-1-end"
@@ -465,36 +465,6 @@
         "witness-disagreement"
       ],
       "printed": "EXC.: Ps. Ap. 77 (unde Ps. Orib. I 64): med. Gal. XI 810 (= Aet. I s. v. Paul. Aeg. VII 3 s. v.); Hes. s. v. ἄγρωστις.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-192-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-192-1",
-      "to": "wellmann-4-192-1-end",
-      "line_ids": [
-        "wellmann-4-192-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-4-192-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "29 RV: ἄγρωστις ἢ ἐπαμήλυτος· οἱ δὲ αἰγικόν, οἱ δὲ ἁμαξῖτις, Αἰγύπτιοι ἀνουφί, Ῥωμαῖοι γράμεν, οἱ δὲ ἀσιφόλιουμ, οἱ δὲ σαγγυνάλεμ, οἱ δὲ οὐινίολαμ, Σπάνοι ἀπαρία, Δάκοι κοτίατα, Ἄφροι ἰεβάλ. 30 RV: καλαμάγρωστις, οἱ δὲ χοιροκαλαμίς, Ῥωμαῖοι γράμεν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1368,7 +1338,8 @@
       "from": "awellmann-print-4-192-28-c2",
       "to": "awellmann-print-4-192-28-c2e",
       "line_ids": [
-        "wellmann-4-192-9-segment-c2"
+        "wellmann-4-192-9-segment-c2",
+        "wellmann-4-192-u10"
       ]
     },
     {
@@ -1738,8 +1709,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "29",
+      "subtype": "R",
+      "n": "4.29",
       "corresp": "#wellmann1906-4-29",
       "part": "",
       "lines": [
@@ -1751,7 +1722,7 @@
               "a": "wellmann-4-192-9-segment-c2"
             },
             {
-              "t": "ἄγρωστις ἡ ἐπαμήλωτος· οἱ δὲ "
+              "t": "ἄγρωστις ἢ ἐπαμήλωτος· οἱ δὲ "
             },
             {
               "a": "awellmann-print-4-192-27-c2"
@@ -1769,13 +1740,7 @@
               "a": "awellmann-print-4-192-28-c2"
             },
             {
-              "t": "ἁμαξῖτις"
-            },
-            {
-              "a": "awellmann-print-4-192-28-c2e"
-            },
-            {
-              "t": ","
+              "t": "ἁμα-"
             },
             {
               "a": "wellmann-4-192-9-segment-c2-end"
@@ -1790,7 +1755,13 @@
               "a": "wellmann-4-192-u10"
             },
             {
-              "t": "ξῖτις, Αἰγύπτιοι "
+              "t": "ξῖτις"
+            },
+            {
+              "a": "awellmann-print-4-192-28-c2e"
+            },
+            {
+              "t": ", Αἰγύπτιοι "
             },
             {
               "a": "awellmann-print-4-192-29-c2"
@@ -1831,7 +1802,8 @@
             {
               "a": "wellmann-4-192-u10-end"
             }
-          ]
+          ],
+          "break_no": true
         },
         {
           "n": "11",
@@ -1891,8 +1863,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "30",
+      "subtype": "R",
+      "n": "4.30",
       "corresp": "#wellmann1906-4-30",
       "part": "",
       "lines": [

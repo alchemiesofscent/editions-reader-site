@@ -300,7 +300,7 @@
           "a": "awellmann-print-4-297-18"
         },
         {
-          "t": "καθʼ ἑαυτὸν καὶ μετὰ σανδαράκης"
+          "t": "καθ᾽ ἑαυτὸν καὶ μετὰ σανδαράκης"
         },
         {
           "t": "",
@@ -398,7 +398,7 @@
           "a": "awellmann-print-4-297-22"
         },
         {
-          "t": "ἑψηθεὶς καὶ διακλυζόμενος, καὶ οὔλα ῥευματιζόμενα"
+          "t": "ἑψηθεὶς καὶ διακλυζόμενος, καὶ οὖλα ῥευματιζόμενα"
         },
         {
           "a": "awellmann-print-4-297-22e"
@@ -410,36 +410,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-297-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "152 RV: σταφὶς ἀγρία· οἱ δὲ τρίφυλλον, οἱ δὲ στήσιον, οἱ δὲ ἀσταφίς, οἱ δὲ φθειροκτόνον, οἱ δὲ φθείριον, οἱ δὲ ἀπάνθρωπον, οἱ δὲ πολύειδος, οἱ δὲ ψευδοπαθές, οἱ δὲ ἀρσενωπή, οἱ δὲ ἀρνοπολέμιον, Αἰγύπτιοι ἴβι〈ο〉ς ἀοιδή, Ῥωμαῖοι ἕρβα πηδουκουλάρια, οἱ δὲ μιουτεσσούδια.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-297-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-297-1",
-      "to": "wellmann-4-297-1-end",
-      "line_ids": [
-        "wellmann-4-297-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-297-3",
       "group": "criticus",
@@ -1591,8 +1561,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "152",
+      "subtype": "R",
+      "n": "4.152",
       "corresp": "#wellmann1906-4-152",
       "part": "",
       "lines": [
@@ -1643,7 +1613,7 @@
               "a": "awellmann-print-4-297-25-c2e"
             },
             {
-              "t": ", οἱ δὲ φθειροκτόνον, οἱ δὲ φθείριον, οἱ δὲ ἀπάν-"
+              "t": ", οἱ δὲ φθειροκτόνον, οἱ δὲ φθείριον, οἱ δὲ ἀπάν"
             },
             {
               "a": "wellmann-4-297-u13-end"
@@ -1712,7 +1682,7 @@
               "a": "awellmann-print-4-297-29-c2e"
             },
             {
-              "t": " ἀοιδή, Ῥωμαῖοι ἕρβα"
+              "t": " ἀοιδή, Ῥωμαῖοι ἔρβα"
             },
             {
               "a": "wellmann-4-297-15-segment-c2-end"

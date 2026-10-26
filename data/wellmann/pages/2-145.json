@@ -248,7 +248,7 @@
           "a": "awellmann-print-3-145-21"
         },
         {
-          "t": "δόναται"
+          "t": "δύναται"
         },
         {
           "a": "awellmann-print-3-145-21e"
@@ -465,7 +465,7 @@
           "a": "wellmann-3-145-12"
         },
         {
-          "t": "137",
+          "t": "137.",
           "num": true
         },
         {
@@ -538,36 +538,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-145-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "136 RV: ἀνθυλλίς· οἱ δὲ ἀνθύλλον, οἱ δὲ ἀνθεμίδα, οἱ δὲ ἱεράνθεμις, οἱ δὲ λευκάνθεμον, οἱ δὲ ὠράνθεμις, οἱ δὲ ἄνθος πεδινὸν καλοῦσιν, Ῥωμαῖοι συλάστρουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-145-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-145-1",
-      "to": "wellmann-3-145-1-end",
-      "line_ids": [
-        "wellmann-3-145-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-145-5",
       "group": "criticus",
@@ -2155,8 +2125,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "136",
+      "subtype": "R",
+      "n": "3.136",
       "corresp": "#wellmann1906-3-136",
       "part": "",
       "lines": [
@@ -2204,7 +2174,7 @@
               "a": "awellmann-print-3-145-40-c2e"
             },
             {
-              "t": ", οἱ δὲ λευκάνθεμον, οἱ δὲ ὡράνθεμις, οἱ δὲ "
+              "t": ", οἱ δὲ λευκάνθεμον, οἱ δὲ ὠράνθεμις, οἱ δὲ "
             },
             {
               "a": "awellmann-print-3-145-43-c2"

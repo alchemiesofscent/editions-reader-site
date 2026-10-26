@@ -417,36 +417,6 @@
       ]
     },
     {
-      "id": "wellmann-print-4-175-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "9 RV: σύμφυτον· οἱ δὲ καὶ τοῦτο πηκτήν, [οἱ δὲ ἀναξελίτις,] οἱ δὲ ξυλοφόρον, οἱ δὲ Ἑλένιον, οἱ δὲ ἀναξελίτις, οἱ δὲ ἀνάχυλις, οἱ δὲ ἀνάχυσις, Αἰγύπτιοι αἱμόστασις, Ῥωμαῖοι κονφέρβα, οἱ δὲ ἄλου⟨μ⟩ Γάλλικου⟨μ⟩, Ἄφροι ἀργαλλικού.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-175-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-175-1",
-      "to": "wellmann-4-175-1-end",
-      "line_ids": [
-        "wellmann-4-175-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-175-5",
       "group": "criticus",
       "method": null,
@@ -1386,8 +1356,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "9",
+      "subtype": "R",
+      "n": "4.9",
       "corresp": "#wellmann1906-4-9",
       "part": "",
       "lines": [
@@ -1462,7 +1432,7 @@
               "a": "awellmann-print-4-175-22-c2e"
             },
             {
-              "t": ", οἱ δὲ Ἑλένιον, οἱ δὲ ἀναζελῖτις, οἱ δὲ ἀνά-"
+              "t": ", οἱ δὲ Ἑλένιον, οἱ δὲ ἀναζελῖτις, οἱ δὲ ἀνά"
             },
             {
               "a": "wellmann-4-175-11-segment-c2-end"
@@ -1489,7 +1459,7 @@
               "a": "awellmann-print-4-175-25-c2e"
             },
             {
-              "t": " αἱμόστασις, Ῥωμαῖοι κον-"
+              "t": " αἱμόστασις, Ῥωμαῖοι κον"
             },
             {
               "a": "wellmann-4-175-12-segment-c2-end"

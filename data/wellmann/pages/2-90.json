@@ -487,36 +487,6 @@
       ]
     },
     {
-      "id": "wellmann-print-3-90-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "77 RV: νάρθηξ· Ῥωμαῖοι φέρουλαμ. 78 RV: πευκέδανον· οἱ δὲ ⟨σίνωνα⟩ ἄγριον, οἱ δὲ ἀγριόφυλλον, προφῆται ἀγαθὸς δαίμων, Ῥωμαῖοι πιναστέλλουμ, οἱ δὲ σα⟨να⟩τάριαμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-90-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-90-1",
-      "to": "wellmann-3-90-1-end",
-      "line_ids": [
-        "wellmann-3-90-1"
-      ]
-    },
-    {
       "id": "wellmann-print-3-90-5",
       "group": "criticus",
       "method": null,
@@ -1935,8 +1905,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "77",
+      "subtype": "R",
+      "n": "3.77",
       "corresp": "#wellmann1906-3-77",
       "part": "",
       "lines": [
@@ -1959,8 +1929,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "78",
+      "subtype": "R",
+      "n": "3.78",
       "corresp": "#wellmann1906-3-78",
       "part": "",
       "lines": [
@@ -1992,7 +1962,7 @@
               "br": "⟩"
             },
             {
-              "t": " ἄγριον, οἱ δὲ ἀγριό-"
+              "t": " ἄγριον, οἱ δὲ ἀγριό"
             },
             {
               "a": "wellmann-3-90-13-segment-c2-end"

@@ -601,36 +601,6 @@
       ]
     },
     {
-      "id": "wellmann-print-2-231-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "166 RV: δρακοντία μεγάλη· οἱ δὲ ἄρον, οἱ δὲ ἴσαρον, οἱ δὲ ἴαρον, οἱ δὲ ἱεράκιος, οἱ δὲ ἄμι ἄγριον, οἱ δὲ κύπερις, Ῥωμαῖοι κόλουβρουμ, οἱ δὲ μουράριαμ, οἱ δὲ σεγιτάλις, οἱ δὲ στρουμάριαμ. φύεται ἐν συσκίοις καὶ φραγμοῖς. καυλὸν δὲ ἔχει λεῖον ὀρθόν, ὡς διπηχυαῖον, παχὺν ὡς βακτηρίαν, ποικίλον",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-231-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-231-1",
-      "to": "wellmann-2-231-1-end",
-      "line_ids": [
-        "wellmann-2-231-1"
-      ]
-    },
-    {
       "id": "wellmann-print-2-231-7",
       "group": "criticus",
       "method": null,
@@ -1837,8 +1807,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "166",
+      "subtype": "R",
+      "n": "2.166",
       "corresp": "#wellmann1906-2-166",
       "part": "I",
       "lines": [
@@ -1889,7 +1859,7 @@
               "a": "awellmann-print-2-231-28-c2e"
             },
             {
-              "t": ", οἱ δὲ ἄμι ἄγριον, οἱ δὲ κύπερις, Ῥω-"
+              "t": ", οἱ δὲ ἄμι ἄγριον, οἱ δὲ κύπερις, Ῥω"
             },
             {
               "a": "wellmann-2-231-16-segment-c2-end"

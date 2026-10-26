@@ -18,13 +18,13 @@
           "a": "awellmann-print-2-184-3"
         },
         {
-          "t": "ἢ μετὰ ἄξους πινόμενον"
+          "t": "ἢ μετὰ ὄξους πινόμενον"
         },
         {
           "a": "awellmann-print-2-184-3e"
         },
         {
-          "t": " ἔλμινθας "
+          "t": " ἕλμινθας "
         },
         {
           "a": "awellmann-print-2-184-4"
@@ -631,36 +631,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-184-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "109 RV: θέρμος ἥμερος· Ῥωμαῖοι λουπίνουμ, Αἰγύπτιοι βρεχού. RV: θέρμος ἄγριος· Ῥωμαῖοι λουπίνουμ ἀγρέστεμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-184-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-184-1",
-      "to": "wellmann-2-184-1-end",
-      "line_ids": [
-        "wellmann-2-184-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-184-3",
       "group": "criticus",
@@ -1879,8 +1849,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "109",
+      "subtype": "R",
+      "n": "2.109",
       "corresp": "#wellmann1906-2-109",
       "part": "",
       "lines": [
@@ -1940,7 +1910,7 @@
               "a": "awellmann-print-2-184-35-c2"
             },
             {
-              "t": "λουπίνουμ"
+              "t": "λουππίνουμ"
             },
             {
               "a": "awellmann-print-2-184-35-c2e"

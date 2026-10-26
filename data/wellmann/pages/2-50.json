@@ -254,7 +254,7 @@
           "a": "awellmann-print-3-50-19"
         },
         {
-          "t": "ἔρπυλλος"
+          "t": "ἕρπυλλος"
         },
         {
           "a": "awellmann-print-3-50-19e"
@@ -479,7 +479,7 @@
           "a": "awellmann-print-3-50-30e"
         },
         {
-          "t": " λεπτά, φρυγανώδη, "
+          "t": " λεπτά|, φρυγανώδη, "
         },
         {
           "a": "awellmann-print-3-50-31"
@@ -528,36 +528,6 @@
       "anchored": true,
       "from": "wellmann-3-50-1",
       "to": "awellmann-print-3-49-23e",
-      "line_ids": [
-        "wellmann-3-50-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-50-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "38 RV: ἕρπυλλος· οἱ δὲ ζυγὶς ἀγρία, οἱ δὲ πόλιον, Αἰγύπτιοι μερουόπυος, Ῥωμαῖοι σερπούλλουμ, οἱ δὲ κίκερ ἠράτικουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-50-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-50-1",
-      "to": "wellmann-3-50-1-end",
       "line_ids": [
         "wellmann-3-50-1"
       ]
@@ -1893,8 +1863,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "38",
+      "subtype": "R",
+      "n": "3.38",
       "corresp": "#wellmann1906-3-38",
       "part": "",
       "lines": [

@@ -417,36 +417,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-3-47-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "35 RV: καλαμίνθη· οἱ δὲ ὀσμῖτις, οἱ δὲ γλήχων ἀγρία, Αἰγύπτιοι βελλού, οἱ δὲ θεσμουζοεί, Ὀσθάνης . . . . ⟨προφῆται⟩ αἴλουρον ἢ πρόγονος Ἀπόλλωνος ἢ γόνος Ὥρου, Ῥωμαῖοι μεντάστρουμ, Σπάνοι κρόβουλα, Γάλλοι μεντασῶνε, Δάκοι τεύδιλα. καλαμίνθη ὀρεινή· οἱ δὲ ὀριγανίς, οἱ δὲ μίνθην, Ῥωμαῖοι νεπέταμ, οἱ δὲ μέντα μοντάνα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-47-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-47-1",
-      "to": "wellmann-3-47-1-end",
-      "line_ids": [
-        "wellmann-3-47-1"
-      ]
-    },
-    {
       "id": "wellmann-print-3-47-3",
       "group": "criticus",
       "method": null,
@@ -1754,8 +1724,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "35",
+      "subtype": "R",
+      "n": "3.35",
       "corresp": "#wellmann1906-3-35",
       "part": "",
       "lines": [

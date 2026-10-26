@@ -310,38 +310,6 @@
       ]
     },
     {
-      "id": "wellmann-print-3-27-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "21 RV: ἠρύγγιον· οἱ δὲ ἐρύγγιον, οἱ δὲ ἠρύγγην, οἱ δὲ Γοργόνιον, οἱ δὲ ἐρυγηρίς, οἱ δὲ κάρυον, οἱ δὲ ὄργανον χλούνιον, οἱ δὲ ἕρμ〈α〉ιον, οἱ δὲ μυράκανθον, οἱ δὲ μῶλυ, Αἰγύπτιοι κρό10 βισος, προφῆται ἱμερτός, οἱ δὲ τραυλίζων, Ῥωμαῖοι καπίτουλουμ κάρδους, οἱ δὲ κάρδους τέρραι, οἱ δὲ Μουσάρουμ κάρδους, οἱ δὲ ἰρουνδινίνα κάρδους, οἱ δὲ κάρδους ἄλβους, Δάκοι σικουπνούξ, Σπάνοι κεντουμκάπιτα, οἱ δὲ ἐσκάρια, οἱ δὲ † λεβεννάτα, Ἄφροι γέρδαν, οἱ δὲ χίδα.",
-      "flags": [
-        "heading_attachment",
-        "line-reference-unavailable",
-        "printed_transcription_mismatch",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-27-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-27-1",
-      "to": "wellmann-3-27-1-end",
-      "line_ids": [
-        "wellmann-3-27-1"
-      ]
-    },
-    {
       "id": "wellmann-print-3-27-3",
       "group": "criticus",
       "method": null,
@@ -1840,8 +1808,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "21",
+      "subtype": "R",
+      "n": "3.21",
       "corresp": "#wellmann1906-3-21",
       "part": "",
       "lines": [
@@ -1969,7 +1937,7 @@
               "a": "awellmann-print-3-27-26-c2e"
             },
             {
-              "t": " κρό-"
+              "t": " κρό"
             },
             {
               "a": "wellmann-3-27-9-segment-c2-end"
@@ -1996,7 +1964,7 @@
               "a": "awellmann-print-3-27-29-c2e"
             },
             {
-              "t": ", Ῥωμαῖοι καπίτου-"
+              "t": ", Ῥωμαῖοι καπίτου"
             },
             {
               "a": "wellmann-3-27-10-segment-c2-end"
@@ -2024,7 +1992,7 @@
               "a": "awellmann-print-3-27-32-c2e"
             },
             {
-              "t": ", οἱ δὲ Μουσάρουμ κάρ-"
+              "t": ", οἱ δὲ Μουσάρουμ κάρ"
             },
             {
               "a": "wellmann-3-27-11-segment-c2-end"
@@ -2101,7 +2069,7 @@
               "a": "awellmann-print-3-27-39-c2e"
             },
             {
-              "t": ", οἱ δὲ † λεβεν-"
+              "t": ", οἱ δὲ † λεβεν"
             },
             {
               "a": "wellmann-3-27-13-segment-c2-end"

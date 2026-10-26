@@ -462,37 +462,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-1-7-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "2 RV: ἄκορον· οἱ δὲ χορὸς Ἀφροδίσιος, Ῥωμαῖοι Βενέραμ, οἱ δὲ ναύτικα ῥάδιξ, Γάλλοι πίπερ ἄπιουμ.",
-      "flags": [
-        "heading_attachment",
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-1-7-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-1-7-1",
-      "to": "wellmann-1-7-1-end",
-      "line_ids": [
-        "wellmann-1-7-1"
-      ]
-    },
-    {
       "id": "wellmann-print-1-7-6",
       "group": "criticus",
       "method": null,
@@ -1603,8 +1572,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "1",
+      "subtype": "R",
+      "n": "1.1",
       "corresp": "#wellmann1906-1-1",
       "part": "F",
       "lines": [
@@ -1616,7 +1585,7 @@
               "a": "wellmann-1-7-u18"
             },
             {
-              "t": "λεις καθαίρουσαι καὶ ῥακοὺς καταπλαττόμεναι μετʼ ἐλλεβόρου"
+              "t": "λεις καθαίρουσαι καὶ φακοὺς καταπλαττόμεναι μετʼ ἐλλεβόρου"
             },
             {
               "a": "wellmann-1-7-u18-end"
@@ -1631,7 +1600,7 @@
               "a": "wellmann-1-7-19-rul"
             },
             {
-              "t": "λευκοῦ διπλασίονος· ἕλκη σαρκοῦσιν καὶ τὰ δυνάγωγα τῶν"
+              "t": "λευκοῦ διπλασίονος· ἕλκη σαρκοῦσιν καὶ τὰ δυσανάγωγα τῶν"
             },
             {
               "a": "wellmann-1-7-19-rul-end"
@@ -1646,7 +1615,7 @@
               "a": "wellmann-1-7-u20"
             },
             {
-              "t": "ὑγρῶν λεπτύνουσι καὶ φθοροποιὸν δύναμιν "
+              "t": "ὑγρῶν λεπτύνουσιν καὶ φθοροποιὸν δύναμιν "
             },
             {
               "a": "awellmann-print-1-7-24-rul"
@@ -1681,8 +1650,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "2",
+      "subtype": "R",
+      "n": "1.2",
       "corresp": "#wellmann1906-1-2",
       "part": "",
       "lines": [
@@ -1694,7 +1663,7 @@
               "a": "wellmann-1-7-22-rul"
             },
             {
-              "t": "+ἄκορον+· οἱ δὲ "
+              "t": "ἄκορον· οἱ δὲ "
             },
             {
               "a": "awellmann-print-1-7-26-rul"

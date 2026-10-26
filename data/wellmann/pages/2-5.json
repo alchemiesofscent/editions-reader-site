@@ -90,7 +90,7 @@
           "a": "awellmann-print-3-5-9"
         },
         {
-          "t": "φύλλα τὰ"
+          "t": "| φύλλα τὰ"
         },
         {
           "a": "awellmann-print-3-5-9e"
@@ -670,36 +670,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-5-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "λική, οἱ δὲ νάρκη, οἱ δὲ Χειρώνιον, Δάρδανοι ἀλοῖτις, Ῥωμαῖοι γεντιάνα, Θοῦσκοι κικένδα, οἱ δὲ κομιτιάλις.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-5-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-5-1",
-      "to": "wellmann-3-5-1-end",
-      "line_ids": [
-        "wellmann-3-5-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-5-3",
       "group": "criticus",
@@ -2347,8 +2317,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "3",
+      "subtype": "R",
+      "n": "3.3",
       "corresp": "#wellmann1906-3-3",
       "part": "F",
       "lines": [

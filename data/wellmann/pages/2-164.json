@@ -186,7 +186,7 @@
           "a": "awellmann-print-3-164-17"
         },
         {
-          "t": "ἐν πόντῳ"
+          "t": "ἐν Πόντῳ"
         },
         {
           "a": "awellmann-print-3-164-17e"
@@ -312,36 +312,6 @@
         "witness-disagreement"
       ],
       "printed": "SIM.: Pl. l. s. D. eup. II 112 (312) — eup. II 76 (288) — eup. II 121 (320) — eup. II 237 (219) — eup. II 24 (236) — eup. I 230 (213).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-164-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-164-1",
-      "to": "wellmann-3-164-1-end",
-      "line_ids": [
-        "wellmann-3-164-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-164-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "158 RV: χαμαίπιτυς· οἱ δὲ πιτυόρυσις, οἱ δὲ ὀλοόζηλον, οἱ δὲ ὀλόκυρον, οἱ δὲ βρυωνία ἀγρία, οἱ δὲ Ἀθήνησιν ἰωνίαν, ἐν δὲ Εὐβοίᾳ σιδηρῖτιν, προφῆται αἷμα Ἀθηνᾶς, Ῥωμαῖοι κυπρέσσουμ, οἱ δὲ σῆμεν τέρραι, Δάκοι χόδελα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1328,6 +1298,39 @@
       ]
     },
     {
+      "id": "wellmann-print-3-164-29",
+      "group": "criticus",
+      "method": null,
+      "line": "10",
+      "lemma": "ἐν δὲ Εὐβοίᾳ σιδηρῖτιν",
+      "readings": [],
+      "lemma_printed": false,
+      "flags": [
+        "abbreviated_lemma_requires_review",
+        "merged_or_sublemma_entry_requires_review",
+        "model-unplaceable: Cited line 10 is absent from the supplied body lines; the omission concerns secondary text.",
+        "reading_groups_require_review",
+        "unplaced_entry_requires_review",
+        "unprinted_lemma_requires_review"
+      ],
+      "cert": "low",
+      "printed": "ἐν — σιδηρῖτιν om. H",
+      "printed_fallback": true,
+      "source_spans": [
+        {
+          "from": "awellmann-print-3-164-29-c2",
+          "to": "awellmann-print-3-164-29-c2e"
+        }
+      ],
+      "anchored": true,
+      "from": "awellmann-print-3-164-29-c2",
+      "to": "awellmann-print-3-164-29-c2e",
+      "line_ids": [
+        "wellmann-3-164-9-segment-c2",
+        "wellmann-3-164-10-segment-c2"
+      ]
+    },
+    {
       "id": "wellmann-print-3-164-31",
       "group": "criticus",
       "method": null,
@@ -1365,38 +1368,6 @@
       "attachment": "line",
       "from": "wellmann-3-164-10-segment-c2",
       "to": "wellmann-3-164-10-segment-c2-end",
-      "line_ids": [
-        "wellmann-3-164-10-segment-c2"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-164-29",
-      "group": "criticus",
-      "method": null,
-      "line": "10",
-      "lemma": "ἐν δὲ Εὐβοίᾳ σιδηρῖτιν",
-      "readings": [],
-      "lemma_printed": false,
-      "flags": [
-        "abbreviated_lemma_requires_review",
-        "merged_or_sublemma_entry_requires_review",
-        "model-unplaceable: Cited line 10 is absent from the supplied body lines; the omission concerns secondary text.",
-        "reading_groups_require_review",
-        "unplaced_entry_requires_review",
-        "unprinted_lemma_requires_review"
-      ],
-      "cert": "low",
-      "printed": "ἐν — σιδηρῖτιν om. H",
-      "printed_fallback": true,
-      "source_spans": [
-        {
-          "from": "awellmann-print-3-164-29-c2",
-          "to": "awellmann-print-3-164-29-c2e"
-        }
-      ],
-      "anchored": true,
-      "from": "awellmann-print-3-164-29-c2",
-      "to": "awellmann-print-3-164-29-c2e",
       "line_ids": [
         "wellmann-3-164-10-segment-c2"
       ]
@@ -1507,8 +1478,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "158",
+      "subtype": "R",
+      "n": "3.158",
       "corresp": "#wellmann1906-3-158",
       "part": "",
       "lines": [
@@ -1538,7 +1509,7 @@
               "a": "awellmann-print-3-164-25-c2"
             },
             {
-              "t": "ὁλοόζηλον"
+              "t": "ὁλόζηλον"
             },
             {
               "a": "awellmann-print-3-164-25-c2e"
@@ -1565,13 +1536,16 @@
               "a": "awellmann-print-3-164-26-c2"
             },
             {
-              "t": "ὁλόκυρον"
+              "t": "ὀλόκυρον"
             },
             {
               "a": "awellmann-print-3-164-26-c2e"
             },
             {
               "t": ", οἱ δὲ βρυωνία ἀγρία, οἱ δὲ Ἀθήνησιν ἰωνιάν,"
+            },
+            {
+              "a": "awellmann-print-3-164-29-c2"
             },
             {
               "a": "wellmann-3-164-9-segment-c2-end"
@@ -1584,9 +1558,6 @@
           "parts": [
             {
               "a": "wellmann-3-164-10-segment-c2"
-            },
-            {
-              "a": "awellmann-print-3-164-29-c2"
             },
             {
               "t": "ἐν δὲ Εὐβοίᾳ "
@@ -1604,7 +1575,7 @@
               "a": "awellmann-print-3-164-30-c2e"
             },
             {
-              "t": ", προφῆται αἷμα Ἀθηνᾶς, Ῥωμαῖοι κυπρέσσουμ,"
+              "t": ", προφῆται αἷμα Ἀθηνᾶς, Ῥωμαῖοι κυ-"
             },
             {
               "a": "wellmann-3-164-10-segment-c2-end"
@@ -1624,7 +1595,8 @@
             {
               "a": "wellmann-3-164-11-segment-c2-end"
             }
-          ]
+          ],
+          "break_no": true
         }
       ]
     }

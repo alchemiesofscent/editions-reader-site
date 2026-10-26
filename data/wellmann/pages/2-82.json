@@ -16,7 +16,7 @@
           "num": true
         },
         {
-          "t": " πομάραθον· "
+          "t": " ἱππομάραϑον· "
         },
         {
           "a": "awellmann-print-3-82-6"
@@ -581,36 +581,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "EXC.: Orib. XI s. v. μάραθον ἄγριον (ἱππομάραθον — εὐώδης); Gal. XII 68 s. v. μάραθρον (unde Paul. Aeg. VII 3 s. v. ἱππομάραθρον).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-82-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-82-1",
-      "to": "wellmann-3-82-1-end",
-      "line_ids": [
-        "wellmann-3-82-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-82-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "71 RV: ἱππομάραθον· οἱ δὲ μαραθίς, οἱ δὲ μάραθον ἄγριον, Αἰγύπτιοι σαμψώθ, προφῆται θύμαρνον, Ῥωμαῖοι φενούκλουμ ἠράτικουμ, οἱ δὲ φενούκλους ἐκουίνους, οἱ δὲ μίουμ, Γάλλοι σιστραμεόρ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1815,8 +1785,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "71",
+      "subtype": "R",
+      "n": "3.71",
       "corresp": "#wellmann1906-3-71",
       "part": "",
       "lines": [
@@ -1864,7 +1834,7 @@
               "a": "wellmann-3-82-13-segment-c2"
             },
             {
-              "t": "Αἰγύπτιοι σαμψώθ, προφῆται θύμαρνον, Ῥωμαῖοι φενού-"
+              "t": "Αἰγύπτιοι σαμψώθ, προφῆται θύμαρνον, Ῥωμαῖοι φενού"
             },
             {
               "a": "wellmann-3-82-13-segment-c2-end"
@@ -1919,7 +1889,7 @@
               "a": "wellmann-3-82-u15"
             },
             {
-              "t": "Γάλλοι σιστραμεόρ. 15"
+              "t": "Γάλλοι σιστραμεόρ."
             },
             {
               "a": "wellmann-3-82-u15-end"

@@ -39,7 +39,7 @@
           "a": "awellmann-print-3-60-6"
         },
         {
-          "t": "ἐν οῖς"
+          "t": "ἐν οἷς"
         },
         {
           "a": "awellmann-print-3-60-6e"
@@ -81,7 +81,7 @@
           "a": "awellmann-print-3-60-8e"
         },
         {
-          "t": " "
+          "t": " ἱ"
         },
         {
           "a": "awellmann-print-3-60-9"
@@ -120,7 +120,7 @@
           "a": "wellmann-3-60-u3"
         },
         {
-          "t": "οὖ καὶ ἡ χρῆσις."
+          "t": "οὗ καὶ ἡ χρῆσις."
         },
         {
           "a": "wellmann-3-60-u3-end"
@@ -389,7 +389,7 @@
           "a": "awellmann-print-3-60-26e"
         },
         {
-          "t": " ὄμοια, πλατύτερα"
+          "t": " ὅμοια, πλατύτερα"
         },
         {
           "a": "wellmann-3-60-11-end"
@@ -408,7 +408,7 @@
           "br": "⟨"
         },
         {
-          "t": "δέ,"
+          "t": "δὲ"
         },
         {
           "t": "",
@@ -467,7 +467,7 @@
           "br": "⟩"
         },
         {
-          "t": " λευκοῖοις "
+          "t": " λευκοΐοις "
         },
         {
           "a": "awellmann-print-3-60-30"
@@ -640,36 +640,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-60-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "47 RV: μῶλυ· οἱ δὲ λευκόϊον ἄγριον καλοῦσιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-60-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-60-1",
-      "to": "wellmann-3-60-1-end",
-      "line_ids": [
-        "wellmann-3-60-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-60-4",
       "group": "criticus",
@@ -2177,8 +2147,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "47",
+      "subtype": "R",
+      "n": "3.47",
       "corresp": "#wellmann1906-3-47",
       "part": "",
       "lines": [

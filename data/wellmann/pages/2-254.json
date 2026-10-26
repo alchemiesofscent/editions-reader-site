@@ -25,7 +25,7 @@
           "a": "awellmann-print-4-254-9"
         },
         {
-          "t": "ἡριγέρων"
+          "t": "ἠριγέρων"
         },
         {
           "a": "awellmann-print-4-254-8e"
@@ -661,36 +661,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "EXC.: Orib. XI s. v. (ἠριγέρων — πόλεις); de virt. med. cf. Gal. XI 884. Aet. I s. v. (unde?) Ps. Apul. 75 (unde Ps. Orib. I 62) Isid. XVII 9, 53 (e D. lat.).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-254-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-254-1",
-      "to": "wellmann-4-254-1-end",
-      "line_ids": [
-        "wellmann-4-254-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-4-254-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "96 RV: ἠριγέρων· οἱ δὲ ἐρεχθῖτις, Ῥωμαῖοι ἔρβουλουμ, οἱ δὲ σενεκίων.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -2455,8 +2425,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "96",
+      "subtype": "R",
+      "n": "4.96",
       "corresp": "#wellmann1906-4-96",
       "part": "",
       "lines": [

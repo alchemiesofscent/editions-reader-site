@@ -93,7 +93,7 @@
           "a": "awellmann-print-3-19-7e"
         },
         {
-          "t": " σκωλήκια κατά μέσην τὴν ἐντεριώνην "
+          "t": " σκωλήκια κατὰ μέσην τὴν ἐντεριώνην "
         },
         {
           "a": "awellmann-print-3-19-8"
@@ -358,13 +358,13 @@
           "a": "wellmann-3-19-u11"
         },
         {
-          "t": "καὶ περιαπτόμενοι τραχήλῳ ἡ βραχίονι ἱστοροῦνται "
+          "t": "καὶ περιαπτόμενοι τραχήλῳ ἢ βραχίονι ἱστοροῦνται "
         },
         {
           "a": "awellmann-print-3-19-22"
         },
         {
-          "t": "τεταρταῖ"
+          "t": "τεταρταϊ"
         },
         {
           "a": "wellmann-3-19-u11-end"
@@ -474,7 +474,7 @@
           "a": "awellmann-print-3-19-30"
         },
         {
-          "t": "ἐμφερῆ λευκῷ"
+          "t": "| ἐμφερῆ λευκῷ"
         },
         {
           "a": "awellmann-print-3-19-30e"
@@ -490,36 +490,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-19-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "12 RV: ἄκανθα λευκή· οἱ δὲ ἀγριοκινάραν, οἱ δὲ δονακῖτις, οἱ δὲ ἐρυσίσκηπτρον, Ῥωμαῖοι σπίνα ἄλβα, οἱ δὲ ῥήγια, οἱ δὲ κάρδους ῥαμπτάρια.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-19-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-19-1",
-      "to": "wellmann-3-19-1-end",
-      "line_ids": [
-        "wellmann-3-19-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-19-5",
       "group": "criticus",
@@ -1918,8 +1888,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "12",
+      "subtype": "R",
+      "n": "3.12",
       "corresp": "#wellmann1906-3-12",
       "part": "",
       "lines": [
@@ -1955,7 +1925,7 @@
               "a": "awellmann-print-3-19-34-c2e"
             },
             {
-              "t": ", οἱ δὲ δονα-"
+              "t": ", οἱ δὲ δονα"
             },
             {
               "a": "wellmann-3-19-15-segment-c2-end"

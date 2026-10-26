@@ -43,7 +43,7 @@
           "a": "awellmann-print-3-67-9e"
         },
         {
-          "t": " μαράθῳ"
+          "t": " μαράϑῳ"
         },
         {
           "a": "awellmann-print-3-67-10e"
@@ -719,36 +719,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "EXC.: Orib. XII s. v. (σέσελι — εὐώδης) cf. Gal. XII 120 (unde Aet. I s. v. Paul. Aeg. VII 3 s. v.) Gal. (Orib. II 504. 564) Hes. s. v. σέσελι. Boiss. Anecd. II 406.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-67-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-67-1",
-      "to": "wellmann-3-67-1-end",
-      "line_ids": [
-        "wellmann-3-67-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-67-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "53 RV: σέσελι Μασσαλιωτικόν· οἱ δὲ σφάγνον. σέσελι Αἰθιοπικόν· Αἰγύπτιοι κυονονφρικί. σέσελι Πελοποννησιακόν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -2204,8 +2174,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "53",
+      "subtype": "R",
+      "n": "3.53",
       "corresp": "#wellmann1906-3-53",
       "part": "",
       "lines": [

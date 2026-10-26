@@ -276,7 +276,7 @@
           "a": "awellmann-print-3-147-16"
         },
         {
-          "t": "ἐν"
+          "t": "ἕν"
         },
         {
           "a": "awellmann-print-3-147-16e"
@@ -286,7 +286,7 @@
           "br": "⟩"
         },
         {
-          "t": " , "
+          "t": ", "
         },
         {
           "a": "awellmann-print-3-147-17"
@@ -314,7 +314,7 @@
           "a": "wellmann-3-147-u9"
         },
         {
-          "t": "πλασιάζοντας παῤ ἡμέραν πίνειν δὲ "
+          "t": "πλασιάζοντας παρ’ ἡμέραν· πίνειν δὲ "
         },
         {
           "a": "awellmann-print-3-147-18"
@@ -570,36 +570,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "SIM.: Pl. XXII 54 D. eup. I 54 (117) — Gal. XI 562 Nech. (Aet. I s. v.) carm. de herb. 1 — Pl. l. s. 53.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-147-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-147-1",
-      "to": "wellmann-3-147-1-end",
-      "line_ids": [
-        "wellmann-3-147-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-147-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "138 RV: ἀμάρακον· οἱ δὲ ἀνθεμίς, οἱ δὲ λευκάνθεμον, οἱ δὲ παρθένιον, οἱ δὲ χαμαίμηλον, οἱ δὲ χρυσοκαλλίας, οἱ δὲ μαλάβαθρον, οἱ δὲ ἄνθος πεδινόν, Ῥωμαῖοι σῶλις ὄκουλουμ, οἱ δὲ μιλλεφόλιουμ, Θοῦσκοι καντάμ, Ἄφροι θαμάκθ, Γάλλοι οὐίγνητα, Δάκοι δουώδηλα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -2119,8 +2089,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "138",
+      "subtype": "R",
+      "n": "3.138",
       "corresp": "#wellmann1906-3-138",
       "part": "",
       "lines": [

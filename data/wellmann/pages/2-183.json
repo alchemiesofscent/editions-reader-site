@@ -56,7 +56,7 @@
           "a": "wellmann-4-183-u2"
         },
         {
-          "t": "οἴνῳ ποθεὶς ὀξυβάφου πλῆθος δυσεντερικούς | καὶ κοιλιακοὺς"
+          "t": "οἴνῳ ποθεὶς ὀξυβάφου πλῆθος δυσεντερικοὺς | καὶ κοιλιακοὺς"
         },
         {
           "a": "wellmann-4-183-u2-end"
@@ -387,37 +387,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-183-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "16 RV: λειμώνιον· οἱ δὲ νευροειδές, οἱ δὲ λογχῖτις, οἱ δὲ νάπειον ὄνου, Μάρσοι μενδρουτά, Σύροι μεούδα, οἱ δὲ λυκοσέμφαλον, οἱ δὲ ἐλλεβοροσήματα, οἱ δὲ σκύλλιον, προφῆται λύκου καρδία, Ῥωμαῖοι οὐηράτρου⟨μ⟩ νίγρου⟨μ⟩, οἱ δὲ τιντιν⟨ν⟩άβουλουμ τέρραι, Γάλλοι ἰουρβαρούμ, Δάκοι δάκινα. 17 RV: λαγόπουν· οἱ δὲ λαγοῦ κύμινον καλοῦσιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "run_together",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-183-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-183-1",
-      "to": "wellmann-4-183-1-end",
-      "line_ids": [
-        "wellmann-4-183-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-183-6",
       "group": "criticus",
@@ -1942,8 +1911,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "16",
+      "subtype": "R",
+      "n": "4.16",
       "corresp": "#wellmann1906-4-16",
       "part": "",
       "lines": [
@@ -1970,7 +1939,7 @@
               "a": "wellmann-4-183-11-rul-fix"
             },
             {
-              "t": "νάπειον ὄνου, Μάρσοι μενδρουτά, Σύροι μεούδα, οἱ δὲ λυκοσέμ-"
+              "t": "νάπειον ὄνου, Μάρσοι μενδρουτά, Σύροι μεούδα, οἱ δὲ λυκοσέμ"
             },
             {
               "a": "wellmann-4-183-11-rul-fix-end"
@@ -2043,7 +2012,7 @@
               "br": "⟩"
             },
             {
-              "t": "άβου-"
+              "t": "άβου"
             },
             {
               "a": "wellmann-4-183-13-rul-fix-end"
@@ -2070,8 +2039,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "17",
+      "subtype": "R",
+      "n": "4.17",
       "corresp": "#wellmann1906-4-17",
       "part": "",
       "lines": [

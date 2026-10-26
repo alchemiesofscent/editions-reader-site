@@ -510,36 +510,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-191-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "28 RV: ὠκιμοειδές· οἱ δὲ καὶ ταύτην ἔχιον καλοῦσιν, οἱ δὲ σκορπίουρον, οἱ δὲ σπαργάνιον, οἱ δὲ ἀλθαία, οἱ δὲ ἀμαρανθίς, οἱ δὲ προβαταία, οἱ δὲ ἐλάφειον, οἱ δὲ ἀντίμιμον, οἱ δὲ πορφυρίδα, οἱ δὲ αὔγειον, οἱ δὲ νεμέσιον, οἱ δὲ Φιλεταίριον, οἱ δὲ ὑαινοψώνιον, οἱ δὲ θυρσῖτιν, οἱ δὲ θερμοῦθιν, οἱ δὲ μισοπαθές, Ῥωμαῖοι ὠκιμάστρουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-191-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-191-1",
-      "to": "wellmann-4-191-1-end",
-      "line_ids": [
-        "wellmann-4-191-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-191-8",
       "group": "criticus",
       "method": null,
@@ -2245,8 +2215,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "28",
+      "subtype": "R",
+      "n": "4.28",
       "corresp": "#wellmann1906-4-28",
       "part": "",
       "lines": [
@@ -2309,7 +2279,7 @@
               "a": "awellmann-print-4-191-34-c2e"
             },
             {
-              "t": ", οἱ δὲ ἀλθαία, οἱ δὲ ἀμα-"
+              "t": ", οἱ δὲ ἀλθαία, οἱ δὲ ἀμα"
             },
             {
               "a": "wellmann-4-191-16-segment-c2-end"
@@ -2391,7 +2361,7 @@
               "a": "wellmann-4-191-19-segment-c2"
             },
             {
-              "t": "οἱ δὲ ὑαινοψώνιον, οἱ δὲ θυρσῖτιν, οἱ δὲ θερμοῦθιν, οἱ δὲ μισο-"
+              "t": "οἱ δὲ ὑαινοψώνιον, οἱ δὲ θυρσῖτιν, οἱ δὲ θερμοῦθιν, οἱ δὲ μισο"
             },
             {
               "a": "wellmann-4-191-19-segment-c2-end"

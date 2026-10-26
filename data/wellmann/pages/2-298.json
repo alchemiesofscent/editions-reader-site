@@ -15,7 +15,7 @@
           "a": "awellmann-print-4-298-4"
         },
         {
-          "t": "ἴστησι"
+          "t": "ἵστησι"
         },
         {
           "a": "awellmann-print-4-298-4e"
@@ -236,7 +236,7 @@
           "a": "wellmann-4-298-u6"
         },
         {
-          "t": "ἐπ᾿ ἄκρου δὲ σκιάδια καθʼ ἑκάστην ἀπόφυσιν ἀνήθῳ ὄμοια,"
+          "t": "ἐπ᾿ ἄκρου δὲ σκιάδια καθʼ ἑκάστην ἀπόφυσιν ἀνήθῳ ὅμοια,"
         },
         {
           "a": "wellmann-4-298-u6-end"
@@ -475,7 +475,18 @@
           "a": "wellmann-4-298-13"
         },
         {
-          "t": "ἐκθλίβεῖσα καὶ "
+          "t": "",
+          "br": "["
+        },
+        {
+          "t": "καὶ ὀργάνου"
+        },
+        {
+          "t": "",
+          "br": "]"
+        },
+        {
+          "t": " ἐκθλιβεῖσα καὶ "
         },
         {
           "a": "awellmann-print-4-298-33"
@@ -678,36 +689,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "EXC: cf. Gal. XI 855 (= Aet. I s. v. Paul. Aeg. VII 3 s. v.).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-298-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-298-1",
-      "to": "wellmann-4-298-1-end",
-      "line_ids": [
-        "wellmann-4-298-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-4-298-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "153 RV: θαψία· οἱ δὲ ὑπώπιον, οἱ δὲ παγκράτιον, οἱ δὲ σκαμμώνιον, οἱ δὲ θηλυπτερίς, Ῥωμαῖοι φερουλάγω, οἱ δὲ φέρουλα σιλβέστρις, Ἄφροι βοιδίν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -2435,8 +2416,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "153",
+      "subtype": "R",
+      "n": "4.153",
       "corresp": "#wellmann1906-4-153",
       "part": "",
       "lines": [
@@ -2448,7 +2429,7 @@
               "a": "wellmann-4-298-17-segment-c2"
             },
             {
-              "t": "Θαψία· οἱ δὲ "
+              "t": "θαψία· οἱ δὲ "
             },
             {
               "a": "awellmann-print-4-298-42-c2"
@@ -2508,7 +2489,7 @@
               "a": "awellmann-print-4-298-46-c2e"
             },
             {
-              "t": ", οἱ δὲ φέ-"
+              "t": ", οἱ δὲ φέ"
             },
             {
               "a": "wellmann-4-298-u18-end"

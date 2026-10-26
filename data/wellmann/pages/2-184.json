@@ -440,36 +440,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-184-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "19 RV: ἐπιμήδιον· οἱ δὲ ἔρινος, οἱ δὲ θρυάς, οἱ δὲ πολύρριζον, Ῥωμαῖοι οὐινδίκτα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-184-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-184-1",
-      "to": "wellmann-4-184-1-end",
-      "line_ids": [
-        "wellmann-4-184-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-184-6",
       "group": "criticus",
       "method": null,
@@ -1625,8 +1595,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "19",
+      "subtype": "R",
+      "n": "4.19",
       "corresp": "#wellmann1906-4-19",
       "part": "",
       "lines": [
@@ -1662,7 +1632,7 @@
               "a": "awellmann-print-4-184-30-c2e"
             },
             {
-              "t": ", οἱ δὲ πολύρ-"
+              "t": ", οἱ δὲ πολύρ"
             },
             {
               "a": "wellmann-4-184-14-segment-c2-end"

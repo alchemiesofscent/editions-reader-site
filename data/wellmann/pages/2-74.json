@@ -158,7 +158,7 @@
           "a": "awellmann-print-3-74-14e"
         },
         {
-          "t": " ἀλφίτου ἐρυσιπέλατα καὶ ἔρπητας ἰᾶται, σὺν"
+          "t": " ἀλφίτου ἐρυσιπέλατα καὶ ἕρπητας ἰᾶται, σὺν"
         },
         {
           "a": "wellmann-3-74-u5-end"
@@ -173,7 +173,7 @@
           "a": "wellmann-3-74-u6"
         },
         {
-          "t": "μέλιτι δὲ καὶ σταφίδι ἐπινυκτίδας καὶ διδύμων φλεγμονὰς καὶ ἴνθρακας"
+          "t": "μέλιτι δὲ καὶ σταφίδι ἐπινυκτίδας καὶ διδύμων φλεγμονὰς καὶ ἄνϑρακας"
         },
         {
           "a": "wellmann-3-74-u6-end"
@@ -333,7 +333,7 @@
           "a": "awellmann-print-3-74-21e"
         },
         {
-          "t": " αὐτοῦ. ὁ δὲ χυλὸς σὺν ψιμυθίῳ ἡ"
+          "t": " αὐτοῦ. ὁ δὲ χυλὸς σὺν ψιμυθίῳ ἢ"
         },
         {
           "a": "wellmann-3-74-u11-end"
@@ -375,7 +375,7 @@
           "a": "wellmann-3-74-13"
         },
         {
-          "t": "τὴν ἐπιφάνειαν φλεγμονάς "
+          "t": "τὴν ἐπιφάνειαν φλεγμονὰς "
         },
         {
           "a": "awellmann-print-3-74-23"
@@ -396,36 +396,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-74-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "63 RV: κορίαννον ἢ κόριον, Αἰγύπτιοι ὄχιον, Ἄφροι γοίδ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-74-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-74-1",
-      "to": "wellmann-3-74-1-end",
-      "line_ids": [
-        "wellmann-3-74-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-74-5",
       "group": "criticus",
@@ -1360,8 +1330,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "63",
+      "subtype": "R",
+      "n": "3.63",
       "corresp": "#wellmann1906-3-63",
       "part": "",
       "lines": [

@@ -79,7 +79,7 @@
           "a": "wellmann-2-210-u3"
         },
         {
-          "t": "εται δὲ καὶ τοῦτο ἑφθόν τε καὶ ὠμὸν ἐσθιόμενον· ἔστι "
+          "t": "εται δὲ καὶ τοῦτο ἑφϑόν τε καὶ ὠμὸν ἐσϑιόμενον· ἔστι "
         },
         {
           "a": "awellmann-print-2-210-9"
@@ -144,7 +144,7 @@
           "a": "awellmann-print-2-210-13"
         },
         {
-          "t": "πλεῖον βρωθὲν"
+          "t": "πλεῖον βρωϑὲν"
         },
         {
           "a": "awellmann-print-2-210-13e"
@@ -250,7 +250,7 @@
           "a": "awellmann-print-2-210-17e"
         },
         {
-          "t": ". ἀποτίθενται δὲ αὐτὸ πρὸς τὸ πλείονα"
+          "t": ". ἀποτίϑενται δὲ αὐτὸ πρὸς τὸ πλείονα"
         },
         {
           "a": "wellmann-2-210-u8-end"
@@ -346,7 +346,15 @@
           "a": "awellmann-print-2-210-21"
         },
         {
+          "t": "",
+          "br": "⟨"
+        },
+        {
           "t": "δὲ"
+        },
+        {
+          "t": "",
+          "br": "⟩"
         },
         {
           "a": "awellmann-print-2-210-21e"
@@ -373,7 +381,7 @@
           "a": "awellmann-print-2-210-22"
         },
         {
-          "t": "σινἡπεως"
+          "t": "σινήπεως"
         },
         {
           "a": "awellmann-print-2-210-22e"
@@ -394,7 +402,7 @@
           "a": "wellmann-2-210-u13"
         },
         {
-          "t": "ἄνθρωποι χρῶνται. ἔστι δὲ "
+          "t": "ἄνϑρωποι χρῶνται. ἔστι δὲ "
         },
         {
           "a": "awellmann-print-2-210-23"
@@ -476,36 +484,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-210-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "140 RV: εὔζωμον· Ῥωμαῖοι ἠρούκαμ, Αἰγύπτιοι ἐθρεκιγκίν, Ἄφροι ἀσουρήκ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-210-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-210-1",
-      "to": "wellmann-2-210-1-end",
-      "line_ids": [
-        "wellmann-2-210-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-210-6",
       "group": "criticus",
@@ -1689,8 +1667,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "140",
+      "subtype": "R",
+      "n": "2.140",
       "corresp": "#wellmann1906-2-140",
       "part": "",
       "lines": [
@@ -1714,7 +1692,7 @@
               "a": "awellmann-print-2-210-30-c2e"
             },
             {
-              "t": ", Αἰγύπτιοι ἐθρεκιγ-"
+              "t": ", Αἰγύπτιοι ἐϑρεκιγ"
             },
             {
               "a": "wellmann-2-210-16-segment-c2-end"

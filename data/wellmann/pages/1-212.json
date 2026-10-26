@@ -740,7 +740,7 @@
           "a": "awellmann-print-2-212-49e"
         },
         {
-          "t": " ῥίζα ἐστὶ περιφερἡς, ἄφυλλος, ἄκαυλος, ὑπό"
+          "t": " ῥίζα ἐστὶ περιφερής, ἄφυλλος, ἄκαυλος, ὑπό"
         },
         {
           "a": "wellmann-2-212-18-end"
@@ -749,36 +749,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-212-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "143 RV: τραγοπώγων ἢ τετραπώγων, οἱ δὲ κόμην καλοῦσιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-212-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-212-1",
-      "to": "wellmann-2-212-1-end",
-      "line_ids": [
-        "wellmann-2-212-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-212-8",
       "group": "criticus",
@@ -2736,6 +2706,32 @@
     }
   ],
   "next_break_no": true,
+  "segments": [
+    {
+      "type": "recension",
+      "subtype": "R",
+      "n": "2.143",
+      "corresp": "#wellmann1906-2-143",
+      "part": "",
+      "lines": [
+        {
+          "n": "19",
+          "id": "wellmann-2-212-u19",
+          "parts": [
+            {
+              "a": "wellmann-2-212-u19"
+            },
+            {
+              "t": "143 RV: τραγοπώγων ἢ τετραπώγων, οἱ δὲ κόμην καλοῦσιν."
+            },
+            {
+              "a": "wellmann-2-212-u19-end"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "page_label": "I, p. 212",
   "scan_link": "https://dfg-viewer.de/show/?tx_dlf[id]=https%3A%2F%2Fcmg.bbaw.de%2Fepubl%2Fonline%2Fmets%2Fwa_dioscurides_mat_med_lib_1_2.xml&tx_dlf[page]=218"
 }

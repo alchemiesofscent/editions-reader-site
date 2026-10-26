@@ -616,36 +616,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-302-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "158 RV: νάρκισσος· οἱ δὲ νάρκισσος ἄνυγρος, οἱ δὲ αὐτογενές, οἱ δὲ βολβὸς ὁ ἐμετικός, οἱ δὲ λείριον, Ῥωμαῖοι βούλβους βομιτώριους.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-302-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-302-1",
-      "to": "wellmann-4-302-1-end",
-      "line_ids": [
-        "wellmann-4-302-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-302-5",
       "group": "criticus",
       "method": null,
@@ -2191,8 +2161,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "158",
+      "subtype": "R",
+      "n": "4.158",
       "corresp": "#wellmann1906-4-158",
       "part": "",
       "lines": [
@@ -2216,7 +2186,7 @@
               "a": "awellmann-print-4-302-39-c2e"
             },
             {
-              "t": ", οἱ δὲ αὐτο-"
+              "t": ", οἱ δὲ αὐτο"
             },
             {
               "a": "wellmann-4-302-17-segment-c2-end"
@@ -2243,7 +2213,7 @@
               "a": "awellmann-print-4-302-42-c2e"
             },
             {
-              "t": ", Ῥωμαῖοι βούλ-"
+              "t": ", Ῥωμαῖοι βούλ"
             },
             {
               "a": "wellmann-4-302-18-segment-c2-end"

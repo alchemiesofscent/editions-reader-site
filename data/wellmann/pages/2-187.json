@@ -49,7 +49,7 @@
           "a": "awellmann-print-4-187-6"
         },
         {
-          "t": "καὶ ὀστᾶ καὶ σκόλοπας"
+          "t": "καὶ ὀστᾶ· καὶ σκόλοπας"
         },
         {
           "a": "awellmann-print-4-187-6e"
@@ -388,36 +388,6 @@
         "witness-disagreement"
       ],
       "printed": "SIM.: D. eup. I 166. 167 (179) — eup. I 147 (168) — eup. II 34 (247) — eup. I 237 (218) — eup. II 112 (311) — eup. II 48 (260) — eup. II 61 (272).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-187-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-187-1",
-      "to": "wellmann-4-187-1-end",
-      "line_ids": [
-        "wellmann-4-187-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-4-187-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "23 RV: ἄγχουσα· οἱ δὲ κατάγχουσα, οἱ δὲ Λιβυκή, οἱ δὲ ἀρχιβέλλιον, οἱ δὲ Ἀλκιβιάδειον, οἱ δὲ ὀνοχειλές, οἱ δὲ πορφυρίς, οἱ δὲ Μέδουσα, οἱ δὲ κάλυξ, οἱ δὲ ὀνοκλείαν, Ἄφροι βουνεσάθ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1619,8 +1589,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "23",
+      "subtype": "R",
+      "n": "4.23",
       "corresp": "#wellmann1906-4-23",
       "part": "",
       "lines": [
@@ -1713,7 +1683,7 @@
               "a": "awellmann-print-4-187-29-c2e"
             },
             {
-              "t": ", οἱ δὲ ὀνοχειλές, οἱ δὲ πορ-"
+              "t": ", οἱ δὲ ὀνοχειλές, οἱ δὲ πορ"
             },
             {
               "a": "wellmann-4-187-12-segment-c2-end"

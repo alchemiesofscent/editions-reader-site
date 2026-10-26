@@ -67,7 +67,7 @@
           "a": "awellmann-print-4-314-11e"
         },
         {
-          "t": " Κανωτικὸν καλοῦσιν. "
+          "t": " Κανωπικὸν καλοῦσιν. "
         },
         {
           "a": "awellmann-print-4-314-10"
@@ -656,36 +656,6 @@
         "witness-disagreement"
       ],
       "printed": "EXC.: Orib. XII s. v. τιθυμάλλου (πιτύουσα — θάμνος); cf. Gal. XII 103 (= Paul. Aeg. VII 3 s. v.).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-314-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-314-1",
-      "to": "wellmann-4-314-1-end",
-      "line_ids": [
-        "wellmann-4-314-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-4-314-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "165 RV: πιτύουσα· οἱ δὲ κλῆμα, οἱ δὲ κραμβίον, οἱ δὲ παράλιον, οἱ δὲ Κανωπικὸν καλοῦσιν. 166 RV: λαθυρίς· οἱ δὲ καὶ ταύτην τιθύμαλλον καλοῦσιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1908,8 +1878,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "165",
+      "subtype": "R",
+      "n": "4.165",
       "corresp": "#wellmann1906-4-165",
       "part": "",
       "lines": [
@@ -1959,8 +1929,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "166",
+      "subtype": "R",
+      "n": "4.166",
       "corresp": "#wellmann1906-4-166",
       "part": "",
       "lines": [

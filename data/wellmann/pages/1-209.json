@@ -349,37 +349,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-2-209-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "137 RV: γιγγίδιον· οἱ δὲ λεπίδιον, Ῥωμαῖοι βὶς ἀκούτουμ, Αἰγύπτιοι δωρισάστρου, Σύροι ἀδοριού, Ἄφροι τιρινταί. 138 RV: σκάνδυξ· Ῥωμαῖοι ἔρβα κανάρια, οἱ δὲ ἀκίκουλαμ. 139 RV: καυκαλίς· οἱ δὲ καῦκον ἢ δαῦκον ἄγριον, οἱ δὲ μῦτις, Δημόκριτος βρύον, Ῥωμαῖοι πέδε⟨μ⟩ γαλλινάκιουμ, οἱ δὲ πέδε⟨μ⟩ πούλλι, Αἰγύπτιοι σεσελίς.",
-      "flags": [
-        "line-reference-unavailable",
-        "run_together",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-209-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-209-1",
-      "to": "wellmann-2-209-1-end",
-      "line_ids": [
-        "wellmann-2-209-1"
-      ]
-    },
-    {
       "id": "wellmann-print-2-209-6",
       "group": "criticus",
       "method": null,
@@ -1865,8 +1834,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "137",
+      "subtype": "R",
+      "n": "2.137",
       "corresp": "#wellmann1906-2-137",
       "part": "",
       "lines": [
@@ -1940,8 +1909,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "138",
+      "subtype": "R",
+      "n": "2.138",
       "corresp": "#wellmann1906-2-138",
       "part": "",
       "lines": [
@@ -1953,7 +1922,7 @@
               "a": "wellmann-2-209-11-segment-c2"
             },
             {
-              "t": "σκάνδυξ· Ῥωμαῖοι ἕρβα "
+              "t": "σκάνδυξ· Ῥωμαῖοι ἔρβα "
             },
             {
               "a": "awellmann-print-2-209-34-c2"
@@ -1976,8 +1945,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "139",
+      "subtype": "R",
+      "n": "2.139",
       "corresp": "#wellmann1906-2-139",
       "part": "",
       "lines": [

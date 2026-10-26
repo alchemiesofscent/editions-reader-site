@@ -16,7 +16,7 @@
           "num": true
         },
         {
-          "t": " κράμβη ἥμερος εὐκοίλιος ἀκρόζεστος ἐσθιομένη, ἡ"
+          "t": " κράμβη ἥμερος εὐκοίλιος ἀκρόξεστος ἐσθιομένη, ἡ"
         },
         {
           "a": "wellmann-2-193-1-end"
@@ -592,36 +592,6 @@
         "witness-disagreement"
       ],
       "printed": "EXC. Gal. XII 42, cf. VI 630. Aet. I s. v. Paul. Aeg. VII 3 s. v. (e Gal.).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-193-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-193-1",
-      "to": "wellmann-2-193-1-end",
-      "line_ids": [
-        "wellmann-2-193-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-2-193-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "120 RV: κράμβη ἥμερος· οἱ δὲ κράμβη κηπαία, Ῥωμαῖοι βράσσικα.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1236,6 +1206,47 @@
       "n": "120",
       "label": "Caput 120",
       "context": false
+    }
+  ],
+  "segments": [
+    {
+      "type": "recension",
+      "subtype": "R",
+      "n": "2.120",
+      "corresp": "#wellmann1906-2-120",
+      "part": "",
+      "lines": [
+        {
+          "n": "17",
+          "id": "wellmann-2-193-u17",
+          "parts": [
+            {
+              "a": "wellmann-2-193-u17"
+            },
+            {
+              "t": "120 RV: κράμβη ἥμερος· οἱ δὲ κράμβη κηπαία, Ῥωμαῖοι"
+            },
+            {
+              "a": "wellmann-2-193-u17-end"
+            }
+          ]
+        },
+        {
+          "n": "18",
+          "id": "wellmann-2-193-u18",
+          "parts": [
+            {
+              "a": "wellmann-2-193-u18"
+            },
+            {
+              "t": "βράσσικα."
+            },
+            {
+              "a": "wellmann-2-193-u18-end"
+            }
+          ]
+        }
+      ]
     }
   ],
   "page_label": "I, p. 193",

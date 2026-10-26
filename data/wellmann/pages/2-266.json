@@ -484,66 +484,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-266-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "115 RV: μυρρίς· οἱ δὲ μύρραν καλοῦσιν, οἱ δὲ κονίλην.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-266-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-266-1",
-      "to": "wellmann-4-266-1-end",
-      "line_ids": [
-        "wellmann-4-266-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-4-266-2",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "116 RV: μύαγρον ἢ ἀσπάραγον ἄγριον· οἱ δὲ πετραῖον, οἱ δὲ μελάμπυρον, οἱ δὲ μυόθηρον, οἱ δὲ μυάγραν, Ῥωμαῖοι σπάραγουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-266-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-266-1",
-      "to": "wellmann-4-266-1-end",
-      "line_ids": [
-        "wellmann-4-266-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-266-8",
       "group": "criticus",
       "method": null,
@@ -2329,8 +2269,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "115",
+      "subtype": "R",
+      "n": "4.115",
       "corresp": "#wellmann1906-4-115",
       "part": "",
       "lines": [
@@ -2374,8 +2314,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "116",
+      "subtype": "R",
+      "n": "4.116",
       "corresp": "#wellmann1906-4-116",
       "part": "",
       "lines": [
@@ -2426,7 +2366,7 @@
               "a": "wellmann-4-266-14-segment-c2"
             },
             {
-              "t": "δὲ μελάμπυρον, οἱ δὲ μυόθηρον, οἱ δὲ μυάγραν, Ῥωμαῖοι σπά-"
+              "t": "δὲ μελάμπυρον, οἱ δὲ μυόθηρον, οἱ δὲ μυάγραν, Ῥωμαῖοι σπά"
             },
             {
               "a": "wellmann-4-266-14-segment-c2-end"

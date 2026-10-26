@@ -527,7 +527,21 @@
           "a": "awellmann-print-1-5-29e"
         },
         {
-          "t": " ἢ ὠχρὰ ἢ "
+          "t": " "
+        },
+        {
+          "t": "",
+          "br": "["
+        },
+        {
+          "t": "ἢ ὠχρὰ"
+        },
+        {
+          "t": "",
+          "br": "]"
+        },
+        {
+          "t": " ἢ "
         },
         {
           "a": "awellmann-print-1-5-30"
@@ -563,37 +577,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-1-5-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "1 RV: ἶρις· οἱ δὲ ἶρις Ἰλλυρική, οἱ δὲ θαλπεινή, οἱ δὲ οὐρανία, οἱ δὲ καθαίρον, οἱ δὲ Θαυμαστίς, Ῥωμαῖοι ῥάδιξ μου",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "split_entry",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-1-5-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-1-5-1",
-      "to": "wellmann-1-5-1-end",
-      "line_ids": [
-        "wellmann-1-5-1"
-      ]
-    },
     {
       "id": "wellmann-print-1-5-4",
       "group": "criticus",
@@ -1794,8 +1777,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "1",
+      "subtype": "R",
+      "n": "1.1",
       "corresp": "#wellmann1906-1-1",
       "part": "I",
       "lines": [
@@ -1840,7 +1823,7 @@
               "a": "awellmann-print-1-5-34-rul"
             },
             {
-              "t": "θαυμαστίς"
+              "t": "Θαυμαστίς"
             },
             {
               "a": "awellmann-print-1-5-34-rule"

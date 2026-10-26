@@ -78,7 +78,18 @@
           "a": "wellmann-3-121-2"
         },
         {
-          "t": "ἕτερον ἕλκος "
+          "t": "",
+          "br": "["
+        },
+        {
+          "t": "ἐὰν"
+        },
+        {
+          "t": "",
+          "br": "]"
+        },
+        {
+          "t": " ἕτερον ἕλκος "
         },
         {
           "a": "awellmann-print-3-121-10"
@@ -470,36 +481,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-121-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "110 RV: πόλιον τὸ ὀρεινόν· οἱ δὲ φευξασπίδιον, οἱ δὲ ἀχαιμενίς, οἱ δὲ ἐβενῖτις, οἱ δὲ μελίοσμον, οἱ δὲ βόλιον, οἱ δὲ λεοντοχάρων.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-121-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-121-1",
-      "to": "wellmann-3-121-1-end",
-      "line_ids": [
-        "wellmann-3-121-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-121-4",
       "group": "criticus",
@@ -1929,8 +1910,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "110",
+      "subtype": "R",
+      "n": "3.110",
       "corresp": "#wellmann1906-3-110",
       "part": "",
       "lines": [
@@ -1942,7 +1923,7 @@
               "a": "wellmann-3-121-12-segment-c2"
             },
             {
-              "t": "πόλιον τὸ ὀρεινόν· οἱ δὲ τεύθριον, οἱ δὲ φευξα-"
+              "t": "πόλιον τὸ ὀρεινόν· οἱ δὲ τεύθριον, οἱ δὲ φευξα"
             },
             {
               "a": "wellmann-3-121-12-segment-c2-end"

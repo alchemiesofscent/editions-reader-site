@@ -167,7 +167,7 @@
           "a": "awellmann-print-3-83-15e"
         },
         {
-          "t": " ἐν τῷ "
+          "t": " | ἐν τῷ "
         },
         {
           "a": "awellmann-print-3-83-16"
@@ -380,7 +380,7 @@
           "br": "⟨"
         },
         {
-          "t": "δέ"
+          "t": "δὲ"
         },
         {
           "t": "",
@@ -626,36 +626,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "EXC.: Orib. XI (δαῦκος — δριμέος) cf. Gal. XI 862. Hes. s. v. δαῦκος.",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-83-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-83-1",
-      "to": "wellmann-3-83-1-end",
-      "line_ids": [
-        "wellmann-3-83-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-83-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "72 RV: δαῦκος· οἱ δὲ δίρχαιον καλοῦσιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1759,6 +1729,32 @@
     }
   ],
   "next_break_no": true,
+  "segments": [
+    {
+      "type": "recension",
+      "subtype": "R",
+      "n": "3.72",
+      "corresp": "#wellmann1906-3-72",
+      "part": "",
+      "lines": [
+        {
+          "n": "14",
+          "id": "wellmann-3-83-u14",
+          "parts": [
+            {
+              "a": "wellmann-3-83-u14"
+            },
+            {
+              "t": "72 RV: δαῦκος· οἱ δὲ δίρκαιον καλοῦσιν."
+            },
+            {
+              "a": "wellmann-3-83-u14-end"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "page_label": "II, p. 83",
   "scan_link": "https://dfg-viewer.de/show/?tx_dlf[id]=https%3A%2F%2Fcmg.bbaw.de%2Fepubl%2Fonline%2Fmets%2Fwa_dioscurides_mat_med_lib_3_4.xml&tx_dlf[page]=109"
 }

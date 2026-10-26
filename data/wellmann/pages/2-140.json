@@ -470,7 +470,7 @@
           "a": "awellmann-print-3-140-31"
         },
         {
-          "t": "ἐμφερέστατα"
+          "t": "| ἐμφερέστατα"
         },
         {
           "a": "awellmann-print-3-140-31e"
@@ -514,36 +514,6 @@
         "unplaced_entry_requires_review"
       ],
       "printed": "SIM.: Zop. (Orib. II 590) Pl. l. s. D. eup. I 144 (166) — Pl. eup. I 167 (180).",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-140-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-140-1",
-      "to": "wellmann-3-140-1-end",
-      "line_ids": [
-        "wellmann-3-140-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-140-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "131 RV: ὄνοσμα ἢ ὄνωνις· οἱ δὲ φλονῖτιν, οἱ δὲ ὀνωνῖτιν καλοῦσιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -1849,8 +1819,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "131",
+      "subtype": "R",
+      "n": "3.131",
       "corresp": "#wellmann1906-3-131",
       "part": "",
       "lines": [

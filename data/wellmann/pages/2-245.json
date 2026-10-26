@@ -528,36 +528,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-245-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "85 RV: περδίκιον· οἱ δὲ Λυσιμάχειον, οἱ δὲ σιδηρῖτιν, οἱ δὲ ἑλξίνην, οἱ δὲ χαλκίς, οἱ δὲ παρθένιον, οἱ δὲ κλύβατιν, οἱ δὲ οἰσύινος, οἱ δὲ Ἡράκλειον, οἱ δὲ ἑλκίνα, οἱ δὲ οἰσύαν ἀγρίαν, οἱ δὲ πολυώνυμον, Ῥωμαῖοι ἔρβα καλικλάρια, οἱ δὲ βιτράριαμ, οἱ δὲ παριητάριαμ, Ἄφροι ἀτιερβίτριε.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-245-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-245-1",
-      "to": "wellmann-4-245-1-end",
-      "line_ids": [
-        "wellmann-4-245-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-245-4",
       "group": "criticus",
       "method": null,
@@ -2139,8 +2109,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "85",
+      "subtype": "R",
+      "n": "4.85",
       "corresp": "#wellmann1906-4-85",
       "part": "",
       "lines": [
@@ -2245,7 +2215,7 @@
               "a": "wellmann-4-245-u16"
             },
             {
-              "t": "οἱ δὲ πολυώνυμον, Ῥωμαῖοι ἕρβα "
+              "t": "οἱ δὲ πολυώνυμον, Ῥωμαῖοι ἔρβα "
             },
             {
               "a": "awellmann-print-4-245-42-c2"

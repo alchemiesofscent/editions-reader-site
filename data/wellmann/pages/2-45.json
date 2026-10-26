@@ -364,36 +364,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-3-45-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "34 RV: ἡδύοσμον ἥμερον· οἱ δὲ μίνθα, οἱ δὲ καλαμίνθη, Ῥωμαῖοι μέντα, οἱ δὲ νεπέταμ, Αἰγύπτιοι τίς, οἱ δὲ φερθρουμίνθου, οἱ δὲ περξώ, οἱ δὲ μακιθώ. ἡδύοσμον ἄγριον· Ῥωμαῖοι μεντάστρουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-45-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-45-1",
-      "to": "wellmann-3-45-1-end",
-      "line_ids": [
-        "wellmann-3-45-1"
-      ]
-    },
-    {
       "id": "wellmann-print-3-45-6",
       "group": "criticus",
       "method": null,
@@ -1762,8 +1732,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "34",
+      "subtype": "R",
+      "n": "3.34",
       "corresp": "#wellmann1906-3-34",
       "part": "",
       "lines": [
@@ -1823,7 +1793,7 @@
               "a": "awellmann-print-3-45-33-c2e"
             },
             {
-              "t": ", Αἰγύπτιοι τίς, οἱ δὲ φερθρου-"
+              "t": ", Αἰγύπτιοι τίς, οἱ δὲ φερθρου"
             },
             {
               "a": "wellmann-3-45-u11-end"

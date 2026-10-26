@@ -412,36 +412,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-306-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "162 RV: ἐλλέβορος μέλας· οἱ δὲ Μελαμπόδιον, οἱ δὲ Ὀρέστιον, οἱ δὲ πολύρριζον, οἱ δὲ Προίτιον, οἱ δὲ μελανόρριζον, οἱ δὲ κοιράνειον, προφῆται ζωμαρῖτις, Αἰγύπτιοι ἰγαΐα, οἱ δὲ",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-306-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-306-1",
-      "to": "wellmann-4-306-1-end",
-      "line_ids": [
-        "wellmann-4-306-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-306-5",
       "group": "criticus",
       "method": null,
@@ -1688,8 +1658,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "162",
+      "subtype": "R",
+      "n": "4.162",
       "corresp": "#wellmann1906-4-162",
       "part": "I",
       "lines": [
@@ -1713,7 +1683,7 @@
               "a": "awellmann-print-4-306-27-c2e"
             },
             {
-              "t": ", οἱ δὲ Ὀρέ-"
+              "t": ", οἱ δὲ Ὀρέ"
             },
             {
               "a": "wellmann-4-306-14-segment-c2-end"

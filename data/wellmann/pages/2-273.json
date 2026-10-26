@@ -30,7 +30,18 @@
           "a": "awellmann-print-4-273-7"
         },
         {
-          "t": "λεπτή"
+          "t": "",
+          "br": "["
+        },
+        {
+          "t": "λευκή,"
+        },
+        {
+          "t": "",
+          "br": "]"
+        },
+        {
+          "t": " λεπτή"
         },
         {
           "a": "awellmann-print-4-273-7e"
@@ -362,36 +373,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-273-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "10 127 RV: βούγλωσσον· προφῆται γόνος αἰλούρου, Ὀσθάνης σαννουχί, Αἰγύπτιοι ἀντουεριμβέσωρ, Ῥωμαῖοι λίγγουα βόβουμ,",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-273-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-273-1",
-      "to": "wellmann-4-273-1-end",
-      "line_ids": [
-        "wellmann-4-273-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-273-6",
       "group": "criticus",
@@ -1934,8 +1915,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "127",
+      "subtype": "R",
+      "n": "4.127",
       "corresp": "#wellmann1906-4-127",
       "part": "I",
       "lines": [

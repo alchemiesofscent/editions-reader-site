@@ -285,7 +285,7 @@
           "a": "awellmann-print-4-223-21"
         },
         {
-          "t": "παῤ αὐτῷ"
+          "t": "παρ᾽ αὐτῷ"
         },
         {
           "a": "awellmann-print-4-223-21e"
@@ -479,36 +479,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-4-223-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "66 RV: μήκων ἀφρώδης.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-223-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-223-1",
-      "to": "wellmann-4-223-1-end",
-      "line_ids": [
-        "wellmann-4-223-1"
-      ]
-    },
     {
       "id": "wellmann-print-4-223-5",
       "group": "criticus",
@@ -1659,8 +1629,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "66",
+      "subtype": "R",
+      "n": "4.66",
       "corresp": "#wellmann1906-4-66",
       "part": "",
       "lines": [

@@ -511,36 +511,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-185-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "20 RV: ξίφιον· οἱ δὲ ἀνακτόριον, οἱ δὲ φασγάνιον, οἱ δὲ μαχαιρώνιον, οἱ δὲ Ἄρειον, Ῥωμαῖοι γλαδιώλουμ, οἱ δὲ σεγετάλεμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-185-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-185-1",
-      "to": "wellmann-4-185-1-end",
-      "line_ids": [
-        "wellmann-4-185-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-185-4",
       "group": "criticus",
       "method": null,
@@ -1749,8 +1719,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "20",
+      "subtype": "R",
+      "n": "4.20",
       "corresp": "#wellmann1906-4-20",
       "part": "",
       "lines": [
@@ -1813,7 +1783,7 @@
               "a": "awellmann-print-4-185-32-c2e"
             },
             {
-              "t": ", οἱ δὲ σεγε-"
+              "t": ", οἱ δὲ σεγε"
             },
             {
               "a": "wellmann-4-185-17-segment-c2-end"

@@ -364,36 +364,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-3-112-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "100 RV: λυχνὶς στεφανωματική· οἱ δὲ ἀθάνατος, οἱ δὲ ἀκυλλώνιον, οἱ δὲ βάλλαρις, οἱ δὲ γερανοπόδιον, οἱ δὲ κορύμβιον, οἱ δὲ ταύρειον, οἱ δὲ σκῆπτρον, οἱ δὲ μαλλόϊον, Αἰγύπτιοι σεμεώρ, προφῆται αἷμα ἀποκαθημένης, Ῥωμαῖοι γενικουλάρις, οἱ δὲ βαλλάρια. 101 RV: λυχνὶς ἀγρία ὁμοία τῇ ἡμέρῳ· οἱ δὲ λαμπάς, οἱ δὲ τραγόνωτον, οἱ δὲ ἀτόκιον, οἱ δὲ ἱερακοπόδιον, Αἰγύπτιοι σεμονέρ, προφῆται ἀποκαθημένης ταῦρος, Ῥωμαῖοι ἴντουβουμ ἀγρέστεμ, οἱ δὲ λαπτούκα φατουίνα, οἱ δὲ στέριλις.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-112-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-112-1",
-      "to": "wellmann-3-112-1-end",
-      "line_ids": [
-        "wellmann-3-112-1"
-      ]
-    },
-    {
       "id": "wellmann-print-3-112-5",
       "group": "criticus",
       "method": null,
@@ -2238,8 +2208,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "100",
+      "subtype": "R",
+      "n": "3.100",
       "corresp": "#wellmann1906-3-100",
       "part": "",
       "lines": [
@@ -2254,7 +2224,7 @@
               "t": "λυχνὶς στεφανωματική· οἱ δὲ ἀθάνατος, οἱ δὲ "
             },
             {
-              "t": "ἀκυλ-"
+              "t": "ἀκυλ"
             },
             {
               "a": "wellmann-3-112-8-segment-c2-end"
@@ -2318,7 +2288,7 @@
               "a": "awellmann-print-3-112-37-c2e"
             },
             {
-              "t": ", προ-"
+              "t": ", προ"
             },
             {
               "a": "wellmann-3-112-10-segment-c2-end"
@@ -2369,8 +2339,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "101",
+      "subtype": "R",
+      "n": "3.101",
       "corresp": "#wellmann1906-3-101",
       "part": "",
       "lines": [

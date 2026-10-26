@@ -754,37 +754,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-253-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "95 RV: γάλαιον· οἱ δὲ γαλαίριον, οἱ δὲ γαλάτιον καλοῦσιν ἀπὸ τοῦ γάλα πηγνύειν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "rv_lineation_unavailable",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-253-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-253-1",
-      "to": "wellmann-4-253-1-end",
-      "line_ids": [
-        "wellmann-4-253-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-253-3",
       "group": "criticus",
       "method": null,
@@ -2468,8 +2437,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "95",
+      "subtype": "R",
+      "n": "4.95",
       "corresp": "#wellmann1906-4-95",
       "part": "",
       "lines": [

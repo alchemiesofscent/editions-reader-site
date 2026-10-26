@@ -12,7 +12,7 @@
           "a": "wellmann-2-197-1"
         },
         {
-          "t": "τερίαν"
+          "t": "τερίων"
         },
         {
           "a": "awellmann-print-2-196-21e"
@@ -39,7 +39,7 @@
           "a": "awellmann-print-2-197-5e"
         },
         {
-          "t": " καὶ πρὸς σηπὸς δήγματα. καὶ"
+          "t": " καὶ πρὸς σητὸς δήγματα. καὶ"
         },
         {
           "a": "wellmann-2-197-1-end"
@@ -260,7 +260,7 @@
           "a": "awellmann-print-2-197-17"
         },
         {
-          "t": "ὅρμινον"
+          "t": "δριμινον"
         },
         {
           "a": "awellmann-print-2-197-17e"
@@ -474,7 +474,7 @@
           "a": "awellmann-print-2-197-29"
         },
         {
-          "t": "τούς κύνας"
+          "t": "τοὺς κύνας"
         },
         {
           "a": "awellmann-print-2-197-29e"
@@ -579,36 +579,6 @@
       "anchored": true,
       "from": "wellmann-2-197-1",
       "to": "awellmann-print-2-196-22e",
-      "line_ids": [
-        "wellmann-2-197-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-2-197-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "125 RV: μύαγρον ἢ ἀσπάραγον ἄγριον, οἱ δὲ πετραῖον, οἱ δὲ μελάμπυρον, οἱ δὲ μυόθηρον, οἱ δὲ μυάγραν, Ῥωμαῖοι σπάραγουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-197-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-197-1",
-      "to": "wellmann-2-197-1-end",
       "line_ids": [
         "wellmann-2-197-1"
       ]
@@ -1882,8 +1852,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "125",
+      "subtype": "R",
+      "n": "2.125",
       "corresp": "#wellmann1906-2-125",
       "part": "",
       "lines": [

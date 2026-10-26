@@ -120,7 +120,7 @@
           "a": "awellmann-print-2-205-11e"
         },
         {
-          "t": ", ἅ τινα"
+          "t": ", ἃ τινα"
         },
         {
           "a": "wellmann-2-205-u3-end"
@@ -536,36 +536,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-2-205-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "133 RV: χονδρίλη· οἱ δὲ καὶ τοῦτο κιχώριον ἢ σερίδα καλοῦσιν.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-205-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-205-1",
-      "to": "wellmann-2-205-1-end",
-      "line_ids": [
-        "wellmann-2-205-1"
-      ]
-    },
     {
       "id": "wellmann-print-2-205-5",
       "group": "criticus",
@@ -1651,8 +1621,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "133",
+      "subtype": "R",
+      "n": "2.133",
       "corresp": "#wellmann1906-2-133",
       "part": "",
       "lines": [
@@ -1664,7 +1634,7 @@
               "a": "wellmann-2-205-20-rul-fix"
             },
             {
-              "t": "χονδρίλη· οἱ δὲ καὶ τοῦτο κιχώριον ἢ σερίδα κα-"
+              "t": "χονδρίλη· οἱ δὲ καὶ τοῦτο κικώριον ἢ σερίδα κα"
             },
             {
               "a": "wellmann-2-205-20-rul-fix-end"

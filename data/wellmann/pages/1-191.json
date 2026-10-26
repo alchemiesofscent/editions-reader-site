@@ -271,96 +271,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-2-191-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "117 RV: βλίτον· Αἰγύπτιοι ἐχλωτοριπλάμ, οἱ δὲ ῥιπλάν,",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-191-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-191-1",
-      "to": "wellmann-2-191-1-end",
-      "line_ids": [
-        "wellmann-2-191-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-2-191-2",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "10 Ῥωμαῖοι βλίτουμ, Δάκοι βλίς. 118 RV: μαλάχη κηπαία· Ῥωμαῖοι μάλβα ὁρτένσε, Πυθαγόρας ἀνάθεμα, Ζωροάστρης διάδεσμα, Αἰγύπτιοι χωκόρτην, προφῆται αἰγὸς σπλήν, οἱ δὲ οὐρὰ μυός. μαλάχη ἀγρία χερσαία· οἱ δὲ στρεμφύλλιον, Ῥωμαῖοι μάλβα",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-191-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-191-1",
-      "to": "wellmann-2-191-1-end",
-      "line_ids": [
-        "wellmann-2-191-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-2-191-3",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "15 ῥούστικα, Ἄφροι βοιββά.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-2-191-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-2-191-1",
-      "to": "wellmann-2-191-1-end",
-      "line_ids": [
-        "wellmann-2-191-1"
-      ]
-    },
-    {
       "id": "wellmann-print-2-191-8",
       "group": "criticus",
       "method": null,
@@ -1645,8 +1555,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "117",
+      "subtype": "R",
+      "n": "2.117",
       "corresp": "#wellmann1906-2-117",
       "part": "",
       "lines": [
@@ -1708,8 +1618,8 @@
     },
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "118",
+      "subtype": "R",
+      "n": "2.118",
       "corresp": "#wellmann1906-2-118",
       "part": "",
       "lines": [
@@ -1733,7 +1643,7 @@
               "a": "awellmann-print-2-191-29-c2e"
             },
             {
-              "t": ", Πυθα-"
+              "t": ", Πυθα"
             },
             {
               "a": "wellmann-2-191-11-segment-c2-end"

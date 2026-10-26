@@ -420,36 +420,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-231-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "72 RV: ἀλικάκκαβος· οἱ δὲ Διρκαῖον, οἱ δὲ στρύχνον μανικόν, οἱ δὲ δορύκνιον, οἱ δὲ κακκαλίαν, Ῥωμαῖοι Ἀπολλινάρις μίνορ, οἱ δὲ ἔρβα οὐατίκινα, οἱ δὲ οὐάτεμ, Δάκοι κοικολίδα, Ἄφροι κακκαβούμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-231-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-231-1",
-      "to": "wellmann-4-231-1-end",
-      "line_ids": [
-        "wellmann-4-231-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-231-6",
       "group": "criticus",
       "method": null,
@@ -1832,8 +1802,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "72",
+      "subtype": "R",
+      "n": "4.72",
       "corresp": "#wellmann1906-4-72",
       "part": "",
       "lines": [
@@ -1845,7 +1815,7 @@
               "a": "wellmann-4-231-12-segment-c2"
             },
             {
-              "t": "ἁλικάκκαβος· οἱ δὲ Διρκαῖον, οἱ δὲ στρύχνον μα-"
+              "t": "ἀλικάκκαβος· οἱ δὲ Διρκαῖον, οἱ δὲ στρύχνον μα"
             },
             {
               "a": "wellmann-4-231-12-segment-c2-end"

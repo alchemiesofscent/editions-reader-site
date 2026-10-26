@@ -423,36 +423,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-3-69-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "56 RV: ἄνησσον· οἱ δὲ σίον, Ῥωμαῖοι ἀνήσουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-69-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-69-1",
-      "to": "wellmann-3-69-1-end",
-      "line_ids": [
-        "wellmann-3-69-1"
-      ]
-    },
-    {
       "id": "wellmann-print-3-69-6",
       "group": "criticus",
       "method": null,
@@ -1816,6 +1786,32 @@
       "n": "56",
       "label": "Caput 56",
       "context": false
+    }
+  ],
+  "segments": [
+    {
+      "type": "recension",
+      "subtype": "R",
+      "n": "3.56",
+      "corresp": "#wellmann1906-3-56",
+      "part": "",
+      "lines": [
+        {
+          "n": "11",
+          "id": "wellmann-3-69-u11",
+          "parts": [
+            {
+              "a": "wellmann-3-69-u11"
+            },
+            {
+              "t": "56 RV: ἄνησσον· οἱ δὲ σίον, Ῥωμαῖοι ἀνήσουμ."
+            },
+            {
+              "a": "wellmann-3-69-u11-end"
+            }
+          ]
+        }
+      ]
     }
   ],
   "page_label": "II, p. 69",

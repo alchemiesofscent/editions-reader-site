@@ -39,7 +39,7 @@
           "a": "wellmann-4-246-u2"
         },
         {
-          "t": "πλασσόμενα ἰᾶται ἐρυσιπέλατα, κονδυλώματα, κατακαύματα,"
+          "t": "πλασσόμενα | ἰᾶται ἐρυσιπέλατα, κονδυλώματα, κατακαύματα,"
         },
         {
           "a": "wellmann-4-246-u2-end"
@@ -278,7 +278,7 @@
           "num": true
         },
         {
-          "t": " ἀ "
+          "t": " "
         },
         {
           "a": "awellmann-print-4-246-19"
@@ -525,36 +525,6 @@
         "witness-disagreement"
       ],
       "printed": "SIM.: Cels. II 33—Pl. XXII 42 D. eup. I 169 (181) — Pl. l. s. eup. I 178 (187) — Pl. l. s. eup. I 145 (167) — eup. I 147 (167) — Pl. l. s. eup. I 168 (180) — Scrib. L. 158 Pl. l. s. eup. I 235 (217) — Pl. l. s. eup. II 31 (241) — Pl. l. s. eup. I 85 (136) — Scrib. L. 39 Pl. l. s. eup. I 57 (120)",
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-246-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-246-1",
-      "to": "wellmann-4-246-1-end",
-      "line_ids": [
-        "wellmann-4-246-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-4-246-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "86 RV: μυοσωτίς· οἱ δὲ μυ⟨όσ⟩ωτον, οἱ δὲ ἀνθύλλιον, οἱ δὲ ἀλσίνη, οἱ δὲ μυότροχον, οἱ δὲ μυρτόσπληνον, Ῥωμαῖοι μοῦρις αὐρίκουλα, Ἄφροι λαναθθαλβάθ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
       "cert": "low",
       "source_spans": [
         {
@@ -2012,8 +1982,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "86",
+      "subtype": "R",
+      "n": "4.86",
       "corresp": "#wellmann1906-4-86",
       "part": "",
       "lines": [
@@ -2090,7 +2060,7 @@
               "a": "awellmann-print-4-246-39-c2e"
             },
             {
-              "t": ", Ῥωμαῖοι μοῦ-"
+              "t": ", Ῥωμαῖοι μοῦ"
             },
             {
               "a": "wellmann-4-246-15-segment-c2-end"

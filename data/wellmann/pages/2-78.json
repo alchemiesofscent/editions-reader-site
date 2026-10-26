@@ -160,7 +160,7 @@
           "a": "awellmann-print-3-78-12"
         },
         {
-          "t": "ἐν οἷς ἔστιν ὡς λιβανωτίδος"
+          "t": "ἐν οἷς ἐστιν ὡς λιβανωτίδος"
         },
         {
           "a": "awellmann-print-3-78-12e"
@@ -329,7 +329,7 @@
           "a": "awellmann-print-3-78-21"
         },
         {
-          "t": "παῤ ἕλεσι"
+          "t": "παρ’ ἕλεσι"
         },
         {
           "a": "awellmann-print-3-78-21e"
@@ -610,36 +610,6 @@
     }
   ],
   "entries": [
-    {
-      "id": "wellmann-print-3-78-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "67 RV: σμύρνιον· οἱ δὲ ἱπποσέλινον, οἱ δὲ ἀγρίολον, οἱ δὲ σέλινον ἄγριον, οἱ δὲ πολυπίθιον, Ῥωμαῖοι ὀλυσάθρουμ.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-78-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-78-1",
-      "to": "wellmann-3-78-1-end",
-      "line_ids": [
-        "wellmann-3-78-1"
-      ]
-    },
     {
       "id": "wellmann-print-3-78-5",
       "group": "criticus",
@@ -2281,8 +2251,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "67",
+      "subtype": "R",
+      "n": "3.67",
       "corresp": "#wellmann1906-3-67",
       "part": "",
       "lines": [

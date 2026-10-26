@@ -419,36 +419,6 @@
   ],
   "entries": [
     {
-      "id": "wellmann-print-4-234-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "75 RV: μανδραγόρα ἄρεν· οἱ δὲ Κιρκαῖον, οἱ δὲ ξηρὰ ἄνθη, [οἱ δὲ ἀντιμήνιον,] οἱ δὲ ἀντίμιμον, οἱ δὲ βομβόχυλον, οἱ δὲ μώριον, Αἰγύπτιοι ἀπεριούμ, Πυθαγόρας ἀνθρωπόμορφον, οἱ δὲ ἀλοῖτιν, οἱ δὲ θριδακίαν, οἱ δὲ κάμμαρον, οἱ δὲ ἀγχόνη, οἱ δὲ ῥιγαλέος, Ζωροάστρης διάμορον [ἢ ἀρχήνη], προφῆται ἡμιονάς, οἱ δὲ γόνος Τυφῶνος, Ῥωμαῖοι μάλα κανίνα, οἱ δὲ μάλα τερρέστρια. μανδραγόρα θῆλυ· οἱ δὲ Κιρκαῖον, οἱ δὲ ἀντίμιμον, Ῥωμαῖοι μάλα σιλβέστρια, οἱ δὲ μάλα τερρέστρια, ἐπεὶ ἡ ῥίζα τούτου δοκεῖ φίλτρον εἶναι ποιητική.",
-      "flags": [
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-4-234-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-4-234-1",
-      "to": "wellmann-4-234-1-end",
-      "line_ids": [
-        "wellmann-4-234-1"
-      ]
-    },
-    {
       "id": "wellmann-print-4-234-2",
       "group": "criticus",
       "method": null,
@@ -2219,8 +2189,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "75",
+      "subtype": "R",
+      "n": "4.75",
       "corresp": "#wellmann1906-4-75",
       "part": "",
       "lines": [
@@ -2427,7 +2397,7 @@
               "a": "wellmann-4-234-17-segment-c2"
             },
             {
-              "t": "μανδραγόρα θῆλυ· οἱ δὲ Κιρκαῖον, οἱ δὲ ἀντίμιμον, Ῥω-"
+              "t": "μανδραγόρα θῆλυ· οἱ δὲ Κιρκαῖον, οἱ δὲ ἀντίμιμον, Ῥω"
             },
             {
               "a": "wellmann-4-234-17-segment-c2-end"

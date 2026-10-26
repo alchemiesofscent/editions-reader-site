@@ -361,7 +361,7 @@
           "a": "awellmann-print-3-152-23"
         },
         {
-          "t": "ἐρευθέδανον"
+          "t": "ἢ ἐρευθέδανον"
         },
         {
           "a": "awellmann-print-3-152-23e"
@@ -394,7 +394,7 @@
           "a": "awellmann-print-3-152-24e"
         },
         {
-          "t": "· ἡ μέν τις ἀγρία, ἠ δὲ"
+          "t": "· ἡ μέν τις ἀγρία, ἡ δὲ"
         },
         {
           "a": "wellmann-3-152-u10-end"
@@ -596,37 +596,6 @@
       "anchored": true,
       "from": "wellmann-3-152-1",
       "to": "awellmann-print-3-151-30e",
-      "line_ids": [
-        "wellmann-3-152-1"
-      ]
-    },
-    {
-      "id": "wellmann-print-3-152-1",
-      "group": "synonyma",
-      "method": null,
-      "line": "1",
-      "lemma": "",
-      "lemma_printed": false,
-      "readings": [],
-      "printed_fallback": true,
-      "printed": "143 RV: ἐρυθρόδανον· οἱ δὲ ἐρευθέδανος ῥίζα, οἱ δὲ τεύθριον, οἱ δὲ δάρκανος, οἱ δὲ κιννάβαρις, Ῥωμαῖοι ῥούβια σατίβα, Θοῦσκοι λάππα μίνορ, Αἰγύπτιοι σωφοβί.",
-      "flags": [
-        "heading_attachment",
-        "line-reference-unavailable",
-        "rv_block_unstructured",
-        "unplaced_entry_requires_review"
-      ],
-      "cert": "low",
-      "source_spans": [
-        {
-          "from": "wellmann-3-152-1",
-          "to": ""
-        }
-      ],
-      "anchored": false,
-      "attachment": "line",
-      "from": "wellmann-3-152-1",
-      "to": "wellmann-3-152-1-end",
       "line_ids": [
         "wellmann-3-152-1"
       ]
@@ -2141,8 +2110,8 @@
   "segments": [
     {
       "type": "recension",
-      "subtype": "RV",
-      "n": "143",
+      "subtype": "R",
+      "n": "3.143",
       "corresp": "#wellmann1906-3-143",
       "part": "",
       "lines": [
@@ -2154,7 +2123,7 @@
               "a": "wellmann-3-152-13-segment-c2"
             },
             {
-              "t": "ἐρυθρόδανον· οἱ δὲ ἐρευθέδανος ῥίζα, οἱ δὲ τεύ-"
+              "t": "ἐρυθρόδανον· οἱ δὲ ἐρευθέδανος ῥίζα, οἱ δὲ τεύ"
             },
             {
               "a": "wellmann-3-152-13-segment-c2-end"
@@ -2181,7 +2150,7 @@
               "a": "awellmann-print-3-152-38-c2e"
             },
             {
-              "t": ", οἱ δὲ κιννάβαρις, Ῥωμαῖοι ῥούβια σα-"
+              "t": ", οἱ δὲ κιννάβαρις, Ῥωμαῖοι ῥούβια σα"
             },
             {
               "a": "wellmann-3-152-14-segment-c2-end"
@@ -2221,7 +2190,7 @@
               "a": "awellmann-print-3-152-41-c2e"
             },
             {
-              "t": ". 15"
+              "t": "."
             },
             {
               "a": "wellmann-3-152-u15-end"
