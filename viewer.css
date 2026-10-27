@@ -101,6 +101,9 @@ section { min-width: 0; }
 .hide-numerals .num { display: none; }
 .app { max-height: 78vh; gap: 8px; }
 .app h2 { margin-top: 14px; }
+.app-group > summary { cursor: pointer; }
+.app-group > summary h2 { display: inline-block; margin-bottom: 8px; }
+.app-group > summary:focus-visible { outline: 2px solid var(--accent, currentColor); outline-offset: 2px; }
 .rd, .pr { margin-left: 0; }
 .scan-open { display: block; width: 100%; padding: 0; background: transparent; }
 .scan-open img { display: block; width: 100%; }

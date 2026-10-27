@@ -1128,6 +1128,7 @@
       ],
       "printed": "TEST. Garg. M. 41 (181, 1 R): ex cytinis fit remedium quod creditur tutos ab oculorum dolore praestare. Dioscorides simplicius in hunc modum tradit ut cum primum cytini erumpere incipiunt tres numero additi sine contactu dentium transvorentur.",
       "cert": "low",
+      "printed_fallback": true,
       "source_spans": [
         {
           "from": "wellmann-1-104-17",
@@ -1579,6 +1580,7 @@
       ],
       "printed": "SIM. Pl. XXIII 112 (e S. N.), unde Garg. M. 41 (181, 13 R).",
       "cert": "low",
+      "printed_fallback": true,
       "source_spans": [
         {
           "from": "wellmann-1-104-25",
@@ -1616,6 +1618,7 @@
       ],
       "printed": "EXC. Orib. XI s. v. (βαλαύστιον — κύτινος); cf. Gal. XI 847.",
       "cert": "low",
+      "printed_fallback": true,
       "source_spans": [
         {
           "from": "wellmann-1-104-25",

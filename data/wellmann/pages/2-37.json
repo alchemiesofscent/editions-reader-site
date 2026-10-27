@@ -786,6 +786,7 @@
       ],
       "printed": "SIM.: Pl. XX 177sq. (e S. N.) cf. XX 170 (unde?).",
       "cert": "low",
+      "printed_fallback": true,
       "source_spans": [
         {
           "from": "wellmann-3-37-5",
@@ -827,6 +828,7 @@
       ],
       "printed": "EXC.: Orib. XII s. v. (ὀρίγανος — πυκνόν); Ps. Ap. 122; Gal. XII 91 (unde Aet. I s. v. Paul. Aeg. VII 3 s. v.); Garg. Mart. 37 (174, 11 R; 175, 16 ∾ Ps. Orib. III 35, A. Mai l. s. VII 429); Isid. XVII 9, 76.",
       "cert": "low",
+      "printed_fallback": true,
       "source_spans": [
         {
           "from": "wellmann-3-37-5",
@@ -1223,6 +1225,7 @@
       ],
       "printed": "Ps. Ap. 43.",
       "cert": "low",
+      "printed_fallback": true,
       "source_spans": [
         {
           "from": "wellmann-3-37-10-segment-c2",

@@ -17,6 +17,9 @@ if (typeof module !== 'undefined') module.exports = {renderPublicCredits};
 'use strict';
 const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;'}[c]));
 const GROUPS = {criticus: 'Apparatus criticus', fontium: 'Apparatus fontium', synonyma: 'Synonyma'};
+// Apparatus groups the reader has folded; kept across pages and visits (browser storage may be unavailable).
+const COLLAPSED = new Set();
+try { JSON.parse(localStorage.getItem('apparatus-collapsed') || '[]').forEach(g => COLLAPSED.add(g)); } catch {}
 
 function parseRoute(hash, index) {
   const pieces = hash.replace(/^#/, '').split('/');
@@ -193,7 +196,7 @@ function renderApp(page, index) {
   return siglaList + (legend ? `<div class="legend" aria-label="Page witness families">${legend}</div>` : '') + Object.entries(GROUPS).map(([group, title]) => {
     const entries = page.entries.filter(e => e.group === group);
     const witnesses = group === 'criticus' ? (page.witnesses || []).map(w => `<div class="witnesses">${printed(w.parts)}</div>`).join('') : '';
-    return `<section><h2>${title} (${entries.length})</h2>${witnesses}${entries.map(e => `<div class="entry${e.cert === 'low' || (e.cert !== 'medium' && visibleFlags(e, index).length) ? ' low' : ''}" id="${esc(e.id)}"${e.cert === 'medium' ? ' title="Medium certainty"' : ''} tabindex="0" role="button" data-id="${esc(e.id)}">
+    return `<details class="app-group" data-group="${esc(group)}"${COLLAPSED.has(group) ? '' : ' open'}><summary><h2>${title} (${entries.length})</h2></summary>${witnesses}${entries.map(e => `<div class="entry${e.cert === 'low' || (e.cert !== 'medium' && visibleFlags(e, index).length) ? ' low' : ''}" id="${esc(e.id)}"${e.cert === 'medium' ? ' title="Medium certainty"' : ''} tabindex="0" role="button" data-id="${esc(e.id)}">
       ${e.corresp ? `<small class="continuation"><a href="${esc(e.corresp)}" data-parent="${esc(e.corresp.replace(/^#/, ''))}">continues ${esc(e.corresp.replace(/^#/, ''))}</a></small>` : ''}
       <div class="row1"><span class="ln">${e.off_page || ['page', 'continued'].includes(e.attachment) ? '—' : esc(e.line)}</span><span class="lemt${e.lemma_printed === false ? ' unp' : ''}">${esc(e.insertion ? '' : e.lemma || (e.anchored === false ? '' : '∅'))}</span>${methodTag(e)}</div>
       ${e.cert === 'low' || e.anchored === false ? attachmentNote(e) : ''}
@@ -210,7 +213,7 @@ function renderApp(page, index) {
         ${r.notes.filter(n => (n.type !== 'flag' || index.apparatus_display?.flags !== false) &&
           (n.type !== 'printed' || index.apparatus_display?.printed !== 'fallback'))
           .map(n => index.edition === 'paul' && index.encoding === 'standoff' ? `<span class="nt">${n.type === 'editorial' ? `<i>ed. ${esc(n.text)}</i>` : `<span class="ty">${esc(n.type)}</span> ${esc(n.text)}`}</span>` : `<span class="nt">${esc(n.text)}</span>`).join(' ')}</div>`).join('')}
-      ${showPrinted(e, index) ? `<div class="pr">${e.printed_parts ? printed(e.printed_parts) : esc(e.printed)}</div>` : ''}</div>`).join('')}</section>`;
+      ${showPrinted(e, index) ? `<div class="pr">${e.printed_parts ? printed(e.printed_parts) : esc(e.printed)}</div>` : ''}</div>`).join('')}</details>`;
   }).join('');
 }
 
@@ -242,7 +245,7 @@ async function searchPages(index, query, loadPage) {
   return results;
 }
 
-if (typeof module !== 'undefined') module.exports = {parseRoute, parseLocation, pageLabel, renderText, renderApp, flagText, headwords, searchPages};
+if (typeof module !== 'undefined') module.exports = {COLLAPSED, parseRoute, parseLocation, pageLabel, renderText, renderApp, flagText, headwords, searchPages};
 
 if (typeof document !== 'undefined') {
   const $ = selector => document.querySelector(selector);
@@ -339,6 +342,8 @@ if (typeof document !== 'undefined') {
     document.querySelectorAll('.tl[data-line-e]').forEach(x => {
       if (ids.some(id => x.dataset.lineE.split(' ').includes(id))) x.classList.add('on');
     });
+    // Every matched entry must be visible, also when a lemma has entries in several folded groups.
+    document.querySelectorAll('#app .entry.on').forEach(x => x.closest('details.app-group:not([open])')?.setAttribute('open', ''));
     counterpart?.scrollIntoView({block: 'nearest'});
   }
   document.addEventListener('click', async event => {
@@ -427,6 +432,13 @@ if (typeof document !== 'undefined') {
   }
   $('#numerals').addEventListener('change', () => $('#text').classList.toggle('hide-numerals', !$('#numerals').checked));
   $('#show-furniture').addEventListener('change', () => { $('#furniture').hidden = !$('#show-furniture').checked; });
+  // Folding an apparatus group is remembered; 'toggle' does not bubble, so listen in the capture phase.
+  document.addEventListener('toggle', event => {
+    const group = event.target.closest?.('details.app-group');
+    if (group !== event.target) return;
+    COLLAPSED[group.open ? 'delete' : 'add'](group.dataset.group);
+    try { localStorage.setItem('apparatus-collapsed', JSON.stringify([...COLLAPSED])); } catch {}
+  }, true);
   $('#theme').addEventListener('change', () => {
     if ($('#theme').value === 'auto') delete document.documentElement.dataset.theme;
     else document.documentElement.dataset.theme = $('#theme').value;

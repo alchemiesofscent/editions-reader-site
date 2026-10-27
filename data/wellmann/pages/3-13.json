@@ -894,6 +894,7 @@
       ],
       "printed": "TEST. Orib. I 365 (e. Ruf.?) Διοσκουρίδης δὲ ὑδρόμελι τοῦτο (sc. τὸ ὑδρομήλιον) καλεῖ καὶ σκευάζεσθαί φησιν αὐτὸ πρὸς ἓν μέρος μέλιτος δύο ὕδατος ὀμβρίου παλαιοῦ μιγνυμένων καὶ ἡλιαζομένων, τινὰς δὲ πηγαῖον ὕδωρ μιγνύειν καὶ ἀφέψειν εἰς τὸ τρίτον καὶ ἀποτίθεσθαι.",
       "cert": "low",
+      "printed_fallback": true,
       "source_spans": [
         {
           "from": "wellmann-5-13-6",
@@ -1182,6 +1183,7 @@
       ],
       "printed": "SIM. Pl. XXXI 31; Cels. II 18; Ruf. (Orib. I 324); Ath. II 46 a.",
       "cert": "low",
+      "printed_fallback": true,
       "source_spans": [
         {
           "from": "wellmann-5-13-14",
@@ -1621,6 +1623,7 @@
       ],
       "printed": "SIM. Pl. XXXI 62 sq.",
       "cert": "low",
+      "printed_fallback": true,
       "source_spans": [
         {
           "from": "wellmann-5-13-20",
