@@ -2225,11 +2225,18 @@
           "notes": [
             {
               "type": "hand",
-              "text": "in mg."
+              "text": "in mg.",
+              "wit": "Mᵉ"
             },
             {
               "type": "hand",
-              "text": "m. 2"
+              "text": "in mg.",
+              "wit": "Lᵃ"
+            },
+            {
+              "type": "hand",
+              "text": "m. 2",
+              "wit": "Pᵃ"
             },
             {
               "type": "remark",
@@ -2308,7 +2315,8 @@
             },
             {
               "type": "hand",
-              "text": "m. 1"
+              "text": "m. 1",
+              "wit": "S"
             }
           ],
           "wit_ids": [

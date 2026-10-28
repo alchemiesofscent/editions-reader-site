@@ -1351,7 +1351,8 @@
             },
             {
               "type": "hand",
-              "text": "supra scr. m. 1"
+              "text": "supra scr. m. 1",
+              "wit": "Aᵗ"
             }
           ],
           "wit_ids": [
@@ -1628,7 +1629,23 @@
           "notes": [
             {
               "type": "hand",
-              "text": "in mg."
+              "text": "in mg.",
+              "wit": "Mᵉ"
+            },
+            {
+              "type": "hand",
+              "text": "in mg.",
+              "wit": "Lᵇ"
+            },
+            {
+              "type": "hand",
+              "text": "in mg.",
+              "wit": "D"
+            },
+            {
+              "type": "hand",
+              "text": "in mg.",
+              "wit": "ω"
             }
           ],
           "wit_ids": [
@@ -2963,8 +2980,8 @@
             },
             {
               "kind": "edition",
-              "label": "Kühn 11,882,4–882,6",
-              "url": "https://galenus-verbatim.huma-num.fr/11.882.4"
+              "label": "Kühn 11,682,5–682,7",
+              "url": "https://galenus-verbatim.huma-num.fr/11.682.5"
             }
           ],
           "linked": true,

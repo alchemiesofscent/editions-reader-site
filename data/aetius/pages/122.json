@@ -1028,7 +1028,8 @@
           "notes": [
             {
               "type": "hand",
-              "text": "¹"
+              "text": "¹",
+              "wit": "Pˣ"
             }
           ],
           "wit_ids": [
@@ -1270,7 +1271,8 @@
           "notes": [
             {
               "type": "hand",
-              "text": "¹"
+              "text": "¹",
+              "wit": "Pˣ"
             }
           ],
           "wit_ids": [
@@ -1844,26 +1846,18 @@
           "type": "om",
           "text": "",
           "wit": [
-            "Pˣ",
+            "Pˣ¹",
             "G"
           ],
-          "notes": [
-            {
-              "type": "hand",
-              "text": "¹"
-            }
-          ],
+          "notes": [],
           "wit_ids": [
-            "Px",
+            "Px1",
             "G"
           ]
         }
       ],
       "lemma_printed": true,
-      "flags": [
-        "{\"kind\": \"unexplained_hand_qualifier\", \"text\": \"¹\", \"wit\": \"Pˣ\", \"detail\": \"Superscript ¹ is retained as a hand qualifier; its precise meaning is not defined in sigla.tsv.\"}"
-      ],
-      "cert": "low",
+      "flags": [],
       "printed": "16 εἴ—βοηθεῖ] βοηθεῖ γὰρ (γὰρ] δὲ καὶ Aᵗ) εἴπερ τι καὶ (καὶ om. Mᵒ Aᵗ) ἄλλο τούτοιϲ χ Mᵒ Aᵗ om Pˣ¹ G",
       "source_spans": [
         {
@@ -1972,7 +1966,7 @@
           "type": "om",
           "text": "",
           "wit": [
-            "Pˣ",
+            "Pˣ¹",
             "G",
             "χ",
             "Mᵒ",
@@ -1982,14 +1976,10 @@
             {
               "type": "occurrence",
               "text": "pr."
-            },
-            {
-              "type": "hand",
-              "text": "¹"
             }
           ],
           "wit_ids": [
-            "Px",
+            "Px1",
             "G",
             "chi",
             "Mo",
@@ -1998,10 +1988,7 @@
         }
       ],
       "lemma_printed": true,
-      "flags": [
-        "{\"kind\": \"unexplained_hand_qualifier\", \"text\": \"¹\", \"wit\": \"Pˣ\", \"detail\": \"Superscript ¹ is retained as a hand qualifier; its precise meaning is not defined in sigla.tsv.\"}"
-      ],
-      "cert": "low",
+      "flags": [],
       "printed": "18 καὶ pr. om. Pˣ¹ G χ Mᵒ Aᵗ",
       "source_spans": [
         {
@@ -2119,7 +2106,8 @@
             },
             {
               "type": "hand",
-              "text": "¹"
+              "text": "¹",
+              "wit": "Pˣ"
             }
           ],
           "wit_ids": [
@@ -2291,7 +2279,8 @@
           "notes": [
             {
               "type": "hand",
-              "text": "¹"
+              "text": "¹",
+              "wit": "Pˣ"
             }
           ],
           "wit_ids": [

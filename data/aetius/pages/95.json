@@ -1843,7 +1843,13 @@
           "notes": [
             {
               "type": "hand",
-              "text": "in mg."
+              "text": "in mg.",
+              "wit": "Pˣ"
+            },
+            {
+              "type": "hand",
+              "text": "in mg.",
+              "wit": "Lᵃ"
             }
           ],
           "wit_ids": [
@@ -1888,7 +1894,8 @@
           "notes": [
             {
               "type": "hand",
-              "text": "in mg."
+              "text": "in mg.",
+              "wit": "P"
             }
           ],
           "wit_ids": [
@@ -2290,7 +2297,8 @@
             },
             {
               "type": "hand",
-              "text": "(in mg.)"
+              "text": "(in mg.)",
+              "wit": "D"
             }
           ],
           "wit_ids": [

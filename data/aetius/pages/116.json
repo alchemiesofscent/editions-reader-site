@@ -2500,11 +2500,6 @@
               "kind": "work",
               "label": "work",
               "url": "https://galenus-verbatim.huma-num.fr/urn:cts:greekLit:tlg0057.tlg075.1st1K-grc1:8.15"
-            },
-            {
-              "kind": "edition",
-              "label": "Kühn 12,91,11–91,14",
-              "url": "https://galenus-verbatim.huma-num.fr/12.91.11"
             }
           ],
           "linked": true,
@@ -2876,9 +2871,15 @@
           "wit": [],
           "notes": [],
           "citation_id": "parallel-116-9-c1",
-          "links": [],
-          "linked": false,
-          "link_check": "not resolved by Galen passes 1/2"
+          "links": [
+            {
+              "kind": "edition",
+              "label": "Kühn 6,525,3",
+              "url": "https://galenus-verbatim.huma-num.fr/6.525.3"
+            }
+          ],
+          "linked": true,
+          "link_check": "not resolved by Galen passes 1/2; Sean ruling"
         }
       ],
       "flags": [],

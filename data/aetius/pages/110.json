@@ -909,7 +909,8 @@
           "notes": [
             {
               "type": "hand",
-              "text": "in mg."
+              "text": "in mg.",
+              "wit": "P"
             }
           ],
           "wit_ids": [
@@ -2834,11 +2835,6 @@
               "kind": "work",
               "label": "work",
               "url": "https://galenus-verbatim.huma-num.fr/urn:cts:greekLit:tlg0057.tlg075.1st1K-grc1:7.12"
-            },
-            {
-              "kind": "edition",
-              "label": "Kühn 12,76,10–76,15",
-              "url": "https://galenus-verbatim.huma-num.fr/12.76.10"
             }
           ],
           "linked": true,
@@ -2932,11 +2928,6 @@
               "kind": "work",
               "label": "work",
               "url": "https://galenus-verbatim.huma-num.fr/urn:cts:greekLit:tlg0057.tlg075.1st1K-grc1:7.12"
-            },
-            {
-              "kind": "edition",
-              "label": "Kühn 12,76,18–77,2",
-              "url": "https://galenus-verbatim.huma-num.fr/12.76.18"
             }
           ],
           "linked": true,

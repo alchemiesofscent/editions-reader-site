@@ -212,7 +212,7 @@ function renderApp(page, index) {
         ${r.cert === 'low' ? '<span class="fl">Citation uncertainty — review</span>' : ''}
         ${r.notes.filter(n => (n.type !== 'flag' || index.apparatus_display?.flags !== false) &&
           (n.type !== 'printed' || index.apparatus_display?.printed !== 'fallback'))
-          .map(n => index.edition === 'paul' && index.encoding === 'standoff' ? `<span class="nt">${n.type === 'editorial' ? `<i>ed. ${esc(n.text)}</i>` : `<span class="ty">${esc(n.type)}</span> ${esc(n.text)}`}</span>` : `<span class="nt">${esc(n.text)}</span>`).join(' ')}</div>`).join('')}
+          .map(n => index.edition === 'paul' && index.encoding === 'standoff' ? `<span class="nt">${n.type === 'editorial' ? `<i>ed. ${esc(n.text)}</i>` : `<span class="ty">${esc(n.type)}</span> ${esc(n.text)}`}</span>` : `<span class="nt">${n.wit ? `<span class="w">${esc(n.wit)}</span> ` : ''}${esc(n.text)}</span>`).join(' ')}</div>`).join('')}
       ${showPrinted(e, index) ? `<div class="pr">${e.printed_parts ? printed(e.printed_parts) : esc(e.printed)}</div>` : ''}</div>`).join('')}</details>`;
   }).join('');
 }

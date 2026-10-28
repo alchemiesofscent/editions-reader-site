@@ -2689,9 +2689,20 @@
           "wit": [],
           "notes": [],
           "citation_id": "parallel-115-9-c1",
-          "links": [],
-          "linked": false,
-          "link_check": "not resolved by Galen passes 1/2"
+          "links": [
+            {
+              "kind": "edition",
+              "label": "Kühn 10,830,6–830,7",
+              "url": "https://galenus-verbatim.huma-num.fr/10.830.6"
+            },
+            {
+              "kind": "edition",
+              "label": "Kühn 10,830,15–830,16",
+              "url": "https://galenus-verbatim.huma-num.fr/10.830.15"
+            }
+          ],
+          "linked": true,
+          "link_check": "not resolved by Galen passes 1/2; Sean ruling"
         }
       ],
       "flags": [],
