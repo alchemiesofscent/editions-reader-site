@@ -3279,7 +3279,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.19.9-20.13",
             "read2_range": "XII.19.9-20.13"
@@ -3301,8 +3300,7 @@
               "label": "raeder-our-tei 15.1.10.34"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 646,3–7); overlap: αντι, αυτα, εργαζεται, λυκιου, ριζηι, τινεσ, χρωνται, χυλοσ"
+          "linked": true
         }
       ],
       "flags": [],
@@ -3338,8 +3336,7 @@
           "notes": [],
           "citation_id": "parallel-85-6-c1",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen bd-page; Coll. XV (BD 646,12–18); BD page mapped to Raeder 257,31–258,5 (5 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 646,12–18); BD page mapped to Raeder 257,31–258,5 (5 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 646,12–18); BD page mapped to Raeder 257,31–258,5 (5 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 646,12–18); BD page mapped to Raeder 257,31–258,5 (5 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 646,12–18); BD page mapped to Raeder 257,31–258,5 (5 entries); multiple/uncertain mapped candidates"
+          "linked": false
         }
       ],
       "flags": [
@@ -3386,7 +3383,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.20.14-22.7",
             "read2_range": "XII.20.14-22.7"
@@ -3442,8 +3438,7 @@
           "notes": [],
           "citation_id": "parallel-86-1-s1-c1",
           "links": [],
-          "linked": false,
-          "link_check": "no certain mapping in Quellen table; no mapped local target"
+          "linked": false
         }
       ],
       "flags": [
@@ -3499,8 +3494,7 @@
           "notes": [],
           "citation_id": "parallel-86-1-s2-c1",
           "links": [],
-          "linked": false,
-          "link_check": "no certain mapping in Quellen table; no mapped local target"
+          "linked": false
         }
       ],
       "flags": [
@@ -3556,8 +3550,7 @@
           "notes": [],
           "citation_id": "parallel-86-1-s3-c1",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen lines; Paul (Hb 223,3–6); Paul page advanced: start line lower than previous citation; page by lemma: 224 read as 223; no mapped local target"
+          "linked": false
         }
       ],
       "flags": [],
@@ -3608,8 +3601,7 @@
               "url": "#wellmann/3/7"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen chapter; Dsc. III 7.3 (W2 13,9 sqq.); fewer than two distinct content words"
+          "linked": true
         }
       ],
       "flags": [],

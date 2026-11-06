@@ -2903,7 +2903,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.135.11-136.7",
             "read2_range": "XII.135.11-136.7"
@@ -2927,8 +2926,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 264,19–21); overlap: αιματοσ, αιμορραγιασ, αλλοισ, ατρεμα, γεω, διαθεσεισ, δουσ, δυναμιν, δυσεντεριασ, εαυτον, εαυτου, εγγυσ, εδρασ, ευκρατοσ, εχει, θαμνοσ, θερμησ, θερμοτητα, καθ, μετριωσ, ξηραινει, οθεν, ομοιαν, ουν, ουσιασ, πασι, πινεται, προπτωσεισ, πτυσεισ, στυφει, συγκειται, σχινοσ, ταξιν, τριτην, υδατωδουσ, υπαρχων, υστερασ, ψυχρασ"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2966,8 +2964,7 @@
           "notes": [],
           "citation_id": "parallel-137-10-c1",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen lines; Ad Eun. (R 380,29–381,3); siglum ᵒ read as ᵉ; multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words; Quellen lines; Ad Eun. (R 380,29–381,3); siglum ᵒ read as ᵉ; multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words; Quellen lines; Ad Eun. (R 380,29–381,3); siglum ᵒ read as ᵉ; multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words"
+          "linked": false
         }
       ],
       "flags": [
@@ -3016,8 +3013,7 @@
               "label": "raeder-our-tei 15.1.18.69"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 691,4–8); overlap: εαυτου, εχει, θερμοτητα, μερεσι, ξηραινει, ομοιαν, ουν, ταξιν, ψυχροτητα"
+          "linked": true
         }
       ],
       "flags": [
@@ -3070,8 +3066,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.136.8"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αγωγον, ανθοσ, ηπαρ, θερμαινει, καθ, καταμηνιων, κοιλιαν, λεπτομερουσ, μετριωσ, ουρητικον, παραλαμβανομενον, πομασι, πυριαισ, στυφει, φαρμακον, φλεγμονασ, ωφελει"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -3080,8 +3075,7 @@
           "notes": [],
           "citation_id": "parallel-138-1-c2",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen lines; Ad Eun. (R 381,3–6); multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words; Quellen lines; Ad Eun. (R 381,3–6); multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words"
+          "linked": false
         }
       ],
       "flags": [],
@@ -3117,8 +3111,7 @@
           "notes": [],
           "citation_id": "parallel-138-1-s1-c1",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen lines; Paul (Hb 264,22–25); no mapped local target"
+          "linked": false
         }
       ],
       "flags": [],
@@ -3154,8 +3147,7 @@
           "notes": [],
           "citation_id": "parallel-138-1-s2-c1",
           "links": [],
-          "linked": false,
-          "link_check": "no certain mapping in Quellen table; no mapped local target"
+          "linked": false
         }
       ],
       "flags": [],
@@ -3210,8 +3202,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.137.1"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: λειασ, ολοσχοινοσ, ολοσχοινου, ονομαζεται, οξυσχοινοσ, οξυσχοινου, σχοινου; overlap: ακαρπον, αλλ, αμφοτεροι, ατμουσ, ατρεμα, γαστερα, δυο, ειδη, ερυθρον, ηρεμα, ηττον, ισχνοτερα, καρποσ, καρποφορον, κατω, κεφαλαλγησ, κεφαλην, κρασισ, μετ, ξηραινουσι, οινου, οισ, ολοσχοινοσ, ολοσχοινου, οξυσχοινοσ, οξυσχοινου, ουτοσ, παχυτερα, πινοιντο, ρευματα, ρουν, σκληροτερα, ταυτησ, υπνωδεισ, υπνωδησ, υπνωτικοσ, φρυγεντεσ, ψυχρουσ"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -3229,8 +3220,7 @@
               "label": "raeder-our-tei 15.1.18.72"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 691,14–692,3); overlap: αλλ, ηττον, λειασ, ολοσχοινοσ, ολοσχοινου, οξυσχοινοσ, οξυσχοινου, σχοινου, υπνωδησ, υπνωτικοσ"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -3250,8 +3240,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 264,27–30); overlap: αλλ, ατρεμα, αχρηστον, γαστερα, γυναικειον, δυο, εργαζεται, ερυθρον, ετερασ, ημιν, ηρεμα, ηττον, θερμη, καρποσ, κατω, κεφαλαλγησ, κεφαλην, μετ, ξηραινει, ξηραινουσι, οινου, οισ, ολοσχοινου, ονομαζεται, οξυσχοινου, οπερ, ουν, ουτοσ, πινοιντο, ρευματα, ρουν, σκληροτερα, σχοινου, ταυτησ, υπνωτικοσ, φρυγεντεσ, ψυχρα"
+          "linked": true
         }
       ],
       "flags": [],
@@ -3324,8 +3313,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.138.3"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αλλα, δευτεραν, εχουσι, θερμαινουσι, καρποσ, στυπτικον, ταξιν, φλοιοσ, φυλλα; overlap: δευτεραν, ταξιν; overlap: εγγυσ, καρποσ, ξηραινοντων, ταξεωσ, τριτησ; overlap: αρα, ονινησι, σπληνασ, ταυτ"
+          "linked": true
         }
       ],
       "flags": [],
@@ -3360,8 +3348,7 @@
           "notes": [],
           "citation_id": "parallel-138-3-s1-c1",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen none; Paul; Paul page advanced: start line lower than previous citation; Paul page unresolved: rule page 265, line 16; lemma absent or ambiguous within two pages; no mapped local target"
+          "linked": false
         }
       ],
       "flags": [],
@@ -3396,8 +3383,7 @@
           "notes": [],
           "citation_id": "parallel-138-4-c1",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen bd-page; Coll. XV (BD 692,4–5; 692,7–8); BD page mapped to Raeder 277,10–277,24 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; Quellen bd-page; Coll. XV (BD 692,4–5; 692,7–8); BD page mapped to Raeder 277,10–277,24 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 692,4–5; 692,7–8); BD page mapped to Raeder 277,10–277,24 (7 entries); multiple/uncertain mapped candidates; Quellen bd-page; Coll. XV (BD 692,4–5; 692,7–8); BD page mapped to Raeder 277,10–277,24 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 692,4–5; 692,7–8); BD page mapped to Raeder 277,10–277,24 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 692,4–5; 692,7–8); BD page mapped to Raeder 277,10–277,24 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 692,4–5; 692,7–8); BD page mapped to Raeder 277,10–277,24 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words"
+          "linked": false
         },
         {
           "type": "parallel",
@@ -3406,8 +3392,7 @@
           "notes": [],
           "citation_id": "parallel-138-4-c2",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen lines; Ad Eun. (R 381,8–9; 381,10–11); multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words; Quellen lines; Ad Eun. (R 381,8–9; 381,10–11); multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words"
+          "linked": false
         }
       ],
       "flags": [

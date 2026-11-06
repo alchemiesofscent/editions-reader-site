@@ -2719,7 +2719,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.324.3-331.13",
             "read2_range": "XII.324.3-331.13"
@@ -2781,8 +2780,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.327.5"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αει, αυτοισ, διαφορασ, κεφαλαιον, κοινον, κρασιν, λογου, μεμνησθαι, πιμελησ, στεατοσ, χρη; overlap: αει, απαν, αρρεν, ευνουχισθεν, θερμοτερον, θηλει, θηλεοσ, καθαπερ, νεον"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2839,8 +2837,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.332.1"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: δυναμεωσ, ειτε, μαλακτικησ, μυελοσ, μυελου, σκιρρουμενων, σκληρυνομενων, σωματων; overlap: αει, διαλυειν, δριμυτεροσ, δυναται, ειτε, ελαφων, εφεξησ, καλλιστου, μυεσ, ξηραντικωτεροσ, πασχοιεν, σκιρρωδεισ, σκληροτητασ, σπλαγχνα, συνδεσμοι, ταυρων, τραγων"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2893,8 +2890,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.335.9"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; fewer than two distinct content words;; overlap: αλωπεκοσ, αρνειοσ, ασθματικουσ, παρατριμματα, πεπιστευται, πνευμων, σκελετευθεισ, υποδηματων, χοιρειοσ"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2934,8 +2930,7 @@
           ],
           "citation_id": "parallel-209-4-c1",
           "links": [],
-          "linked": false,
-          "link_check": "not resolved by Galen passes 1/2"
+          "linked": false
         },
         {
           "type": "parallel",
@@ -2960,8 +2955,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.334.1"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αλωπεκιασ, ετεροσ, εχρητο, καιων, κεφαλην, λαγωου, μετα, ολην, στεατοσ"
+          "linked": true
         }
       ],
       "flags": [],

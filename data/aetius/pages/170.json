@@ -2798,8 +2798,7 @@
           ],
           "citation_id": "parallel-170-1-c1",
           "links": [],
-          "linked": false,
-          "link_check": "other author: outside approved target set"
+          "linked": false
         }
       ],
       "flags": [
@@ -2856,8 +2855,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.212.2"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αμα, αναυξεισ, αρμενιακον, ατροφοι, αυξησιν, αυτο, βλεφαροισ, βραχειαι, βραχυτατηι, δριμυτητασ, δριμυτητι, δριμυτητοσ, δυναμιν, εργασαμενοι, ευεξιαν, εχει, καθ, μιγνυται, μοριον, ξηρωι, οταν, οφθαλμικαισ, ρυπτικην, στυψει, ταυτασ, τινεσ, τοιγαρουν, τριχων, φυσιν, χνοωδεσ, χρωνται, χυμων; overlap: αυτην, αφικνειται, εμποδιζοντων, ενεργειασ, ιδιασ, ουκετ, τεωσ, φυσισ"
+          "linked": true
         },
         {
           "type": "cf",
@@ -2877,8 +2875,7 @@
               "url": "#wellmann/5/90"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen chapter; Dsc. V 90; overlap: βλεφαροισ, τριχων"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2935,8 +2932,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.212.6"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: δυναμεωσ, ευδηλον, καυθεν, καυστικησ, κεκαυμενον, λεπτομερεστερον, οτι"
+          "linked": true
         },
         {
           "type": "cf",
@@ -2951,8 +2947,7 @@
               "url": "#wellmann/5/104"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen chapter; Dsc. V 104; fewer than two distinct content words"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2997,7 +2992,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.375.4-375.18",
             "read2_range": "XII.375.4-375.18"

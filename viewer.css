@@ -48,7 +48,7 @@ h2 { font: 600 .72rem var(--sans); letter-spacing: .09em; text-transform: upperc
 .tl .n.dim { visibility: hidden; }
 .tl:hover .n.dim { visibility: visible; }
 .lem { background: var(--lemma-bg); color: var(--lemma); border-radius: 2px; cursor: pointer; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
-.lem.low { background: var(--flag-bg); color: var(--flag); }
+.lem.low, .text span.low { background: var(--flag-bg); color: var(--flag); }
 .lem.on, .entry.on { outline: 2px solid var(--lemma); }
 .ins { display: inline-block; width: .6em; position: relative; user-select: none; }
 .ins::before { content: "‸"; }

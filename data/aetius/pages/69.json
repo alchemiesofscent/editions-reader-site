@@ -2300,8 +2300,7 @@
           ],
           "citation_id": "parallel-69-1-c1",
           "links": [],
-          "linked": false,
-          "link_check": "not resolved by Galen passes 1/2"
+          "linked": false
         },
         {
           "type": "parallel",
@@ -2319,8 +2318,7 @@
               "label": "raeder-our-tei 15.1.5.15"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 631,15–632,4); overlap: αλλοιωθησεται, αλλων, γινωσκειν, εκαστου, ελαιον, ελαιων, εμβληθεντων, ενεστι, ηδη, λογωι, μυροισ, ομωνυμωσ, σοι, τωιδε, φυσιν"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2373,8 +2371,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/11.873.3"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: δευτεραν, δυναμεωσ, θερμησ, λεπτομερουσ, μαλιστα, ξηραντικησ, που"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2392,8 +2389,7 @@
               "label": "raeder-our-tei 15.1.5.17"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 632,6–8); overlap: δευτεραν, δυναμεωσ, θερμησ, λεπτομερουσ, μαλιστα, ξηραντικησ, που"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2413,8 +2409,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 209,14–15); overlap: δευτεραν, δυναμεωσ, ελαφοβοσκον, θερμησ, λεπτομερουσ, μαλιστα, ξηραντικησ, που"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2469,8 +2464,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/11.873.8"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: ελενιου, μαλιστα, ριζα; overlap: ακριβωσ, αλλα, αναγωγασ, αυτην, επιτηδειωσ, θωρακι, λεκτεον, μιγνυται, ξηραν, παχεων, πεπερι, πνευμονι, υγροτητι"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2490,8 +2484,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 209,17–19); overlap: ακριβωσ, αλλα, αναγωγασ, αυτην, θερ, θωρακι, λεκτεον, μαλιστα, μην, μιγνυται, ξηραν, παχεων, πεπερι, πνευμονι, ριζα, υγροτητι"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2535,8 +2528,7 @@
               "label": "raeder-our-tei 15.1.5.18"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 632,8–12); overlap: ακριβωσ, αυτην, ελενιου, λεκτεον, ξηραν, πεπερι, ριζα, υγροτητι"
+          "linked": true
         }
       ],
       "flags": [
@@ -2584,7 +2576,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XI.873.16-873.17",
             "read2_range": "XI.873.16-873.17"
@@ -2606,8 +2597,7 @@
               "label": "raeder-our-tei 15.1.5.19"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 632,11–12); overlap: ατρεμα, ελελισφακοσ, εναργωσ, θερμαντικησ, υποστυφουσησ"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2627,8 +2617,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 209,16); Paul page advanced: start line lower than previous citation; page by lemma: 210 read as 209; overlap: ατρεμα, ελελισφακοσ, εναργωσ, θερμαντικησ, κρασεωσ"
+          "linked": true
         }
       ],
       "flags": [],

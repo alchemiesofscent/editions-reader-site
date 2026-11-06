@@ -2728,7 +2728,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XI.882.15-883.15",
             "read2_range": "XI.882.15-883.15"
@@ -2746,8 +2745,7 @@
               "label": "work"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Ad Eun. (R 360,31–36); no unique local edition unit; fewer than two distinct content words"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2767,8 +2765,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 214,2–5); overlap: αιματοσ, αλλη, αναγωγασ, αναιρει, αυτηι, αφεψημα, αφροδισια, διο, δυναμιν, εγγυσ, ελμιν, ενιοι, επεχει, εφεξησ, ηδυοσμοσ, ημερασ, θερμη, καταπλασσεται, κρασιν, λεπτομερησ, μετ, μετα, μετεχει, μετριωσ, οξυκρατου, ουσιαν, πανυ, παρ, πικρον, πινομενη, πινομενον, ποα, προσαγορευουσιν, προσφατουσ, στρυφνωι, ταξεωσ, ταυτην, τισ, τριτησ, ωφελει"
+          "linked": true
         },
         {
           "type": "cf",
@@ -2777,8 +2774,7 @@
           "notes": [],
           "citation_id": "parallel-74-1-c4",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen bd-page; Coll. XV (BD 636,13; 636,15; 637,3); BD page mapped to Raeder 253,18–253,29 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 636,13; 636,15; 637,3); BD page mapped to Raeder 253,18–253,29 (7 entries); multiple/uncertain mapped candidates; Quellen bd-page; Coll. XV (BD 636,13; 636,15; 637,3); BD page mapped to Raeder 253,18–253,29 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 636,13; 636,15; 637,3); BD page mapped to Raeder 253,18–253,29 (7 entries); multiple/uncertain mapped candidates; Quellen bd-page; Coll. XV (BD 636,13; 636,15; 637,3); BD page mapped to Raeder 253,18–253,29 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 636,13; 636,15; 637,3); BD page mapped to Raeder 253,18–253,29 (7 entries); multiple/uncertain mapped candidates; Quellen bd-page; Coll. XV (BD 636,13; 636,15; 637,3); BD page mapped to Raeder 253,18–253,29 (7 entries); multiple/uncertain mapped candidates"
+          "linked": false
         }
       ],
       "flags": [],
@@ -2830,7 +2826,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XI.883.16-884.3",
             "read2_range": "XI.883.16-884.3"
@@ -2852,8 +2847,7 @@
               "label": "raeder-our-tei 15.1.7.4"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 637,4–7); overlap: εκκαθαιρει, ευστομαχον, ηδυσαρον, οθεν, πελεκινοσ, πικρον, πινομενον, σπερμα, σπλαγχνοισ, φαινεται"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2900,8 +2894,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 214,6–8); overlap: εκκαθαιρει, εμφραξεισ, ευστομαχον, ηδυσαρον, καθαπερ, οθεν, πελεκινοσ, πικρον, πινομενον, σπερμα, υποστρυφνον, φαινεται"
+          "linked": true
         }
       ],
       "flags": [
@@ -2954,8 +2947,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/11.884.4"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αποκρουστικον, ατρεμα, διαφορητικησ, δυναμεωσ, δυναμιν, εκεινηι, εχειν, ιδεαν, κρινου, μετα, παραπλησια, παραπλησιωσ, ριζα, ωφελει"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2973,8 +2965,7 @@
               "label": "raeder-our-tei 15.1.7.6"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 637,7–9); overlap: ατρεμα, διαφορητικησ, δυναμεωσ, δυναμιν, εχειν, ιδεαν, κρινου, μετα, παραπλησια, ριζα"
+          "linked": true
         }
       ],
       "flags": [],
@@ -3020,8 +3011,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 214,18–19); overlap: δυναμιν, ιδεαν, κρινου, οθεν, παραπλησια, παραπλησιωσ, πυρικαυστα, ριζα, τουτου, ωφελει"
+          "linked": true
         }
       ],
       "flags": [
@@ -3073,8 +3063,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/11.884.12"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αμα, διαφορητικην, δυναμιν, επιμικτον, εχει, ηριγερων, μετριωσ, ψυκτικην"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -3088,8 +3077,7 @@
               "label": "work"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 637,10–11); fewer than two distinct content words"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -3109,8 +3097,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 215,6–7); Paul page advanced: start line lower than previous citation; overlap: αμα, διαφορητικην, δυναμιν, επιμικτον, εχει, ηριγερων, μετριωσ, ψυκτικην"
+          "linked": true
         }
       ],
       "flags": [],
@@ -3149,8 +3136,7 @@
               "url": "#wellmann/4/96"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen chapter; Dsc. IV 96 (W3 254,7–9); fewer than two distinct content words"
+          "linked": true
         }
       ],
       "flags": [],
@@ -3198,8 +3184,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/11.884.14"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: βραχυ, ηρυγγιον, θερμοτητι, λεπτομερουσ, μετεχει, ξηροτητοσ, ολιγησ, ουδεν, συμμετρων"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -3208,8 +3193,7 @@
           "notes": [],
           "citation_id": "parallel-74-8-c2",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen bd-page; Coll. XV (BD 637,11–13); BD page mapped to Raeder 254,4–254,7 (4 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 637,11–13); BD page mapped to Raeder 254,4–254,7 (4 entries); multiple/uncertain mapped candidates; Quellen bd-page; Coll. XV (BD 637,11–13); BD page mapped to Raeder 254,4–254,7 (4 entries); multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 637,11–13); BD page mapped to Raeder 254,4–254,7 (4 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words"
+          "linked": false
         },
         {
           "type": "parallel",
@@ -3229,8 +3213,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 215,8–9); overlap: βραχυ, εχει, ηρυγγιον, λεπτομερουσ, μετεχει, ξηροτητοσ, ολιγησ, ουδεν"
+          "linked": true
         }
       ],
       "flags": [],

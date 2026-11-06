@@ -2549,8 +2549,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.243.9"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: ισχυρωσ, μην, σαρκασ, τηκοντων, φαρμακον, χρυσοκολλα; overlap: δακνει, διαφορητικη, ενιοι, θυιαι, ικανωσ, μεταλλευομενον, μην, μονον, ξηραντικη, ονομαζουσιν, ουν, ουρου, ουτωσ, παιδοσ, χαλκηι; overlap: αμεινον, αυτο, θερμωι, θυιαι; overlap: δοιδυκοσ, ελκεσιν, κακοηθεσιν, φαρμακον"
+          "linked": true
         },
         {
           "type": "cf",
@@ -2570,8 +2569,7 @@
               "url": "#wellmann/5/89"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen chapter; Dsc. V 89; overlap: ηλιωι, ουτωσ, χρυσοκολλα"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2626,8 +2624,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.244.5"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; fewer than two distinct content words;; overlap: αλλ, δακνωδεσ, διαφορητικον, δριμεοσ, δριμυ, εμπλαστικον, ομωσ, οξουσ, ουτε; overlap: αυτην, βαθοσ, δυνασθαι, ηδη, θερμαινον, καταδυεσθαι, λεπτομερειαν, λεπτομερεστερον, μην, σωματων, φυκοσ, φυλαττον, ψιμμυθιον, ψιμμυθιου, ψυξιν"
+          "linked": true
         },
         {
           "type": "cf",
@@ -2647,8 +2644,7 @@
               "url": "#wellmann/5/88"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen chapter; Dsc. V 88; overlap: καθαρον, καλουμενον, οξουσ, σκευαζεται"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2704,7 +2700,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.244.11-244.16",
             "read2_range": "XII.244.11-244.16"
@@ -2756,7 +2751,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.246.17-253.9",
             "read2_range": "XII.246.17-253.8"

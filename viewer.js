@@ -6,8 +6,8 @@ function renderPublicCredits(index) {
   const list = lines => `<ul>${lines.map(value => `<li>${safe(value)}</li>`).join('')}</ul>`;
   document.querySelector('#credits').innerHTML = list(credit.edition) +
     `<div>${safe(index.label)} · ${credit.licence ? `<a href="${safe(credit.licence)}">${safe(credit.licence_text || "CC BY-SA 4.0")}</a>` : safe(credit.licence_text)}</div>` +
-    list(credit.attribution.map(line)) + (credit.upstream.length ?
-      `<h3>Upstream: First1KGreek</h3>${list(credit.upstream.map(line))}` : '') +
+    list(credit.attribution.map(line)) + (credit.main_text ? list(credit.main_text) : '') + (credit.control ? list(credit.control) : '') + (credit.upstream.length ?
+      `<h3>${credit.control ? 'First1KGreek' : 'Upstream: First1KGreek'}</h3>${list(credit.upstream.map(line))}` : '') +
     list([...credit.authority, credit.scans]);
   document.querySelector('#candidate-banner').hidden = index.edition !== 'paul' || ['accepted', 'scholarly-accepted'].includes(index.status);
 }
@@ -73,7 +73,8 @@ function flagText(flag) {
 
 // Amber only where review is needed (a printed lemma not found, a missing target);
 // an entry that prints no lemma simply refers to its line(s).
-function attachmentNote(e) {
+function attachmentNote(e, index) {
+  if (index.edition === 'wellmann') return `<div class="loc">${e.attachment === 'page' ? 'page' : 'line'}</div>`;
   if (e.cert === 'low') return `<div class="fl">${e.anchored === false ? 'Lemma not placed; line highlighted — review' : 'Uncertain — review'}</div>`;
   if (e.attachment === 'page') return '<div class="fl">Page-level entry; target unavailable</div>';
   if (e.lemma && e.attachment === 'line') return '<div class="fl">Printed lemma not found on its line; line highlighted</div>';
@@ -102,15 +103,32 @@ function renderLineKey(ref, index) {
 
 function renderText(page, index) {
   const opens = {}, closes = {}, insertions = {};
+  // Distinct adjacent anchors can describe an empty component too. Preserve
+  // its certainty as a non-text caret without colouring its secure carrier.
+  const anchorOffsets = new Map();
+  let offset = 0;
+  for (const line of [...page.lines, ...(page.segments || []).flatMap(s => s.lines)]) {
+    for (const part of line.parts) {
+      if ('a' in part) anchorOffsets.set(part.a, offset);
+      else if (part.t || part.br || part.ref) offset++;
+    }
+  }
   for (const entry of page.entries) {
     if (entry.off_page || ['page', 'continued'].includes(entry.attachment)) continue;
     if (entry.insertion || entry.insertion_point) {
-      (insertions[entry.insertion_point || entry.from] ||= []).push(entry);
-      if (entry.insertion) continue;
+      if (!entry.spans) (insertions[entry.insertion_point || entry.from] ||= []).push(entry);
+      if (entry.insertion && !entry.spans) continue;
     }
     for (const span of entry.spans || [{from: entry.from, to: entry.to}]) {
-      (opens[span.from] ||= []).push(entry.id);
-      (closes[span.to] ||= []).push(entry.id);
+      const emptyLow = span.cert === 'low' && anchorOffsets.has(span.from) &&
+        anchorOffsets.get(span.from) === anchorOffsets.get(span.to);
+      if (span.from === span.to || emptyLow) {
+        (insertions[span.from] ||= []).push(span.cert === 'low' ? {...entry, cert: 'low', span_cert: true} : entry);
+        continue;
+      }
+      const activeSpan = {id: entry.id, cert: span.cert};
+      (opens[span.from] ||= []).push(activeSpan);
+      (closes[span.to] ||= []).push(activeSpan);
     }
   }
   const uncertain = new Set(page.entries.filter(e => e.cert === 'low' || (e.cert !== 'medium' && visibleFlags(e, index).length)).map(e => e.id));
@@ -129,14 +147,14 @@ function renderText(page, index) {
         for (const id of closes[part.a] || []) active.delete(id);
         for (const entry of insertions[part.a] || []) {
           const title = entry.readings.map(r => `${r.text}${r.type ? ` (${r.type}.)` : ''}`).join('; ');
-          text += `<span class="lem ins${uncertain.has(entry.id) ? ' low' : ''}${part.context ? ' context' : ''}" tabindex="0" role="button" data-e="${esc(entry.id)}" title="${esc(title)}" aria-label="${esc(`Insertion${entry.insertion_side ? ` ${entry.insertion_side} word` : ''}: ${title}`)}"></span>`;
+          text += `<span class="lem ins${entry.cert === 'low' || uncertain.has(entry.id) ? ' low' : ''}${part.context ? ' context' : ''}" tabindex="0" role="button" data-e="${esc(entry.id)}" title="${esc(entry.span_cert ? `editor's certainty: low${title ? `; ${title}` : ''}` : title)}" aria-label="${esc(`Insertion${entry.insertion_side ? ` ${entry.insertion_side} word` : ''}: ${title}`)}"></span>`;
         }
         for (const id of opens[part.a] || []) active.add(id);
         continue;
       }
-      const classes = [active.size ? 'lem' : '', part.headword ? 'headword' : '', part.g ? 'g' : '', part.num ? 'num' : '', part.overline ? 'overline' : '', part.superscript ? 'superscript' : '', part.small ? 'small' : '', part.large ? 'large' : '', part.letter_spacing ? 'letter-spacing' : '', [...active].some(id => uncertain.has(id)) ? 'low' : '', part.br ? 'br' : '', part.context ? 'context' : '', part.italic ? 'italic' : ''].filter(Boolean).join(' ');
-      const attr = active.size ? ` tabindex="0" role="button" data-e="${esc([...active].join(' '))}"` : '';
-      const title = part.tooltip ? ` title="${esc(part.tooltip)}"` : part.value !== undefined ? ` title="Numerical value: ${esc(part.value)}"` : [...active].some(id => medium.has(id)) ? ' title="Medium certainty"' : '';
+      const classes = [active.size ? 'lem' : '', part.headword ? 'headword' : '', part.g ? 'g' : '', part.num ? 'num' : '', part.overline ? 'overline' : '', part.superscript ? 'superscript' : '', part.small ? 'small' : '', part.large ? 'large' : '', part.letter_spacing ? 'letter-spacing' : '', part.cert === 'low' || [...active].some(span => span.cert === 'low' || uncertain.has(span.id)) ? 'low' : '', part.br ? 'br' : '', part.context ? 'context' : '', part.italic ? 'italic' : ''].filter(Boolean).join(' ');
+      const attr = active.size ? ` tabindex="0" role="button" data-e="${esc([...new Set([...active].map(span => span.id))].join(' '))}"` : '';
+      const title = part.cert === 'low' || [...active].some(span => span.cert === 'low' || uncertain.has(span.id)) ? ` title="editor&#39;s certainty: low"` : part.tooltip ? ` title="${esc(part.tooltip)}"` : part.value !== undefined ? ` title="Numerical value: ${esc(part.value)}"` : [...active].some(span => medium.has(span.id)) ? ' title="Medium certainty"' : '';
       text += `<span class="${classes}"${part.id ? ` id="${esc(part.id)}"` : ''}${part.lang ? ` lang="${esc(part.lang)}"` : ''}${attr}${title}>${esc(part.br || part.t)}</span>`;
     }
     const lineEntries = page.entries.filter(e => !e.off_page && e.anchored === false && ['line', 'chapter'].includes(e.attachment) && e.line_ids?.includes(line.id)).map(e => e.id);
@@ -154,7 +172,7 @@ function externalLink(url, label) {
 }
 
 function citationLink(link) {
-  if (/^(?:#(?:paul|wellmann)\/\d+\/\d+(?:\.\d+)?|wellmann-[2-5]\/#wellmann\/[2-5]\/\d+)$/.test(link.url || '')) {
+  if (/^(?:#(?:paul|wellmann|aetius)\/\d+\/\d+(?:\.\d+)?|wellmann-[2-5]\/#wellmann\/[2-5]\/\d+)$/.test(link.url || '')) {
     return `<a href="${esc(link.url)}">${esc(link.label || link.kind)}</a>`;
   }
   return externalLink(link.url, link.label || link.kind);
@@ -177,7 +195,7 @@ function renderApp(page, index) {
     const parts = (e.method_parts || []).map(p => `${p.from} → ${p.to}: ${p.method}`).join('; ');
     return `<span class="method"${parts ? ` title="${esc(parts)}"` : ''}>${esc(e.method)}</span>`;
   };
-  const printed = parts => parts.map(p => p.gap ? `<span class="br" title="Illegible in source">□</span>` : p.italic ? `<i>${esc(p.t)}</i>` : esc(p.t)).join('');
+  const printed = parts => parts.map(p => p.gap ? `<span class="br" title="Illegible in source">□</span>` : p.link ? externalLink(p.link, p.t) : p.italic ? `<i>${esc(p.t)}</i>` : esc(p.t)).join('');
   const locationLink = (location, label) => index.pages?.some(p => p.n === location.page) ? `<a href="#${esc(index.edition)}/p${esc(location.page)}/${esc(location.line)}">${esc(label)}${location.page_label ? ` (${esc(location.page_label)}, l. ${esc(location.line)})` : ''}</a>` : esc(`${label} (${pageLabel(location.page, index)}, l. ${location.line}; outside this build)`);
   const witness = (w, witnessId) => {
     const except = w.startsWith('-'), siglum = except ? w.slice(1) : w;
@@ -196,23 +214,23 @@ function renderApp(page, index) {
   return siglaList + (legend ? `<div class="legend" aria-label="Page witness families">${legend}</div>` : '') + Object.entries(GROUPS).map(([group, title]) => {
     const entries = page.entries.filter(e => e.group === group);
     const witnesses = group === 'criticus' ? (page.witnesses || []).map(w => `<div class="witnesses">${printed(w.parts)}</div>`).join('') : '';
-    return `<details class="app-group" data-group="${esc(group)}"${COLLAPSED.has(group) ? '' : ' open'}><summary><h2>${title} (${entries.length})</h2></summary>${witnesses}${entries.map(e => `<div class="entry${e.cert === 'low' || (e.cert !== 'medium' && visibleFlags(e, index).length) ? ' low' : ''}" id="${esc(e.id)}"${e.cert === 'medium' ? ' title="Medium certainty"' : ''} tabindex="0" role="button" data-id="${esc(e.id)}">
-      ${e.corresp ? `<small class="continuation"><a href="${esc(e.corresp)}" data-parent="${esc(e.corresp.replace(/^#/, ''))}">continues ${esc(e.corresp.replace(/^#/, ''))}</a></small>` : ''}
+    return `<details class="app-group" data-group="${esc(group)}"${COLLAPSED.has(group) ? '' : ' open'}><summary><h2>${title} (${entries.length})</h2></summary>${witnesses}${entries.map(e => `<div class="entry${e.cert === 'low' || (e.cert !== 'medium' && visibleFlags(e, index).length) ? ' low' : ''}" id="${esc(e.id)}"${e.cert === 'low' ? ' title="editor&#39;s certainty: low"' : e.cert === 'medium' ? ' title="Medium certainty"' : ''} tabindex="0" role="button" data-id="${esc(e.id)}">
+      ${e.corresp ? `<small class="continuation"><a href="${esc(e.corresp)}" data-parent="${esc(e.corresp.replace(/^#/, ''))}">continues ${esc(e.continuation_location ? `from ${pageLabel(e.continuation_location.page, index)} l. ${e.continuation_location.line}` : e.corresp.replace(/^#/, ''))}</a></small>` : ''}
       <div class="row1"><span class="ln">${e.off_page || ['page', 'continued'].includes(e.attachment) ? '—' : esc(e.line)}</span><span class="lemt${e.lemma_printed === false ? ' unp' : ''}">${esc(e.insertion ? '' : e.lemma || (e.anchored === false ? '' : '∅'))}</span>${methodTag(e)}</div>
-      ${e.cert === 'low' || e.anchored === false ? attachmentNote(e) : ''}
+      ${e.cert === 'low' || e.anchored === false ? attachmentNote(e, index) : ''}
       ${visibleFlags(e, index).map(flag => `<div class="fl">${esc(flagText(flag))}</div>`).join('')}
       ${e.prev_location ? locationLink(e.prev_location, 'Previous apparatus entry') : ''}
       ${e.target_location ? locationLink(e.target_location, 'Open target') : ''}
       ${e.source_page && e.source_page !== page.page ? (index.pages?.some(p => p.n === e.source_page) ? `<a href="#${esc(index.edition)}/p${esc(e.source_page)}">Printed on ${esc(pageLabel(e.source_page, index))}</a>` : `Printed on ${esc(pageLabel(e.source_page, index))} (outside this build)`) : ''}
-      ${e.readings.map(r => `<div${r.citation_id ? ` data-citation-id="${esc(r.citation_id)}"` : ''} class="rd${r.cert === 'low' ? ' low' : ''}"><span class="ty">${esc(['om', 'add', 'transp'].includes(r.type) ? `${r.type}.` : r.type)}</span><span class="${r.generic ? 'nt' : 'rt'}">${esc(r.text)}</span>${r.type === 'add' && e.insertion_label ? `<span class="nt">${esc(e.insertion_label)} ${esc(e.lemma)}</span>` : ''}
+      ${e.readings.map(r => `<div${r.citation_id ? ` data-citation-id="${esc(r.citation_id)}"` : ''} class="rd${r.cert === 'low' ? ' low' : ''}"${r.cert === 'low' ? ' title="editor&#39;s certainty: low"' : ''}><span class="ty">${esc(index.edition === 'wellmann' && r.note_type !== undefined ? '' : ['om', 'add', 'transp'].includes(r.type) ? `${r.type}.` : r.type)}</span><span class="${r.generic ? 'nt' : 'rt'}">${esc(r.text)}</span>${r.destination ? ` <a class="moved" href="#${esc(index.edition)}/p${esc(r.destination.page)}/${esc(r.destination.line)}">moved → p. ${esc(r.destination.page)} l. ${esc(r.destination.line)}</a>` : ''}${r.type === 'add' && e.insertion_label ? `<span class="nt">${esc(e.insertion_label)} ${esc(e.lemma)}</span>` : ''}
         ${r.wit.map((w, i) => witness(w, r.wit_ids?.[i])).join('')}
         ${(r.links || []).map(link => `<small class="citation-link">${citationLink(link)}</small>`).join(' ')}
         ${r.two_reads ? `<small class="two-reads" title="${esc(`${r.two_reads.read1_range}; ${r.two_reads.read2_range}`)}">two reads</small>` : ''}
         ${r.linked === false ? `<span class="not-linked" title="${esc(r.link_check || '')}">not linked</span>` : ''}
-        ${r.cert === 'low' ? '<span class="fl">Citation uncertainty — review</span>' : ''}
+        ${r.cert === 'low' && index.edition !== 'wellmann' ? '<span class="fl">Citation uncertainty — review</span>' : ''}
         ${r.notes.filter(n => (n.type !== 'flag' || index.apparatus_display?.flags !== false) &&
-          (n.type !== 'printed' || index.apparatus_display?.printed !== 'fallback'))
-          .map(n => index.edition === 'paul' && index.encoding === 'standoff' ? `<span class="nt">${n.type === 'editorial' ? `<i>ed. ${esc(n.text)}</i>` : `<span class="ty">${esc(n.type)}</span> ${esc(n.text)}`}</span>` : `<span class="nt">${n.wit ? `<span class="w">${esc(n.wit)}</span> ` : ''}${esc(n.text)}</span>`).join(' ')}</div>`).join('')}
+          (index.edition === 'wellmann' || n.type !== 'printed' || index.apparatus_display?.printed !== 'fallback'))
+          .map(n => index.edition === 'paul' && index.encoding === 'standoff' ? `<span class="nt">${n.type === 'editorial' ? `<i>ed. ${esc(n.text)}</i>` : `<span class="ty">${esc(n.type)}</span> ${esc(n.text)}`}</span>` : `<span class="nt">${n.wit ? `<span class="w">${esc(n.wit)}</span> ` : ''}${n.source_type === 'witDetail' && index.edition !== 'wellmann' ? `<span class="ty">${esc(n.type)}</span> ` : ''}${esc(n.text)}</span>`).join(' ')}</div>`).join('')}
       ${showPrinted(e, index) ? `<div class="pr">${e.printed_parts ? printed(e.printed_parts) : esc(e.printed)}</div>` : ''}</div>`).join('')}</details>`;
   }).join('');
 }

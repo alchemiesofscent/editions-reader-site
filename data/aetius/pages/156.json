@@ -2926,7 +2926,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.178.12-178.14",
             "read2_range": "XII.178.12-178.14"
@@ -2985,8 +2984,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.176.1"
             }
           ],
-          "linked": true,
-          "link_check": "resolved 243-A; overlap: ελκουσ, ελκων, εχρησαμην, κακιασ, κακοηθων, λημνιαι, μεγαλωσ, μεγεθοσ, μην, σηπεδονωδων, χρησισ; overlap: ανεχεται, δριμυτατου, δυσωδεσ, λελυμενησ, λημνιασ, λιαν, οξουσ, πηλωδη, ρυπαρον, συστασιν"
+          "linked": true
         }
       ],
       "flags": [],

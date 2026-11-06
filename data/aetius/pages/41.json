@@ -1804,8 +1804,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/11.834.6"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: απαρινη, εχει, λεπτομερεσ, μετριωσ, ξηραινει, ρυπτει"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -1814,8 +1813,7 @@
           "notes": [],
           "citation_id": "parallel-41-1-c2",
           "links": [],
-          "linked": false,
-          "link_check": "no certain mapping in Quellen table; no mapped local target"
+          "linked": false
         },
         {
           "type": "parallel",
@@ -1824,8 +1822,7 @@
           "notes": [],
           "citation_id": "parallel-41-1-c3",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen none; Paul; unparsed '1 Ἀπαρίνη—λεπτομερέϲ Gal'; unparsed '50 834, 6—8 Or.ᶜ 13—14 Pau'; no mapped local target"
+          "linked": false
         }
       ],
       "flags": [],
@@ -1874,8 +1871,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/11.834.9"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αδιψοι, ακρεμονεσ, ανωμαλοσ, απιου, αυτοισ, γλυκυτητοσ, δηλη, εγωγε, ευστομαχοι, εχει, καρποσ, κολλησασ, κρασισ, μετριωσ, μορια, οιδα, τισ, υδατωδουσ, υπαρχουσα, φυλλα, ψυχουσιν"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -1893,8 +1889,7 @@
               "label": "raeder-our-tei 15.1.1.74"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 615,14–616,4); overlap: ακρεμονεσ, απιου, εχει, καρποσ, υδατωδουσ, φυλλα"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -1914,8 +1909,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 195,8–10); page by lemma: 194 read as 195; overlap: ακρεμονεσ, ανωμαλοσ, απιοσ, αυστη, αυτοισ, γλυκυτητοσ, δηλη, εδωδιμοσ, εσθιομεναι, ευστομαχοι, εχει, καρποσ, μετριωσ, μορια, ξηραι, τισ, τραυματα, υδατωδουσ, υπαρχουσα, φυλλα, ωστε"
+          "linked": true
         }
       ],
       "flags": [],
@@ -1973,8 +1967,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/11.835.1"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αχραδεσ, μαλλον, ξηραινουσι, ονομαζομεναι, στυφουσι; overlap: κολλωσι, μειζονα, ρευματα, τραυματα"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2007,8 +2000,7 @@
           "notes": [],
           "citation_id": "parallel-41-3-s1-c1",
           "links": [],
-          "linked": false,
-          "link_check": "no certain mapping in Quellen table; no mapped local target"
+          "linked": false
         }
       ],
       "flags": [],
@@ -2057,8 +2049,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/11.835.15"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αριστολοχιασ, δραστικωτερα, ιασεισ, παντα, πικρα, ριζα, στρογγυλη, υπαρχουσα, υποδριμυσ, χρειωδεστατη"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2067,8 +2058,7 @@
           "notes": [],
           "citation_id": "parallel-41-4-c2",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 616,9–11); siglum missing, read as ᶜ; multiple/uncertain mapped candidates; ambiguous citation mapping"
+          "linked": false
         },
         {
           "type": "parallel",
@@ -2088,8 +2078,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 195,24–26); page by lemma: 194 read as 195; overlap: δραστικωτερα, ιασεισ, παντα, πικρα, ριζα, υπαρχουσα, υποδριμυσ, χρειωδεστατη"
+          "linked": true
         }
       ],
       "flags": [
@@ -2137,7 +2126,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XI.836.9-836.17",
             "read2_range": "XI.836.9-836.17"
@@ -2150,8 +2138,7 @@
           "notes": [],
           "citation_id": "parallel-41-5-c2",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen lines; Ad Eun. (R 353,1–8); siglum ᶜ read as ᵉ (page); multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words; Quellen lines; Ad Eun. (R 353,1–8); siglum ᶜ read as ᵉ (page); multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words"
+          "linked": false
         },
         {
           "type": "cf",
@@ -2160,8 +2147,7 @@
           "notes": [],
           "citation_id": "parallel-41-5-c3",
           "links": [],
-          "linked": false,
-          "link_check": "other author: outside approved target set"
+          "linked": false
         }
       ],
       "flags": [
@@ -2211,8 +2197,7 @@
               "label": "raeder-our-tei 15.1.1.83"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 616,11–617,4); overlap: αλλ, απρακτοσ, αυτη, ηττον, λεπτομερησ, μακρα, μην, ρυπτικησ, στρογγυλησ"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2232,8 +2217,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 195,26–28); page by lemma: 194 read as 195; overlap: αλλ, αλλων, απρακτοσ, ασθενεστερα, αυτη, αυτηι, δυνα, δυοιν, ηττον, θερμαντικησ, ιασεισ, κληματιτισ, λεπτομερησ, μακρα, μεωσ, μην, ρυπτικησ, στρογγυλησ, χρησθαι"
+          "linked": true
         }
       ],
       "flags": [

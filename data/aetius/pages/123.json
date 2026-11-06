@@ -2915,7 +2915,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.101.9-102.4",
             "read2_range": "XII.101.9-102.4"
@@ -2939,8 +2938,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 252,1–6); overlap: αλλα, απαντα, απορρυπτουσι, αποστασιν, ασθματικουσ, δευτεραν, διαφο, εκλειχομενον, εμπυικουσ, εχει, εχουσι, θερμαινει, ισχυροτερα, καταπλασμασιν, κυαθου, λειχηνασ, λεπρουσ, λεπτομερεσ, μελιτι, μιγνυμεναι, ξηρα, ξηραινει, ογκουσ, ονυχασ, ουτωσ, πισσα, πλεον, πληθοσ, ρυπτικον, σκληρουσ, συμπεπτικον, συμπεττουσι, τραυματων, υγρα, χειρων, ωφελει"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2976,8 +2974,7 @@
           "notes": [],
           "citation_id": "parallel-122-1-s1-c1",
           "links": [],
-          "linked": false,
-          "link_check": "no certain mapping in Quellen table; no mapped local target"
+          "linked": false
         }
       ],
       "flags": [],
@@ -3013,8 +3010,7 @@
           "notes": [],
           "citation_id": "parallel-122-1-s2-c1",
           "links": [],
-          "linked": false,
-          "link_check": "no certain mapping in Quellen table; no mapped local target"
+          "linked": false
         }
       ],
       "flags": [],
@@ -3058,8 +3054,7 @@
               "url": "#wellmann/1/72"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen chapter; Dsc. I 72.4 (W1 71,17–26); overlap: αγγειωι, αλλο, αναλωθηι, αυταρκη, βλεφαρα, δακρυρροουντα, δει, ελκωδη, επιχεε, εωσ, καιεσθαι, καινον, καλλιβλεφαρα, λιγνυν, λιγνυσ, λυχνον, ομματα, οπου, οταν, ουτωσ, ποιει, πωμασασ, υγρασ, χρω"
+          "linked": true
         }
       ],
       "flags": [],
@@ -3113,8 +3108,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.102.11"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αρωματιζον, διακαθαιρει, εκφραττει, εχουσησ, ηδη, ηπαρ, θωρακα, καθ, καρποσ, λεπτομερεστερασ, μαλιστα, ουσιασ, πνευμονα, πωσ, τοιγαρουν, υποπικρον"
+          "linked": true
         },
         {
           "type": "cf",
@@ -3134,8 +3128,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 252,9–11); overlap: αρωματιζον, διακαθαιρει, εκφραττει, εχουσησ, ηδη, ηπαρ, θωρακα, καθ, καρποσ, λεπτομερεστερασ, μαλιστα, ουσιασ, πιστακιου, πνευμονα, πωσ, τοιγαρουν, υποπικρον"
+          "linked": true
         }
       ],
       "flags": [],
@@ -3175,8 +3168,7 @@
               "label": "work"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 674,2–3); fewer than two distinct content words"
+          "linked": true
         }
       ],
       "flags": [],
@@ -3231,8 +3223,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.103.1"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: εισι, ενιοι, καρποσ, μικτησ, ονομαζεται, ουτωσ, πευκησ, πιτυιδεσ, πιτυων, προσαγορευουσιν, ωσαυτωσ; overlap: δριμυτητα, θωρακοσ, κεκτημεναι, μετα, οθεν, πνευμονοσ, στυφουσαι, τινα"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -3252,8 +3243,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 252,12–14); overlap: δυνα, εισι, ενιοι, θωρακοσ, καρποσ, μετα, μεωσ, μικτησ, οθεν, ονομαζεται, ουτωσ, πευκησ, πιτυιδεσ, πιτυων, πνευμονοσ, προσαγορευουσιν, τινα, ωσαυτωσ"
+          "linked": true
         }
       ],
       "flags": [],
@@ -3298,8 +3288,7 @@
               "label": "raeder-our-tei 15.1.16.28"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 674,4–5); overlap: δριμυτητα, εισι, κεκτημεναι, μετα, μικτησ, πιτυιδεσ, στυφουσαι, τινα"
+          "linked": true
         }
       ],
       "flags": [],
@@ -3355,8 +3344,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.103.13"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αμφοτερων, δενδρων, δυναμιν, δυναμισ, επεχειν, επικρατουσαν, εχει, ιασθαι, καλλιστα, κατακαυματα, κοιλιαν, κολλητικη, ομοιοσ, παρατριμματα, πευκησ, πιτυοσ, ποθειη, στυπτικην, τραυματων, φλοιοσ, φυλλοισ; overlap: βλεφαρα, δακρυοντασ, κανθουσ, λιγνυσ, περιβεβρωμενουσ, πτιλα, φυλλοισ"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -3365,8 +3353,7 @@
           "notes": [],
           "citation_id": "parallel-123-6-c2",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen bd-page; Coll. XV (BD 674,11–18); BD page mapped to Raeder 270,5–270,16 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 674,11–18); BD page mapped to Raeder 270,5–270,16 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 674,11–18); BD page mapped to Raeder 270,5–270,16 (7 entries); multiple/uncertain mapped candidates; Quellen bd-page; Coll. XV (BD 674,11–18); BD page mapped to Raeder 270,5–270,16 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 674,11–18); BD page mapped to Raeder 270,5–270,16 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 674,11–18); BD page mapped to Raeder 270,5–270,16 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 674,11–18); BD page mapped to Raeder 270,5–270,16 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words"
+          "linked": false
         }
       ],
       "flags": [],
@@ -3415,8 +3402,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 252,16–18); overlap: ασθενεστεροσ, δενδρων, δυναμιν, δυναμισ, επεχειν, επικρατουσαν, εχει, ιασθαι, κατακαυματα, καταπλαττομενοσ, κοιλιαν, ομοιοσ, παρατριμματα, πευκησ, πιτυοσ, ποθειη, στυπτικην, τουτωι, τραυματων, φλοιοσ, φυλλοισ"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -3425,8 +3411,7 @@
           "notes": [],
           "citation_id": "parallel-123-7-c2",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen bd-page; Coll. XV (BD 674,5–8); BD page mapped to Raeder 270,5–270,16 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 674,5–8); BD page mapped to Raeder 270,5–270,16 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 674,5–8); BD page mapped to Raeder 270,5–270,16 (7 entries); multiple/uncertain mapped candidates; Quellen bd-page; Coll. XV (BD 674,5–8); BD page mapped to Raeder 270,5–270,16 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 674,5–8); BD page mapped to Raeder 270,5–270,16 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 674,5–8); BD page mapped to Raeder 270,5–270,16 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 674,5–8); BD page mapped to Raeder 270,5–270,16 (7 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words"
+          "linked": false
         }
       ],
       "flags": [

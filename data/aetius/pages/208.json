@@ -1683,8 +1683,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/urn:cts:greekLit:tlg0057.tlg075.1st1K-grc1:11.2"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; fewer than two distinct content words; no following line marker for exclusive range end"
+          "linked": true
         }
       ],
       "flags": [],
@@ -1732,7 +1731,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.324.3-331.13",
             "read2_range": "XII.324.3-331.13"

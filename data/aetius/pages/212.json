@@ -2210,8 +2210,7 @@
           ],
           "citation_id": "parallel-212-1-c1",
           "links": [],
-          "linked": false,
-          "link_check": "not resolved by Galen passes 1/2"
+          "linked": false
         }
       ],
       "flags": [],
@@ -2256,7 +2255,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.367.16-369.8",
             "read2_range": "XII.367.16-369.8"
@@ -2324,8 +2322,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.343.1"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αραχνησ, αφλεγμαντα, ελκη, επιπολησ, τινεσ, φυλαττειν"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2369,8 +2366,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/urn:cts:greekLit:tlg0057.tlg075.1st1K-grc1:11.1"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; fewer than two distinct content words;"
+          "linked": true
         }
       ],
       "flags": [],

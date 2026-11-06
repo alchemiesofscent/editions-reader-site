@@ -2237,8 +2237,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/6.587.2"
             }
           ],
-          "linked": true,
-          "link_check": "not resolved by Galen passes 1/2; Sean ruling"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2282,7 +2281,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.78.16-79.11",
             "read2_range": "XII.78.16-79.11"
@@ -2295,8 +2293,7 @@
           "notes": [],
           "citation_id": "parallel-112-1-c2",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen bd-page; Coll. XV (BD 665,18–22); BD page mapped to Raeder 265,28–266,5 (8 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 665,18–22); BD page mapped to Raeder 265,28–266,5 (8 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 665,18–22); BD page mapped to Raeder 265,28–266,5 (8 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 665,18–22); BD page mapped to Raeder 265,28–266,5 (8 entries); multiple/uncertain mapped candidates; Quellen bd-page; Coll. XV (BD 665,18–22); BD page mapped to Raeder 265,28–266,5 (8 entries); multiple/uncertain mapped candidates; Quellen bd-page; Coll. XV (BD 665,18–22); BD page mapped to Raeder 265,28–266,5 (8 entries); multiple/uncertain mapped candidates; Quellen bd-page; Coll. XV (BD 665,18–22); BD page mapped to Raeder 265,28–266,5 (8 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 665,18–22); BD page mapped to Raeder 265,28–266,5 (8 entries); multiple/uncertain mapped candidates"
+          "linked": false
         },
         {
           "type": "parallel",
@@ -2316,8 +2313,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 243,9–12); Paul page advanced: start line lower than previous citation; page by lemma: 244 read as 243; overlap: αγαθον, ακριβωσ, αλλασ, αναιρει, αωροσ, δενδρου, δυναμεωσ, δυσεντεριασ, ελμινθα, ηλιωι, ιασθαι, ικανωσ, καθαπερ, καθαρτικησ, καρποσ, κον, μεθ, μετ, μετα, μετεχει, μορεασ, ξηρανθεισ, οινου, οσαι, πικροτητοσ, πινεται, πλατειαν, ριζησ, ρου, στεγνωτικον, ται, τινοσ, υδατοσ, φλοιοσ, χρονιασ, ωστε"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2367,7 +2363,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.79.17-80.1",
             "read2_range": "XII.79.17-80.1"
@@ -2391,8 +2386,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 243,27–28); page by lemma: 244 read as 243; overlap: αναιρουσι, δηλητηριου, δυναμεωσ, εγγυσ, ικανωσ, μυκητεσ, οθεν, τινεσ, υγρον, ψυχρον"
+          "linked": true
         }
       ],
       "flags": [
@@ -2427,8 +2421,7 @@
           "notes": [],
           "citation_id": "parallel-112-2-s1-c1",
           "links": [],
-          "linked": false,
-          "link_check": "no certain mapping in Quellen table; no mapped local target"
+          "linked": false
         }
       ],
       "flags": [],
@@ -2478,8 +2471,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.80.8"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: δευτεραν, επιφανη, θερμοτητα, κεκτηται, ξηραινει, ουδεμιαν, ταξιν"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2497,8 +2489,7 @@
               "label": "raeder-our-tei 15.1.12.39"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 666,7–9); overlap: δευτεραν, επιφανη, θερμοτητα, κεκτηται, ξηραινει, ουδεμιαν, ταξιν"
+          "linked": true
         }
       ],
       "flags": [
@@ -2554,8 +2545,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.81.4"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: ακρεμονων, ανευ, αφεψομενων, βραχειαν, δυναμεισ, δυναμεωσ, επιφανωσ, εχει, ικανωσ, καρποσ, μυρικη, μυρικησ, ξηραινειν, οινωι, ονινησιν, οξει, ριζων, ρυπτικησ, στυψιν, ταυτασ, τινα, τμητικησ, φλοιοσ, φυλλων; fewer than two distinct content words;; overlap: γινεται, δυναμεωσ, ικανωσ, καυθεισησ, μυρικησ, ξηραντικησ, τεφρα"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2573,8 +2563,7 @@
               "label": "raeder-our-tei 15.1.12.41"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 666,9–13); overlap: καρποσ, μετα, προσειληφασι, στυψιν, φλοιοσ"
+          "linked": true
         },
         {
           "type": "cf",
@@ -2594,8 +2583,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 244,3–7); overlap: ανευ, γινεται, δυναμεισ, δυναμεωσ, εσκιρρωμενουσ, εχει, εχειν, ικανωσ, καρποσ, καυθεισησ, λεπτομερεσ, μετα, μυρικη, ξηραινειν, ξηραντικησ, οινωι, ονινησιν, οξει, ριζων, ρυπτικησ, σπληνασ, στυψιν, τεφρα, τινα, τμητικησ, φλοιοσ, φυλλων"
+          "linked": true
         }
       ],
       "flags": [],

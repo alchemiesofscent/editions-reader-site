@@ -1856,7 +1856,7 @@
           "context": false,
           "first": {
             "page": "1-137",
-            "line": "17",
+            "line": "16",
             "page_label": "I, p. 137"
           }
         },
@@ -2936,7 +2936,7 @@
           "context": false,
           "first": {
             "page": "1-226",
-            "line": "18",
+            "line": "17",
             "page_label": "I, p. 226"
           }
         },
@@ -14058,47 +14058,48 @@
   ],
   "sigla": {
     "A": "Vindob. med. gr. 16",
-    "A2": "Corrector or second hand of A, as cited in Wellmann's apparatus; pending full printed Index siglorum reconciliation",
+    "A2": "",
     "B": "Vindob. lat. 16",
     "C": "Constantinop. Vind. 1",
     "Da": "Marc. Ven. 272. 597",
     "Di": "Book V witness: Paris. gr. 2183 (p)",
     "Dl": "Dioscurides lat. Monacensis 337",
     "E": "Escor. III R 3",
-    "E2": "Corrector or second hand of E, as cited in Wellmann's apparatus; pending full printed Index siglorum reconciliation",
+    "E2": "",
     "F": "Laurent. 74, 23",
     "H": "Palat. 77",
-    "H2": "Corrector or second hand of H, as cited in Wellmann's apparatus; pending full printed Index siglorum reconciliation",
-    "L": "Laurent. gr. 74, 17, the displaced Book V witness of Marc. Ven. 273 (e P), s. XII; Book V only",
+    "H2": "",
+    "L": "",
     "L1": "Laur. 73, 16 (Ps. Apuleii); printed siglum L1/L subscript 1",
     "M": "Matrit. pal. Reg. 44",
     "N": "Neapol. Vind. suppl. gr. 28",
     "O": "Book V group: P L F H A",
     "Orib.": "Oribasii libri XI-XII; O1/O2 are correctores Oribasii",
-    "O2": "Corrector Oribasii cited as O2; pending full printed Index siglorum reconciliation",
+    "O2": "",
     "P": "Paris. 2179",
-    "pap.": "papyri Lugdunenses excerpta; listed in the Book V Index siglorum and cited in Wellmann's apparatus",
+    "pap.": "",
     "p": "Paris. 2183",
     "R": "codices CN (collectively)",
     "V": "Marc. Ven. 273 (Dioscuridis)",
-    "V₁": "Vind. 93 (Ps. Apuleii); printed as V with subscript 1 in the Book IV p. 250 addition",
+    "V₁": "",
     "v": "Marc. Ven. 271",
-    "libri": "libri; the manuscripts collectively, as cited by Wellmann",
-    "codd.": "codices; the manuscripts collectively",
-    "reliqui": "reliqui; the remaining witnesses against the cited one",
-    "cett.": "ceteri; the other witnesses",
-    "vulgo": "vulgo; the received or vulgate reading",
-    "alii": "alii; other witnesses, unspecified by Wellmann",
+    "libri": "",
+    "codd.": "",
+    "reliqui": "",
+    "cett.": "",
+    "vulgo": "",
+    "alii": "",
     "Q": "Book V group: F H A, verified from Vol3_p005.tif"
   },
   "apparatus_display": {
     "printed": "fallback",
     "flags": false
   },
-  "bundle_id": "34d01a52e8af9836f19da64582af7cc7d18856d282eb23be9044cc04536a3502",
-  "producer_commit": "e7a2550e3a76c20f3d3f34f15fec4a6c3ccf76f5",
+  "bundle_id": "f74683b4c0902bd0f70eb07d92ae7c5097a61a985a179f02616e33f167d329c2",
+  "producer_commit": "72272556d2f8fdad91dea86049dcbf3808b70eae",
   "public_credits": {
-    "licence": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "licence": "",
+    "licence_text": "© Alchemies of Scent project. All rights reserved, pending a licence to be named by the institute's open data office.",
     "edition": [
       "Edition: Max Wellmann (1906-1914, Berlin)"
     ],
@@ -14117,11 +14118,6 @@
         "name": "Sean Coughlin",
         "role": "Digital editor: transcription checking and correction at documented locations, editorial adjudication, and supervision of TEI encoding and quality control.",
         "affiliation": "Department for the Study of Ancient and Medieval Thought, Institute of Philosophy, Czech Academy of Sciences"
-      },
-      {
-        "name": "Open Greek and Latin / First1KGreek",
-        "role": "Upstream source: main-text Greek transcription and structural divisions (chapter/section scaffold)",
-        "affiliation": ""
       },
       {
         "name": "Alchemies of Scent",
@@ -14175,6 +14171,12 @@
         "role": "funder",
         "affiliation": ""
       }
+    ],
+    "main_text": [
+      "Alchemies of Scent transcription of Wellmann's printed text — Main text: the Alchemies of Scent transcription of Wellmann's printed pages, made from the scans; every line was compared with the inherited digital text and each difference was decided against the print."
+    ],
+    "control": [
+      "Open Greek and Latin / First1KGreek: De materia medica — Control witness: compared line by line with the Alchemies of Scent transcription; not a source of the text."
     ],
     "authority": [
       "Alchemies of Scent — Institute of Philosophy, Czech Academy of Sciences"

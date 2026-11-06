@@ -2098,8 +2098,7 @@
           ],
           "citation_id": "parallel-209-4-c1",
           "links": [],
-          "linked": false,
-          "link_check": "not resolved by Galen passes 1/2"
+          "linked": false
         },
         {
           "type": "parallel",
@@ -2124,8 +2123,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.334.1"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αλωπεκιασ, ετεροσ, εχρητο, καιων, κεφαλην, λαγωου, μετα, ολην, στεατοσ"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2181,8 +2179,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.335.1"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αιγοσ, δυσεντεριαν, ελαφου, κεκαυμενοισ, κερασιν, κερατων, λαμπρυνειν, μετα, οδοντασ, ουλα, πλαδαρα, πολλακισ, πτυσιν; overlap: αιματοσ, διαθεσεισ, δυναμισ, δυο, εκθεραπευειν, ικτερικοισ, κεκαυμενον, κοιλιακασ, κολλυριοισ, ξηραντικη, παντων, πεπλυμενον, ρευματα, τοιουτων"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2237,8 +2234,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.341.12"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αιγων, αλωπεκιασ, ειτα, ενιοι, καταχριουσιν, λεπτυντικησ, ονυχασ, ονυχων, οξει, τεφραν"
+          "linked": true
         }
       ],
       "flags": [
@@ -2290,8 +2286,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.341.15"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: διαφορειν, ελαιωι, ενιοι, θεραπευειν, καυθεντασ, ονυχασ, ονων, συνεχωσ, φασι, φυραθεντασ, χοιραδασ"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2342,7 +2337,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.342.16-342.18",
             "read2_range": "XII.342.16-342.18"
@@ -2396,8 +2390,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.348.11"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: επιβροχασ, ερια, εριων, καλουμενα, μοριων, οισυπηρα, οπωσουν, πεπληγοτων, ρυπαρα, τεθλασμενων, χρησιμωσ"
+          "linked": true
         }
       ],
       "flags": [],

@@ -2374,7 +2374,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XI.878.7-878.17",
             "read2_range": "XI.878.7-878.17"
@@ -2426,8 +2425,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 211,23–25); Paul page advanced: start line lower than previous citation; page by lemma: 213 read as 211; overlap: αιματωδη, απορρυπτει, βαφεισ, γευσιν, δειται, διακαθαιρει, ερυθρα, ερυθροδανον, ηπαρ, κενοι, κινει, οθεν, οσα, ουρα, παχεα, πολλα, ριζα, σπληνα, στρυφνη, συμμετρωσ, ταυτησ, υποπικροσ, χρωνται"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2462,8 +2460,7 @@
           "notes": [],
           "citation_id": "parallel-73-3-c1",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen bd-page; Coll. XV (BD 634,6–7); siglum missing, read as ᶜ; BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 634,6–7); siglum missing, read as ᶜ; BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 634,6–7); siglum missing, read as ᶜ; BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; Quellen bd-page; Coll. XV (BD 634,6–7); siglum missing, read as ᶜ; BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 634,6–7); siglum missing, read as ᶜ; BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 634,6–7); siglum missing, read as ᶜ; BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 634,6–7); siglum missing, read as ᶜ; BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 634,6–7); siglum missing, read as ᶜ; BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 634,6–7); siglum missing, read as ᶜ; BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 634,6–7); siglum missing, read as ᶜ; BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 634,6–7); siglum missing, read as ᶜ; BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 634,6–7); siglum missing, read as ᶜ; BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 634,6–7); siglum missing, read as ᶜ; BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words"
+          "linked": false
         }
       ],
       "flags": [
@@ -2514,8 +2511,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/6.639.8"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; complete book/chapter from resolved citation; overlap: αλλα, αυτο, γενναν, επεγειρειν, εσθιειν, θερμαινει, θριδακινησ, λαχανον, μαλλον, μονον, ορμασ, ουν, πεπιστευται, σαφωσ, σπερμα, τισ; page-level check; witness has no numbered lines"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2529,8 +2525,7 @@
               "label": "work"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen chapter; Coll. II 16; fewer than two distinct content words"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2576,8 +2571,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 212,4–5); Paul page advanced: start line lower than previous citation; page by lemma: 214 read as 212; overlap: αλλα, γενναν, ευζωμον, θερμαινει, λαχανον, πεπιστευται, σαφωσ, σπερμα, συνουσιαν"
+          "linked": true
         }
       ],
       "flags": [
@@ -2628,8 +2622,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/11.879.1"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: ανευ, βραχειασ, εκκαθαιρει, εμφραξεισ, εντιθησι, επιφανουσ, ευπατοριον, ηπαρ, θερμοτητοσ, καθ, λεπτομερουσ, μετεχει, οθεν, ρυπτικησ, στυψεωσ, τμητικησ, τονον"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2638,8 +2631,7 @@
           "notes": [],
           "citation_id": "parallel-73-6-c2",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen lines; Ad Eun. (R 360,11–14); multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words; Quellen lines; Ad Eun. (R 360,11–14); multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words; Quellen lines; Ad Eun. (R 360,11–14); multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words"
+          "linked": false
         }
       ],
       "flags": [],
@@ -2679,8 +2671,7 @@
               "label": "work"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Coll. II 9–11; fewer than two distinct content words"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2700,8 +2691,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 212,7–9); page by lemma: 214 read as 212; overlap: ανευ, βραχειασ, δυνα, εκκαθαιρει, εμφραξεισ, επιφανουσ, ευπατοριον, ηπαρ, θερμοτητοσ, καθ, λεπτομερουσ, μετεχει, μεωσ, οθεν, ρυπτικησ, στυψεωσ, τμητικησ"
+          "linked": true
         }
       ],
       "flags": [
@@ -2753,8 +2743,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/11.879.6"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αλλοισ, δυναμεωσ, ευφορβιον, λεπτομερουσ, ομοιωσ, οποισ"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2768,8 +2757,7 @@
               "label": "work"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Coll. II 11–12; fewer than two distinct content words"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2778,8 +2766,7 @@
           "notes": [],
           "citation_id": "parallel-73-8-c3",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen lines; Ad Eun. (R 360,14–15); multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words; Quellen lines; Ad Eun. (R 360,14–15); multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words; Quellen lines; Ad Eun. (R 360,14–15); multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words"
+          "linked": false
         },
         {
           "type": "parallel",
@@ -2799,8 +2786,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 212,10–11); page by lemma: 214 read as 212; overlap: αλλοισ, δυναμεωσ, ευφορβιον, λεπτομερουσ, ομοιωσ, οποισ"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2844,7 +2830,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XI.880.6-880.8",
             "read2_range": "XI.880.6-880.8"
@@ -2857,8 +2842,7 @@
           "notes": [],
           "citation_id": "parallel-73-9-c2",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen lines; Paul (Hb 213,6–7); Paul page advanced: start line lower than previous citation; page by lemma: 215 read as 213; no mapped local target"
+          "linked": false
         }
       ],
       "flags": [],
@@ -2903,7 +2887,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XI.880.9-881.1",
             "read2_range": "XI.880.9-881.1"
@@ -2916,8 +2899,7 @@
           "notes": [],
           "citation_id": "parallel-73-10-c2",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen bd-page; Coll. XV (BD 635,3–4; 635,6–8); BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 635,3–4; 635,6–8); BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 635,3–4; 635,6–8); BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 635,3–4; 635,6–8); BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 635,3–4; 635,6–8); BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 635,3–4; 635,6–8); BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 635,3–4; 635,6–8); BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 635,3–4; 635,6–8); BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; Quellen bd-page; Coll. XV (BD 635,3–4; 635,6–8); BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; Quellen bd-page; Coll. XV (BD 635,3–4; 635,6–8); BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 635,3–4; 635,6–8); BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 635,3–4; 635,6–8); BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; Quellen bd-page; Coll. XV (BD 635,3–4; 635,6–8); BD page mapped to Raeder 252,18–253,15 (13 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words"
+          "linked": false
         },
         {
           "type": "parallel",
@@ -2937,8 +2919,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 213,9–11); page by lemma: 215 read as 213; overlap: αλλ, ζιγγιβερεωσ, θερμαινει, ισχυρωσ, ουσιασ, παχυ, πεπερι, προσβολην, πρωτην, ριζα, τιτραται, υδατωδουσ"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2985,7 +2966,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XI.882.4-882.6",
             "read2_range": "XI.882.4-882.7"
@@ -3007,8 +2987,7 @@
               "label": "raeder-our-tei 15.1.6.6"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 636,4–6); overlap: δριμυτεροσ, ζυθοσ, κακοχυμοσ, κριθων, σηπεδονοσ, φυσωδησ"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -3028,8 +3007,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 213,13–15); page by lemma: 215 read as 213; overlap: δριμυτεροσ, ζυθοσ, κακοχυμοσ, κριθων, σηπεδονοσ, φυσωδησ"
+          "linked": true
         }
       ],
       "flags": [],
@@ -3074,7 +3052,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XI.882.8-882.14",
             "read2_range": "XI.882.8-882.14"
@@ -3096,8 +3073,7 @@
               "label": "raeder-our-tei 15.1.6.7"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 636,7–12); overlap: αδηκτωσ, αμα, βαθουσ, επισπαται, ζυμη, θερμη, λεπτομερησ, μετριωσ, τοινυν"
+          "linked": true
         },
         {
           "type": "cf",
@@ -3117,8 +3093,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 213,16–18); page by lemma: 215 read as 213; overlap: αδηκτωσ, αλευρου, αλων, αμα, βαθουσ, δυναμεων, εναντιων, επισπαται, ζυμη, θερμη, θερμοτητοσ, λεπτομερησ, μετριωσ, πωσ, φορει, ψυχρασ"
+          "linked": true
         }
       ],
       "flags": [],
@@ -3153,8 +3128,7 @@
           "notes": [],
           "citation_id": "parallel-73-13-c1",
           "links": [],
-          "linked": false,
-          "link_check": "no certain mapping in Quellen table; no mapped local target"
+          "linked": false
         }
       ],
       "flags": [

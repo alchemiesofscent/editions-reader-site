@@ -3385,7 +3385,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.246.17-253.9",
             "read2_range": "XII.246.17-253.8"
@@ -3450,8 +3449,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.255.10"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αιμα, περιστερασ; overlap: αιματι, ειωθασιν, κατεαγοτα, κεφαλησ, μηνιγγοσ, οστα, παχειασ, φαττησ"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -3491,8 +3489,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.257.6"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αυτωι, δηλονοτι, οφθαλμουσ, τινεσ, υποσφαγματα, χρωνται; overlap: πτερυγων, σφαττομενου, υποσφαγματων; overlap: αιματοσ, βλαβεντασ, εγω, κεφαλησ, μυριουσ, οιδα, οστα, ουδεν, περιστερασ, ροδινου, χρησει, χωρισ; overlap: αιματοσ, αμεινων, διασμυρνον, ιατικα, μαλιστα, παμπολλα, περιστερασ, τηλεωσ, υποσφαγματων, χυλοσ"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -3522,8 +3519,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.260.1"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αιγοσ, αιμα; overlap: γαστροσ, εδοσαν, εχρησαντο, μετα, οπτησαντεσ, φαρμακον"
+          "linked": true
         }
       ],
       "flags": [],
@@ -3588,8 +3584,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.261.11"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αγρον, ακινδυνον, αλλων, απορουντι, εξεστι, εχοντι, κατ, πειραν, ποτε, τουτωι, χρησασθαι; overlap: αγρον, αιμοπτυικουσ, αλλων, αναζεσαντα, απορουντι, διδοναι, δριμεοσ, εκαστησ, εξεστι, ημερασ, ισον, κατ, καταρροφειν, μεροσ, μηπω, ξενοκρατησ, οξουσ, οσον, πανυ, παραμιξαι, πεπηγοτι, ποτε, τριχηι, χρη, ωφελιμον"
+          "linked": true
         },
         {
           "type": "cf",
@@ -3609,8 +3604,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.262.12"
             }
           ],
-          "linked": true,
-          "link_check": "resolved 243-A; overlap: αιμα, ευρον, κροτωνων, πειραι, τριχασ"
+          "linked": true
         }
       ],
       "flags": [],

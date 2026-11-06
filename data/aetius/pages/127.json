@@ -2740,8 +2740,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.112.13"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: ενιοι, κρασεωσ, μικτησ, ρηον; overlap: ιαται, λειχηνασ, ορθοπνοιαν, πελιωματα, ρηγματα, σπασματα, ωφελει; overlap: αιμοπτυικουσ, δυσεντερικουσ, κοιλιακουσ; overlap: επαλειφομενον, ιαται, λειχηνασ, μετ, οξουσ, πελιωματα, ωφελει"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2750,8 +2749,7 @@
           "notes": [],
           "citation_id": "parallel-127-1-c2",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen lines; Ad Eun. (R 377,20–24); multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words; Quellen lines; Ad Eun. (R 377,20–24); multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words"
+          "linked": false
         },
         {
           "type": "parallel",
@@ -2760,8 +2758,7 @@
           "notes": [],
           "citation_id": "parallel-127-1-c3",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen none; Paul; no mapped local target"
+          "linked": false
         }
       ],
       "flags": [
@@ -2800,8 +2797,7 @@
           "notes": [],
           "citation_id": "parallel-127-2-c1",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen bd-page; Coll. XV (BD 679,6–7); BD page mapped to Raeder 271,26–272,4 (5 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 679,6–7); BD page mapped to Raeder 271,26–272,4 (5 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 679,6–7); BD page mapped to Raeder 271,26–272,4 (5 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 679,6–7); BD page mapped to Raeder 271,26–272,4 (5 entries); multiple/uncertain mapped candidates; Quellen bd-page; Coll. XV (BD 679,6–7); BD page mapped to Raeder 271,26–272,4 (5 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words"
+          "linked": false
         }
       ],
       "flags": [],
@@ -2846,7 +2842,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.113.1-114.6",
             "read2_range": "XII.113.1-114.5"
@@ -2859,8 +2854,7 @@
           "notes": [],
           "citation_id": "parallel-127-3-c2",
           "links": [],
-          "linked": false,
-          "link_check": "not resolved by Galen passes 1/2"
+          "linked": false
         },
         {
           "type": "cf",
@@ -2878,8 +2872,7 @@
               "label": "raeder-our-tei 15.1.17.5"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 679,9–680,8; 12,8–9); overlap: αλληλων, γευσει, διαφερουσι, δριμυ, δυναμει, εχειν, ηττον, θερμαινουσι, μαλλον, μετεχειν, ξηραινουσι, πασαι, πλεον, ρητιναι, στυψεωσ"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2888,8 +2881,7 @@
           "notes": [],
           "citation_id": "parallel-127-3-c4",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen none; Paul; no mapped local target"
+          "linked": false
         }
       ],
       "flags": [
@@ -2935,8 +2927,7 @@
           "notes": [],
           "citation_id": "parallel-127-4-c1",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen lines; Ad Eun. (R 377,24–32); siglum ᵒ read as ᵉ; multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words; Quellen lines; Ad Eun. (R 377,24–32); siglum ᵒ read as ᵉ; multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words; Quellen lines; Ad Eun. (R 377,24–32); siglum ᵒ read as ᵉ; multiple/uncertain mapped candidates; no unique local edition unit; ambiguous citation mapping; fewer than two distinct content words"
+          "linked": false
         }
       ],
       "flags": [
@@ -2987,8 +2978,7 @@
               "url": "#wellmann/1/75"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen chapter; Dsc. I 75.5 (W1 69,17–70,13); Wellmann's page,line is dsc.1.71; fewer than two distinct content words"
+          "linked": true
         }
       ],
       "flags": [],

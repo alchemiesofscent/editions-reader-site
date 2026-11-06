@@ -1981,8 +1981,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/urn:cts:greekLit:tlg0057.tlg075"
             }
           ],
-          "linked": true,
-          "link_check": "work-only"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2002,8 +2001,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 248,18–21); page by lemma: 249 read as 248; overlap: αφροδισια, βολβοειδησ, γευομενοισ, γλυκεια, διο, επεχει, θερμη, κυνοσ, μικροτερα, ξηροτερον, ορχισ, πινομενη, προτρεπει, ριζα, συνουσιασ, ταυτησ, υγρα, υγροτητα"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2047,8 +2045,7 @@
               "label": "raeder-our-tei 15.1.15.16"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 671,4–5); overlap: γλυκεια, θερμη, κυνοσ, ορχισ, ριζα, ταυτησ, υγρα"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2097,8 +2094,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.93.1"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αφροδισια, διαφορει, δυναμεωσ, ελκη, ελκων, επεχει, επιτηδειοσ, ερπητασ, εχει, ιαται, καθαιρει, κακοηθη, καλουσιν, κοιλιαν, μετ, ξηροτερασ, οθεν, οιδηματα, ομοιωσ, ορχισ, ουχ, πινομενη, προτεραν, ρυπαρα, σηπεδονωδη, υποστυφον"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2118,8 +2114,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 248,22–25); page by lemma: 249 read as 248; overlap: αφροδισια, διαφορει, διο, δυναμεωσ, ελκη, ελκων, επεχει, ερπητασ, εχει, ιαται, καθαιρει, κακοηθη, καλουσιν, καταπλασσομενη, κοιλιαν, μετ, ξηρα, οθεν, οιδηματα, ομοιωσ, ορχισ, ουχ, πινομενη, ρυπαρα, σηπεδονωδη, υποστυφον"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2156,8 +2151,7 @@
           "notes": [],
           "citation_id": "parallel-117-4-c1",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen bd-page; Coll. XV (BD 671,7–10); BD page mapped to Raeder 268,12–268,18 (4 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 671,7–10); BD page mapped to Raeder 268,12–268,18 (4 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 671,7–10); BD page mapped to Raeder 268,12–268,18 (4 entries); multiple/uncertain mapped candidates; Quellen bd-page; Coll. XV (BD 671,7–10); BD page mapped to Raeder 268,12–268,18 (4 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words"
+          "linked": false
         }
       ],
       "flags": [
@@ -2206,8 +2200,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/6.608"
             }
           ],
-          "linked": true,
-          "link_check": "work-only; page-only"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2216,8 +2209,7 @@
           "notes": [],
           "citation_id": "parallel-117-5-c2",
           "links": [],
-          "linked": false,
-          "link_check": "not resolved by Galen passes 1/2"
+          "linked": false
         }
       ],
       "flags": [
@@ -2264,7 +2256,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.93.9-93.11",
             "read2_range": "XII.93.9-93.11"
@@ -2288,8 +2279,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 248,26–27); page by lemma: 249 read as 248; overlap: δυναμισ, εκφρακτικη, εμφραξεισ, ηπαρ, καθ, κορηματα, οθεν, πικρα, ποασ, ποιοτησ, ται, ωφελει"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2307,8 +2297,7 @@
               "label": "raeder-our-tei 15.1.15.18"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 671,10–11); overlap: δυναμισ, εκφρακτικη, πικρα, ποασ, ποιοτησ"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2354,7 +2343,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.93.12-93.16",
             "read2_range": "XII.93.12-93.16"
@@ -2367,8 +2355,7 @@
           "notes": [],
           "citation_id": "parallel-117-7-c2",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen bd-page; Coll. XV (BD 671,12–13); BD page mapped to Raeder 268,18–268,28 (8 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 671,12–13); BD page mapped to Raeder 268,18–268,28 (8 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 671,12–13); BD page mapped to Raeder 268,18–268,28 (8 entries); multiple/uncertain mapped candidates; Quellen bd-page; Coll. XV (BD 671,12–13); BD page mapped to Raeder 268,18–268,28 (8 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 671,12–13); BD page mapped to Raeder 268,18–268,28 (8 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 671,12–13); BD page mapped to Raeder 268,18–268,28 (8 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 671,12–13); BD page mapped to Raeder 268,18–268,28 (8 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words; Quellen bd-page; Coll. XV (BD 671,12–13); BD page mapped to Raeder 268,18–268,28 (8 entries); multiple/uncertain mapped candidates; ambiguous citation mapping; fewer than two distinct content words"
+          "linked": false
         },
         {
           "type": "parallel",
@@ -2388,8 +2375,7 @@
               "url": "#paul/7/3"
             }
           ],
-          "linked": true,
-          "link_check": "Quellen lines; Paul (Hb 249,23–24); Paul page advanced: start line lower than previous citation; page by lemma: 250 read as 249; overlap: ασθενεστερα, αυτηι, γευσιν, δυναμιν, εοικε, παγκρατιον, ριζα, σκιλληι, τινεσ, τουτου, χρωνται, ωστε"
+          "linked": true
         }
       ],
       "flags": [],

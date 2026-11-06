@@ -2859,8 +2859,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.184.1"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αδυνατον, ακριβωσ, αμικτον, επει, ευρειν, μιξιν, προσεπισκεπτεσθαι; overlap: αερωδουσ, αυτηι, βαρυτητι, γευσει, δαψιλουσ, διαφορασ, δριμυτητοσ, εμφαινοιτο, εμφασιν, εχει, εχουσα, θερμοτητοσ, κουφοτητι, κρασει, μαλλον, μετεχηι, ολησ, οσον, οταν, ουσιασ, στυψεωσ, τοσουτον, ψυξεωσ"
+          "linked": true
         },
         {
           "type": "parallel",
@@ -2869,8 +2868,7 @@
           "notes": [],
           "citation_id": "parallel-153-1-c2",
           "links": [],
-          "linked": false,
-          "link_check": "Quellen bd-anchor; Coll. XV (BD 706,10–107,7); siglum missing, read as ᶜ; range ends before it starts '706, 10—107, 7'; multiple/uncertain mapped candidates; ambiguous citation mapping"
+          "linked": false
         }
       ],
       "flags": [
@@ -2928,8 +2926,7 @@
               "url": "https://galenus-verbatim.huma-num.fr/12.181.16"
             }
           ],
-          "linked": true,
-          "link_check": "resolved pass 1/2; overlap: αλλη, γλισχρωι, δριμυτησ, κολλωδεσ, μηδεμια, οταν, προσηι, ρυπτειν; fewer than two distinct content words;"
+          "linked": true
         }
       ],
       "flags": [],
@@ -2980,7 +2977,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.163.11-163.14",
             "read2_range": "XII.163.11-163.14"
@@ -3035,7 +3031,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.164.4-164.7",
             "read2_range": "XII.164.4-164.7"
@@ -3092,7 +3087,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.164.8-164.17",
             "read2_range": "XII.164.8-164.17"
@@ -3147,7 +3141,6 @@
             }
           ],
           "linked": true,
-          "link_check": "two-reads",
           "two_reads": {
             "read1_range": "XII.164.14-164.15",
             "read2_range": "XII.164.14-164.15"
