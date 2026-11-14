@@ -1,7 +1,7 @@
 {
   "edition": "wellmann",
   "page": "2-VI",
-  "scan": "",
+  "scan": "https://cmg.bbaw.de/epubl/online/jpg/Ped_Diosc_De_mat_med_Wellmann_Lib_III_IV/ped_diosc_mat_med_wellmann_bd2_0006-default.jpg",
   "scan_id": "scan2-006",
   "lines": [
     {
@@ -17,7 +17,8 @@
         {
           "a": "wellmann-v2-front-06-1-end"
         }
-      ]
+      ],
+      "break_no": true
     },
     {
       "n": "2",
@@ -654,5 +655,5 @@
   ],
   "front": true,
   "page_label": "II, p. VI",
-  "scan_missing": true
+  "scan_link": "https://dfg-viewer.de/show/?tx_dlf[id]=https%3A%2F%2Fcmg.bbaw.de%2Fepubl%2Fonline%2Fmets%2Fwa_dioscurides_mat_med_lib_3_4.xml&tx_dlf[page]=6"
 }

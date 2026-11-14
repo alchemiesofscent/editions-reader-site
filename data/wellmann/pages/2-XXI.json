@@ -1,7 +1,7 @@
 {
   "edition": "wellmann",
   "page": "2-XXI",
-  "scan": "",
+  "scan": "https://cmg.bbaw.de/epubl/online/jpg/Ped_Diosc_De_mat_med_Wellmann_Lib_III_IV/ped_diosc_mat_med_wellmann_bd2_0021-default.jpg",
   "scan_id": "scan2-021",
   "lines": [
     {
@@ -12,12 +12,20 @@
           "a": "wellmann-v2-front-21-1"
         },
         {
-          "t": "ο"
+          "t": "5 [ξ]εως ατ"
+        },
+        {
+          "t": "ο",
+          "superscript": true
+        },
+        {
+          "t": "εκειν ειναι δοκει φυε"
         },
         {
           "a": "wellmann-v2-front-21-1-end"
         }
-      ]
+      ],
+      "break_no": true
     },
     {
       "n": "2",
@@ -27,12 +35,13 @@
           "a": "wellmann-v2-front-21-2"
         },
         {
-          "t": "5 [ξ]εως ατεκειν ειναι δοκει φυε"
+          "t": "[τ]αι δε ενκριθαις"
         },
         {
           "a": "wellmann-v2-front-21-2-end"
         }
-      ]
+      ],
+      "break_no": true
     },
     {
       "n": "3",
@@ -42,13 +51,12 @@
           "a": "wellmann-v2-front-21-3"
         },
         {
-          "t": "[τ]αι δε ενκριθαις"
+          "t": "[ονο]σμα οιδε νομιαν οιδε φλονειε"
         },
         {
           "a": "wellmann-v2-front-21-3-end"
         }
-      ],
-      "break_no": true
+      ]
     },
     {
       "n": "4",
@@ -58,12 +66,13 @@
           "a": "wellmann-v2-front-21-4"
         },
         {
-          "t": "[ονο]σμα οιδε νομιαν οιδε φλονειε"
+          "t": "τιν οιδε ονωνιν καλουσιν φυλ"
         },
         {
           "a": "wellmann-v2-front-21-4-end"
         }
-      ]
+      ],
+      "break_no": true
     },
     {
       "n": "5",
@@ -73,7 +82,7 @@
           "a": "wellmann-v2-front-21-5"
         },
         {
-          "t": "τιν οιδε ονωνιν καλουσιν φυλ"
+          "t": "[λ]α εχει ομοια τοις της αγχουσ"
         },
         {
           "a": "wellmann-v2-front-21-5-end"
@@ -89,7 +98,7 @@
           "a": "wellmann-v2-front-21-6"
         },
         {
-          "t": "[λ]α εχει ομοια τοις της αγγουσ"
+          "t": "10 [η]ς εστιν δε ακα[ρπος κ]αι αναν[θης]"
         },
         {
           "a": "wellmann-v2-front-21-6-end"
@@ -105,13 +114,12 @@
           "a": "wellmann-v2-front-21-7"
         },
         {
-          "t": "10 [η]ς εστιν δε ακα[ρπος κ]αι αναν[θης]"
+          "t": "De hoc quid iudicandum sit non difficile est diiudicatu. v. 4 ante"
         },
         {
           "a": "wellmann-v2-front-21-7-end"
         }
-      ],
-      "break_no": true
+      ]
     },
     {
       "n": "8",
@@ -121,7 +129,7 @@
           "a": "wellmann-v2-front-21-8"
         },
         {
-          "t": "De hoc quid iudicandum sit non difficile est diiudicatu. v. 4 ante"
+          "t": "μείξεως errore librarii verba πρὸ τῆς omissa sunt; v. 5 ἀτεκειν"
         },
         {
           "a": "wellmann-v2-front-21-8-end"
@@ -136,7 +144,7 @@
           "a": "wellmann-v2-front-21-9"
         },
         {
-          "t": "μείξεως errore librarii verba πρὸ τῆς omissa sunt; v. 5 ἀτεκειν"
+          "t": "eadem manu correctum ἀτόκιον est. v. 6 omisit verba καὶ πυροῖς"
         },
         {
           "a": "wellmann-v2-front-21-9-end"
@@ -151,7 +159,7 @@
           "a": "wellmann-v2-front-21-10"
         },
         {
-          "t": "eadem manu correctum ἀτόκιον est. v. 6 omisit verba καὶ πυροῖς"
+          "t": "quae omnes libri exhibent. v. 7 lectio νομίαν proxime accedit ad"
         },
         {
           "a": "wellmann-v2-front-21-10-end"
@@ -166,7 +174,14 @@
           "a": "wellmann-v2-front-21-11"
         },
         {
-          "t": "quae omnes libri exhibent. v. 7 lectio νομίαν proxime accedit ad"
+          "t": "Dl "
+        },
+        {
+          "t": "nomidana",
+          "italic": true
+        },
+        {
+          "t": ", at ὀσμάδα legendum esse Galeni exemplum testatur."
         },
         {
           "a": "wellmann-v2-front-21-11-end"
@@ -181,14 +196,7 @@
           "a": "wellmann-v2-front-21-12"
         },
         {
-          "t": "Dl "
-        },
-        {
-          "t": "nomidana",
-          "italic": true
-        },
-        {
-          "t": ", at ὀσμάδα legendum esse Galeni exemplum testatur."
+          "t": "φλονειετιν nihil est; φλονῖτιν quod in textum recepi habet Galenus."
         },
         {
           "a": "wellmann-v2-front-21-12-end"
@@ -203,7 +211,7 @@
           "a": "wellmann-v2-front-21-13"
         },
         {
-          "t": "φλονειετιν nihil est; φλονῖτιν quod in textum recepi habet Galenus."
+          "t": "v. 9 post ἀγχούσης totum enuntiatum omisit similitudine verborum"
         },
         {
           "a": "wellmann-v2-front-21-13-end"
@@ -218,7 +226,7 @@
           "a": "wellmann-v2-front-21-14"
         },
         {
-          "t": "v. 9 post ἀγχούσης totum enuntiatum omisit similitudine verborum"
+          "t": "inductus. v. 10 ante ἄκαρπος om. ἄκαυλος. Agnosces, credo, scribam"
         },
         {
           "a": "wellmann-v2-front-21-14-end"
@@ -233,7 +241,7 @@
           "a": "wellmann-v2-front-21-15"
         },
         {
-          "t": "inductus. v. 10 ante ἄκαρπος om. ἄκαυλος. Agnosces, credo, scribam"
+          "t": "nimis festinantem, supina quadam socordia exemplum suum descri"
         },
         {
           "a": "wellmann-v2-front-21-15-end"
@@ -248,12 +256,13 @@
           "a": "wellmann-v2-front-21-16"
         },
         {
-          "t": "nimis festinantem, supina quadam socordia exemplum suum descri"
+          "t": "bentem. De papyri graecae musei antiquarii publici Lugduni-Batavi"
         },
         {
           "a": "wellmann-v2-front-21-16-end"
         }
-      ]
+      ],
+      "break_no": true
     },
     {
       "n": "17",
@@ -263,13 +272,12 @@
           "a": "wellmann-v2-front-21-17"
         },
         {
-          "t": "bentem. De papyri graecae musei antiquarii publici Lugduni-Batavi"
+          "t": "excerptis Dioscurideis editis a C. Leemans (tom. II 243 sq.) in tertio"
         },
         {
           "a": "wellmann-v2-front-21-17-end"
         }
-      ],
-      "break_no": true
+      ]
     },
     {
       "n": "18",
@@ -279,7 +287,7 @@
           "a": "wellmann-v2-front-21-18"
         },
         {
-          "t": "excerptis Dioscurideis editis a C. Leemans (tom. II 243 sq.) in tertio"
+          "t": "volumine agam."
         },
         {
           "a": "wellmann-v2-front-21-18-end"
@@ -294,7 +302,7 @@
           "a": "wellmann-v2-front-21-19"
         },
         {
-          "t": "volumine agam."
+          "t": "Ad codices Graecos accedit versio latina (Dl), quam inde a s. VI"
         },
         {
           "a": "wellmann-v2-front-21-19-end"
@@ -309,7 +317,7 @@
           "a": "wellmann-v2-front-21-20"
         },
         {
-          "t": "Ad codices Graecos accedit versio latina (Dl), quam inde a s. VI"
+          "t": "in hominum manibus fuisse constat. Ediderunt eam e codice Mona"
         },
         {
           "a": "wellmann-v2-front-21-20-end"
@@ -324,12 +332,13 @@
           "a": "wellmann-v2-front-21-21"
         },
         {
-          "t": "in hominum manibus fuisse constat. Ediderunt eam e codice Mona"
+          "t": "censi 337 (s. IX) aliis libris adhibitis T. M. Auracher et Hermannus"
         },
         {
           "a": "wellmann-v2-front-21-21-end"
         }
-      ]
+      ],
+      "break_no": true
     },
     {
       "n": "22",
@@ -339,13 +348,12 @@
           "a": "wellmann-v2-front-21-22"
         },
         {
-          "t": "censi 337 (s. IX) aliis libris adhibitis T. M. Auracher et Hermannus"
+          "t": "Stadler (Rom. Forsch. I 49—105. X 181—247. 369—446. XI 1—121."
         },
         {
           "a": "wellmann-v2-front-21-22-end"
         }
-      ],
-      "break_no": true
+      ]
     },
     {
       "n": "23",
@@ -355,7 +363,7 @@
           "a": "wellmann-v2-front-21-23"
         },
         {
-          "t": "Stadler (Rom. Forsch. I 49—105. X 181—247. 369—446. XI 1—121."
+          "t": "XII 161—243). Iam supra dixi in hac versione codicem esse ad"
         },
         {
           "a": "wellmann-v2-front-21-23-end"
@@ -370,12 +378,13 @@
           "a": "wellmann-v2-front-21-24"
         },
         {
-          "t": "XII 161—243). Iam supra dixi in hac versione codicem esse ad"
+          "t": "hibitum melioris notae secundae classis recensionis primariae. Ac"
         },
         {
           "a": "wellmann-v2-front-21-24-end"
         }
-      ]
+      ],
+      "break_no": true
     },
     {
       "n": "25",
@@ -385,13 +394,12 @@
           "a": "wellmann-v2-front-21-25"
         },
         {
-          "t": "hibitum melioris notae secundae classis recensionis primariae. Ac"
+          "t": "ne cui scrupulus tenuissimus restet, hoc monere satis est verba libri"
         },
         {
           "a": "wellmann-v2-front-21-25-end"
         }
-      ],
-      "break_no": true
+      ]
     },
     {
       "n": "26",
@@ -401,7 +409,7 @@
           "a": "wellmann-v2-front-21-26"
         },
         {
-          "t": "ne cui scrupulus tenuissimus restet, hoc monere satis est verba libri"
+          "t": "IV c. 119: ὠφελεῖ — παίδων ex cap. 121 huc translata in Dl aeque"
         },
         {
           "a": "wellmann-v2-front-21-26-end"
@@ -416,7 +424,7 @@
           "a": "wellmann-v2-front-21-27"
         },
         {
-          "t": "IV c. 119: ὠφελεῖ — παίδων ex cap. 121 huc translata in Dl aeque"
+          "t": "atque in O (PFHA) exstare. Haec versio quamvis ad verbum"
         },
         {
           "a": "wellmann-v2-front-21-27-end"
@@ -431,7 +439,7 @@
           "a": "wellmann-v2-front-21-28"
         },
         {
-          "t": "atque in O (PFHA) exstare. Haec versio quamvis ad verbum"
+          "t": "facta sit, tamen in ea adhibenda opus est cautela, ne pro sincera"
         },
         {
           "a": "wellmann-v2-front-21-28-end"
@@ -446,7 +454,7 @@
           "a": "wellmann-v2-front-21-29"
         },
         {
-          "t": "facta sit, tamen in ea adhibenda opus est cautela, ne pro sincera"
+          "t": "memoria interpolatio irrepat, quod is, cui eam debemus, ut fieri solebat"
         },
         {
           "a": "wellmann-v2-front-21-29-end"
@@ -461,7 +469,7 @@
           "a": "wellmann-v2-front-21-30"
         },
         {
-          "t": "memoria interpolatio irrepat, quod is, cui eam debemus, ut fieri solebat"
+          "t": "in versionibus illius aetatis, multa omisit (cf. III 16. III 33 verba"
         },
         {
           "a": "wellmann-v2-front-21-30-end"
@@ -476,7 +484,7 @@
           "a": "wellmann-v2-front-21-31"
         },
         {
-          "t": "in versionibus illius aetatis, multa omisit (cf. III 16. III 33 verba"
+          "t": "ὥσπερ τὰ ἀνάτριπτα τῶν ἱματίων, quae non intellexisse videtur)"
         },
         {
           "a": "wellmann-v2-front-21-31-end"
@@ -491,7 +499,14 @@
           "a": "wellmann-v2-front-21-32"
         },
         {
-          "t": "ὥσπερ τὰ ἀνάτριπτα τῶν ἱματίων, quae non intellexisse videtur)"
+          "t": "vel liberius reddidit, alia addidit (III 21: "
+        },
+        {
+          "t": "obrufo colore habent",
+          "italic": true
+        },
+        {
+          "t": ", III"
         },
         {
           "a": "wellmann-v2-front-21-32-end"
@@ -506,14 +521,14 @@
           "a": "wellmann-v2-front-21-33"
         },
         {
-          "t": "vel liberius reddidit, alia addidit (III 21: "
+          "t": "67 "
         },
         {
-          "t": "obrufo colore habent",
+          "t": "et in hortis",
           "italic": true
         },
         {
-          "t": ", III"
+          "t": "), multa non recte intellexit (III 15 in fine. III 11,"
         },
         {
           "a": "wellmann-v2-front-21-33-end"
@@ -528,14 +543,7 @@
           "a": "wellmann-v2-front-21-34"
         },
         {
-          "t": "67 "
-        },
-        {
-          "t": "et in hortis",
-          "italic": true
-        },
-        {
-          "t": "), multa non recte intellexit (III 15 in fine. III 11,"
+          "t": "13. 129. IV 118 in fine), alia velut nomina propria ad lubidinem"
         },
         {
           "a": "wellmann-v2-front-21-34-end"
@@ -550,7 +558,14 @@
           "a": "wellmann-v2-front-21-35"
         },
         {
-          "t": "13. 129. IV 118 in fine), alia velut nomina propria ad lubidinem"
+          "t": "immutavit (III 1: "
+        },
+        {
+          "t": "in Arabia et in Samaria",
+          "italic": true
+        },
+        {
+          "t": " pro ἐν τῇ Ἀγαρίᾳ τῆς"
         },
         {
           "a": "wellmann-v2-front-21-35-end"
@@ -565,14 +580,7 @@
           "a": "wellmann-v2-front-21-36"
         },
         {
-          "t": "immutavit (III 1: "
-        },
-        {
-          "t": "in Arabia et in Samaria",
-          "italic": true
-        },
-        {
-          "t": " pro ἐν τῇ Ἀγαρίᾳ τῆς"
+          "t": "Σαμαρτικῆς). Nihilominus cum insit in ea optimarum lectionum"
         },
         {
           "a": "wellmann-v2-front-21-36-end"
@@ -587,7 +595,7 @@
           "a": "wellmann-v2-front-21-37"
         },
         {
-          "t": "Σαμαρτικῆς). Nihilominus cum insit in ea optimarum lectionum"
+          "t": "haud parvus numerus neque desint, ubi plura habet anonymus, quae"
         },
         {
           "a": "wellmann-v2-front-21-37-end"
@@ -602,7 +610,7 @@
           "a": "wellmann-v2-front-21-38"
         },
         {
-          "t": "haud parvus numerus neque desint, ubi plura habet anonymus, quae"
+          "t": "Dioscuridis esse aliis testimoniis confirmatur (e. gr. III 6. IV 68,"
         },
         {
           "a": "wellmann-v2-front-21-38-end"
@@ -617,25 +625,10 @@
           "a": "wellmann-v2-front-21-39"
         },
         {
-          "t": "Dioscuridis esse aliis testimoniis confirmatur (e. gr. III 6. IV 68,"
-        },
-        {
-          "a": "wellmann-v2-front-21-39-end"
-        }
-      ]
-    },
-    {
-      "n": "40",
-      "id": "wellmann-v2-front-21-40",
-      "parts": [
-        {
-          "a": "wellmann-v2-front-21-40"
-        },
-        {
           "t": "unde in archetypo communi s. V unumquemque versum 24—26 litteras"
         },
         {
-          "a": "wellmann-v2-front-21-40-end"
+          "a": "wellmann-v2-front-21-39-end"
         }
       ]
     }
@@ -651,5 +644,5 @@
   ],
   "front": true,
   "page_label": "II, p. XXI",
-  "scan_missing": true
+  "scan_link": "https://dfg-viewer.de/show/?tx_dlf[id]=https%3A%2F%2Fcmg.bbaw.de%2Fepubl%2Fonline%2Fmets%2Fwa_dioscurides_mat_med_lib_3_4.xml&tx_dlf[page]=21"
 }
