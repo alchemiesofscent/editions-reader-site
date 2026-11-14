@@ -1627,21 +1627,25 @@
       "readings": [
         {
           "type": "var",
-          "text": "ἀπόλλει ἕξει",
+          "text": "ἀπόλλει",
           "wit": [
-            "E",
+            "E"
+          ],
+          "notes": []
+        },
+        {
+          "type": "var",
+          "text": "ἕξει",
+          "wit": [
             "A"
           ],
           "notes": []
         }
       ],
-      "flags": [
-        "run_together"
-      ],
+      "flags": [],
       "lemma_printed": true,
       "source_page": "206",
       "attachment": "line",
-      "cert": "low",
       "printed": "ὁμοίωϲ ἔχει] ἀπόλλει E ἕξει A",
       "printed_parts": [
         {

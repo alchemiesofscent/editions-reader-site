@@ -3827,14 +3827,6 @@
               }
             },
             {
-              "n": "6",
-              "id": "paul-7.25.6-2",
-              "first": {
-                "page": "403",
-                "line": "6"
-              }
-            },
-            {
               "n": "7",
               "id": "paul-7.25.7",
               "first": {
@@ -15048,6 +15040,16 @@
     {
       "id": "paul-7.16.e-52",
       "n": "52",
+      "label": "Ἡ Ἐραϲιϲτράτου πάγχρηϲτοϲ ὑγρά, θαυμαϲτὴ ἐπὶ τε ὀφθαλμικῶν καὶ παριϲθμίων αἰδοίων τε καὶ ὤτων πυορροούντων.",
+      "first": {
+        "page": "346",
+        "line": "11"
+      },
+      "chapter": "16"
+    },
+    {
+      "id": "paul-7.16.e-53",
+      "n": "53",
       "label": "Ἀνακολλήματα ὀφθαλμῶν ῥευματιζομένων.",
       "first": {
         "page": "346",
@@ -15056,8 +15058,8 @@
       "chapter": "16"
     },
     {
-      "id": "paul-7.16.e-53",
-      "n": "53",
+      "id": "paul-7.16.e-54",
+      "n": "54",
       "label": "Ἄλλο.",
       "first": {
         "page": "346",
@@ -19273,13 +19275,13 @@
   "encoding": "standoff",
   "status": "scholarly-accepted",
   "text_units": {
-    "entry_divs": 1081,
+    "entry_divs": 1082,
     "entry_milestones": 280,
-    "headwords": 1361,
+    "headwords": 1362,
     "merged_anchors": 12
   },
-  "bundle_id": "34d01a52e8af9836f19da64582af7cc7d18856d282eb23be9044cc04536a3502",
-  "producer_commit": "e7a2550e3a76c20f3d3f34f15fec4a6c3ccf76f5",
+  "bundle_id": "79ffd4d9f10a7441dc71bfc9ca712e6f21b926878720417f9709e6d686df1f7e",
+  "producer_commit": "62e094f66f7545308e0fd847d3c03916c0b2b7e7",
   "public_credits": {
     "licence": "",
     "licence_text": "All rights reserved (research preview; licence pending the open-data office)",

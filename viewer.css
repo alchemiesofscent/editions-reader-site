@@ -50,8 +50,8 @@ h2 { font: 600 .72rem var(--sans); letter-spacing: .09em; text-transform: upperc
 .lem { background: var(--lemma-bg); color: var(--lemma); border-radius: 2px; cursor: pointer; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
 .lem.low, .text span.low { background: var(--flag-bg); color: var(--flag); }
 .lem.on, .entry.on { outline: 2px solid var(--lemma); }
-.ins { display: inline-block; width: .6em; position: relative; user-select: none; }
-.ins::before { content: "‸"; }
+.ins { white-space: pre; padding: 0 .08em; }
+.ins:empty { display: inline-block; width: .35em; height: 1.1em; vertical-align: text-bottom; padding: 0; }
 .method { color: var(--muted); font: .7rem var(--sans); border: 1px solid var(--rule); border-radius: 3px; padding: 0 4px; }
 .num { text-decoration: overline; }
 
@@ -62,7 +62,7 @@ h2 { font: 600 .72rem var(--sans); letter-spacing: .09em; text-transform: upperc
 .ln { font: 500 .78rem var(--mono); color: var(--muted); min-width: 2.6em; font-variant-numeric: tabular-nums; }
 .lemt { font: 700 1.02rem var(--serif); }
 .lemt.unp { font-weight: 400; color: var(--muted); }
-.lemt.unp::after { content: " (not printed)"; font: .72rem var(--sans); }
+.lemt.unp::after { content: " (lemma supplied)"; font: .72rem var(--sans); }
 .rd { display: flex; flex-wrap: wrap; gap: 4px 6px; align-items: baseline; margin: 4px 0 0 3.2em; }
 .ty { font: 600 .66rem var(--sans); letter-spacing: .06em; text-transform: uppercase; border: 1px solid var(--rule); border-radius: 3px; padding: 0 5px; color: var(--muted); }
 .ty.var { color: var(--ink); }
@@ -159,6 +159,34 @@ dialog img { width: 150%; max-width: none; }
 #search-results { max-height: 18rem; overflow: auto; overflow-wrap: anywhere; }
 
 .headword { font-weight: 600; }
+
+/* printed braces of the lists of manuscripts: text, inner brace and label, outer brace and label */
+.tl.braced { grid-template-columns: 2.2em minmax(0, 24em) .7em 1.8em .7em 1.8em; }
+.tl .bc { border-right: 1.5px solid var(--ink); margin: 0 0 0 .2em; }
+.tl .bc.top { border-top-right-radius: .7em; margin-top: .55em; }
+.tl .bc.bot { border-bottom-right-radius: .7em; margin-bottom: .55em; }
+.tl .bc.one { border-radius: 0 .7em .7em 0; margin: .55em 0 .55em .2em; }
+.tl .bl { font: .95rem/1.75 var(--serif); padding-left: .3em; white-space: nowrap; }
+.tl .bl.even { transform: translateY(-50%); }
+
+/* line numbers: every fifth (Wellmann's practice); any line's number on hover, focus or as the target */
+.tl .ln.dim { visibility: hidden; }
+.tl:hover .ln.dim, .tl:focus-within .ln.dim, .tl.target .ln.dim, .tl.on .ln.dim { visibility: visible; }
+
+/* printed figures (SVG): the drawing as supplied, with zoom, pan and fit */
+.svg-figure { margin: 1rem 0; border: 1px solid var(--rule); border-radius: 4px; background: var(--panel); }
+.fig-tools { display: flex; gap: .4rem; align-items: center; padding: .4rem; border-bottom: 1px solid var(--rule); font-size: .9rem; }
+.fig-tools button { padding: 2px 9px; }
+.fig-view { height: min(70vh, 640px); overflow: hidden; cursor: grab; background: #fff; touch-action: none; }
+.fig-view.dragging { cursor: grabbing; }
+.fig-view svg { display: block; }
+.fig-view svg [data-node] { cursor: pointer; }
+.fig-view svg text[data-witness]:hover, .fig-view svg text:focus { text-decoration: underline; }
+.fig-view svg .fig-selected { fill: #9a3412; }
+.fig-view svg circle.fig-selected { stroke: #9a3412; }
+.fig-info { padding: .5rem .7rem; border-top: 1px solid var(--rule); font-size: .95rem; }
+.fig-xml { max-height: 40vh; overflow: auto; margin: 0; padding: .6rem; font: .75rem/1.4 var(--mono); white-space: pre-wrap; border-top: 1px solid var(--rule); }
+.svg-figure figcaption { padding: .4rem .7rem; font-size: .85rem; color: var(--muted); }
 
 #credits { font: .875rem/1.5 var(--sans); color: var(--ink); } #credits ul { margin: .4rem 0; padding-left: 1.25rem; } #credits li { margin: .25rem 0; } #credits h3 { font-size: 1em; margin: .75rem 0 .25rem; }
 #candidate-banner { color: var(--flag); background: var(--flag-bg); border: 2px solid var(--flag); padding: 12px; font-weight: 600; }

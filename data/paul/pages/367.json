@@ -3181,13 +3181,24 @@
       "lemma": "Ἡρακλείτου.",
       "readings": [
         {
-          "type": "conj",
-          "text": "ἡρακλείου Ἥρα",
+          "type": "var",
+          "text": "ἡρακλείου",
           "wit": [
             "A",
             "K"
           ],
           "notes": []
+        },
+        {
+          "type": "conj",
+          "text": "Ἥρα",
+          "wit": [],
+          "notes": [
+            {
+              "type": "remark",
+              "text": "immo"
+            }
+          ]
         }
       ],
       "flags": [],

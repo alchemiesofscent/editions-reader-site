@@ -17,6 +17,7 @@ if (typeof module !== 'undefined') module.exports = {renderPublicCredits};
 'use strict';
 const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;'}[c]));
 const GROUPS = {criticus: 'Apparatus criticus', fontium: 'Apparatus fontium', synonyma: 'Synonyma'};
+const FONTIUM_CATEGORIES = [['SIM', 'Similia'], ['EXC', 'Excerpta'], ['TEST', 'Testimonia']];
 // Apparatus groups the reader has folded; kept across pages and visits (browser storage may be unavailable).
 const COLLAPSED = new Set();
 try { JSON.parse(localStorage.getItem('apparatus-collapsed') || '[]').forEach(g => COLLAPSED.add(g)); } catch {}
@@ -24,7 +25,8 @@ try { JSON.parse(localStorage.getItem('apparatus-collapsed') || '[]').forEach(g 
 function parseRoute(hash, index) {
   const pieces = hash.replace(/^#/, '').split('/');
   if (pieces[0] !== index.edition) throw new Error('Unknown edition route');
-  if (/^p[\w-]+$/.test(pieces[1] || '') && pieces.length <= 3) {
+  // a page route is p<page key>; a book whose id begins with p (Wellmann's `pinax`) is a chapter route
+  if (/^p[\w-]+$/.test(pieces[1] || '') && pieces.length <= 3 && !index.books?.some(b => b.n === pieces[1])) {
     const page = pieces[1].slice(1), line = pieces[2] || '';
     if (!index.pages.some(p => p.n === page) || (line && !/^\d+$/.test(line))) throw new Error('Page or line is outside this build');
     return {page, line};
@@ -101,6 +103,97 @@ function renderLineKey(ref, index) {
   return `<a class="line-key" href="#${esc(index.edition)}/p${esc(ref.page)}/${esc(ref.line)}">${esc(ref.label || ref.line)}</a>`;
 }
 
+// A printed figure supplied as SVG: a frame with tools; the SVG itself is fetched and mounted by mountFigures.
+function figureHTML(fig) {
+  if (!fig.src) return `<figure class="svg-figure"><figcaption>${esc(fig.description || 'Figure')} (file unavailable)</figcaption></figure>`;
+  return `<figure class="svg-figure" data-src="${esc(fig.src)}" data-id="${esc(fig.id || '')}">
+<div class="fig-tools" role="toolbar" aria-label="Figure tools"><button type="button" data-fig="fit">Fit</button><button type="button" data-fig="in" aria-label="Zoom in">+</button><button type="button" data-fig="out" aria-label="Zoom out">−</button><button type="button" data-fig="xml">View XML</button><a href="${esc(fig.src)}" download>Download SVG</a></div>
+<div class="fig-view" tabindex="0" aria-label="${esc(fig.description || 'Figure')}. Drag to pan, wheel or +/− to zoom.">Loading figure…</div>
+<div class="fig-info" aria-live="polite" hidden></div><pre class="fig-xml" hidden></pre>
+<figcaption>${esc(fig.description || '')}</figcaption></figure>`;
+}
+
+const NODE_KINDS = {manuscript: 'extant manuscript', lost: 'lost manuscript reconstructed by the editor', recension: 'recension',
+  version: 'version (translation)', indirect: 'indirect tradition', group: 'group of manuscripts', unlabelled: 'unlabelled point',
+  unexplained: 'point not explained in the printed text'};
+
+// Mount the SVG figures of a rendered page: the edition's SVG as it is (scripts and handlers removed), zoom and pan on
+// its viewBox, and its witnesses (data-witness) linked to the edition's witness records.
+async function mountFigures(container, index) {
+  if (typeof container?.querySelectorAll !== 'function' || typeof DOMParser === 'undefined') return;
+  for (const fig of container.querySelectorAll('figure.svg-figure[data-src]:not([data-mounted])')) {
+    fig.dataset.mounted = 'true';
+    const view = fig.querySelector('.fig-view'), info = fig.querySelector('.fig-info'), xmlBox = fig.querySelector('.fig-xml');
+    let text;
+    try { const r = await fetch(fig.dataset.src); if (!r.ok) throw new Error(r.status); text = await r.text(); }
+    catch (e) { view.textContent = 'The figure could not be loaded.'; continue; }
+    const doc = new DOMParser().parseFromString(text, 'image/svg+xml');
+    const svg = doc.documentElement;
+    if (svg.nodeName !== 'svg' || doc.querySelector('parsererror')) { view.textContent = 'The figure is not well-formed XML.'; continue; }
+    svg.querySelectorAll('script, foreignObject').forEach(n => n.remove());
+    svg.querySelectorAll('*').forEach(n => [...n.attributes].forEach(a => { if (/^on/i.test(a.name)) n.removeAttribute(a.name); }));
+    svg.setAttribute('width', '100%'); svg.setAttribute('height', '100%');
+    svg.setAttribute('preserveAspectRatio', 'xMidYMid meet');
+    view.textContent = '';
+    view.appendChild(document.importNode(svg, true));
+    const live = view.querySelector('svg');
+    // the stored file is role="img"; mounted with focusable nodes it is a group, else the nodes leave the accessibility tree
+    live.setAttribute('role', 'group');
+    const original = (live.getAttribute('viewBox') || '0 0 100 100').split(/[\s,]+/).map(Number);
+    let vb = [...original];
+    const apply = () => live.setAttribute('viewBox', vb.join(' '));
+    const zoom = (factor, cx = vb[0] + vb[2] / 2, cy = vb[1] + vb[3] / 2) => {
+      const w = Math.min(original[2] * 4, Math.max(original[2] / 12, vb[2] * factor)), h = vb[3] * w / vb[2];
+      vb = [cx - (cx - vb[0]) * w / vb[2], cy - (cy - vb[1]) * h / vb[3], w, h]; apply();
+    };
+    fig.querySelector('[data-fig="fit"]').addEventListener('click', () => { vb = [...original]; apply(); });
+    fig.querySelector('[data-fig="in"]').addEventListener('click', () => zoom(1 / 1.25));
+    fig.querySelector('[data-fig="out"]').addEventListener('click', () => zoom(1.25));
+    fig.querySelector('[data-fig="xml"]').addEventListener('click', () => { xmlBox.textContent = text; xmlBox.hidden = !xmlBox.hidden; });
+    view.addEventListener('wheel', e => {
+      e.preventDefault();
+      const r = live.getBoundingClientRect();
+      zoom(e.deltaY < 0 ? 1 / 1.15 : 1.15, vb[0] + (e.clientX - r.left) / r.width * vb[2], vb[1] + (e.clientY - r.top) / r.height * vb[3]);
+    }, {passive: false});
+    let drag = null;
+    view.addEventListener('pointerdown', e => { if (e.target.closest('[data-node]')) return; drag = {x: e.clientX, y: e.clientY, vb: [...vb]}; view.setPointerCapture(e.pointerId); view.classList.add('dragging'); });
+    view.addEventListener('pointermove', e => {
+      if (!drag) return;
+      const r = live.getBoundingClientRect();
+      vb = [drag.vb[0] - (e.clientX - drag.x) * vb[2] / r.width, drag.vb[1] - (e.clientY - drag.y) * vb[3] / r.height, vb[2], vb[3]]; apply();
+    });
+    view.addEventListener('pointerup', () => { drag = null; view.classList.remove('dragging'); });
+    view.addEventListener('keydown', e => {
+      if (e.key === '+' || e.key === '=') zoom(1 / 1.25);
+      else if (e.key === '-') zoom(1.25);
+      else if (e.key === '0') { vb = [...original]; apply(); }
+    });
+    const show = el => {
+      live.querySelectorAll('.fig-selected').forEach(n => n.classList.remove('fig-selected'));
+      const node = el.getAttribute('data-node');
+      live.querySelectorAll(`[data-node="${CSS.escape(node)}"]`).forEach(n => n.classList.add('fig-selected'));
+      const wid = el.getAttribute('data-witness');
+      const record = wid ? index.witness_ids?.[wid] : null;
+      const label = el.textContent.trim() || node;
+      info.innerHTML = `<b>${esc(label)}</b> — ${esc(NODE_KINDS[el.getAttribute('data-type')] || el.getAttribute('data-type') || '')}`
+        + (record ? `<br>Witness <b>${esc(record[0])}</b>: ${esc(record[1])}` : wid ? `<br>Witness ${esc(wid)} (no record in this edition)` : '<br>Not a witness of this edition’s apparatus.');
+      info.hidden = false;
+    };
+    live.querySelectorAll('text[data-node], circle[data-node]').forEach(el => {
+      el.setAttribute('tabindex', '0'); el.setAttribute('role', 'button');
+      el.setAttribute('aria-label', (el.textContent.trim() || el.getAttribute('data-node')) + (el.getAttribute('data-witness') ? ', witness' : ''));
+      el.addEventListener('click', () => show(el));
+      el.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); show(el); } });
+    });
+  }
+}
+
+// Wellmann prints every fifth line number; the reader shows 1, 5, 10, 15 … and a line's own number on hover
+function lineNumberShown(n, index) {
+  if (index?.edition !== 'wellmann' || !/^\d+$/.test(String(n))) return true;
+  return Number(n) === 1 || Number(n) % 5 === 0;
+}
+
 function renderText(page, index) {
   const opens = {}, closes = {}, insertions = {};
   // Distinct adjacent anchors can describe an empty component too. Preserve
@@ -120,9 +213,9 @@ function renderText(page, index) {
       if (entry.insertion && !entry.spans) continue;
     }
     for (const span of entry.spans || [{from: entry.from, to: entry.to}]) {
-      const emptyLow = span.cert === 'low' && anchorOffsets.has(span.from) &&
-        anchorOffsets.get(span.from) === anchorOffsets.get(span.to);
-      if (span.from === span.to || emptyLow) {
+      // a span with no text between its anchors (e.g. an addition anchored at a point) is shown as a caret
+      const empty = anchorOffsets.has(span.from) && anchorOffsets.get(span.from) === anchorOffsets.get(span.to);
+      if (span.from === span.to || empty) {
         (insertions[span.from] ||= []).push(span.cert === 'low' ? {...entry, cert: 'low', span_cert: true} : entry);
         continue;
       }
@@ -134,20 +227,50 @@ function renderText(page, index) {
   const uncertain = new Set(page.entries.filter(e => e.cert === 'low' || (e.cert !== 'medium' && visibleFlags(e, index).length)).map(e => e.id));
   const medium = new Set(page.entries.filter(e => e.cert === 'medium').map(e => e.id));
   let active = new Set();
+  // printed braces (front-matter lists of manuscripts): per line, the inner (level 1) and outer (level 2) brace piece
+  const braceCells = new Map();
+  for (const brace of page.braces || []) {
+    const half = Math.floor(brace.lines.length / 2);
+    brace.lines.forEach((id, i) => {
+      const cells = braceCells.get(id) || {};
+      const pos = brace.lines.length === 1 ? 'one' : i === 0 ? 'top' : i === brace.lines.length - 1 ? 'bot' : 'mid';
+      cells[brace.level === '2' ? 2 : 1] = {pos, label: i === half ? brace.label : '', even: brace.lines.length % 2 === 0};
+      braceCells.set(id, cells);
+    });
+  }
+  const braceHTML = id => {
+    const cells = braceCells.get(id);
+    if (!cells) return '';
+    return [1, 2].map(level => {
+      const c = cells[level];
+      return c ? `<span class="bc ${c.pos}" aria-hidden="true"></span><span class="bl${c.even ? ' even' : ''}">${esc(c.label)}</span>` : '<span></span><span></span>';
+    }).join('');
+  };
   const renderLines = (lines, nextBreakNo = false) => {
   active = new Set();
   return lines.map((line, k) => {
     let text = '';
-    for (const part of line.parts) {
+    // an insertion is shown as the highlighted space where it goes: the space next to its anchor moves into it
+    const parts = line.parts.map(part => ({...part}));
+    parts.forEach((part, i) => {
+      if (!('a' in part) || !(insertions[part.a] || []).length) return;
+      let j = i + 1, h = i - 1;
+      while (j < parts.length && 'a' in parts[j]) j++;
+      while (h >= 0 && 'a' in parts[h]) h--;
+      const next = parts[j]?.t?.match(/^\s+/), prev = parts[h]?.t?.match(/\s+$/);
+      if (next) { part.space = next[0]; parts[j].t = parts[j].t.slice(next[0].length); }
+      else if (prev) { part.space = prev[0]; parts[h].t = parts[h].t.slice(0, -prev[0].length); }
+    });
+    for (const part of parts) {
       if (part.ref) {
         text += renderLineKey(part.ref, index);
         continue;
       }
       if ('a' in part) {
         for (const id of closes[part.a] || []) active.delete(id);
-        for (const entry of insertions[part.a] || []) {
+        for (const [m, entry] of (insertions[part.a] || []).entries()) {
           const title = entry.readings.map(r => `${r.text}${r.type ? ` (${r.type}.)` : ''}`).join('; ');
-          text += `<span class="lem ins${entry.cert === 'low' || uncertain.has(entry.id) ? ' low' : ''}${part.context ? ' context' : ''}" tabindex="0" role="button" data-e="${esc(entry.id)}" title="${esc(entry.span_cert ? `editor's certainty: low${title ? `; ${title}` : ''}` : title)}" aria-label="${esc(`Insertion${entry.insertion_side ? ` ${entry.insertion_side} word` : ''}: ${title}`)}"></span>`;
+          text += `<span class="lem ins${entry.cert === 'low' || uncertain.has(entry.id) ? ' low' : ''}${part.context ? ' context' : ''}" tabindex="0" role="button" data-e="${esc(entry.id)}" title="${esc(entry.span_cert ? `editor's certainty: low${title ? `; ${title}` : ''}` : title)}" aria-label="${esc(`Insertion${entry.insertion_side ? ` ${entry.insertion_side} word` : ''}: ${title}`)}">${m === 0 && part.space ? esc(part.space) : ''}</span>`;
         }
         for (const id of opens[part.a] || []) active.add(id);
         continue;
@@ -160,11 +283,19 @@ function renderText(page, index) {
     const lineEntries = page.entries.filter(e => !e.off_page && e.anchored === false && ['line', 'chapter'].includes(e.attachment) && e.line_ids?.includes(line.id)).map(e => e.id);
     const sections = (line.sections || []).map(s => `<b class="mg" title="Section ${esc(s.chapter)}.${esc(s.n)}">${esc(s.n)}</b> `).join('');
     const continuation = lines[k + 1]?.break_no || (k === lines.length - 1 && nextBreakNo);
-    return `<div class="tl" data-line="${esc(line.n)}" data-line-e="${esc(lineEntries.join(' '))}"${line.break_no ? ' data-break-no="true"' : ''}><span class="n">${sections}${line.margin ? `<b class="mg" title="printed marginal">${esc(line.margin)}</b> ` : ''}${esc(line.n)}</span><span>${line.unchecked_layout ? '<small class="unchecked-layout">unchecked layout</small> ' : ''}${text}${continuation && !/[-‐]\s*$/.test(lineText(line)) ? '<span class="hy" aria-hidden="true">-</span>' : ''}</span></div>`;
+    return `<div class="tl${braceCells.has(line.id) ? ' braced' : ''}" data-line="${esc(line.n)}" data-line-e="${esc(lineEntries.join(' '))}"${line.break_no ? ' data-break-no="true"' : ''}><span class="n">${sections}${line.margin ? `<b class="mg" title="printed marginal">${esc(line.margin)}</b> ` : ''}<span class="ln${lineNumberShown(line.n, index) ? '' : ' dim'}">${esc(line.n)}</span></span><span>${line.unchecked_layout ? '<small class="unchecked-layout">unchecked layout</small> ' : ''}${text}${continuation && !/[-‐]\s*$/.test(lineText(line)) ? '<span class="hy" aria-hidden="true">-</span>' : ''}</span>${braceHTML(line.id)}</div>`;
   }).join('');
   };
-  return renderLines(page.lines, page.next_break_no) + (page.segments || []).map(segment =>
-    `<section class="recension"><h3 class="recension-label">${segment.rend?.split(/\s+/).includes('bracketed') ? '[' : ''}${esc(segment.n)} ${esc(segment.subtype)}${segment.rend?.split(/\s+/).includes('bracketed') ? ']' : ''}${['M', 'F'].includes(segment.part) ? ' (continued)' : ''}${(segment.refs || []).map(ref => ' ' + renderLineKey(ref, index)).join('')}</h3>${renderLines(segment.lines)}</section>`).join('');
+  // printed figures (SVG, e.g. a stemma codicum) at their place among the lines
+  const figures = [...(page.figures || [])].sort((a, b) => a.after_line - b.after_line);
+  let mainText = '', from = 0;
+  for (const fig of figures) {
+    mainText += renderLines(page.lines.slice(from, fig.after_line)) + figureHTML(fig);
+    from = Math.max(from, fig.after_line);
+  }
+  mainText += renderLines(page.lines.slice(from), page.next_break_no);
+  return mainText + (page.segments || []).map(segment =>
+    `<section class="recension"><h3 class="recension-label">${segment.rend?.split(/\s+/).includes('bracketed') ? '[' : ''}${esc(segment.n)} ${esc(segment.subtype)}${segment.rend?.split(/\s+/).includes('bracketed') ? ']' : ''}${['M', 'F'].includes(segment.part) ? ' (continued)' : ''}${(segment.refs || []).map(ref => ' ' + renderLineKey(ref, index)).join('')}</h3>${renderLines(segment.lines, segment.next_break_no)}</section>`).join('');
 }
 
 function externalLink(url, label) {
@@ -211,18 +342,26 @@ function renderApp(page, index) {
     return `<span>${tokens.map(token => Object.hasOwn(index.sigla, token) || Object.hasOwn(page.legend || {}, token) ? witness(token) : esc(token)).join('')}</span>`;
   }).join(' ');
   const siglaList = index.manuscripts ? `<details class="sigla-list"><summary>Witnesses / sigla</summary>${Object.entries(index.manuscripts).map(([siglum, parts]) => `<div><b>${esc(siglum)}</b> ${manuscriptDetails(parts)}</div>`).join('')}</details>` : '';
-  return siglaList + (legend ? `<div class="legend" aria-label="Page witness families">${legend}</div>` : '') + Object.entries(GROUPS).map(([group, title]) => {
+  // Wellmann's fontium notes are SIM. / EXC. / TEST.: three sections in print order; notes without a category
+  // (corrigenda) stay under the apparatus fontium
+  const sections = Object.entries(GROUPS).flatMap(([group, title]) => {
     const entries = page.entries.filter(e => e.group === group);
+    if (group !== 'fontium' || !entries.some(e => e.category)) return [[group, title, entries]];
+    const rest = entries.filter(e => !e.category);
+    return [...FONTIUM_CATEGORIES.map(([category, label]) => [`fontium-${category}`, label, entries.filter(e => e.category === category)]),
+      ...(rest.length ? [[group, title, rest]] : [])];
+  });
+  return siglaList + (legend ? `<div class="legend" aria-label="Page witness families">${legend}</div>` : '') + sections.map(([group, title, entries]) => {
     const witnesses = group === 'criticus' ? (page.witnesses || []).map(w => `<div class="witnesses">${printed(w.parts)}</div>`).join('') : '';
     return `<details class="app-group" data-group="${esc(group)}"${COLLAPSED.has(group) ? '' : ' open'}><summary><h2>${title} (${entries.length})</h2></summary>${witnesses}${entries.map(e => `<div class="entry${e.cert === 'low' || (e.cert !== 'medium' && visibleFlags(e, index).length) ? ' low' : ''}" id="${esc(e.id)}"${e.cert === 'low' ? ' title="editor&#39;s certainty: low"' : e.cert === 'medium' ? ' title="Medium certainty"' : ''} tabindex="0" role="button" data-id="${esc(e.id)}">
       ${e.corresp ? `<small class="continuation"><a href="${esc(e.corresp)}" data-parent="${esc(e.corresp.replace(/^#/, ''))}">continues ${esc(e.continuation_location ? `from ${pageLabel(e.continuation_location.page, index)} l. ${e.continuation_location.line}` : e.corresp.replace(/^#/, ''))}</a></small>` : ''}
-      <div class="row1"><span class="ln">${e.off_page || ['page', 'continued'].includes(e.attachment) ? '—' : esc(e.line)}</span><span class="lemt${e.lemma_printed === false ? ' unp' : ''}">${esc(e.insertion ? '' : e.lemma || (e.anchored === false ? '' : '∅'))}</span>${methodTag(e)}</div>
+      <div class="row1"><span class="ln">${e.off_page || ['page', 'continued'].includes(e.attachment) ? '—' : esc(e.line)}</span><span class="lemt${e.lemma && !e.insertion && e.lemma_printed === false ? ' unp' : ''}"${e.lemma && !e.insertion && e.lemma_printed === false ? ' title="The printed note gives no lemma; the words are supplied from the text"' : ''}>${esc(e.insertion ? '' : e.lemma || '')}</span>${methodTag(e)}</div>
       ${e.cert === 'low' || e.anchored === false ? attachmentNote(e, index) : ''}
       ${visibleFlags(e, index).map(flag => `<div class="fl">${esc(flagText(flag))}</div>`).join('')}
       ${e.prev_location ? locationLink(e.prev_location, 'Previous apparatus entry') : ''}
       ${e.target_location ? locationLink(e.target_location, 'Open target') : ''}
       ${e.source_page && e.source_page !== page.page ? (index.pages?.some(p => p.n === e.source_page) ? `<a href="#${esc(index.edition)}/p${esc(e.source_page)}">Printed on ${esc(pageLabel(e.source_page, index))}</a>` : `Printed on ${esc(pageLabel(e.source_page, index))} (outside this build)`) : ''}
-      ${e.readings.map(r => `<div${r.citation_id ? ` data-citation-id="${esc(r.citation_id)}"` : ''} class="rd${r.cert === 'low' ? ' low' : ''}"${r.cert === 'low' ? ' title="editor&#39;s certainty: low"' : ''}><span class="ty">${esc(index.edition === 'wellmann' && r.note_type !== undefined ? '' : ['om', 'add', 'transp'].includes(r.type) ? `${r.type}.` : r.type)}</span><span class="${r.generic ? 'nt' : 'rt'}">${esc(r.text)}</span>${r.destination ? ` <a class="moved" href="#${esc(index.edition)}/p${esc(r.destination.page)}/${esc(r.destination.line)}">moved → p. ${esc(r.destination.page)} l. ${esc(r.destination.line)}</a>` : ''}${r.type === 'add' && e.insertion_label ? `<span class="nt">${esc(e.insertion_label)} ${esc(e.lemma)}</span>` : ''}
+      ${e.readings.map(r => `<div${r.citation_id ? ` data-citation-id="${esc(r.citation_id)}"` : ''} class="rd${r.cert === 'low' ? ' low' : ''}"${r.cert === 'low' ? ' title="editor&#39;s certainty: low"' : ''}><span class="ty">${esc(index.edition === 'wellmann' && r.note_type !== undefined ? '' : ['om', 'add', 'transp'].includes(r.type) ? `${r.type}.` : ['parallel', 'fontium-ref'].includes(r.type) ? '' : r.type)}</span><span class="${r.generic ? 'nt' : 'rt'}">${esc(r.text)}</span>${r.destination ? ` <a class="moved" href="#${esc(index.edition)}/p${esc(r.destination.page)}/${esc(r.destination.line)}">moved → p. ${esc(r.destination.page)} l. ${esc(r.destination.line)}</a>` : ''}${r.type === 'add' && e.insertion_label ? `<span class="nt">${esc(e.insertion_label)} ${esc(e.lemma)}</span>` : ''}
         ${r.wit.map((w, i) => witness(w, r.wit_ids?.[i])).join('')}
         ${(r.links || []).map(link => `<small class="citation-link">${citationLink(link)}</small>`).join(' ')}
         ${r.two_reads ? `<small class="two-reads" title="${esc(`${r.two_reads.read1_range}; ${r.two_reads.read2_range}`)}">two reads</small>` : ''}
@@ -236,15 +375,46 @@ function renderApp(page, index) {
 }
 
 const fold = value => value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/ς/g, 'σ');
+const ROMAN = ['', 'I', 'II', 'III', 'IV', 'V'];
 function headwords(index) {
   if (index.headwords) return index.headwords.map(u => ({label: `${u.n} · ${u.label}`, title: u.label,
     hash: `#${index.edition}/p${u.first.page}/${u.first.line}`}))
     .sort((a, b) => fold(a.title).localeCompare(fold(b.title), 'el'));
-  return index.books.flatMap(book => book.chapters.filter(c => !c.context).map(chapter => ({
-    label: `${book.n}.${chapter.n} · ${chapter.label}`,
-    hash: `#${index.edition}/${book.n}/${chapter.n}`,
-    title: chapter.label
-  }))).sort((a, b) => fold(a.title).localeCompare(fold(b.title), 'el'));
+  const items = index.books.flatMap(book => book.chapters.filter(c => !c.context).map(chapter => {
+    // Wellmann: a chapter of Books I–V named by its simple (editorial head) is a headword; the rest (front matter,
+    // prefaces, appendix) is listed apart in the edition's order
+    const named = index.edition === 'wellmann' && /^[1-5]$/.test(book.n) && /^\d+$/.test(chapter.n) &&
+      !/^Chapter \d/.test(chapter.label);
+    return {
+      label: named ? `${chapter.label} · ${ROMAN[book.n]} ${chapter.n}` : index.edition === 'wellmann'
+        ? `${book.label || `Book ${ROMAN[book.n] || book.n}`} · ${chapter.label}` : `${book.n}.${chapter.n} · ${chapter.label}`,
+      hash: `#${index.edition}/${book.n}/${chapter.n}`,
+      title: chapter.label,
+      aliases: chapter.aliases || [],
+      ...(index.edition === 'wellmann' ? {group: named ? 'names' : 'other'} : {})
+    };
+  }));
+  if (index.edition !== 'wellmann') return items.sort((a, b) => fold(a.title).localeCompare(fold(b.title), 'el'));
+  const names = items.filter(i => i.group === 'names')
+    .sort((a, b) => fold(a.title).localeCompare(fold(b.title), 'el') || items.indexOf(a) - items.indexOf(b));
+  return [...names, ...items.filter(i => i.group === 'other')];
+}
+const HEADWORD_GROUPS = [['names', 'Simples, α–ω'], ['other', 'Front matter, prefaces, appendix']];
+function headwordOptions(words) {
+  const option = w => `<option value="${esc(w.hash)}">${esc(w.label)}</option>`;
+  if (!words.some(w => w.group)) return words.map(option).join('');
+  return HEADWORD_GROUPS.map(([group, label]) => {
+    const ws = words.filter(w => w.group === group);
+    return ws.length ? `<optgroup label="${esc(label)}">${ws.map(option).join('')}</optgroup>` : '';
+  }).join('');
+}
+// Chapters whose name, or one of their other names (lookup terms: English, transliterations), contains the query.
+// The other names are matched only; the result shows the Greek name.
+function searchChapters(index, query) {
+  const needle = fold(query.trim());
+  if (!needle) return [];
+  return headwords(index).filter(w => [w.title, ...(w.aliases || [])].some(name => fold(name || '').includes(needle)))
+    .map(w => ({hash: w.hash, label: w.label}));
 }
 async function searchPages(index, query, loadPage) {
   const needle = fold(query.trim());
@@ -263,7 +433,7 @@ async function searchPages(index, query, loadPage) {
   return results;
 }
 
-if (typeof module !== 'undefined') module.exports = {COLLAPSED, parseRoute, parseLocation, pageLabel, renderText, renderApp, flagText, headwords, searchPages};
+if (typeof module !== 'undefined') module.exports = {figureHTML, lineNumberShown, COLLAPSED, parseRoute, parseLocation, pageLabel, renderText, renderApp, flagText, headwords, headwordOptions, searchChapters, searchPages};
 
 if (typeof document !== 'undefined') {
   const $ = selector => document.querySelector(selector);
@@ -273,7 +443,7 @@ if (typeof document !== 'undefined') {
   const chapterOptions = book => {
     const chapters = index.books.find(b => b.n === book).chapters;
     const options = chapters.map(c => `<option value="${esc(c.n)}">${esc(c.n)} · ${esc(c.label)}${c.context ? ' · context' : ''}</option>`).join('');
-    $('#chapter').innerHTML = book === 'front' ? `<optgroup label="Front matter">${options}</optgroup>` : options;
+    $('#chapter').innerHTML = book === 'front' || book.startsWith('front-') ? `<optgroup label="Front matter">${options}</optgroup>` : options;
   };
   const goChapter = () => { location.hash = `#${index.edition}/${$('#book').value}/${$('#chapter').value}`; };
   const sectionOptions = (book, chapter) => {
@@ -308,14 +478,20 @@ if (typeof document !== 'undefined') {
       $('#wellmann-tools').hidden = !['wellmann', 'paul'].includes(index.edition);
       if (['wellmann', 'paul'].includes(index.edition)) {
         const words = headwords(index);
-        $('#headwords').innerHTML = '<option value="">Choose a headword</option>' + words.map(w => `<option value="${esc(w.hash)}">${esc(w.label)}</option>`).join('');
+        $('#headwords').innerHTML = '<option value="">Choose a headword</option>' + headwordOptions(words);
         $('#headwords').value = target.book ? `#${index.edition}/${target.book}/${target.chapter}` : '';
       }
       $('#edition').value = index.edition;
       $('#title').textContent = index.label;
       renderPublicCredits(index);
-      $('#book').innerHTML = index.books.map(b => `<option value="${esc(b.n)}">${esc(b.label || b.n)}</option>`).join('');
+      const bookOption = b => `<option value="${esc(b.n)}">${esc(b.label || b.n)}</option>`;
+      // Wellmann's three volumes: front matter and books grouped under their volume
+      const volumes = [...new Set(index.books.map(b => b.volume).filter(Boolean))];
+      $('#book').innerHTML = volumes.length > 1
+        ? volumes.map(v => `<optgroup label="Volume ${esc(['', 'I', 'II', 'III'][Number(v)] || v)}">${index.books.filter(b => b.volume === v).map(bookOption).join('')}</optgroup>`).join('')
+        : index.books.map(bookOption).join('');
       $('#text').innerHTML = renderText(page, index);
+      mountFigures($('#text'), index);
       $('#text').classList.toggle('paul-text', ['paul', 'aetius'].includes(index.edition));
       $('#parallel-link').hidden = index.edition !== 'wellmann';
       $('#furniture').innerHTML = (page.furniture || []).map(f => `<div>${f.parts.map(p => esc(p.t)).join('')}</div>`).join('');
@@ -416,10 +592,14 @@ if (typeof document !== 'undefined') {
   });
   $('#search').addEventListener('submit', async event => {
     event.preventDefault();
-    const serial = ++searchRequest, searching = index;
-    $('#search-results').textContent = 'Searching…';
+    const serial = ++searchRequest, searching = index, query = $('#query').value;
+    // matching chapters (by name or other names) show at once; matching lines follow when every page is read
+    const chapters = searching.edition === 'wellmann' ? searchChapters(searching, query) : [];
+    const chapterHTML = chapters.length ? `<li>${chapters.length} matching chapter${chapters.length === 1 ? '' : 's'}</li>` +
+      chapters.map(r => `<li><a href="${esc(r.hash)}">${esc(r.label)}</a></li>`).join('') : '';
+    $('#search-results').innerHTML = chapterHTML + '<li>Searching the text…</li>';
     try {
-      const results = await searchPages(searching, $('#query').value, async n => {
+      const results = await searchPages(searching, query, async n => {
         const path = `data/${searching.edition}/pages/${n}.json`;
         if (!pageCache.has(path)) pageCache.set(path, (async () => {
           const response = await fetch(path);
@@ -429,8 +609,9 @@ if (typeof document !== 'undefined') {
         return pageCache.get(path);
       });
       if (serial !== searchRequest || searching !== index) return;
-      $('#search-results').innerHTML = `<li>${results.length} matching lines</li>` + results.map(r => `<li><a href="${esc(r.hash)}">${esc(r.label)}</a></li>`).join('');
-    } catch (error) { if (serial === searchRequest) $('#search-results').textContent = error.message; }
+      $('#search-results').innerHTML = chapterHTML +
+        `<li>${results.length} matching lines</li>` + results.map(r => `<li><a href="${esc(r.hash)}">${esc(r.label)}</a></li>`).join('');
+    } catch (error) { if (serial === searchRequest) $('#search-results').innerHTML = chapterHTML + `<li>${esc(error.message)}</li>`; }
   });
   $('#book').addEventListener('change', () => { chapterOptions($('#book').value); goChapter(); });
   $('#chapter').addEventListener('change', goChapter);

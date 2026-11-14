@@ -1,0 +1,50 @@
+{
+  "edition": "wellmann",
+  "page": "1-f03",
+  "scan": "",
+  "scan_id": "scan1-003",
+  "lines": [
+    {
+      "n": "1",
+      "id": "wellmann-v1-front-03-1",
+      "parts": [
+        {
+          "a": "wellmann-v1-front-03-1"
+        },
+        {
+          "t": "MAXIMILIANO TREU"
+        },
+        {
+          "a": "wellmann-v1-front-03-1-end"
+        }
+      ]
+    },
+    {
+      "n": "2",
+      "id": "wellmann-v1-front-03-2",
+      "parts": [
+        {
+          "a": "wellmann-v1-front-03-2"
+        },
+        {
+          "t": "PIETATIS ERGO"
+        },
+        {
+          "a": "wellmann-v1-front-03-2-end"
+        }
+      ]
+    }
+  ],
+  "entries": [],
+  "chapters_on_page": [
+    {
+      "book": "front-1",
+      "n": "dedication",
+      "label": "Dedication",
+      "context": false
+    }
+  ],
+  "front": true,
+  "page_label": "I, dedication",
+  "scan_missing": true
+}

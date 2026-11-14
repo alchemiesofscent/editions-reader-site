@@ -2,14 +2,14 @@
   "edition": "wellmann",
   "page": "3-60",
   "scan": "https://cmg.bbaw.de/epubl/online/jpg/Ped_Diosc_De_mat_med_Wellmann_Lib_V/diosc_mat_med_wellmann_lib_v_0066-default.jpg",
-  "scan_id": "",
+  "scan_id": "scan3-066",
   "lines": [
     {
       "n": "1",
-      "id": "wellmann-5-60-u1",
+      "id": "wellmann-5-60-1",
       "parts": [
         {
-          "a": "wellmann-5-60-u1"
+          "a": "wellmann-5-60-1"
         },
         {
           "a": "awellmann-print-5-60-2"
@@ -36,7 +36,7 @@
           "t": " τὸ σπλάγχνον, εἶτα ἐξελόντες καὶ μετὰ"
         },
         {
-          "a": "wellmann-5-60-u1-end"
+          "a": "wellmann-5-60-1-end"
         }
       ]
     },
@@ -48,7 +48,13 @@
           "a": "wellmann-5-60-2"
         },
         {
-          "t": "ἴσων ἁλῶν τρίψαντες πλύνουσιν, ὡς προείρηται. ἔνιοι δὲ"
+          "t": "ἴσων ἁλῶν τρίψαντες πλύνουσιν, ὡς προείρηται. "
+        },
+        {
+          "a": "awellmann-print-5-60-1-i0"
+        },
+        {
+          "t": "ἔνιοι δὲ"
         },
         {
           "a": "wellmann-5-60-2-end"
@@ -57,10 +63,10 @@
     },
     {
       "n": "3",
-      "id": "wellmann-5-60-u3",
+      "id": "wellmann-5-60-3",
       "parts": [
         {
-          "a": "wellmann-5-60-u3"
+          "a": "wellmann-5-60-3"
         },
         {
           "a": "awellmann-print-5-60-5"
@@ -96,31 +102,31 @@
           "t": " τρίβουσιν ἐν ἡλίῳ"
         },
         {
-          "a": "wellmann-5-60-u3-end"
+          "a": "wellmann-5-60-3-end"
         }
       ]
     },
     {
       "n": "4",
-      "id": "wellmann-5-60-u4",
+      "id": "wellmann-5-60-4",
       "parts": [
         {
-          "a": "wellmann-5-60-u4"
+          "a": "wellmann-5-60-4"
         },
         {
-          "t": "μεθ᾿ ὕδατος συνεχῶς "
+          "t": "μεθ’ ὕδατος συνεχῶς "
         },
         {
           "a": "awellmann-print-5-60-7"
         },
         {
-          "t": "ἀποχέοντες"
+          "t": "ἀποχέοντες,"
         },
         {
           "a": "awellmann-print-5-60-7e"
         },
         {
-          "t": ", "
+          "t": " "
         },
         {
           "a": "awellmann-print-5-60-8"
@@ -135,9 +141,6 @@
           "t": " ἂν "
         },
         {
-          "a": "awellmann-print-5-60-10"
-        },
-        {
           "a": "awellmann-print-5-60-9"
         },
         {
@@ -150,29 +153,31 @@
           "t": " γένηται."
         },
         {
-          "a": "awellmann-print-5-60-10-fix7"
+          "a": "awellmann-print-5-60-1-e0"
+        },
+        {
+          "t": " "
+        },
+        {
+          "a": "awellmann-print-5-60-10"
         },
         {
           "t": "ἢ"
         },
         {
-          "a": "awellmann-print-5-60-10-fix7e"
-        },
-        {
           "a": "awellmann-print-5-60-10e"
         },
         {
-          "a": "wellmann-5-60-u4-end"
+          "a": "wellmann-5-60-4-end"
         }
-      ],
-      "margin": "10"
+      ]
     },
     {
       "n": "5",
-      "id": "wellmann-5-60-u5",
+      "id": "wellmann-5-60-5",
       "parts": [
         {
-          "a": "wellmann-5-60-u5"
+          "a": "wellmann-5-60-5"
         },
         {
           "t": "καὶ "
@@ -181,13 +186,13 @@
           "a": "awellmann-print-5-60-11"
         },
         {
-          "t": "οὕτως"
+          "t": "οὕτως·"
         },
         {
           "a": "awellmann-print-5-60-11e"
         },
         {
-          "t": "· λαβὼν τῆς λιθαργύρου ὅσον "
+          "t": " λαβὼν τῆς λιθαργύρου ὅσον "
         },
         {
           "a": "awellmann-print-5-60-12"
@@ -202,16 +207,16 @@
           "t": " καὶ εἰλήσας"
         },
         {
-          "a": "wellmann-5-60-u5-end"
+          "a": "wellmann-5-60-5-end"
         }
       ]
     },
     {
       "n": "6",
-      "id": "wellmann-5-60-u6",
+      "id": "wellmann-5-60-6",
       "parts": [
         {
-          "a": "wellmann-5-60-u6"
+          "a": "wellmann-5-60-6"
         },
         {
           "t": "ἐρίοις λευκοῖς "
@@ -232,25 +237,25 @@
           "a": "awellmann-print-5-60-14"
         },
         {
-          "t": "καινὴν χύτραν"
+          "t": "καινὴν χύτραν,"
         },
         {
           "a": "awellmann-print-5-60-14e"
         },
         {
-          "t": ", ἐπιδοὺς"
+          "t": " ἐπιδούς"
         },
         {
-          "a": "wellmann-5-60-u6-end"
+          "a": "wellmann-5-60-6-end"
         }
       ]
     },
     {
       "n": "7",
-      "id": "wellmann-5-60-u7",
+      "id": "wellmann-5-60-7",
       "parts": [
         {
-          "a": "wellmann-5-60-u7"
+          "a": "wellmann-5-60-7"
         },
         {
           "t": "τε ὕδωρ καὶ κυάμων καθαρῶν καὶ νέων "
@@ -268,16 +273,16 @@
           "t": " μίαν ἕψε·"
         },
         {
-          "a": "wellmann-5-60-u7-end"
+          "a": "wellmann-5-60-7-end"
         }
       ]
     },
     {
       "n": "8",
-      "id": "wellmann-5-60-u8",
+      "id": "wellmann-5-60-8",
       "parts": [
         {
-          "a": "wellmann-5-60-u8"
+          "a": "wellmann-5-60-8"
         },
         {
           "t": "ὅταν δὲ "
@@ -289,12 +294,6 @@
           "t": "οἱ"
         },
         {
-          "a": "awellmann-print-5-60-16-fix7"
-        },
-        {
-          "a": "awellmann-print-5-60-16-fix7e"
-        },
-        {
           "a": "awellmann-print-5-60-16e"
         },
         {
@@ -304,25 +303,25 @@
           "a": "awellmann-print-5-60-17"
         },
         {
-          "t": "μελανθῆ"
+          "t": "μελανθῆ,"
         },
         {
           "a": "awellmann-print-5-60-17e"
         },
         {
-          "t": ", ἐξε"
+          "t": " ἐξε"
         },
         {
-          "a": "wellmann-5-60-u8-end"
+          "a": "wellmann-5-60-8-end"
         }
       ]
     },
     {
       "n": "9",
-      "id": "wellmann-5-60-u9",
+      "id": "wellmann-5-60-9",
       "parts": [
         {
-          "a": "wellmann-5-60-u9"
+          "a": "wellmann-5-60-9"
         },
         {
           "t": "λὼν τὴν λιθάργυρον"
@@ -349,17 +348,17 @@
           "t": " ἐρίῳ ἐκ δευτέρου ἕψε,"
         },
         {
-          "a": "wellmann-5-60-u9-end"
+          "a": "wellmann-5-60-9-end"
         }
       ],
       "break_no": true
     },
     {
       "n": "10",
-      "id": "wellmann-5-60-u10",
+      "id": "wellmann-5-60-10",
       "parts": [
         {
-          "a": "wellmann-5-60-u10"
+          "a": "wellmann-5-60-10"
         },
         {
           "a": "awellmann-print-5-60-20"
@@ -383,23 +382,19 @@
           "a": "awellmann-print-5-60-21e"
         },
         {
-          "t": " τε τὸ ἴσον πλῆθος."
+          "t": " τε τὸ ἴσον πλῆθος. καὶ τὰ"
         },
         {
-          "t": "καὶ τὰ"
-        },
-        {
-          "a": "wellmann-5-60-u10-end"
+          "a": "wellmann-5-60-10-end"
         }
-      ],
-      "margin": "11"
+      ]
     },
     {
       "n": "11",
-      "id": "wellmann-5-60-u11",
+      "id": "wellmann-5-60-11",
       "parts": [
         {
-          "a": "wellmann-5-60-u11"
+          "a": "wellmann-5-60-11"
         },
         {
           "t": "αὐτὰ"
@@ -411,10 +406,13 @@
           "a": "awellmann-print-5-60-22e"
         },
         {
-          "t": " ποίει τοῖς προειρημένοις"
+          "t": " "
         },
         {
           "a": "awellmann-print-5-60-23"
+        },
+        {
+          "t": "ποίει τοῖς προειρημένοις"
         },
         {
           "a": "awellmann-print-5-60-23e"
@@ -435,16 +433,16 @@
           "t": " καὶ καθόλου, ἕως τὸ"
         },
         {
-          "a": "wellmann-5-60-u11-end"
+          "a": "wellmann-5-60-11-end"
         }
       ]
     },
     {
       "n": "12",
-      "id": "wellmann-5-60-u12",
+      "id": "wellmann-5-60-12",
       "parts": [
         {
-          "a": "wellmann-5-60-u12"
+          "a": "wellmann-5-60-12"
         },
         {
           "t": "ἔριον μηκέτι βάπτηται, "
@@ -453,13 +451,10 @@
           "a": "awellmann-print-5-60-25"
         },
         {
-          "t": "λοιπὸν"
-        },
-        {
           "a": "awellmann-print-5-60-25e"
         },
         {
-          "t": " "
+          "t": "λοιπὸν "
         },
         {
           "a": "awellmann-print-5-60-26"
@@ -474,28 +469,28 @@
           "t": " εἰς θυίαν πρὸς"
         },
         {
-          "a": "wellmann-5-60-u12-end"
+          "a": "wellmann-5-60-12-end"
         }
       ]
     },
     {
       "n": "13",
-      "id": "wellmann-5-60-u13",
+      "id": "wellmann-5-60-13",
       "parts": [
         {
-          "a": "wellmann-5-60-u13"
+          "a": "wellmann-5-60-13"
         },
         {
           "a": "awellmann-print-5-60-27"
         },
         {
-          "t": "δραχμὰς π"
+          "t": "δραχμὰς πʹ"
         },
         {
           "a": "awellmann-print-5-60-27e"
         },
         {
-          "t": "´ Ἀττικὰς "
+          "t": " Ἀττικὰς "
         },
         {
           "a": "awellmann-print-5-60-28"
@@ -522,16 +517,16 @@
           "t": " ἁλὸς ὀρυκτοῦ"
         },
         {
-          "a": "wellmann-5-60-u13-end"
+          "a": "wellmann-5-60-13-end"
         }
       ]
     },
     {
       "n": "14",
-      "id": "wellmann-5-60-u14",
+      "id": "wellmann-5-60-14",
       "parts": [
         {
-          "a": "wellmann-5-60-u14"
+          "a": "wellmann-5-60-14"
         },
         {
           "t": "λίτραν "
@@ -549,346 +544,333 @@
           "t": " καὶ λέαινε· "
         },
         {
-          "a": "awellmann-print-5-60-30-s2"
+          "a": "awellmann-print-5-60-31"
         },
         {
           "t": "διαλιπὼν"
         },
         {
-          "a": "awellmann-print-5-60-30-s2e"
-        },
-        {
-          "t": " "
-        },
-        {
-          "a": "awellmann-print-5-60-31"
-        },
-        {
-          "t": "δὲ"
-        },
-        {
           "a": "awellmann-print-5-60-31e"
         },
         {
-          "t": " ἐπίδος νίτρου "
+          "t": " "
         },
         {
           "a": "awellmann-print-5-60-32"
         },
         {
-          "t": "ὡς"
-        },
-        {
-          "a": "awellmann-print-5-60-32-fix7-c1-fix7"
-        },
-        {
-          "a": "awellmann-print-5-60-32-fix7-c1-fix7e"
+          "t": "δὲ"
         },
         {
           "a": "awellmann-print-5-60-32e"
         },
         {
-          "t": " λευ"
-        },
-        {
-          "a": "wellmann-5-60-u14-end"
-        }
-      ]
-    },
-    {
-      "n": "15",
-      "id": "wellmann-5-60-u15",
-      "parts": [
-        {
-          "a": "wellmann-5-60-u15"
-        },
-        {
-          "t": "κοτάτου "
+          "t": " ἐπίδος νίτρου "
         },
         {
           "a": "awellmann-print-5-60-33"
         },
         {
-          "t": "διειμένου"
+          "t": "ὡς"
         },
         {
           "a": "awellmann-print-5-60-33e"
         },
         {
-          "t": " "
+          "t": " λευ"
+        },
+        {
+          "a": "wellmann-5-60-14-end"
+        }
+      ]
+    },
+    {
+      "n": "15",
+      "id": "wellmann-5-60-15",
+      "parts": [
+        {
+          "a": "wellmann-5-60-15"
+        },
+        {
+          "t": "κοτάτου "
         },
         {
           "a": "awellmann-print-5-60-34"
         },
         {
-          "t": "μεθʼ ὕδατος"
+          "t": "διειμένου"
         },
         {
           "a": "awellmann-print-5-60-34e"
         },
         {
+          "t": " "
+        },
+        {
+          "a": "awellmann-print-5-60-35"
+        },
+        {
+          "t": "μεθ’ ὕδατος"
+        },
+        {
+          "a": "awellmann-print-5-60-35e"
+        },
+        {
           "t": " ὁλκὰς μζʹ καὶ πάλιν τρῖβε,"
         },
         {
-          "a": "wellmann-5-60-u15-end"
+          "a": "wellmann-5-60-15-end"
         }
       ],
       "break_no": true
     },
     {
       "n": "16",
-      "id": "wellmann-5-60-u16",
+      "id": "wellmann-5-60-16",
       "parts": [
         {
-          "a": "wellmann-5-60-u16"
-        },
-        {
-          "a": "awellmann-print-5-60-35"
-        },
-        {
-          "t": "ἄχρι"
-        },
-        {
-          "a": "awellmann-print-5-60-35e"
-        },
-        {
-          "t": " ἂν ἡ λιθάργυρος "
+          "a": "wellmann-5-60-16"
         },
         {
           "a": "awellmann-print-5-60-36"
         },
         {
-          "t": "ἱκανῶς"
+          "t": "ἄχρι"
         },
         {
           "a": "awellmann-print-5-60-36e"
         },
         {
-          "t": " λευκὴ γένηται, "
+          "t": " ἂν ἡ λιθάργυρος "
         },
         {
           "a": "awellmann-print-5-60-37"
         },
         {
-          "t": "οὕτως"
+          "t": "ἱκανῶς"
         },
         {
           "a": "awellmann-print-5-60-37e"
         },
         {
-          "t": " "
-        },
-        {
-          "a": "awellmann-print-5-60-37-s2"
-        },
-        {
-          "t": "τε"
-        },
-        {
-          "a": "awellmann-print-5-60-37-s2e"
-        },
-        {
-          "t": " "
+          "t": " λευκὴ γένηται, "
         },
         {
           "a": "awellmann-print-5-60-38"
         },
         {
-          "t": "κατερά"
-        },
-        {
-          "a": "wellmann-5-60-u16-end"
-        }
-      ]
-    },
-    {
-      "n": "17",
-      "id": "wellmann-5-60-u17",
-      "parts": [
-        {
-          "a": "wellmann-5-60-u17"
-        },
-        {
-          "t": "σας"
+          "t": "οὕτως"
         },
         {
           "a": "awellmann-print-5-60-38e"
         },
         {
-          "t": " αὐτὴν εἰς κεραμεοῦν "
+          "t": " "
         },
         {
           "a": "awellmann-print-5-60-39"
         },
         {
-          "t": "ἀγγεῖον πλατύστομον"
+          "t": "τε"
         },
         {
           "a": "awellmann-print-5-60-39e"
         },
         {
+          "t": " "
+        },
+        {
+          "a": "awellmann-print-5-60-40"
+        },
+        {
+          "t": "κατερά"
+        },
+        {
+          "a": "wellmann-5-60-16-end"
+        }
+      ]
+    },
+    {
+      "n": "17",
+      "id": "wellmann-5-60-17",
+      "parts": [
+        {
+          "a": "wellmann-5-60-17"
+        },
+        {
+          "t": "σας"
+        },
+        {
+          "a": "awellmann-print-5-60-40e"
+        },
+        {
+          "t": " αὐτὴν εἰς κεραμεοῦν "
+        },
+        {
+          "a": "awellmann-print-5-60-41"
+        },
+        {
+          "t": "ἀγγεῖον πλατύστομον"
+        },
+        {
+          "a": "awellmann-print-5-60-41e"
+        },
+        {
           "t": " καὶ προσεπιχέας"
         },
         {
-          "a": "wellmann-5-60-u17-end"
+          "a": "wellmann-5-60-17-end"
         }
       ],
       "break_no": true
     },
     {
       "n": "18",
-      "id": "wellmann-5-60-u18",
+      "id": "wellmann-5-60-18",
       "parts": [
         {
-          "a": "wellmann-5-60-u18"
+          "a": "wellmann-5-60-18"
         },
         {
           "t": "δαψιλὲς ὕδωρ ἐάσας τε καταστῆναι, τὸ μὲν ἀπήθησον, ἕτερον"
         },
         {
-          "a": "wellmann-5-60-u18-end"
+          "a": "wellmann-5-60-18-end"
         }
       ]
     },
     {
       "n": "19",
-      "id": "wellmann-5-60-u19",
+      "id": "wellmann-5-60-19",
       "parts": [
         {
-          "a": "wellmann-5-60-u19"
+          "a": "wellmann-5-60-19"
         },
         {
           "t": "δὲ ἐπιδοὺς ὕδωρ καὶ "
         },
         {
-          "a": "awellmann-print-5-60-40"
+          "a": "awellmann-print-5-60-42"
         },
         {
           "t": "ταῖς χερσὶν"
         },
         {
-          "a": "awellmann-print-5-60-40e"
+          "a": "awellmann-print-5-60-42e"
         },
         {
           "t": " ἀναταράξας πάλιν "
         },
         {
-          "a": "awellmann-print-5-60-41"
+          "a": "awellmann-print-5-60-43"
         },
         {
           "t": "ὑποστῆναι"
         },
         {
-          "a": "wellmann-5-60-u19-end"
+          "a": "wellmann-5-60-19-end"
         }
       ]
     },
     {
       "n": "20",
-      "id": "wellmann-5-60-u20",
+      "id": "wellmann-5-60-20",
       "parts": [
         {
-          "a": "wellmann-5-60-u20"
+          "a": "wellmann-5-60-20"
         },
         {
           "t": "ἄφες καὶ"
         },
         {
-          "a": "awellmann-print-5-60-41e"
-        },
-        {
-          "t": " ἀπήθησον."
-        },
-        {
-          "t": "ἐναλλὰξ δὲ "
-        },
-        {
-          "a": "awellmann-print-5-60-42"
-        },
-        {
-          "t": "τὰ προειρημένα"
-        },
-        {
-          "a": "awellmann-print-5-60-42e"
-        },
-        {
-          "t": " ποίει, "
-        },
-        {
-          "a": "awellmann-print-5-60-43"
-        },
-        {
-          "t": "ἕως"
-        },
-        {
           "a": "awellmann-print-5-60-43e"
         },
         {
-          "a": "wellmann-5-60-u20-end"
-        }
-      ],
-      "margin": "12"
-    },
-    {
-      "n": "21",
-      "id": "wellmann-5-60-u21",
-      "parts": [
-        {
-          "a": "wellmann-5-60-u21"
-        },
-        {
-          "t": "καθαρὸν ἄγαν τὸ ἀπορρέον ὕδωρ καὶ γλυκὺ καὶ "
+          "t": " ἀπήθησον. ἐναλλὰξ δὲ "
         },
         {
           "a": "awellmann-print-5-60-44"
         },
         {
-          "t": "ἁλυκότητος"
+          "t": "τὰ προειρημένα"
         },
         {
           "a": "awellmann-print-5-60-44e"
         },
         {
-          "a": "wellmann-5-60-u21-end"
-        }
-      ]
-    },
-    {
-      "n": "22",
-      "id": "wellmann-5-60-u22",
-      "parts": [
-        {
-          "a": "wellmann-5-60-u22"
-        },
-        {
-          "t": "ἀμέτοχον "
+          "t": " ποίει, ἕως"
         },
         {
           "a": "awellmann-print-5-60-45"
         },
         {
-          "t": "γένηται"
-        },
-        {
           "a": "awellmann-print-5-60-45e"
         },
         {
-          "t": ". ἐπὶ πᾶσιν δὲ "
+          "a": "wellmann-5-60-20-end"
+        }
+      ]
+    },
+    {
+      "n": "21",
+      "id": "wellmann-5-60-21",
+      "parts": [
+        {
+          "a": "wellmann-5-60-21"
+        },
+        {
+          "t": "καθαρὸν ἄγαν τὸ ἀπορρέον ὕδωρ καὶ γλυκὺ καὶ "
         },
         {
           "a": "awellmann-print-5-60-46"
         },
         {
-          "t": "κατεράσας"
+          "t": "ἁλυκότητος"
         },
         {
           "a": "awellmann-print-5-60-46e"
         },
         {
+          "a": "wellmann-5-60-21-end"
+        }
+      ]
+    },
+    {
+      "n": "22",
+      "id": "wellmann-5-60-22",
+      "parts": [
+        {
+          "a": "wellmann-5-60-22"
+        },
+        {
+          "t": "ἀμέτοχον "
+        },
+        {
+          "a": "awellmann-print-5-60-47"
+        },
+        {
+          "t": "γένηται."
+        },
+        {
+          "a": "awellmann-print-5-60-47e"
+        },
+        {
+          "t": " ἐπὶ πᾶσιν δὲ "
+        },
+        {
+          "a": "awellmann-print-5-60-48"
+        },
+        {
+          "t": "κατεράσας"
+        },
+        {
+          "a": "awellmann-print-5-60-48e"
+        },
+        {
           "t": " αὐτὴν εἰς λοπάδα"
         },
         {
-          "a": "wellmann-5-60-u22-end"
+          "a": "wellmann-5-60-22-end"
         }
       ]
     }
@@ -921,7 +903,7 @@
           "links": []
         },
         {
-          "type": "var",
+          "type": "transp",
           "text": "ἄχρι ἂν οὗ",
           "wit": [
             "E"
@@ -931,7 +913,7 @@
         }
       ],
       "lemma_printed": false,
-      "printed": "ἄχρις οὗ ἂν FL: ἄχρις ἂν HDi: ἄχρι ἂν οὗ E",
+      "printed": "1 ἄχρις οὗ ἂν FL: ἄχρις ἂν HDi: ἄχρι ἂν οὗ E",
       "printed_fallback": true,
       "source_spans": [
         {
@@ -943,7 +925,7 @@
       "to": "awellmann-print-5-60-2e",
       "line": "1",
       "line_ids": [
-        "wellmann-5-60-u1"
+        "wellmann-5-60-1"
       ],
       "anchored": true
     },
@@ -976,7 +958,7 @@
       "to": "awellmann-print-5-60-3e",
       "line": "1",
       "line_ids": [
-        "wellmann-5-60-u1"
+        "wellmann-5-60-1"
       ],
       "anchored": true
     },
@@ -988,7 +970,7 @@
       "readings": [
         {
           "type": "parallel",
-          "text": "Orib. XIII s. v. (ἔνιοι — γένηται)",
+          "text": "Orib., XIII s. v.",
           "wit": [],
           "notes": [
             {
@@ -1002,12 +984,12 @@
               "source_type": "explicit"
             }
           ],
-          "citation_id": "wellmann-print-5-60-1-ref-0",
+          "citation_id": "wellmann-print-5-60-1-citation-0",
           "links": []
         }
       ],
-      "printed": "EXC. Orib. XIII s. v. (ἔνιοι — γένηται).",
-      "cert": "low",
+      "printed": "2 EXC. Orib. XIII s. v. (ἔνιοι — γένηται).",
+      "category": "EXC",
       "printed_fallback": true,
       "source_spans": [
         {
@@ -1031,7 +1013,7 @@
       "lemma": "ἁλῶν λίτραν μίαν",
       "readings": [
         {
-          "type": "var",
+          "type": "transp",
           "text": "μίαν λίτραν ἁλῶν",
           "wit": [
             "Orib."
@@ -1053,7 +1035,7 @@
       "to": "awellmann-print-5-60-5e",
       "line": "3",
       "line_ids": [
-        "wellmann-5-60-u3"
+        "wellmann-5-60-3"
       ],
       "anchored": true
     },
@@ -1062,9 +1044,19 @@
       "group": "criticus",
       "method": null,
       "lemma": "μίαν",
-      "readings": [],
+      "readings": [
+        {
+          "type": "var",
+          "text": "α̅",
+          "wit": [
+            "Di"
+          ],
+          "notes": [],
+          "links": []
+        }
+      ],
       "lemma_printed": true,
-      "printed": "μίαν] α̅ Di",
+      "printed": "3 μίαν] α̅ Di",
       "printed_fallback": true,
       "source_spans": [
         {
@@ -1076,7 +1068,7 @@
       "to": "awellmann-print-5-60-4e",
       "line": "3",
       "line_ids": [
-        "wellmann-5-60-u3"
+        "wellmann-5-60-3"
       ],
       "anchored": true
     },
@@ -1085,8 +1077,37 @@
       "group": "criticus",
       "method": null,
       "lemma": "τοσοῦτο",
-      "readings": [],
-      "lemma_printed": false,
+      "readings": [
+        {
+          "type": "var",
+          "text": "τοσοῦτον",
+          "wit": [
+            "Q",
+            "Di"
+          ],
+          "notes": [],
+          "links": []
+        },
+        {
+          "type": "var",
+          "text": "λίτραν",
+          "wit": [
+            "Orib."
+          ],
+          "notes": [],
+          "links": []
+        },
+        {
+          "type": "var",
+          "text": "λίτραν μίαν",
+          "wit": [
+            "E"
+          ],
+          "notes": [],
+          "links": []
+        }
+      ],
+      "lemma_printed": true,
       "printed": "τοσοῦτο P: τοσοῦτον QDi: λίτραν Orib.: λίτραν μίαν E",
       "printed_fallback": true,
       "source_spans": [
@@ -1099,7 +1120,7 @@
       "to": "awellmann-print-5-60-6e",
       "line": "3",
       "line_ids": [
-        "wellmann-5-60-u3"
+        "wellmann-5-60-3"
       ],
       "anchored": true
     },
@@ -1120,7 +1141,7 @@
         }
       ],
       "lemma_printed": false,
-      "printed": "ἀποχέαντες E",
+      "printed": "4 ἀποχέαντες E",
       "printed_fallback": true,
       "source_spans": [
         {
@@ -1132,7 +1153,7 @@
       "to": "awellmann-print-5-60-7e",
       "line": "4",
       "line_ids": [
-        "wellmann-5-60-u4"
+        "wellmann-5-60-4"
       ],
       "anchored": true
     },
@@ -1175,7 +1196,7 @@
       "to": "awellmann-print-5-60-8e",
       "line": "4",
       "line_ids": [
-        "wellmann-5-60-u4"
+        "wellmann-5-60-4"
       ],
       "anchored": true
     },
@@ -1209,7 +1230,7 @@
       "to": "awellmann-print-5-60-9e",
       "line": "4",
       "line_ids": [
-        "wellmann-5-60-u4"
+        "wellmann-5-60-4"
       ],
       "anchored": true
     },
@@ -1230,20 +1251,19 @@
         }
       ],
       "lemma_printed": false,
-      "cert": "low",
       "printed": "ἔτι λευκαίνεται καὶ οὕτως E",
       "printed_fallback": true,
       "source_spans": [
         {
-          "from": "awellmann-print-5-60-10-fix7",
-          "to": "awellmann-print-5-60-10-fix7e"
+          "from": "awellmann-print-5-60-10",
+          "to": "awellmann-print-5-60-10e"
         }
       ],
-      "from": "awellmann-print-5-60-10-fix7",
-      "to": "awellmann-print-5-60-10-fix7e",
+      "from": "awellmann-print-5-60-10",
+      "to": "awellmann-print-5-60-10e",
       "line": "4",
       "line_ids": [
-        "wellmann-5-60-u4"
+        "wellmann-5-60-4"
       ],
       "anchored": true
     },
@@ -1265,7 +1285,7 @@
         }
       ],
       "lemma_printed": false,
-      "printed": "οὕτω HDi",
+      "printed": "5 οὕτω HDi",
       "printed_fallback": true,
       "source_spans": [
         {
@@ -1277,7 +1297,7 @@
       "to": "awellmann-print-5-60-11e",
       "line": "5",
       "line_ids": [
-        "wellmann-5-60-u5"
+        "wellmann-5-60-5"
       ],
       "anchored": true
     },
@@ -1310,7 +1330,7 @@
       "to": "awellmann-print-5-60-12e",
       "line": "5",
       "line_ids": [
-        "wellmann-5-60-u5"
+        "wellmann-5-60-5"
       ],
       "anchored": true
     },
@@ -1332,7 +1352,7 @@
         }
       ],
       "lemma_printed": false,
-      "printed": "καὶ θεὶς LDi",
+      "printed": "6 καὶ θεὶς LDi",
       "printed_fallback": true,
       "source_spans": [
         {
@@ -1344,7 +1364,7 @@
       "to": "awellmann-print-5-60-13e",
       "line": "6",
       "line_ids": [
-        "wellmann-5-60-u6"
+        "wellmann-5-60-6"
       ],
       "anchored": true
     },
@@ -1355,7 +1375,7 @@
       "lemma": "καινὴν χύτραν",
       "readings": [
         {
-          "type": "var",
+          "type": "transp",
           "text": "χύτραν καινὴν",
           "wit": [
             "Q"
@@ -1377,7 +1397,7 @@
       "to": "awellmann-print-5-60-14e",
       "line": "6",
       "line_ids": [
-        "wellmann-5-60-u6"
+        "wellmann-5-60-6"
       ],
       "anchored": true
     },
@@ -1398,7 +1418,7 @@
         }
       ],
       "lemma_printed": false,
-      "printed": "δράκαν E",
+      "printed": "7 δράκαν E",
       "printed_fallback": true,
       "source_spans": [
         {
@@ -1410,7 +1430,7 @@
       "to": "awellmann-print-5-60-15e",
       "line": "7",
       "line_ids": [
-        "wellmann-5-60-u7"
+        "wellmann-5-60-7"
       ],
       "anchored": true
     },
@@ -1418,7 +1438,7 @@
       "id": "wellmann-print-5-60-16",
       "group": "criticus",
       "method": null,
-      "lemma": "",
+      "lemma": "οἱ",
       "readings": [
         {
           "type": "var",
@@ -1431,20 +1451,19 @@
         }
       ],
       "lemma_printed": false,
-      "cert": "low",
-      "printed": "οἵ τε E",
+      "printed": "8 οἵ τε E",
       "printed_fallback": true,
       "source_spans": [
         {
-          "from": "awellmann-print-5-60-16-fix7",
-          "to": "awellmann-print-5-60-16-fix7e"
+          "from": "awellmann-print-5-60-16",
+          "to": "awellmann-print-5-60-16e"
         }
       ],
-      "from": "awellmann-print-5-60-16-fix7",
-      "to": "awellmann-print-5-60-16-fix7e",
+      "from": "awellmann-print-5-60-16",
+      "to": "awellmann-print-5-60-16e",
       "line": "8",
       "line_ids": [
-        "wellmann-5-60-u8"
+        "wellmann-5-60-8"
       ],
       "anchored": true
     },
@@ -1452,7 +1471,7 @@
       "id": "wellmann-print-5-60-17",
       "group": "criticus",
       "method": null,
-      "lemma": "μελανθῆ",
+      "lemma": "μελανθῇ",
       "readings": [
         {
           "type": "var",
@@ -1477,7 +1496,7 @@
       "to": "awellmann-print-5-60-17e",
       "line": "8",
       "line_ids": [
-        "wellmann-5-60-u8"
+        "wellmann-5-60-8"
       ],
       "anchored": true
     },
@@ -1486,9 +1505,19 @@
       "group": "criticus",
       "method": null,
       "lemma": "",
-      "readings": [],
+      "readings": [
+        {
+          "type": "add",
+          "text": "καὶ ἐπιδοὺς ὕδωρ",
+          "wit": [
+            "Q"
+          ],
+          "notes": [],
+          "links": []
+        }
+      ],
       "lemma_printed": false,
-      "printed": "post λιθάργυρον add. καὶ ἐπιδοὺς ὕδωρ Q",
+      "printed": "9 post λιθάργυρον add. καὶ ἐπιδοὺς ὕδωρ Q",
       "printed_fallback": true,
       "source_spans": [
         {
@@ -1500,7 +1529,7 @@
       "to": "awellmann-print-5-60-18e",
       "line": "9",
       "line_ids": [
-        "wellmann-5-60-u9"
+        "wellmann-5-60-9"
       ],
       "anchored": true
     },
@@ -1509,8 +1538,18 @@
       "group": "criticus",
       "method": null,
       "lemma": "ἐνειλήσας",
-      "readings": [],
-      "lemma_printed": false,
+      "readings": [
+        {
+          "type": "var",
+          "text": "εἰλήσας",
+          "wit": [
+            "cett."
+          ],
+          "notes": [],
+          "links": []
+        }
+      ],
+      "lemma_printed": true,
       "printed": "ἐνειλήσας E: εἰλήσας cett.",
       "printed_fallback": true,
       "source_spans": [
@@ -1523,7 +1562,7 @@
       "to": "awellmann-print-5-60-19e",
       "line": "9",
       "line_ids": [
-        "wellmann-5-60-u9"
+        "wellmann-5-60-9"
       ],
       "anchored": true
     },
@@ -1534,16 +1573,35 @@
       "lemma": "καθαρὸν ἐπιδοὺς ὕδωρ",
       "readings": [
         {
-          "type": "marginal addition",
-          "text": "καθαρὸν — ὕδωρ om. Q: κύαθον ἐπιδοὺς ὕδατος Di, mg. add. H²",
-          "wit": [],
+          "type": "om",
+          "text": "",
+          "wit": [
+            "Q"
+          ],
           "notes": [],
-          "note_type": "witDetail",
+          "links": []
+        },
+        {
+          "type": "var",
+          "text": "κύαθον ἐπιδοὺς ὕδατος",
+          "wit": [
+            "Di"
+          ],
+          "notes": [],
+          "links": []
+        },
+        {
+          "type": "add",
+          "text": "κύαθον ἐπιδοὺς ὕδατος",
+          "wit": [
+            "H2"
+          ],
+          "notes": [],
           "links": []
         }
       ],
       "lemma_printed": false,
-      "printed": "καθαρὸν — ὕδωρ om. Q: κύαθον ἐπιδοὺς ὕδατος Di, mg. add. H²",
+      "printed": "10 καθαρὸν — ὕδωρ om. Q: κύαθον ἐπιδοὺς ὕδατος Di, mg. add. H²",
       "printed_fallback": true,
       "source_spans": [
         {
@@ -1555,7 +1613,7 @@
       "to": "awellmann-print-5-60-20e",
       "line": "10",
       "line_ids": [
-        "wellmann-5-60-u10"
+        "wellmann-5-60-10"
       ],
       "anchored": true
     },
@@ -1588,7 +1646,7 @@
       "to": "awellmann-print-5-60-21e",
       "line": "10",
       "line_ids": [
-        "wellmann-5-60-u10"
+        "wellmann-5-60-10"
       ],
       "anchored": true
     },
@@ -1597,9 +1655,19 @@
       "group": "criticus",
       "method": null,
       "lemma": "",
-      "readings": [],
+      "readings": [
+        {
+          "type": "del",
+          "text": "δὲ",
+          "wit": [
+            "E2"
+          ],
+          "notes": [],
+          "links": []
+        }
+      ],
       "lemma_printed": false,
-      "printed": "post αὐτὰ del. δὲ E²",
+      "printed": "11 post αὐτὰ del. δὲ E²",
       "printed_fallback": true,
       "source_spans": [
         {
@@ -1611,7 +1679,7 @@
       "to": "awellmann-print-5-60-22e",
       "line": "11",
       "line_ids": [
-        "wellmann-5-60-u11"
+        "wellmann-5-60-11"
       ],
       "anchored": true
     },
@@ -1619,10 +1687,19 @@
       "id": "wellmann-print-5-60-23",
       "group": "criticus",
       "method": null,
-      "lemma": "",
-      "readings": [],
+      "lemma": "ποίει τοῖς προειρημένοις",
+      "readings": [
+        {
+          "type": "transp",
+          "text": "ἐπιμελῶς ποίει καὶ δεύτερον καὶ",
+          "wit": [
+            "E"
+          ],
+          "notes": [],
+          "links": []
+        }
+      ],
       "lemma_printed": false,
-      "cert": "low",
       "printed": "post προειρημένοις coll. ἐπιμελῶς ποίει καὶ δεύτερον καὶ E",
       "printed_fallback": true,
       "source_spans": [
@@ -1635,7 +1712,7 @@
       "to": "awellmann-print-5-60-23e",
       "line": "11",
       "line_ids": [
-        "wellmann-5-60-u11"
+        "wellmann-5-60-11"
       ],
       "anchored": true
     },
@@ -1668,7 +1745,7 @@
       "to": "awellmann-print-5-60-24e",
       "line": "11",
       "line_ids": [
-        "wellmann-5-60-u11"
+        "wellmann-5-60-11"
       ],
       "anchored": true
     },
@@ -1676,10 +1753,20 @@
       "id": "wellmann-print-5-60-25",
       "group": "criticus",
       "method": null,
-      "lemma": "λοιπὸν",
-      "readings": [],
+      "lemma": "",
+      "readings": [
+        {
+          "type": "add",
+          "text": "καὶ τὸ",
+          "wit": [
+            "Di"
+          ],
+          "notes": [],
+          "links": []
+        }
+      ],
       "lemma_printed": false,
-      "printed": "καὶ τὸ λοιπὸν Di, at cf. D. V 89, 2",
+      "printed": "12 καὶ τὸ λοιπὸν Di, at cf. D. V 89, 2",
       "printed_fallback": true,
       "source_spans": [
         {
@@ -1691,7 +1778,7 @@
       "to": "awellmann-print-5-60-25e",
       "line": "12",
       "line_ids": [
-        "wellmann-5-60-u12"
+        "wellmann-5-60-12"
       ],
       "anchored": true
     },
@@ -1712,7 +1799,7 @@
         },
         {
           "type": "var",
-          "text": "κατεράσας",
+          "text": "κατερράσας",
           "wit": [
             "H"
           ],
@@ -1721,7 +1808,7 @@
         }
       ],
       "lemma_printed": false,
-      "printed": "κατακεράσας F: κατεράσας H",
+      "printed": "κατακεράσας F: κατερράσας H",
       "printed_fallback": true,
       "source_spans": [
         {
@@ -1733,7 +1820,7 @@
       "to": "awellmann-print-5-60-26e",
       "line": "12",
       "line_ids": [
-        "wellmann-5-60-u12"
+        "wellmann-5-60-12"
       ],
       "anchored": true
     },
@@ -1742,9 +1829,28 @@
       "group": "criticus",
       "method": null,
       "lemma": "δραχμὰς πʹ",
-      "readings": [],
+      "readings": [
+        {
+          "type": "var",
+          "text": "ὀγδοήκοντα <. <.",
+          "wit": [
+            "E"
+          ],
+          "notes": [],
+          "links": []
+        },
+        {
+          "type": "var",
+          "text": "< π̅",
+          "wit": [
+            "Di"
+          ],
+          "notes": [],
+          "links": []
+        }
+      ],
       "lemma_printed": false,
-      "printed": "ὀγδοήκοντα E: π̅ Di",
+      "printed": "13 ὀγδοήκοντα <. <. E: < π̅ Di",
       "printed_fallback": true,
       "source_spans": [
         {
@@ -1756,7 +1862,7 @@
       "to": "awellmann-print-5-60-27e",
       "line": "13",
       "line_ids": [
-        "wellmann-5-60-u13"
+        "wellmann-5-60-13"
       ],
       "anchored": true
     },
@@ -1776,7 +1882,7 @@
           "links": []
         }
       ],
-      "lemma_printed": false,
+      "lemma_printed": true,
       "printed": "τῆς om. Di",
       "printed_fallback": true,
       "source_spans": [
@@ -1789,7 +1895,7 @@
       "to": "awellmann-print-5-60-28e",
       "line": "13",
       "line_ids": [
-        "wellmann-5-60-u13"
+        "wellmann-5-60-13"
       ],
       "anchored": true
     },
@@ -1823,7 +1929,7 @@
       "to": "awellmann-print-5-60-29e",
       "line": "13",
       "line_ids": [
-        "wellmann-5-60-u13"
+        "wellmann-5-60-13"
       ],
       "anchored": true
     },
@@ -1832,10 +1938,19 @@
       "group": "criticus",
       "method": null,
       "lemma": "μίαν",
-      "readings": [],
+      "readings": [
+        {
+          "type": "var",
+          "text": "β̄",
+          "wit": [
+            "H"
+          ],
+          "notes": [],
+          "links": []
+        }
+      ],
       "lemma_printed": true,
-      "cert": "low",
-      "printed": "μίαν] β̅ H",
+      "printed": "14 μίαν] β̄ H",
       "printed_fallback": true,
       "source_spans": [
         {
@@ -1847,36 +1962,45 @@
       "to": "awellmann-print-5-60-30e",
       "line": "14",
       "line_ids": [
-        "wellmann-5-60-u14"
-      ],
-      "anchored": true
-    },
-    {
-      "id": "wellmann-print-5-60-30-s2",
-      "group": "criticus",
-      "method": null,
-      "lemma": "διαλιπὼν",
-      "readings": [],
-      "lemma_printed": false,
-      "cert": "low",
-      "printed": "διάλειπων P",
-      "printed_fallback": true,
-      "source_spans": [
-        {
-          "from": "awellmann-print-5-60-30-s2",
-          "to": "awellmann-print-5-60-30-s2e"
-        }
-      ],
-      "from": "awellmann-print-5-60-30-s2",
-      "to": "awellmann-print-5-60-30-s2e",
-      "line": "14",
-      "line_ids": [
-        "wellmann-5-60-u14"
+        "wellmann-5-60-14"
       ],
       "anchored": true
     },
     {
       "id": "wellmann-print-5-60-31",
+      "group": "criticus",
+      "method": null,
+      "lemma": "διαλιπὼν",
+      "readings": [
+        {
+          "type": "var",
+          "text": "διαλείπων",
+          "wit": [
+            "P"
+          ],
+          "notes": [],
+          "links": []
+        }
+      ],
+      "lemma_printed": false,
+      "printed": "διαλείπων P",
+      "printed_fallback": true,
+      "source_spans": [
+        {
+          "from": "awellmann-print-5-60-31",
+          "to": "awellmann-print-5-60-31e"
+        }
+      ],
+      "from": "awellmann-print-5-60-31",
+      "to": "awellmann-print-5-60-31e",
+      "line": "14",
+      "line_ids": [
+        "wellmann-5-60-14"
+      ],
+      "anchored": true
+    },
+    {
+      "id": "wellmann-print-5-60-32",
       "group": "criticus",
       "method": null,
       "lemma": "δὲ",
@@ -1897,24 +2021,33 @@
       "printed_fallback": true,
       "source_spans": [
         {
-          "from": "awellmann-print-5-60-31",
-          "to": "awellmann-print-5-60-31e"
+          "from": "awellmann-print-5-60-32",
+          "to": "awellmann-print-5-60-32e"
         }
       ],
-      "from": "awellmann-print-5-60-31",
-      "to": "awellmann-print-5-60-31e",
+      "from": "awellmann-print-5-60-32",
+      "to": "awellmann-print-5-60-32e",
       "line": "14",
       "line_ids": [
-        "wellmann-5-60-u14"
+        "wellmann-5-60-14"
       ],
       "anchored": true
     },
     {
-      "id": "wellmann-print-5-60-32",
+      "id": "wellmann-print-5-60-33",
       "group": "criticus",
       "method": null,
       "lemma": "ὡς",
       "readings": [
+        {
+          "type": "add",
+          "text": "ὅτι",
+          "wit": [
+            "E"
+          ],
+          "notes": [],
+          "links": []
+        },
         {
           "type": "var",
           "text": "πάνυ",
@@ -1923,52 +2056,27 @@
           ],
           "notes": [],
           "links": []
-        },
-        {
-          "type": "var",
-          "text": "ὡς ὅτι",
-          "wit": [
-            "E"
-          ],
-          "notes": [],
-          "links": []
         }
       ],
       "lemma_printed": false,
-      "cert": "low",
       "printed": "ὡς ὅτι E: πάνυ Di",
       "printed_fallback": true,
       "source_spans": [
         {
-          "from": "awellmann-print-5-60-32",
-          "to": "awellmann-print-5-60-32e"
-        },
-        {
-          "from": "awellmann-print-5-60-32-fix7-c1-fix7",
-          "to": "awellmann-print-5-60-32-fix7-c1-fix7e"
+          "from": "awellmann-print-5-60-33",
+          "to": "awellmann-print-5-60-33e"
         }
       ],
-      "from": "awellmann-print-5-60-32",
-      "to": "awellmann-print-5-60-32e",
+      "from": "awellmann-print-5-60-33",
+      "to": "awellmann-print-5-60-33e",
       "line": "14",
       "line_ids": [
-        "wellmann-5-60-u14"
+        "wellmann-5-60-14"
       ],
-      "anchored": true,
-      "spans": [
-        {
-          "from": "awellmann-print-5-60-32",
-          "to": "awellmann-print-5-60-32e"
-        },
-        {
-          "from": "awellmann-print-5-60-32-fix7-c1-fix7",
-          "to": "awellmann-print-5-60-32-fix7-c1-fix7e",
-          "cert": "low"
-        }
-      ]
+      "anchored": true
     },
     {
-      "id": "wellmann-print-5-60-33",
+      "id": "wellmann-print-5-60-34",
       "group": "criticus",
       "method": null,
       "lemma": "διειμένου",
@@ -1984,27 +2092,27 @@
         }
       ],
       "lemma_printed": false,
-      "printed": "διειλημμένου Q",
+      "printed": "15 διειλημμένου Q",
       "printed_fallback": true,
       "source_spans": [
         {
-          "from": "awellmann-print-5-60-33",
-          "to": "awellmann-print-5-60-33e"
+          "from": "awellmann-print-5-60-34",
+          "to": "awellmann-print-5-60-34e"
         }
       ],
-      "from": "awellmann-print-5-60-33",
-      "to": "awellmann-print-5-60-33e",
+      "from": "awellmann-print-5-60-34",
+      "to": "awellmann-print-5-60-34e",
       "line": "15",
       "line_ids": [
-        "wellmann-5-60-u15"
+        "wellmann-5-60-15"
       ],
       "anchored": true
     },
     {
-      "id": "wellmann-print-5-60-34",
+      "id": "wellmann-print-5-60-35",
       "group": "criticus",
       "method": null,
-      "lemma": "μεθʼ ὕδατος",
+      "lemma": "μεθ’ ὕδατος",
       "readings": [
         {
           "type": "var",
@@ -2021,43 +2129,63 @@
       "printed_fallback": true,
       "source_spans": [
         {
-          "from": "awellmann-print-5-60-34",
-          "to": "awellmann-print-5-60-34e"
-        }
-      ],
-      "from": "awellmann-print-5-60-34",
-      "to": "awellmann-print-5-60-34e",
-      "line": "15",
-      "line_ids": [
-        "wellmann-5-60-u15"
-      ],
-      "anchored": true
-    },
-    {
-      "id": "wellmann-print-5-60-35",
-      "group": "criticus",
-      "method": null,
-      "lemma": "ἄχρι",
-      "readings": [],
-      "lemma_printed": false,
-      "printed": "ἄχρι ἂν PE: ἄχρις ἂν reliqui",
-      "printed_fallback": true,
-      "source_spans": [
-        {
           "from": "awellmann-print-5-60-35",
           "to": "awellmann-print-5-60-35e"
         }
       ],
       "from": "awellmann-print-5-60-35",
       "to": "awellmann-print-5-60-35e",
-      "line": "16",
+      "line": "15",
       "line_ids": [
-        "wellmann-5-60-u16"
+        "wellmann-5-60-15"
       ],
       "anchored": true
     },
     {
       "id": "wellmann-print-5-60-36",
+      "group": "criticus",
+      "method": null,
+      "lemma": "ἄχρι",
+      "readings": [
+        {
+          "type": "var",
+          "text": "ἄχρι ἂν",
+          "wit": [
+            "P",
+            "E"
+          ],
+          "notes": [],
+          "links": []
+        },
+        {
+          "type": "var",
+          "text": "ἄχρις ἂν",
+          "wit": [
+            "reliqui"
+          ],
+          "notes": [],
+          "links": []
+        }
+      ],
+      "lemma_printed": false,
+      "printed": "16 ἄχρι ἂν PE: ἄχρις ἂν reliqui",
+      "printed_fallback": true,
+      "source_spans": [
+        {
+          "from": "awellmann-print-5-60-36",
+          "to": "awellmann-print-5-60-36e"
+        }
+      ],
+      "from": "awellmann-print-5-60-36",
+      "to": "awellmann-print-5-60-36e",
+      "line": "16",
+      "line_ids": [
+        "wellmann-5-60-16"
+      ],
+      "anchored": true
+    },
+    {
+      "id": "wellmann-print-5-60-37",
       "group": "criticus",
       "method": null,
       "lemma": "ἱκανῶς",
@@ -2073,32 +2201,8 @@
           "links": []
         }
       ],
-      "lemma_printed": false,
-      "printed": "ἱκανῶς om. LDi",
-      "printed_fallback": true,
-      "source_spans": [
-        {
-          "from": "awellmann-print-5-60-36",
-          "to": "awellmann-print-5-60-36e"
-        }
-      ],
-      "from": "awellmann-print-5-60-36",
-      "to": "awellmann-print-5-60-36e",
-      "line": "16",
-      "line_ids": [
-        "wellmann-5-60-u16"
-      ],
-      "anchored": true
-    },
-    {
-      "id": "wellmann-print-5-60-37",
-      "group": "criticus",
-      "method": null,
-      "lemma": "οὕτως",
-      "readings": [],
       "lemma_printed": true,
-      "cert": "low",
-      "printed": "οὕτω HDi",
+      "printed": "ἱκανῶς om. LDi",
       "printed_fallback": true,
       "source_spans": [
         {
@@ -2110,31 +2214,7 @@
       "to": "awellmann-print-5-60-37e",
       "line": "16",
       "line_ids": [
-        "wellmann-5-60-u16"
-      ],
-      "anchored": true
-    },
-    {
-      "id": "wellmann-print-5-60-37-s2",
-      "group": "criticus",
-      "method": null,
-      "lemma": "τε",
-      "readings": [],
-      "lemma_printed": false,
-      "cert": "low",
-      "printed": "τε] δὲ EDi",
-      "printed_fallback": true,
-      "source_spans": [
-        {
-          "from": "awellmann-print-5-60-37-s2",
-          "to": "awellmann-print-5-60-37-s2e"
-        }
-      ],
-      "from": "awellmann-print-5-60-37-s2",
-      "to": "awellmann-print-5-60-37-s2e",
-      "line": "16",
-      "line_ids": [
-        "wellmann-5-60-u16"
+        "wellmann-5-60-16"
       ],
       "anchored": true
     },
@@ -2142,10 +2222,21 @@
       "id": "wellmann-print-5-60-38",
       "group": "criticus",
       "method": null,
-      "lemma": "κατεράσας",
-      "readings": [],
+      "lemma": "οὕτως",
+      "readings": [
+        {
+          "type": "var",
+          "text": "οὕτω",
+          "wit": [
+            "H",
+            "Di"
+          ],
+          "notes": [],
+          "links": []
+        }
+      ],
       "lemma_printed": false,
-      "printed": "κατακεράσας QLA (γγίσας superscr. A²): καταγγίσας Di",
+      "printed": "οὕτω HDi",
       "printed_fallback": true,
       "source_spans": [
         {
@@ -2157,8 +2248,7 @@
       "to": "awellmann-print-5-60-38e",
       "line": "16",
       "line_ids": [
-        "wellmann-5-60-u16",
-        "wellmann-5-60-u17"
+        "wellmann-5-60-16"
       ],
       "anchored": true
     },
@@ -2166,10 +2256,98 @@
       "id": "wellmann-print-5-60-39",
       "group": "criticus",
       "method": null,
-      "lemma": "ἀγγεῖον πλατύστομον",
+      "lemma": "τε",
       "readings": [
         {
           "type": "var",
+          "text": "δὲ",
+          "wit": [
+            "E",
+            "Di"
+          ],
+          "notes": [],
+          "links": []
+        }
+      ],
+      "lemma_printed": true,
+      "printed": "τε] δὲ EDi",
+      "printed_fallback": true,
+      "source_spans": [
+        {
+          "from": "awellmann-print-5-60-39",
+          "to": "awellmann-print-5-60-39e"
+        }
+      ],
+      "from": "awellmann-print-5-60-39",
+      "to": "awellmann-print-5-60-39e",
+      "line": "16",
+      "line_ids": [
+        "wellmann-5-60-16"
+      ],
+      "anchored": true
+    },
+    {
+      "id": "wellmann-print-5-60-40",
+      "group": "criticus",
+      "method": null,
+      "lemma": "κατεράσας",
+      "readings": [
+        {
+          "type": "var",
+          "text": "κατακεράσας",
+          "wit": [
+            "Q",
+            "L",
+            "A"
+          ],
+          "notes": [],
+          "links": []
+        },
+        {
+          "type": "var",
+          "text": "γγίσας",
+          "wit": [
+            "A2"
+          ],
+          "notes": [],
+          "links": []
+        },
+        {
+          "type": "var",
+          "text": "καταγγίσας",
+          "wit": [
+            "Di"
+          ],
+          "notes": [],
+          "links": []
+        }
+      ],
+      "lemma_printed": false,
+      "printed": "κατακεράσας QLA (γγίσας superscr. A²): καταγγίσας Di",
+      "printed_fallback": true,
+      "source_spans": [
+        {
+          "from": "awellmann-print-5-60-40",
+          "to": "awellmann-print-5-60-40e"
+        }
+      ],
+      "from": "awellmann-print-5-60-40",
+      "to": "awellmann-print-5-60-40e",
+      "line": "16",
+      "line_ids": [
+        "wellmann-5-60-16",
+        "wellmann-5-60-17"
+      ],
+      "anchored": true
+    },
+    {
+      "id": "wellmann-print-5-60-41",
+      "group": "criticus",
+      "method": null,
+      "lemma": "ἀγγεῖον πλατύστομον",
+      "readings": [
+        {
+          "type": "transp",
           "text": "πλατύστομον ἀγγεῖον",
           "wit": [
             "E",
@@ -2180,24 +2358,24 @@
         }
       ],
       "lemma_printed": false,
-      "printed": "πλατύστομον ἀγγεῖον EDi",
+      "printed": "17 πλατύστομον ἀγγεῖον EDi",
       "printed_fallback": true,
       "source_spans": [
         {
-          "from": "awellmann-print-5-60-39",
-          "to": "awellmann-print-5-60-39e"
+          "from": "awellmann-print-5-60-41",
+          "to": "awellmann-print-5-60-41e"
         }
       ],
-      "from": "awellmann-print-5-60-39",
-      "to": "awellmann-print-5-60-39e",
+      "from": "awellmann-print-5-60-41",
+      "to": "awellmann-print-5-60-41e",
       "line": "17",
       "line_ids": [
-        "wellmann-5-60-u17"
+        "wellmann-5-60-17"
       ],
       "anchored": true
     },
     {
-      "id": "wellmann-print-5-60-40",
+      "id": "wellmann-print-5-60-42",
       "group": "criticus",
       "method": null,
       "lemma": "ταῖς χερσὶν",
@@ -2213,24 +2391,24 @@
         }
       ],
       "lemma_printed": false,
-      "printed": "τῇ χειρὶ O",
+      "printed": "19 τῇ χειρὶ O",
       "printed_fallback": true,
       "source_spans": [
         {
-          "from": "awellmann-print-5-60-40",
-          "to": "awellmann-print-5-60-40e"
+          "from": "awellmann-print-5-60-42",
+          "to": "awellmann-print-5-60-42e"
         }
       ],
-      "from": "awellmann-print-5-60-40",
-      "to": "awellmann-print-5-60-40e",
+      "from": "awellmann-print-5-60-42",
+      "to": "awellmann-print-5-60-42e",
       "line": "19",
       "line_ids": [
-        "wellmann-5-60-u19"
+        "wellmann-5-60-19"
       ],
       "anchored": true
     },
     {
-      "id": "wellmann-print-5-60-41",
+      "id": "wellmann-print-5-60-43",
       "group": "criticus",
       "method": null,
       "lemma": "ὑποστῆναι ἄφες καὶ",
@@ -2250,21 +2428,21 @@
       "printed_fallback": true,
       "source_spans": [
         {
-          "from": "awellmann-print-5-60-41",
-          "to": "awellmann-print-5-60-41e"
+          "from": "awellmann-print-5-60-43",
+          "to": "awellmann-print-5-60-43e"
         }
       ],
-      "from": "awellmann-print-5-60-41",
-      "to": "awellmann-print-5-60-41e",
+      "from": "awellmann-print-5-60-43",
+      "to": "awellmann-print-5-60-43e",
       "line": "19",
       "line_ids": [
-        "wellmann-5-60-u19",
-        "wellmann-5-60-u20"
+        "wellmann-5-60-19",
+        "wellmann-5-60-20"
       ],
       "anchored": true
     },
     {
-      "id": "wellmann-print-5-60-42",
+      "id": "wellmann-print-5-60-44",
       "group": "criticus",
       "method": null,
       "lemma": "τὰ προειρημένα",
@@ -2281,48 +2459,68 @@
         }
       ],
       "lemma_printed": false,
-      "printed": "τοῖς προειρημένοις HDi",
+      "printed": "20 τοῖς προειρημένοις HDi",
       "printed_fallback": true,
       "source_spans": [
         {
-          "from": "awellmann-print-5-60-42",
-          "to": "awellmann-print-5-60-42e"
+          "from": "awellmann-print-5-60-44",
+          "to": "awellmann-print-5-60-44e"
         }
       ],
-      "from": "awellmann-print-5-60-42",
-      "to": "awellmann-print-5-60-42e",
+      "from": "awellmann-print-5-60-44",
+      "to": "awellmann-print-5-60-44e",
       "line": "20",
       "line_ids": [
-        "wellmann-5-60-u20"
+        "wellmann-5-60-20"
       ],
       "anchored": true
     },
     {
-      "id": "wellmann-print-5-60-43",
+      "id": "wellmann-print-5-60-45",
       "group": "criticus",
       "method": null,
-      "lemma": "ἕως",
-      "readings": [],
+      "lemma": "",
+      "readings": [
+        {
+          "type": "var",
+          "text": "ἕως ἂν",
+          "wit": [
+            "Q",
+            "L"
+          ],
+          "notes": [],
+          "links": []
+        },
+        {
+          "type": "om",
+          "text": "",
+          "wit": [
+            "P",
+            "E"
+          ],
+          "notes": [],
+          "links": []
+        }
+      ],
       "lemma_printed": false,
-      "cert": "low",
       "printed": "ἕως ἂν QL, ἂν om. PE",
       "printed_fallback": true,
       "source_spans": [
         {
-          "from": "awellmann-print-5-60-43",
-          "to": "awellmann-print-5-60-43e"
+          "from": "awellmann-print-5-60-45",
+          "to": "awellmann-print-5-60-45e"
         }
       ],
-      "from": "awellmann-print-5-60-43",
-      "to": "awellmann-print-5-60-43e",
+      "from": "awellmann-print-5-60-45",
+      "to": "awellmann-print-5-60-45e",
       "line": "20",
       "line_ids": [
-        "wellmann-5-60-u20"
+        "wellmann-5-60-20"
       ],
       "anchored": true
     },
     {
-      "id": "wellmann-print-5-60-44",
+      "id": "wellmann-print-5-60-46",
       "group": "criticus",
       "method": null,
       "lemma": "ἁλυκότητος",
@@ -2338,63 +2536,7 @@
         }
       ],
       "lemma_printed": false,
-      "printed": "γλυκύτητος E",
-      "printed_fallback": true,
-      "source_spans": [
-        {
-          "from": "awellmann-print-5-60-44",
-          "to": "awellmann-print-5-60-44e"
-        }
-      ],
-      "from": "awellmann-print-5-60-44",
-      "to": "awellmann-print-5-60-44e",
-      "line": "21",
-      "line_ids": [
-        "wellmann-5-60-u21"
-      ],
-      "anchored": true
-    },
-    {
-      "id": "wellmann-print-5-60-45",
-      "group": "criticus",
-      "method": null,
-      "lemma": "γένηται",
-      "readings": [
-        {
-          "type": "var",
-          "text": "ἦ",
-          "wit": [
-            "E"
-          ],
-          "notes": [],
-          "links": []
-        }
-      ],
-      "lemma_printed": true,
-      "printed": "γένηται] ἦ E",
-      "printed_fallback": true,
-      "source_spans": [
-        {
-          "from": "awellmann-print-5-60-45",
-          "to": "awellmann-print-5-60-45e"
-        }
-      ],
-      "from": "awellmann-print-5-60-45",
-      "to": "awellmann-print-5-60-45e",
-      "line": "22",
-      "line_ids": [
-        "wellmann-5-60-u22"
-      ],
-      "anchored": true
-    },
-    {
-      "id": "wellmann-print-5-60-46",
-      "group": "criticus",
-      "method": null,
-      "lemma": "κατεράσας",
-      "readings": [],
-      "lemma_printed": false,
-      "printed": "κατεράσας H: κατακεράσας A",
+      "printed": "21 γλυκύτητος E",
       "printed_fallback": true,
       "source_spans": [
         {
@@ -2404,9 +2546,84 @@
       ],
       "from": "awellmann-print-5-60-46",
       "to": "awellmann-print-5-60-46e",
+      "line": "21",
+      "line_ids": [
+        "wellmann-5-60-21"
+      ],
+      "anchored": true
+    },
+    {
+      "id": "wellmann-print-5-60-47",
+      "group": "criticus",
+      "method": null,
+      "lemma": "γένηται",
+      "readings": [
+        {
+          "type": "var",
+          "text": "ᾖ",
+          "wit": [
+            "E"
+          ],
+          "notes": [],
+          "links": []
+        }
+      ],
+      "lemma_printed": true,
+      "printed": "22 γένηται] ᾖ E",
+      "printed_fallback": true,
+      "source_spans": [
+        {
+          "from": "awellmann-print-5-60-47",
+          "to": "awellmann-print-5-60-47e"
+        }
+      ],
+      "from": "awellmann-print-5-60-47",
+      "to": "awellmann-print-5-60-47e",
       "line": "22",
       "line_ids": [
-        "wellmann-5-60-u22"
+        "wellmann-5-60-22"
+      ],
+      "anchored": true
+    },
+    {
+      "id": "wellmann-print-5-60-48",
+      "group": "criticus",
+      "method": null,
+      "lemma": "κατεράσας",
+      "readings": [
+        {
+          "type": "var",
+          "text": "κατερράσας",
+          "wit": [
+            "H"
+          ],
+          "notes": [],
+          "links": []
+        },
+        {
+          "type": "var",
+          "text": "κατακερράσας",
+          "wit": [
+            "A"
+          ],
+          "notes": [],
+          "links": []
+        }
+      ],
+      "lemma_printed": false,
+      "printed": "κατερράσας H: κατακερράσας A",
+      "printed_fallback": true,
+      "source_spans": [
+        {
+          "from": "awellmann-print-5-60-48",
+          "to": "awellmann-print-5-60-48e"
+        }
+      ],
+      "from": "awellmann-print-5-60-48",
+      "to": "awellmann-print-5-60-48e",
+      "line": "22",
+      "line_ids": [
+        "wellmann-5-60-22"
       ],
       "anchored": true
     }
@@ -2415,7 +2632,7 @@
     {
       "book": "5",
       "n": "87",
-      "label": "Caput 87",
+      "label": "λιθάργυρος",
       "context": false
     }
   ],

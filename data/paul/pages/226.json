@@ -1949,26 +1949,35 @@
       "readings": [
         {
           "type": "var",
-          "text": "καὶ δυϲεντερικοῖϲ δυνάμεϲιν",
+          "text": "καὶ δυϲεντερικοῖϲ",
           "wit": [
-            "E",
+            "E"
+          ],
+          "notes": []
+        },
+        {
+          "type": "var",
+          "text": "δυνάμεϲιν",
+          "wit": [
+            "A"
+          ],
+          "notes": []
+        },
+        {
+          "type": "var",
+          "text": "δυϲεντερίαιϲ",
+          "wit": [
             "A"
           ],
           "notes": [
             {
               "type": "hand",
               "text": "mg. γρ."
-            },
-            {
-              "type": "subvariant",
-              "text": "δυϲεντερίαιϲ"
             }
           ]
         }
       ],
-      "flags": [
-        "unmarked_reading"
-      ],
+      "flags": [],
       "lemma_printed": true,
       "source_page": "226",
       "attachment": "line",
@@ -1984,11 +1993,11 @@
           "t": "καὶ δυϲεντερικοῖϲ E; δυνάμεϲιν A, "
         },
         {
-          "t": "mg. γρ.",
+          "t": "mg.",
           "italic": true
         },
         {
-          "t": " δυϲεντερίαιϲ"
+          "t": " γρ. δυϲεντερίαιϲ"
         }
       ],
       "source_spans": [
